@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1088"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="491" y="0" type="line"/>
+      <point x="491" y="141" type="line"/>
+      <point x="381" y="141" type="line"/>
+      <point x="381" y="418" type="line"/>
+      <point x="695" y="141" type="line"/>
+      <point x="608" y="141" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="1053" y="0" type="line"/>
+      <point x="1053" y="141" type="line"/>
+      <point x="917" y="141" type="line"/>
+      <point x="589" y="430" type="line"/>
+      <point x="904" y="709" type="line"/>
+      <point x="1041" y="709" type="line"/>
+      <point x="1041" y="849" type="line"/>
+      <point x="555" y="849" type="line"/>
+      <point x="555" y="709" type="line"/>
+      <point x="688" y="709" type="line"/>
+      <point x="381" y="439" type="line"/>
+      <point x="381" y="849" type="line"/>
+      <point x="34" y="849" type="line"/>
+      <point x="34" y="709" type="line"/>
+      <point x="186" y="709" type="line"/>
+      <point x="186" y="141" type="line"/>
+      <point x="35" y="141" type="line"/>
+      <point x="35" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

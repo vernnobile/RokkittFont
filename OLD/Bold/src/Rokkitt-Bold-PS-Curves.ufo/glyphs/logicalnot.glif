@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="1113"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="56" y="863" type="line"/>
+      <point x="56" y="722" type="line"/>
+      <point x="876" y="722" type="line"/>
+      <point x="876" y="329" type="line"/>
+      <point x="993" y="329" type="line"/>
+      <point x="993" y="863" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
