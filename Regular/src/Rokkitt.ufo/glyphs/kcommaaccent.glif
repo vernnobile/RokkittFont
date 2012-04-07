@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcommaaccent" format="1">
+  <advance width="995"/>
+  <unicode hex="0137"/>
+  <outline>
+    <component base="@*d" xOffset="283" yOffset="-678"/>
+    <component base="k"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

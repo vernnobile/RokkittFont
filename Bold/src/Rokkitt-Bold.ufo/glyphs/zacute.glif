@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="1">
+  <advance width="873"/>
+  <unicode hex="017a"/>
+  <outline>
+    <component base="acute" xOffset="254.5" yOffset="8"/>
+    <component base="z"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

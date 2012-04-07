@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="1">
+  <advance width="959"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line" smooth="no"/>
+      <point x="23" y="116" type="line" smooth="no"/>
+      <point x="149" y="116" type="line" smooth="no"/>
+      <point x="404" y="413" type="line" smooth="no"/>
+      <point x="161" y="689" type="line" smooth="no"/>
+      <point x="42" y="689" type="line" smooth="no"/>
+      <point x="42" y="805" type="line" smooth="no"/>
+      <point x="432" y="805" type="line" smooth="no"/>
+      <point x="432" y="689" type="line" smooth="no"/>
+      <point x="317" y="689" type="line" smooth="no"/>
+      <point x="481" y="500" type="line" smooth="no"/>
+      <point x="639" y="689" type="line" smooth="no"/>
+      <point x="542" y="689" type="line" smooth="no"/>
+      <point x="542" y="805" type="line" smooth="no"/>
+      <point x="932" y="805" type="line" smooth="no"/>
+      <point x="932" y="689" type="line" smooth="no"/>
+      <point x="795" y="689" type="line" smooth="no"/>
+      <point x="560" y="413" type="line" smooth="no"/>
+      <point x="820" y="116" type="line" smooth="no"/>
+      <point x="936" y="116" type="line" smooth="no"/>
+      <point x="936" y="0" type="line" smooth="no"/>
+      <point x="540" y="0" type="line" smooth="no"/>
+      <point x="540" y="116" type="line" smooth="no"/>
+      <point x="667" y="116" type="line" smooth="no"/>
+      <point x="481" y="327" type="line" smooth="no"/>
+      <point x="308" y="116" type="line" smooth="no"/>
+      <point x="424" y="116" type="line" smooth="no"/>
+      <point x="424" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>
