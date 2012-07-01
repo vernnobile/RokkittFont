@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+  <advance width="1225.4792972"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="224.473517512" y="0" type="line"/>
+      <point x="175.473517512" y="117" type="line"/>
+      <point x="1045.47351751" y="1140" type="line"/>
+      <point x="572.473517512" y="1140" type="line"/>
+      <point x="525.473517512" y="906" type="line"/>
+      <point x="366.473517512" y="906" type="line"/>
+      <point x="442.473517512" y="1288" type="line"/>
+      <point x="1330.47351751" y="1288" type="line"/>
+      <point x="1365.47351751" y="1215" type="line"/>
+      <point x="442.473517512" y="149" type="line"/>
+      <point x="967.473517512" y="149" type="line"/>
+      <point x="1017.47351751" y="398" type="line"/>
+      <point x="1175.47351751" y="398" type="line"/>
+      <point x="1095.47351751" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="639.473517512" y="1288" type="move"/>
+    </contour>
+    <contour>
+      <point x="617.473517512" y="1288" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

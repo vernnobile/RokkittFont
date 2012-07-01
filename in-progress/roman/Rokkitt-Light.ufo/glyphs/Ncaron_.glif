@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="1">
+  <advance width="1392"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="506" y="1593" type="line"/>
+      <point x="645" y="1320" type="line"/>
+      <point x="740" y="1320" type="line"/>
+      <point x="886" y="1593" type="line"/>
+      <point x="797" y="1593" type="line"/>
+      <point x="693" y="1369" type="line"/>
+      <point x="588" y="1593" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="1234" type="line"/>
+      <point x="57" y="1171" type="line"/>
+      <point x="218" y="1171" type="line"/>
+      <point x="218" y="62" type="line"/>
+      <point x="57" y="62" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="458" y="62" type="line"/>
+      <point x="297" y="62" type="line"/>
+      <point x="297" y="1114" type="line"/>
+      <point x="1141" y="0" type="line"/>
+      <point x="1220" y="0" type="line"/>
+      <point x="1220" y="1171" type="line"/>
+      <point x="1367" y="1171" type="line"/>
+      <point x="1367" y="1234" type="line"/>
+      <point x="980" y="1234" type="line"/>
+      <point x="980" y="1171" type="line"/>
+      <point x="1141" y="1171" type="line"/>
+      <point x="1141" y="125" type="line"/>
+      <point x="297" y="1234" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

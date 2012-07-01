@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="Rokkitt" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="The claim is quite justified" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.73964081777" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="Rokkitt" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Rokkitt-Bold (2012-06-06 22-38-27 BST).ufo">
+<location>
+</location>
+<!-- color for Rokkitt-Bold (2012-06-06 22-38-27 BST).ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
+</master>
+<master filename="Rokkitt-Light-FLAB.ufo">
+<location>
+<dimension name="Rokkitt" xvalue="1" />
+</location>
+<!-- color for Rokkitt-Light-FLAB.ufo -->
+<color a="1.000000" b="1.000000" g="0.000000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+</designspace>

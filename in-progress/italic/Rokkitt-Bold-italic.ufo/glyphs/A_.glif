@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1385.0"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="51.0" y="0" type="line"/>
+      <point x="551.0" y="0" type="line"/>
+      <point x="581.0" y="149" type="line"/>
+      <point x="422.0" y="149" type="line"/>
+      <point x="576.0" y="462" type="line"/>
+      <point x="978.0" y="462" type="line"/>
+      <point x="1010.0" y="149" type="line"/>
+      <point x="854.0" y="149" type="line"/>
+      <point x="824.0" y="0" type="line"/>
+      <point x="1354.0" y="0" type="line"/>
+      <point x="1374.0" y="149" type="line"/>
+      <point x="1241.0" y="149" type="line"/>
+      <point x="1101.0" y="1287" type="line"/>
+      <point x="806.0" y="1287" type="line"/>
+      <point x="222.0" y="149" type="line"/>
+      <point x="81.0" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="644.0" y="600" type="line"/>
+      <point x="916.0" y="1187" type="line"/>
+      <point x="963.0" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="955.0" y="1288" type="move"/>
+    </contour>
+    <contour>
+      <point x="1201.0" y="11" type="move"/>
+    </contour>
+    <contour>
+      <point x="720.0" y="1288" type="move"/>
+    </contour>
+    <contour>
+      <point x="1254.0" y="11" type="move"/>
+    </contour>
+    <contour>
+      <point x="698.0" y="1288" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1254.0" y="10" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

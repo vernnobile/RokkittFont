@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="1">
+  <advance width="1325.83691802"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="389.229144984" y="0" type="line"/>
+      <point x="419.229144984" y="149" type="line"/>
+      <point x="586.229144984" y="149" type="line"/>
+      <point x="673.229144984" y="582" type="line"/>
+      <point x="421.229144984" y="1140" type="line"/>
+      <point x="269.229144984" y="1140" type="line"/>
+      <point x="298.229144984" y="1288" type="line"/>
+      <point x="829.229144984" y="1288" type="line"/>
+      <point x="800.229144984" y="1140" type="line"/>
+      <point x="657.229144984" y="1140" type="line"/>
+      <point x="832.229144984" y="727" type="line"/>
+      <point x="1158.22914498" y="1140" type="line"/>
+      <point x="1016.22914498" y="1140" type="line"/>
+      <point x="1045.22914498" y="1288" type="line"/>
+      <point x="1539.22914498" y="1288" type="line"/>
+      <point x="1510.22914498" y="1140" type="line"/>
+      <point x="1351.22914498" y="1140" type="line"/>
+      <point x="891.229144984" y="583" type="line"/>
+      <point x="804.229144984" y="149" type="line"/>
+      <point x="975.229144984" y="149" type="line"/>
+      <point x="945.229144984" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="919.229144984" y="1288" type="move"/>
+    </contour>
+    <contour>
+      <point x="683.229144984" y="1288" type="move"/>
+    </contour>
+    <contour>
+      <point x="661.229144984" y="1288" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

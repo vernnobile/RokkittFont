@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="1">
+  <advance width="1189.17533862"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="547.936745783" y="-350" type="line"/>
+      <point x="581.936745783" y="-192" type="line"/>
+      <point x="747.936745783" y="-192" type="line"/>
+      <point x="810.936745783" y="100" type="line"/>
+      <point x="720.936745783" y="20"/>
+      <point x="628.936745783" y="-20"/>
+      <point x="519.936745783" y="-20" type="curve" smooth="yes"/>
+      <point x="291.936745783" y="-20"/>
+      <point x="148.936745783" y="168"/>
+      <point x="211.936745783" y="455" type="curve" smooth="yes"/>
+      <point x="268.936745783" y="715"/>
+      <point x="471.936745783" y="918"/>
+      <point x="724.936745783" y="918" type="curve" smooth="yes"/>
+      <point x="833.936745783" y="918"/>
+      <point x="917.936745783" y="875"/>
+      <point x="955.936745783" y="761" type="curve"/>
+      <point x="987.936745783" y="900" type="line"/>
+      <point x="1183.93674578" y="900" type="line"/>
+      <point x="945.936745783" y="-192" type="line"/>
+      <point x="1092.93674578" y="-192" type="line"/>
+      <point x="1058.93674578" y="-350" type="line"/>
+    </contour>
+    <contour>
+      <point x="585.936745783" y="145" type="curve" smooth="yes"/>
+      <point x="708.936745783" y="145"/>
+      <point x="842.936745783" y="246"/>
+      <point x="865.936745783" y="350" type="curve" smooth="yes"/>
+      <point x="903.936745783" y="525" type="line" smooth="yes"/>
+      <point x="930.936745783" y="652"/>
+      <point x="843.936745783" y="754"/>
+      <point x="722.936745783" y="754" type="curve" smooth="yes"/>
+      <point x="555.936745783" y="754"/>
+      <point x="449.936745783" y="621"/>
+      <point x="411.936745783" y="444" type="curve" smooth="yes"/>
+      <point x="373.936745783" y="271"/>
+      <point x="426.936745783" y="145"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

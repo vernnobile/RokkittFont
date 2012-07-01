@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1167.42414328"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="50.4950436936" y="0" type="line"/>
+      <point x="962.495043694" y="0" type="line"/>
+      <point x="1023.49504369" y="314" type="line"/>
+      <point x="939.495043694" y="314" type="line"/>
+      <point x="890.495043694" y="62" type="line"/>
+      <point x="322.495043694" y="62" type="line"/>
+      <point x="445.495043694" y="646" type="line"/>
+      <point x="884.495043694" y="646" type="line"/>
+      <point x="853.495043694" y="486" type="line"/>
+      <point x="938.495043694" y="486" type="line"/>
+      <point x="1009.49504369" y="840" type="line"/>
+      <point x="924.495043694" y="840" type="line"/>
+      <point x="897.495043694" y="708" type="line"/>
+      <point x="458.495043694" y="708" type="line"/>
+      <point x="571.495043694" y="1248" type="line"/>
+      <point x="1080.49504369" y="1248" type="line"/>
+      <point x="1036.49504369" y="1039" type="line"/>
+      <point x="1122.49504369" y="1039" type="line"/>
+      <point x="1178.49504369" y="1311" type="line"/>
+      <point x="301.495043694" y="1311" type="line"/>
+      <point x="290.495043694" y="1248" type="line"/>
+      <point x="484.495043694" y="1248" type="line"/>
+      <point x="239.495043694" y="62" type="line"/>
+      <point x="61.4950436936" y="62" type="line"/>
+    </contour>
+    <contour>
+      <point x="628.495043694" y="1311" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="628.495043694" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1072.49504369" y="10" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
