@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_xheight_stem" format="1">
+  <advance width="1031"/>
+  <outline>
+    <contour>
+      <point x="206.0" y="689.0" type="line"/>
+      <point x="206.0" y="116.0" type="line"/>
+      <point x="54" y="116" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="502.0" y="0.0" type="line"/>
+      <point x="502.0" y="116.0" type="line"/>
+      <point x="357.0" y="116.0" type="line"/>
+      <point x="357.0" y="116.0"/>
+      <point x="357" y="648"/>
+      <point x="357" y="648" type="curve"/>
+      <point x="348" y="805" type="line"/>
+      <point x="54" y="805" type="line"/>
+      <point x="54" y="689" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1031</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

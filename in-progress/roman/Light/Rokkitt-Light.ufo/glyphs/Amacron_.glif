@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="1">
+  <advance width="1272"/>
+  <unicode hex="0100"/>
+  <outline>
+    <contour>
+      <point x="440" y="1456" type="line"/>
+      <point x="831" y="1456" type="line"/>
+      <point x="831" y="1521" type="line"/>
+      <point x="440" y="1521" type="line"/>
+    </contour>
+    <contour>
+      <point x="-7" y="0" type="line"/>
+      <point x="-7" y="62" type="line"/>
+      <point x="152" y="62" type="line"/>
+      <point x="568" y="1171" type="line"/>
+      <point x="410" y="1171" type="line"/>
+      <point x="410" y="1234" type="line"/>
+      <point x="861" y="1234" type="line"/>
+      <point x="861" y="1171" type="line"/>
+      <point x="704" y="1171" type="line"/>
+      <point x="1119" y="62" type="line"/>
+      <point x="1277" y="62" type="line"/>
+      <point x="1277" y="0" type="line"/>
+      <point x="874" y="0" type="line"/>
+      <point x="874" y="62" type="line"/>
+      <point x="1033" y="62" type="line"/>
+      <point x="873" y="503" type="line"/>
+      <point x="398" y="503" type="line"/>
+      <point x="238" y="62" type="line"/>
+      <point x="397" y="62" type="line"/>
+      <point x="397" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="564" type="line"/>
+      <point x="861" y="564" type="line"/>
+      <point x="638" y="1166" type="line"/>
+      <point x="632" y="1166" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Amacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1272</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

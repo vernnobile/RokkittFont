@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="510"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="227" y="776" type="line"/>
+      <point x="227" y="60" type="line"/>
+      <point x="77" y="60" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="60" type="line"/>
+      <point x="306" y="60" type="line"/>
+      <point x="306" y="836" type="line"/>
+      <point x="77" y="836" type="line"/>
+      <point x="77" y="776" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotlessi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>510</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

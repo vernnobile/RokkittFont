@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="1202"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="57" y="1234" type="line"/>
+      <point x="57" y="1174" type="line"/>
+      <point x="218" y="1174" type="line"/>
+      <point x="218" y="60" type="line"/>
+      <point x="57" y="60" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="461" y="60" type="line"/>
+      <point x="300" y="60" type="line"/>
+      <point x="300" y="625" type="line"/>
+      <point x="944" y="60" type="line"/>
+      <point x="777" y="60" type="line"/>
+      <point x="777" y="0" type="line"/>
+      <point x="1210" y="0" type="line"/>
+      <point x="1210" y="60" type="line"/>
+      <point x="1062" y="60" type="line"/>
+      <point x="402" y="634" type="line"/>
+      <point x="1002" y="1174" type="line"/>
+      <point x="1175" y="1174" type="line"/>
+      <point x="1175" y="1234" type="line"/>
+      <point x="743" y="1234" type="line"/>
+      <point x="743" y="1174" type="line"/>
+      <point x="896" y="1174" type="line"/>
+      <point x="300" y="642" type="line"/>
+      <point x="300" y="1174" type="line"/>
+      <point x="461" y="1174" type="line"/>
+      <point x="461" y="1234" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Kcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1202</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
