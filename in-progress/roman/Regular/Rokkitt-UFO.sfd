@@ -4,6 +4,7 @@ FullName: Rokkitt Book
 FamilyName: Rokkitt
 Weight: Medium
 Copyright: Copyright (c) 2011-13 by vernon adams. All rights reserved. with\nReserved Font Names "Rokkitt". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL
+Version: 
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -17,15 +18,14 @@ Layer: 1 0 "Fore"  0
 FSType: 256
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
+OS2_UseTypoMetrics: 1
 CreationTime: 1378247473
-ModificationTime: 1378247473
-PfmFamily: 0
+ModificationTime: 1378249823
+PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 5 3 5 0 0 2 0 3
 OS2TypoAscent: 1638
 OS2TypoAOffset: 0
 OS2TypoDescent: -569
@@ -35,16 +35,15 @@ OS2WinAscent: 1638
 OS2WinAOffset: 0
 OS2WinDescent: 569
 OS2WinDOffset: 0
-HheadAscent: 0
-HheadAOffset: 1
+HheadAscent: 1638
+HheadAOffset: 0
 HheadDescent: -569
 HheadDOffset: 0
 OS2Vendor: 'newt'
-OS2CodePages: 00000001.00000000
-OS2UnicodeRanges: 800000ef.4000204b.00000000.00000000
 Lookup: 4 0 1 "ligaStandardLigatureslookup0"  {"ligaStandardLigatureslookup0 subtable"  } ['liga' ('latn' <'dflt' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo per glyph data 0"  "kernHorizontalKerninginLatinloo kerning class 1"  } ['kern' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 26 23 "kernHorizontalKerninginLatinloo kerning class 1" 
  81 A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde uni0202
@@ -103,7 +102,15 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 11
+WinInfo: 50 25 11
+BeginPrivate: 0
+EndPrivate
+Grid
+-2048 402 m 0
+ 4096 402 l 0
+483 2662 m 4
+ 483 -1434 l 4
+EndSplineSet
 BeginChars: 65547 431
 
 StartChar: A
@@ -111,7 +118,7 @@ Encoding: 65 65 0
 Width: 1267
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -149,7 +156,7 @@ Encoding: 198 198 1
 Width: 1733
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -199,7 +206,7 @@ Encoding: 193 193 2
 Width: 1196
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 373 358 2
@@ -210,7 +217,7 @@ StartChar: Abreve
 Encoding: 258 258 3
 Width: 1196
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 141 728 N 1 0 0 1 306 332 2
@@ -222,7 +229,7 @@ Encoding: 194 194 4
 Width: 1196
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 301 376 2
@@ -234,7 +241,7 @@ Encoding: 196 196 5
 Width: 1196
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 164 168 N 1 0 0 1 307 324 2
@@ -246,7 +253,7 @@ Encoding: 192 192 6
 Width: 1196
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 96 N 1 0 0 1 246 358 2
@@ -257,7 +264,7 @@ StartChar: Amacron
 Encoding: 256 256 7
 Width: 1196
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 251 175 N 1 0 0 1 308 210 2
@@ -268,7 +275,7 @@ StartChar: Aogonek
 Encoding: 260 260 8
 Width: 1196
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 268 731 N 1 0 0 1 748 12 2
@@ -280,7 +287,7 @@ Encoding: 197 197 9
 Width: 1196
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 308 730 N 1 0 0 1 315 348 2
@@ -292,7 +299,7 @@ Encoding: 195 195 10
 Width: 1196
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 304 319 2
@@ -301,10 +308,10 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 11
-Width: 1040
+Width: 1051
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -335,14 +342,14 @@ Encoding: 67 67 12
 Width: 1228
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 1185 307 m 1
  1068 378 l 1
  1004 225 864 115 672 115 c 0
- 405.55387787 115 243 301.502467857 243 580 c 0
+ 406 115 243 302 243 580 c 0
  243 837 391 1036 645 1036 c 0
  825 1036 989 950 1029 765 c 1
  1154 765 l 1
@@ -351,7 +358,7 @@ SplineSet
  1024 987 l 1
  945 1117 819 1171 641 1171 c 0
  313 1171 66 933 66 575 c 1
- 68.0336050089 220.135925953 307.910375396 -18 671 -18 c 0
+ 68 220 308 -18 671 -18 c 0
  925 -18 1095 116 1185 307 c 1
 EndSplineSet
 EndChar
@@ -360,7 +367,7 @@ StartChar: Cacute
 Encoding: 262 262 13
 Width: 1249
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 404 359 2
@@ -371,7 +378,7 @@ StartChar: Ccaron
 Encoding: 268 268 14
 Width: 1249
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 332 361 2
@@ -383,7 +390,7 @@ Encoding: 199 199 15
 Width: 1249
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 151 184 N 1 0 0 1 339 0 2
@@ -394,7 +401,7 @@ StartChar: Ccircumflex
 Encoding: 264 264 16
 Width: 1249
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 332 377 2
@@ -405,7 +412,7 @@ StartChar: Cdotaccent
 Encoding: 266 266 17
 Width: 1249
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 408 775 N 1 0 0 1 361 323 2
@@ -417,7 +424,7 @@ Encoding: 68 68 18
 Width: 1284
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -440,7 +447,7 @@ StartChar: Dcaron
 Encoding: 270 270 19
 Width: 1271
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 332 360 2
@@ -452,7 +459,7 @@ Encoding: 69 69 20
 Width: 1097
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -488,7 +495,7 @@ Encoding: 201 201 21
 Width: 1119
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 321 358 2
@@ -500,7 +507,7 @@ Encoding: 276 276 22
 Width: 1097
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 141 728 N 1 0 0 1 266 332 2
@@ -511,7 +518,7 @@ StartChar: Ecaron
 Encoding: 282 282 23
 Width: 1119
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 249 360 2
@@ -523,7 +530,7 @@ Encoding: 202 202 24
 Width: 1119
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 249 376 2
@@ -535,7 +542,7 @@ Encoding: 203 203 25
 Width: 1119
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 164 168 N 1 0 0 1 269 348 2
@@ -546,7 +553,7 @@ StartChar: Edotaccent
 Encoding: 278 278 26
 Width: 1119
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 408 775 N 1 0 0 1 278 322 2
@@ -558,7 +565,7 @@ Encoding: 200 200 27
 Width: 1119
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 96 N 1 0 0 1 301 348 2
@@ -569,7 +576,7 @@ StartChar: Emacron
 Encoding: 274 274 28
 Width: 1119
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 251 175 N 1 0 0 1 256 210 2
@@ -580,7 +587,7 @@ StartChar: Eogonek
 Encoding: 280 280 29
 Width: 1119
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 268 731 N 1 0 0 1 348 12 2
@@ -593,7 +600,7 @@ AltUni2: 000110.ffffffff.0
 Width: 1271
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -629,7 +636,7 @@ Encoding: 8364 8364 31
 Width: 1093
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -674,7 +681,7 @@ Encoding: 70 70 32
 Width: 997
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -704,7 +711,7 @@ Encoding: 71 71 33
 Width: 1284
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -731,7 +738,7 @@ StartChar: Gbreve
 Encoding: 286 286 34
 Width: 1294
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 141 728 N 1 0 0 1 360 333 2
@@ -742,7 +749,7 @@ StartChar: Gcircumflex
 Encoding: 284 284 35
 Width: 1294
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 356 377 2
@@ -753,7 +760,7 @@ StartChar: Gcommaaccent
 Encoding: 290 290 36
 Width: 1294
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 396 -54 2
@@ -764,7 +771,7 @@ StartChar: Gdotaccent
 Encoding: 288 288 37
 Width: 1294
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 408 775 N 1 0 0 1 385 323 2
@@ -776,7 +783,7 @@ Encoding: 72 72 38
 Width: 1288
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -794,7 +801,7 @@ StartChar: Hbar
 Encoding: 294 294 39
 Width: 1294
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -847,7 +854,7 @@ StartChar: Hcircumflex
 Encoding: 292 292 40
 Width: 1294
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 350 376 2
@@ -870,7 +877,7 @@ Encoding: 306 306 42
 Width: 1138
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 52 74 N 1 0 0 1 581 0 2
@@ -882,7 +889,7 @@ Encoding: 205 205 43
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 64 358 2
@@ -893,7 +900,7 @@ StartChar: Ibreve
 Encoding: 300 300 44
 Width: 581
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 141 728 N 1 0 0 1 -3 332 2
@@ -905,7 +912,7 @@ Encoding: 206 206 45
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 -5 348 2
@@ -917,7 +924,7 @@ Encoding: 207 207 46
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 164 168 N 1 0 0 1 0 348 2
@@ -928,7 +935,7 @@ StartChar: Idotaccent
 Encoding: 304 304 47
 Width: 581
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 408 775 N 1 0 0 1 21 322 2
@@ -940,7 +947,7 @@ Encoding: 204 204 48
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 96 N 1 0 0 1 -62 358 2
@@ -951,7 +958,7 @@ StartChar: Imacron
 Encoding: 298 298 49
 Width: 581
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 251 175 N 1 0 0 1 0 210 2
@@ -962,7 +969,7 @@ StartChar: Iogonek
 Encoding: 302 302 50
 Width: 581
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 268 731 N 1 0 0 1 35 12 2
@@ -974,7 +981,7 @@ Encoding: 296 296 51
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 -2 348 2
@@ -986,7 +993,7 @@ Encoding: 74 74 52
 Width: 585
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1011,7 +1018,7 @@ Encoding: 308 308 53
 Width: 557
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 52 74 N 1 0 0 1 0 0 2
@@ -1022,7 +1029,7 @@ Encoding: 75 75 54
 Width: 1162
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1049,7 +1056,7 @@ StartChar: Kcommaaccent
 Encoding: 310 310 55
 Width: 1139
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 336 -36 2
@@ -1061,7 +1068,7 @@ Encoding: 76 76 56
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1080,7 +1087,7 @@ StartChar: Lacute
 Encoding: 313 313 57
 Width: 984
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 272 358 2
@@ -1091,7 +1098,7 @@ StartChar: Lcaron
 Encoding: 317 317 58
 Width: 984
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 155 44 N 1 0 0 1 619 960 2
@@ -1102,7 +1109,7 @@ StartChar: Lcommaaccent
 Encoding: 315 315 59
 Width: 984
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 239 -36 2
@@ -1114,7 +1121,7 @@ Encoding: 319 319 60
 Width: 984
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 286 183 N 1 0 0 1 539 169 2
@@ -1126,7 +1133,7 @@ Encoding: 321 321 61
 Width: 984
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1161,7 +1168,7 @@ Encoding: 77 77 62
 Width: 1590
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1199,7 +1206,7 @@ Encoding: 78 78 63
 Width: 1326
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1232,7 +1239,7 @@ Encoding: 323 323 64
 Width: 1322
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 450 358 2
@@ -1243,7 +1250,7 @@ StartChar: Ncaron
 Encoding: 327 327 65
 Width: 1322
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 378 360 2
@@ -1254,7 +1261,7 @@ StartChar: Ncommaaccent
 Encoding: 325 325 66
 Width: 1322
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 418 -36 2
@@ -1266,7 +1273,7 @@ Encoding: 209 209 67
 Width: 1322
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 381 319 2
@@ -1278,20 +1285,20 @@ Encoding: 79 79 68
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-660 1037 m 0
- 935 1037 1078 831 1078 576 c 0
- 1078 322 932 116 660 116 c 0
- 391 116 243 324 243 576 c 0
- 243 830 389 1037 660 1037 c 0
-660 -19 m 1
- 1011 -19 1256 234 1256 575 c 0
- 1256 924 1013 1170 659 1170 c 0
- 306 1170 66 923 66 575 c 0
- 66 229 309 -17 660 -19 c 1
+659 1170 m 3
+ 1013 1170 1256 924 1256 575 c 3
+ 1256 234 1011 -19 659 -19 c 3
+ 307 -19 62 234 62 575 c 3
+ 62 924 305 1170 659 1170 c 3
+659 116 m 3
+ 932 116 1078 322 1078 575 c 3
+ 1078 831 935 1037 659 1037 c 3
+ 383 1037 240 831 240 575 c 3
+ 240 322 386 116 659 116 c 3
 EndSplineSet
 EndChar
 
@@ -1300,7 +1307,7 @@ Encoding: 338 338 69
 Width: 1920
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1344,7 +1351,7 @@ Encoding: 211 211 70
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 436 359 2
@@ -1355,7 +1362,7 @@ StartChar: Obreve
 Encoding: 334 334 71
 Width: 1321
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 141 728 N 1 0 0 1 369 333 2
@@ -1367,7 +1374,7 @@ Encoding: 212 212 72
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 364 377 2
@@ -1379,7 +1386,7 @@ Encoding: 214 214 73
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 164 168 N 1 0 0 1 370 325 2
@@ -1391,7 +1398,7 @@ Encoding: 210 210 74
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 96 N 1 0 0 1 310 359 2
@@ -1402,7 +1409,7 @@ StartChar: Ohungarumlaut
 Encoding: 336 336 75
 Width: 1321
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 212 733 N 1 0 0 1 458 374 2
@@ -1413,7 +1420,7 @@ StartChar: Omacron
 Encoding: 332 332 76
 Width: 1321
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 251 175 N 1 0 0 1 372 210 2
@@ -1425,7 +1432,7 @@ Encoding: 216 216 77
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1460,7 +1467,7 @@ Encoding: 213 213 78
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 368 319 2
@@ -1472,7 +1479,7 @@ Encoding: 80 80 79
 Width: 1043
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1496,7 +1503,7 @@ Encoding: 81 81 80
 Width: 1323
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1523,7 +1530,7 @@ Encoding: 82 82 81
 Width: 1162
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1552,7 +1559,7 @@ Encoding: 340 340 82
 Width: 1107
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 235 348 2
@@ -1564,7 +1571,7 @@ Encoding: 344 344 83
 Width: 1107
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 257 348 2
@@ -1576,7 +1583,7 @@ Encoding: 342 342 84
 Width: 1107
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 81 82 N 1 0 0 1 0 0 2
@@ -1587,7 +1594,7 @@ Encoding: 83 83 85
 Width: 965
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1619,7 +1626,7 @@ StartChar: Sacute
 Encoding: 346 346 86
 Width: 972
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 274 359 2
@@ -1631,7 +1638,7 @@ Encoding: 352 352 87
 Width: 972
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 189 348 2
@@ -1642,7 +1649,7 @@ StartChar: Scedilla
 Encoding: 350 350 88
 Width: 972
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 151 184 N 1 0 0 1 194 -11 2
@@ -1654,7 +1661,7 @@ Encoding: 348 348 89
 Width: 965
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 206 377 2
@@ -1666,7 +1673,7 @@ Encoding: 536 536 90
 Width: 972
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 260 0 2
@@ -1678,7 +1685,7 @@ Encoding: 84 84 91
 Width: 1009
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1699,7 +1706,7 @@ StartChar: Tcaron
 Encoding: 356 356 92
 Width: 1034
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 220 360 2
@@ -1710,7 +1717,7 @@ StartChar: Tcommaaccent
 Encoding: 354 354 93
 Width: 1034
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 151 184 N 1 0 0 1 212 7 2
@@ -1722,7 +1729,7 @@ Encoding: 222 222 94
 Width: 1030
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1758,7 +1765,7 @@ Encoding: 85 85 95
 Width: 1175
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1789,7 +1796,7 @@ Encoding: 218 218 96
 Width: 1211
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 381 358 2
@@ -1800,7 +1807,7 @@ StartChar: Ubreve
 Encoding: 364 364 97
 Width: 1211
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 141 728 N 1 0 0 1 314 332 2
@@ -1812,7 +1819,7 @@ Encoding: 219 219 98
 Width: 1211
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 309 376 2
@@ -1824,7 +1831,7 @@ Encoding: 220 220 99
 Width: 1211
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 164 168 N 1 0 0 1 315 324 2
@@ -1836,7 +1843,7 @@ Encoding: 217 217 100
 Width: 1211
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 96 N 1 0 0 1 254 358 2
@@ -1847,7 +1854,7 @@ StartChar: Uhungarumlaut
 Encoding: 368 368 101
 Width: 1211
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 212 733 N 1 0 0 1 402 374 2
@@ -1858,7 +1865,7 @@ StartChar: Umacron
 Encoding: 362 362 102
 Width: 1211
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 251 175 N 1 0 0 1 316 210 2
@@ -1869,7 +1876,7 @@ StartChar: Uogonek
 Encoding: 370 370 103
 Width: 1211
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 268 731 N 1 0 0 1 352 -6 2
@@ -1880,7 +1887,7 @@ StartChar: Uring
 Encoding: 366 366 104
 Width: 1211
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 308 730 N 1 0 0 1 323 392 2
@@ -1891,7 +1898,7 @@ StartChar: Utilde
 Encoding: 360 360 105
 Width: 1211
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 312 319 2
@@ -1903,7 +1910,7 @@ Encoding: 86 86 106
 Width: 1207
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1931,7 +1938,7 @@ Encoding: 87 87 107
 Width: 1758
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1969,7 +1976,7 @@ Encoding: 88 88 108
 Width: 1150
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2010,7 +2017,7 @@ Encoding: 89 89 109
 Width: 1129
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2044,7 +2051,7 @@ Encoding: 221 221 110
 Width: 1130
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 339 358 2
@@ -2056,7 +2063,7 @@ Encoding: 376 376 111
 Width: 1130
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 164 168 N 1 0 0 1 274 348 2
@@ -2068,7 +2075,7 @@ Encoding: 90 90 112
 Width: 959
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2094,7 +2101,7 @@ StartChar: Zacute
 Encoding: 377 377 113
 Width: 1010
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 274 358 2
@@ -2106,7 +2113,7 @@ Encoding: 381 381 114
 Width: 1010
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 208 348 2
@@ -2117,7 +2124,7 @@ StartChar: Zdotaccent
 Encoding: 379 379 115
 Width: 1010
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 408 775 N 1 0 0 1 250 322 2
@@ -2129,7 +2136,7 @@ Encoding: 97 97 116
 Width: 929
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2157,7 +2164,7 @@ Encoding: 225 225 117
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 247 8 2
@@ -2168,7 +2175,7 @@ StartChar: abreve
 Encoding: 259 259 118
 Width: 889
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 141 728 N 1 0 0 1 180 -18 2
@@ -2180,7 +2187,7 @@ Encoding: 226 226 119
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 175 26 2
@@ -2192,7 +2199,7 @@ Encoding: 180 180 120
 Width: 562
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2209,7 +2216,7 @@ Encoding: 228 228 121
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 164 168 N 1 0 0 1 181 -26 2
@@ -2221,7 +2228,7 @@ Encoding: 230 230 122
 Width: 1417
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2264,7 +2271,7 @@ Encoding: 224 224 123
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 96 N 1 0 0 1 120 8 2
@@ -2275,7 +2282,7 @@ StartChar: amacron
 Encoding: 257 257 124
 Width: 889
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 251 175 N 1 0 0 1 183 -141 2
@@ -2287,7 +2294,7 @@ Encoding: 38 38 125
 Width: 1201
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2327,7 +2334,7 @@ StartChar: aogonek
 Encoding: 261 261 126
 Width: 889
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 268 731 N 1 0 0 1 419 6 2
@@ -2339,7 +2346,7 @@ Encoding: 8776 8776 127
 Width: 1149
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2384,7 +2391,7 @@ Encoding: 229 229 128
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 308 730 N 1 0 0 1 173 41 2
@@ -2396,7 +2403,7 @@ Encoding: 94 94 129
 Width: 826
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2416,7 +2423,7 @@ Encoding: 126 126 130
 Width: 1062
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2437,7 +2444,7 @@ Encoding: 42 42 131
 Width: 916
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2475,7 +2482,7 @@ Encoding: 64 64 132
 Width: 1418
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2514,7 +2521,7 @@ Encoding: 227 227 133
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 178 -31 2
@@ -2526,7 +2533,7 @@ Encoding: 98 98 134
 Width: 1021
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 237 -1 N 1 0 0 1 0 0 2
@@ -2538,7 +2545,7 @@ Encoding: 92 92 135
 Width: 793
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2555,7 +2562,7 @@ Encoding: 124 124 136
 Width: 404
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2572,7 +2579,7 @@ Encoding: 123 123 137
 Width: 528
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2603,7 +2610,7 @@ Encoding: 125 125 138
 Width: 528
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2633,7 +2640,7 @@ Encoding: 91 91 139
 Width: 569
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2654,7 +2661,7 @@ Encoding: 93 93 140
 Width: 569
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2675,7 +2682,7 @@ Encoding: 728 728 141
 Width: 584
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2694,7 +2701,7 @@ Encoding: 166 166 142
 Width: 404
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2716,7 +2723,7 @@ Encoding: 8226 8226 143
 Width: 559
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2733,7 +2740,7 @@ Encoding: 99 99 144
 Width: 900
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2755,7 +2762,7 @@ StartChar: cacute
 Encoding: 263 263 145
 Width: 899
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 144 99 N 1 0 0 1 0 0 2
@@ -2767,7 +2774,7 @@ Encoding: 711 711 146
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2786,7 +2793,7 @@ StartChar: ccaron
 Encoding: 269 269 147
 Width: 899
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 146 711 N 1 0 0 1 146 10 2
@@ -2798,7 +2805,7 @@ Encoding: 231 231 148
 Width: 899
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 151 184 N 1 0 0 1 164 0 2
@@ -2809,7 +2816,7 @@ StartChar: ccircumflex
 Encoding: 265 265 149
 Width: 899
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 153 710 N 1 0 0 1 146 26 2
@@ -2820,7 +2827,7 @@ StartChar: cdotaccent
 Encoding: 267 267 150
 Width: 899
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 408 775 N 1 0 0 1 187 -28 2
@@ -2832,7 +2839,7 @@ Encoding: 184 184 151
 Width: 587
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2855,7 +2862,7 @@ Encoding: 162 162 152
 Width: 899
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2894,7 +2901,7 @@ Encoding: 710 710 153
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2914,7 +2921,7 @@ Encoding: 58 58 154
 Width: 414
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2936,7 +2943,7 @@ Encoding: 44 44 155
 Width: 414
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2957,7 +2964,7 @@ Encoding: 169 169 156
 Width: 1423
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -2994,7 +3001,7 @@ Encoding: 164 164 157
 Width: 929
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3032,7 +3039,7 @@ Encoding: 100 100 158
 Width: 1009
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 236 -1 N 1 0 0 1 0 0 2
@@ -3044,7 +3051,7 @@ Encoding: 8224 8224 159
 Width: 918
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3071,7 +3078,7 @@ Encoding: 8225 8225 160
 Width: 918
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3109,7 +3116,7 @@ StartChar: dcaron
 Encoding: 271 271 161
 Width: 1071
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 158 100 N 1 0 0 1 0 0 2
@@ -3120,7 +3127,7 @@ StartChar: dcroat
 Encoding: 273 273 162
 Width: 1071
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3160,7 +3167,7 @@ Encoding: 176 176 163
 Width: 653
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3182,7 +3189,7 @@ Encoding: 168 168 164
 Width: 572
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3204,7 +3211,7 @@ Encoding: 247 247 165
 Width: 1164
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3231,7 +3238,7 @@ Encoding: 36 36 166
 Width: 940
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3278,7 +3285,7 @@ Encoding: 729 729 167
 Width: 535
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3295,7 +3302,7 @@ Encoding: 305 305 168
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3318,20 +3325,33 @@ Encoding: 101 101 169
 Width: 934
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
+Back
+SplineSet
+482 107 m 5
+ 320 108 213 227 213 402 c 4
+ 213 576 319 694 482 694 c 4
+ 646 694 753 577 753 402 c 4
+ 753 226 645 108 482 107 c 5
+482 -18 m 4
+ 730 -18 910 158 910 402 c 4
+ 910 645 732 820 484 820 c 4
+ 239 820 57 643 57 402 c 4
+ 57 157 233 -18 482 -18 c 4
+EndSplineSet
 Fore
 SplineSet
-844 153 m 1
- 755 242 l 1
- 610 25 214 66 214 400 c 0
- 214 785 705 791 719 467 c 1
+849 154 m 1
+ 760 243 l 1
+ 593 27 213 52 213 400 c 4
+ 213 785 705 791 719 467 c 1
  141 467 l 1
  141 365 l 1
  861 365 l 1
  861 407 l 2
  861 993 57 924 57 400 c 0
- 57 -45 604 -150 844 153 c 1
+ 57 -43 607 -148 849 154 c 1
 EndSplineSet
 Kerns2: 134 -23 "kernHorizontalKerninginLatinloo per glyph data 0"  421 -13 "kernHorizontalKerninginLatinloo per glyph data 0"  134 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  421 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
@@ -3341,7 +3361,7 @@ Encoding: 233 233 170
 Width: 955
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 169 101 N 1 0 0 1 0 0 2
@@ -3353,7 +3373,7 @@ Encoding: 277 277 171
 Width: 949
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 169 101 N 1 0 0 1 0 0 2
@@ -3364,7 +3384,7 @@ StartChar: ecaron
 Encoding: 283 283 172
 Width: 955
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 169 101 N 1 0 0 1 0 0 2
@@ -3376,7 +3396,7 @@ Encoding: 234 234 173
 Width: 955
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 169 101 N 1 0 0 1 0 0 2
@@ -3388,7 +3408,7 @@ Encoding: 235 235 174
 Width: 955
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 169 101 N 1 0 0 1 0 0 2
@@ -3399,7 +3419,7 @@ StartChar: edotaccent
 Encoding: 279 279 175
 Width: 955
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 408 775 N 1 0 0 1 208 -28 2
@@ -3411,7 +3431,7 @@ Encoding: 232 232 176
 Width: 955
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 96 N 1 0 0 1 124 8 2
@@ -3423,7 +3443,7 @@ Encoding: 56 56 177
 Width: 1007
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3454,7 +3474,7 @@ Encoding: 8230 8230 178
 Width: 1242
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3480,7 +3500,7 @@ StartChar: emacron
 Encoding: 275 275 179
 Width: 955
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 251 175 N 1 0 0 1 187 -141 2
@@ -3492,7 +3512,7 @@ Encoding: 8212 8212 180
 Width: 1648
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3509,7 +3529,7 @@ Encoding: 8211 8211 181
 Width: 874
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3525,7 +3545,7 @@ StartChar: eogonek
 Encoding: 281 281 182
 Width: 955
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 268 731 N 1 0 0 1 222 -6 2
@@ -3537,7 +3557,7 @@ Encoding: 61 61 183
 Width: 1145
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3559,7 +3579,7 @@ Encoding: 240 240 184
 Width: 947
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3594,7 +3614,7 @@ Encoding: 33 33 185
 Width: 466
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3618,7 +3638,7 @@ Encoding: 161 161 186
 Width: 466
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3642,7 +3662,7 @@ Encoding: 102 102 187
 Width: 597
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3676,7 +3696,7 @@ Encoding: 64256 64256 188
 Width: 1092
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3726,7 +3746,7 @@ Encoding: 64259 64259 189
 Width: 1558
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3787,7 +3807,7 @@ Encoding: 64260 64260 190
 Width: 1548
 VWidth: 0
 GlyphClass: 3
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3844,7 +3864,7 @@ Encoding: 53 53 191
 Width: 947
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3874,7 +3894,7 @@ Encoding: 65536 -1 192
 Width: 971
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3919,7 +3939,7 @@ Encoding: 402 402 193
 Width: 916
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3952,7 +3972,7 @@ Encoding: 52 52 194
 Width: 875
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -3984,7 +4004,7 @@ Encoding: 8260 8260 195
 Width: 793
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4001,7 +4021,7 @@ Encoding: 103 103 196
 Width: 1024
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4023,7 +4043,7 @@ StartChar: gbreve
 Encoding: 287 287 197
 Width: 1069
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 103 N 1 0 0 1 0 0 2
@@ -4034,7 +4054,7 @@ StartChar: gcedilla
 Encoding: 291 291 198
 Width: 1069
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N -1 0 0 -1 776 852 2
@@ -4045,7 +4065,7 @@ StartChar: gcircumflex
 Encoding: 285 285 199
 Width: 1069
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 103 N 1 0 0 1 0 0 2
@@ -4056,7 +4076,7 @@ StartChar: gdotaccent
 Encoding: 289 289 200
 Width: 1069
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 408 775 N 1 0 0 1 286 -28 2
@@ -4068,7 +4088,7 @@ Encoding: 223 223 201
 Width: 1114
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4100,7 +4120,7 @@ Encoding: 96 96 202
 Width: 562
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4117,7 +4137,7 @@ Encoding: 62 62 203
 Width: 1145
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4137,7 +4157,7 @@ Encoding: 8805 8805 204
 Width: 1145
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4162,7 +4182,7 @@ Encoding: 171 171 205
 Width: 1053
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4190,7 +4210,7 @@ Encoding: 187 187 206
 Width: 1053
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4218,7 +4238,7 @@ Encoding: 8249 8249 207
 Width: 682
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4238,7 +4258,7 @@ Encoding: 8250 8250 208
 Width: 682
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4258,7 +4278,7 @@ Encoding: 104 104 209
 Width: 1064
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 240 -1 N 1 0 0 1 -1 0 2
@@ -4270,7 +4290,7 @@ Encoding: 295 295 210
 Width: 1024
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4312,7 +4332,7 @@ StartChar: hcircumflex
 Encoding: 293 293 211
 Width: 1024
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 209 104 N 1 0 0 1 0 0 2
@@ -4324,7 +4344,7 @@ Encoding: 733 733 212
 Width: 587
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4346,7 +4366,7 @@ Encoding: 45 45 213
 Width: 719
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4363,7 +4383,7 @@ Encoding: 105 105 214
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4383,7 +4403,7 @@ Encoding: 237 237 215
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 168 305 N 1 0 0 1 0 0 2
@@ -4394,7 +4414,7 @@ StartChar: ibreve
 Encoding: 301 301 216
 Width: 509
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 168 305 N 1 0 0 1 0 0 2
@@ -4406,7 +4426,7 @@ Encoding: 238 238 217
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 168 305 N 1 0 0 1 0 0 2
@@ -4418,7 +4438,7 @@ Encoding: 239 239 218
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 168 305 N 1 0 0 1 0 0 2
@@ -4430,7 +4450,7 @@ Encoding: 236 236 219
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 202 96 N 1 0 0 1 -82 8 2
@@ -4442,7 +4462,7 @@ Encoding: 307 307 220
 Width: 942
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 226 106 N 1 0 0 1 501 0 2
@@ -4453,7 +4473,7 @@ StartChar: imacron
 Encoding: 299 299 221
 Width: 509
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 251 175 N 1 0 0 1 -20 -141 2
@@ -4465,7 +4485,7 @@ Encoding: 8734 8734 222
 Width: 1448
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4500,7 +4520,7 @@ Encoding: 8747 8747 223
 Width: 883
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4528,7 +4548,7 @@ StartChar: iogonek
 Encoding: 303 303 224
 Width: 509
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 268 731 N 1 0 0 1 15 12 2
@@ -4540,7 +4560,7 @@ Encoding: 297 297 225
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 -37 0 2
@@ -4552,7 +4572,7 @@ Encoding: 106 106 226
 Width: 442
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4582,7 +4602,7 @@ Encoding: 309 309 227
 Width: 441
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 407 567 N 1 0 0 1 0 0 2
@@ -4594,23 +4614,23 @@ Encoding: 107 107 228
 Width: 989
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
 333 416 m 1
- 670 116 l 1
- 574 116 l 1
- 574 0 l 1
- 965 0 l 1
- 965 116 l 1
- 851 116 l 1
+ 686 116 l 1
+ 595 116 l 1
+ 595 0 l 1
+ 981 0 l 1
+ 981 116 l 1
+ 867 116 l 1
  510 420 l 1
  814 689 l 1
  944 689 l 1
  944 805 l 1
- 483 805 l 1
- 483 689 l 1
+ 473 805 l 5
+ 473 689 l 5
  635 689 l 1
  333 416 l 1
 EndSplineSet
@@ -4622,7 +4642,7 @@ Encoding: 311 311 229
 Width: 995
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 228 107 N 1 0 0 1 0 0 2
@@ -4633,7 +4653,7 @@ Encoding: 312 312 230
 Width: 995
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4681,7 +4701,7 @@ StartChar: lacute
 Encoding: 314 314 232
 Width: 487
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 231 108 N 1 0 0 1 0 0 2
@@ -4692,7 +4712,7 @@ StartChar: lc_ascender_stem
 Encoding: 65537 -1 233
 Width: 561
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4714,7 +4734,7 @@ StartChar: lc_ascender_stem_1
 Encoding: 65538 -1 234
 Width: 1061
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4735,7 +4755,7 @@ StartChar: lc_ascender_stem_2
 Encoding: 65539 -1 235
 Width: 1055
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4756,7 +4776,7 @@ StartChar: lc_bowl_left
 Encoding: 65540 -1 236
 Width: 862
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4774,7 +4794,7 @@ StartChar: lc_bowl_right
 Encoding: 65541 -1 237
 Width: 1061
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4792,7 +4812,7 @@ StartChar: lc_descender_stem
 Encoding: 65542 -1 238
 Width: 1017
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4815,7 +4835,7 @@ StartChar: lc_descender_stem_1
 Encoding: 65543 -1 239
 Width: 1017
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4838,7 +4858,7 @@ StartChar: lc_xheight_curved_stem
 Encoding: 65544 -1 240
 Width: 1031
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4860,7 +4880,7 @@ StartChar: lc_xheight_stem
 Encoding: 65545 -1 241
 Width: 1031
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4883,7 +4903,7 @@ StartChar: lcaron
 Encoding: 318 318 242
 Width: 487
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 231 108 N 1 0 0 1 0 0 2
@@ -4894,7 +4914,7 @@ StartChar: lcommaaccent
 Encoding: 316 316 243
 Width: 487
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 -19 -36 2
@@ -4906,7 +4926,7 @@ Encoding: 320 320 244
 Width: 901
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 286 183 N 1 0 0 1 487 0 2
@@ -4918,7 +4938,7 @@ Encoding: 60 60 245
 Width: 1145
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4938,7 +4958,7 @@ Encoding: 8804 8804 246
 Width: 1145
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4963,7 +4983,7 @@ Encoding: 172 172 247
 Width: 1113
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -4982,7 +5002,7 @@ Encoding: 9674 9674 248
 Width: 1122
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5006,7 +5026,7 @@ Encoding: 322 322 249
 Width: 487
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5050,7 +5070,7 @@ Encoding: 175 175 251
 Width: 593
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5067,7 +5087,7 @@ Encoding: 8722 8722 252
 Width: 931
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5084,7 +5104,7 @@ Encoding: 215 215 253
 Width: 929
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5109,7 +5129,7 @@ Encoding: 110 110 254
 Width: 1087
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 241 -1 N 1 0 0 1 8 0 2
@@ -5121,7 +5141,7 @@ Encoding: 324 324 255
 Width: 1031
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 254 110 N 1 0 0 1 0 0 2
@@ -5132,7 +5152,7 @@ StartChar: ncaron
 Encoding: 328 328 256
 Width: 1031
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 254 110 N 1 0 0 1 0 0 2
@@ -5143,7 +5163,7 @@ StartChar: ncommaaccent
 Encoding: 326 326 257
 Width: 1031
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 281 -36 2
@@ -5155,7 +5175,7 @@ Encoding: 57 57 258
 Width: 949
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5182,7 +5202,7 @@ Encoding: 8800 8800 259
 Width: 1145
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5215,7 +5235,7 @@ Encoding: 241 241 260
 Width: 1031
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 222 0 2
@@ -5227,7 +5247,7 @@ Encoding: 35 35 261
 Width: 1186
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5273,20 +5293,20 @@ Encoding: 111 111 262
 Width: 967
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-482 107 m 1
- 320 108 213 227 213 402 c 0
- 213 576 319 694 482 694 c 0
- 646 694 753 577 753 402 c 0
- 753 226 645 108 482 107 c 1
-482 -18 m 0
- 730 -18 910 158 910 402 c 0
- 910 645 732 820 484 820 c 0
- 239 820 57 643 57 402 c 0
- 57 157 233 -18 482 -18 c 0
+483 -18 m 3
+ 233 -18 57 157 57 402 c 3
+ 57 643 239 820 483 820 c 3
+ 727 820 909 643 909 402 c 3
+ 909 157 733 -18 483 -18 c 3
+483 694 m 3
+ 319 694 213 576 213 402 c 3
+ 213 227 320 107 483 107 c 3
+ 646 107 753 227 753 402 c 3
+ 753 576 647 694 483 694 c 3
 EndSplineSet
 EndChar
 
@@ -5295,7 +5315,7 @@ Encoding: 243 243 263
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 262 111 N 1 0 0 1 0 0 2
@@ -5306,7 +5326,7 @@ StartChar: obreve
 Encoding: 335 335 264
 Width: 966
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 262 111 N 1 0 0 1 0 0 2
@@ -5318,7 +5338,7 @@ Encoding: 244 244 265
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 262 111 N 1 0 0 1 0 0 2
@@ -5330,7 +5350,7 @@ Encoding: 246 246 266
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 262 111 N 1 0 0 1 0 0 2
@@ -5342,7 +5362,7 @@ Encoding: 339 339 267
 Width: 1648
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5376,7 +5396,7 @@ Encoding: 731 731 268
 Width: 587
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5397,7 +5417,7 @@ Encoding: 242 242 269
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 262 111 N 1 0 0 1 0 0 2
@@ -5408,7 +5428,7 @@ StartChar: ohungarumlaut
 Encoding: 337 337 270
 Width: 966
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 262 111 N 1 0 0 1 0 0 2
@@ -5419,7 +5439,7 @@ StartChar: omacron
 Encoding: 333 333 271
 Width: 966
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 262 111 N 1 0 0 1 0 0 2
@@ -5431,7 +5451,7 @@ Encoding: 49 49 272
 Width: 584
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5454,7 +5474,7 @@ Encoding: 189 189 273
 Width: 1690
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5496,7 +5516,7 @@ Encoding: 188 188 274
 Width: 1665
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5544,7 +5564,7 @@ Encoding: 170 170 275
 Width: 696
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5579,7 +5599,7 @@ Encoding: 186 186 276
 Width: 704
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5602,7 +5622,7 @@ Encoding: 248 248 277
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5637,7 +5657,7 @@ Encoding: 245 245 278
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 329 732 N 1 0 0 1 189 0 2
@@ -5649,7 +5669,7 @@ Encoding: 112 112 279
 Width: 1080
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 237 -1 N 1 0 0 1 19 0 2
@@ -5661,7 +5681,7 @@ Encoding: 182 182 280
 Width: 1096
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5686,7 +5706,7 @@ Encoding: 40 40 281
 Width: 522
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5705,7 +5725,7 @@ Encoding: 41 41 282
 Width: 522
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5724,7 +5744,7 @@ Encoding: 8706 8706 283
 Width: 816
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5760,7 +5780,7 @@ Encoding: 37 37 284
 Width: 1579
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5798,7 +5818,7 @@ Encoding: 46 46 285
 Width: 414
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5815,7 +5835,7 @@ Encoding: 183 183 286
 Width: 414
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5832,7 +5852,7 @@ Encoding: 960 960 287
 Width: 1032
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5869,7 +5889,7 @@ Encoding: 43 43 288
 Width: 1047
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5894,7 +5914,7 @@ Encoding: 177 177 289
 Width: 1145
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5924,7 +5944,7 @@ Encoding: 8719 8719 290
 Width: 1299
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -5963,7 +5983,7 @@ Encoding: 113 113 291
 Width: 1023
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 236 -1 N 1 0 0 1 0 0 2
@@ -5975,7 +5995,7 @@ Encoding: 63 63 292
 Width: 796
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6003,7 +6023,7 @@ Encoding: 191 191 293
 Width: 796
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 292 63 N -0.999939 0 0 -0.999939 796 1196 2
@@ -6014,7 +6034,7 @@ Encoding: 34 34 294
 Width: 665
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6036,7 +6056,7 @@ Encoding: 8222 8222 295
 Width: 785
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6064,7 +6084,7 @@ Encoding: 8220 8220 296
 Width: 720
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6092,7 +6112,7 @@ Encoding: 8221 8221 297
 Width: 704
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6120,7 +6140,7 @@ Encoding: 8216 8216 298
 Width: 382
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6140,7 +6160,7 @@ Encoding: 8217 8217 299
 Width: 364
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6160,7 +6180,7 @@ Encoding: 8218 8218 300
 Width: 389
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6180,7 +6200,7 @@ Encoding: 39 39 301
 Width: 337
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6197,7 +6217,7 @@ Encoding: 114 114 302
 Width: 743
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6214,7 +6234,7 @@ StartChar: racute
 Encoding: 341 341 303
 Width: 761
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 302 114 N 1 0 0 1 0 0 2
@@ -6226,7 +6246,7 @@ Encoding: 8730 8730 304
 Width: 686
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6248,7 +6268,7 @@ Encoding: 345 345 305
 Width: 761
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 302 114 N 1 0 0 1 0 0 2
@@ -6260,7 +6280,7 @@ Encoding: 343 343 306
 Width: 761
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 67 -36 2
@@ -6272,7 +6292,7 @@ Encoding: 174 174 307
 Width: 1338
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6320,7 +6340,7 @@ Encoding: 730 730 308
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6342,7 +6362,7 @@ Encoding: 115 115 309
 Width: 840
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6376,7 +6396,7 @@ StartChar: sacute
 Encoding: 347 347 310
 Width: 809
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 309 115 N 1 0 0 1 0 0 2
@@ -6388,7 +6408,7 @@ Encoding: 353 353 311
 Width: 809
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 309 115 N 1 0 0 1 0 0 2
@@ -6399,7 +6419,7 @@ StartChar: scedilla
 Encoding: 351 351 312
 Width: 809
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 309 115 N 1 0 0 1 0 0 2
@@ -6410,7 +6430,7 @@ StartChar: scircumflex
 Encoding: 349 349 313
 Width: 809
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 309 115 N 1 0 0 1 0 0 2
@@ -6422,7 +6442,7 @@ Encoding: 537 537 314
 Width: 809
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 152 0 2
@@ -6434,7 +6454,7 @@ Encoding: 167 167 315
 Width: 877
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6473,7 +6493,7 @@ Encoding: 59 59 316
 Width: 414
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6498,7 +6518,7 @@ Encoding: 55 55 317
 Width: 819
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6524,7 +6544,7 @@ Encoding: 54 54 318
 Width: 947
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6552,7 +6572,7 @@ Encoding: 47 47 319
 Width: 793
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6569,7 +6589,7 @@ Encoding: 32 32 320
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -6578,7 +6598,7 @@ Encoding: 163 163 321
 Width: 993
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6624,7 +6644,7 @@ Encoding: 8721 8721 322
 Width: 1132
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6656,17 +6676,17 @@ Encoding: 116 116 323
 Width: 565
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
 146 689 m 1
  146 273 l 2
- 146 62 223 -4 412 -4 c 2
+ 146 62 225.026315789 -4 419 -4 c 2
  507 -4 l 1
  507 112 l 1
  452 112 l 2
- 323 112 297 124 297 285 c 2
+ 323 112 297 127 297 285 c 2
  297 689 l 1
  477 689 l 1
  477 805 l 1
@@ -6684,7 +6704,7 @@ StartChar: tcaron
 Encoding: 357 357 324
 Width: 528
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 323 116 N 1 0 0 1 0 0 2
@@ -6695,7 +6715,7 @@ StartChar: tcommaaccent
 Encoding: 355 355 325
 Width: 528
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 323 116 N 1 0 0 1 0 0 2
@@ -6707,7 +6727,7 @@ Encoding: 254 254 326
 Width: 1026
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6739,7 +6759,7 @@ Encoding: 51 51 327
 Width: 953
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6768,7 +6788,7 @@ Encoding: 190 190 328
 Width: 1936
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6822,7 +6842,7 @@ Encoding: 732 732 329
 Width: 587
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6846,7 +6866,7 @@ Encoding: 8482 8482 330
 Width: 1986
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6901,7 +6921,7 @@ Encoding: 50 50 331
 Width: 936
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6928,7 +6948,7 @@ Encoding: 117 117 332
 Width: 990
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6959,7 +6979,7 @@ Encoding: 250 250 333
 Width: 994
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -6970,7 +6990,7 @@ StartChar: ubreve
 Encoding: 365 365 334
 Width: 994
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -6981,7 +7001,7 @@ StartChar: uc_main_stem
 Encoding: 65546 -1 335
 Width: 572
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7006,7 +7026,7 @@ Encoding: 251 251 336
 Width: 994
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -7018,7 +7038,7 @@ Encoding: 252 252 337
 Width: 994
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -7030,7 +7050,7 @@ Encoding: 249 249 338
 Width: 994
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -7041,7 +7061,7 @@ StartChar: uhungarumlaut
 Encoding: 369 369 339
 Width: 994
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -7052,7 +7072,7 @@ StartChar: umacron
 Encoding: 363 363 340
 Width: 994
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -7064,7 +7084,7 @@ Encoding: 95 95 341
 Width: 898
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7081,7 +7101,7 @@ Encoding: 1 1 342
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7090,7 +7110,7 @@ Encoding: 2 2 343
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7099,7 +7119,7 @@ Encoding: 3 3 344
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7108,7 +7128,7 @@ Encoding: 4 4 345
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7117,7 +7137,7 @@ Encoding: 5 5 346
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7126,7 +7146,7 @@ Encoding: 6 6 347
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7135,7 +7155,7 @@ Encoding: 7 7 348
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7144,7 +7164,7 @@ Encoding: 8 8 349
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7153,7 +7173,7 @@ Encoding: 9 9 350
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7162,7 +7182,7 @@ Encoding: 16 16 351
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7171,7 +7191,7 @@ Encoding: 17 17 352
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7180,7 +7200,7 @@ Encoding: 18 18 353
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7189,7 +7209,7 @@ Encoding: 19 19 354
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7198,7 +7218,7 @@ Encoding: 20 20 355
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7207,7 +7227,7 @@ Encoding: 21 21 356
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7216,7 +7236,7 @@ Encoding: 22 22 357
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7225,7 +7245,7 @@ Encoding: 23 23 358
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7234,7 +7254,7 @@ Encoding: 24 24 359
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7243,7 +7263,7 @@ Encoding: 25 25 360
 Width: 0
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7251,7 +7271,7 @@ StartChar: uni00A0
 Encoding: 160 160 361
 Width: 2048
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7260,7 +7280,7 @@ Encoding: 173 173 362
 Width: 1707
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -7269,7 +7289,7 @@ Encoding: 178 178 363
 Width: 747
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7295,7 +7315,7 @@ Encoding: 179 179 364
 Width: 783
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7326,7 +7346,7 @@ AltUni2: 0003bc.ffffffff.0
 Width: 925
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7359,7 +7379,7 @@ Encoding: 185 185 366
 Width: 476
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7381,7 +7401,7 @@ StartChar: uni01C4
 Encoding: 452 452 367
 Width: 2281
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 114 381 N 1 0 0 1 1271 0 2
@@ -7392,7 +7412,7 @@ StartChar: uni01C5
 Encoding: 453 453 368
 Width: 2104
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 428 382 N 1 0 0 1 1271 0 2
@@ -7403,7 +7423,7 @@ StartChar: uni01C6
 Encoding: 454 454 369
 Width: 1904
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 428 382 N 1 0 0 1 1071 0 2
@@ -7414,7 +7434,7 @@ StartChar: uni01C9
 Encoding: 457 457 370
 Width: 928
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 231 108 N 1 0 0 1 0 0 2
@@ -7425,7 +7445,7 @@ StartChar: uni01CC
 Encoding: 460 460 371
 Width: 1472
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 254 110 N 1 0 0 1 0 0 2
@@ -7436,7 +7456,7 @@ StartChar: uni01F1
 Encoding: 497 497 372
 Width: 2281
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 112 90 N 1 0 0 1 1271 0 2
@@ -7447,7 +7467,7 @@ StartChar: uni01F2
 Encoding: 498 498 373
 Width: 2104
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 426 122 N 1 0 0 1 1271 0 2
@@ -7458,7 +7478,7 @@ StartChar: uni01F3
 Encoding: 499 499 374
 Width: 1904
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 426 122 N 1 0 0 1 1071 0 2
@@ -7469,7 +7489,7 @@ StartChar: uni01F4
 Encoding: 500 500 375
 Width: 1294
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 120 180 N 1 0 0 1 428 359 2
@@ -7480,7 +7500,7 @@ StartChar: uni01F5
 Encoding: 501 501 376
 Width: 1069
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 196 103 N 1 0 0 1 0 0 2
@@ -7492,7 +7512,7 @@ Encoding: 455 455 377
 Width: 1551
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 56 76 N 1 0 0 1 0 0 2
@@ -7504,7 +7524,7 @@ Encoding: 456 456 378
 Width: 1408
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 226 106 N 1 0 0 1 966 0 2
@@ -7516,7 +7536,7 @@ Encoding: 458 458 379
 Width: 1911
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 63 78 N 1 0 0 1 0 0 2
@@ -7528,7 +7548,7 @@ Encoding: 459 459 380
 Width: 1768
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 226 106 N 1 0 0 1 1326 0 2
@@ -7540,7 +7560,7 @@ Encoding: 512 512 381
 Width: 1196
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 238 374 2
@@ -7552,7 +7572,7 @@ Encoding: 513 513 382
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 112 23 2
@@ -7564,7 +7584,7 @@ Encoding: 514 514 383
 Width: 1196
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 306 348 2
@@ -7576,7 +7596,7 @@ Encoding: 515 515 384
 Width: 889
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 152 0 2
@@ -7588,7 +7608,7 @@ Encoding: 516 516 385
 Width: 1119
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 186 374 2
@@ -7600,7 +7620,7 @@ Encoding: 517 517 386
 Width: 955
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 116 23 2
@@ -7612,7 +7632,7 @@ Encoding: 518 518 387
 Width: 1119
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 267 348 2
@@ -7624,7 +7644,7 @@ Encoding: 519 519 388
 Width: 955
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 185 0 2
@@ -7636,7 +7656,7 @@ Encoding: 520 520 389
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 -70 374 2
@@ -7648,7 +7668,7 @@ Encoding: 521 521 390
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 -90 23 2
@@ -7660,7 +7680,7 @@ Encoding: 522 522 391
 Width: 581
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 0 348 2
@@ -7672,7 +7692,7 @@ Encoding: 523 523 392
 Width: 509
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 -36 0 2
@@ -7684,7 +7704,7 @@ Encoding: 524 524 393
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 302 374 2
@@ -7696,7 +7716,7 @@ Encoding: 525 525 394
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 124 23 2
@@ -7708,7 +7728,7 @@ Encoding: 526 526 395
 Width: 1321
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 368 348 2
@@ -7720,7 +7740,7 @@ Encoding: 527 527 396
 Width: 966
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 191 -18 2
@@ -7732,7 +7752,7 @@ Encoding: 528 528 397
 Width: 1107
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 224 374 2
@@ -7744,7 +7764,7 @@ Encoding: 529 529 398
 Width: 761
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 113 0 2
@@ -7756,7 +7776,7 @@ Encoding: 530 530 399
 Width: 1107
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 261 348 2
@@ -7768,7 +7788,7 @@ Encoding: 531 531 400
 Width: 761
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 88 0 2
@@ -7780,7 +7800,7 @@ Encoding: 532 532 401
 Width: 1211
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 246 374 2
@@ -7792,7 +7812,7 @@ Encoding: 533 533 402
 Width: 994
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 409 783 N 1 0 0 1 142 23 2
@@ -7804,7 +7824,7 @@ Encoding: 534 534 403
 Width: 1211
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 313 348 2
@@ -7816,7 +7836,7 @@ Encoding: 535 535 404
 Width: 994
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 410 785 N 1 0 0 1 205 0 2
@@ -7828,7 +7848,7 @@ Encoding: 538 538 405
 Width: 1034
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 260 0 2
@@ -7840,7 +7860,7 @@ Encoding: 539 539 406
 Width: 528
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 411 806 N 1 0 0 1 61 0 2
@@ -7852,7 +7872,7 @@ Encoding: 567 567 407
 Width: 441
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7876,7 +7896,7 @@ Encoding: 775 775 408
 Width: 535
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7893,7 +7913,7 @@ Encoding: 783 783 409
 Width: 587
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7915,7 +7935,7 @@ Encoding: 785 785 410
 Width: 584
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7934,7 +7954,7 @@ Encoding: 806 806 411
 Width: 554
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7954,7 +7974,7 @@ Encoding: 8308 8308 412
 Width: 875
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7986,7 +8006,7 @@ Encoding: 8710 8710 413
 Width: 996
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8011,7 +8031,7 @@ Encoding: 64257 64257 414
 Width: 1029
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8057,7 +8077,7 @@ Encoding: 64258 64258 415
 Width: 1009
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8096,7 +8116,7 @@ StartChar: uogonek
 Encoding: 371 371 416
 Width: 994
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -8107,7 +8127,7 @@ StartChar: uring
 Encoding: 367 367 417
 Width: 994
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -8118,7 +8138,7 @@ StartChar: utilde
 Encoding: 361 361 418
 Width: 994
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 332 117 N 1 0 0 1 0 0 2
@@ -8130,7 +8150,7 @@ Encoding: 118 118 419
 Width: 944
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8158,7 +8178,7 @@ Encoding: 119 119 420
 Width: 1386
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8167,25 +8187,25 @@ SplineSet
  -7 805 l 1
  -7 689 l 1
  97 689 l 1
- 335 0 l 1
+ 343 0 l 1
  478 0 l 1
  689 622 l 1
  895 0 l 1
- 1037 0 l 1
+ 1031 0 l 5
  1271 689 l 1
  1393 689 l 1
  1393 805 l 1
  1017 805 l 1
  1017 689 l 1
  1137 689 l 1
- 970 146 l 1
- 789 689 l 1
+ 964 146 l 5
+ 777 689 l 1
  884 689 l 1
  884 805 l 1
  486 805 l 1
  486 689 l 1
- 581 689 l 1
- 404 157 l 1
+ 595 689 l 1
+ 412 157 l 1
  237 689 l 1
  347 689 l 1
 EndSplineSet
@@ -8196,7 +8216,7 @@ Encoding: 120 120 421
 Width: 959
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8237,7 +8257,7 @@ Encoding: 121 121 422
 Width: 958
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8271,7 +8291,7 @@ Encoding: 253 253 423
 Width: 982
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 422 121 N 1 0 0 1 0 0 2
@@ -8283,7 +8303,7 @@ Encoding: 255 255 424
 Width: 982
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 422 121 N 1 0 0 1 0 0 2
@@ -8295,7 +8315,7 @@ Encoding: 165 165 425
 Width: 1130
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8343,7 +8363,7 @@ Encoding: 122 122 426
 Width: 821
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -8369,7 +8389,7 @@ StartChar: zacute
 Encoding: 378 378 427
 Width: 833
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 426 122 N 1 0 0 1 0 0 2
@@ -8381,7 +8401,7 @@ Encoding: 382 382 428
 Width: 833
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 426 122 N 1 0 0 1 0 0 2
@@ -8392,7 +8412,7 @@ StartChar: zdotaccent
 Encoding: 380 380 429
 Width: 833
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 426 122 N 1 0 0 1 0 0 2
@@ -8404,7 +8424,7 @@ Encoding: 48 48 430
 Width: 1004
 VWidth: 0
 GlyphClass: 2
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
