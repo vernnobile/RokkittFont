@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute" format="1">
+  <advance width="1107"/>
+  <unicode hex="0154"/>
+  <outline>
+    <component base="R"/>
+    <component base="acute" xOffset="235" yOffset="348"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>back</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>Racute</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>1107</integer>
+    </dict>
+  </lib>
+</glyph>
