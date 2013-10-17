@@ -1,46 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="1413"/>
+  <advance width="1341.75181581"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="303.666" y="771" type="line"/>
-      <point x="152.666" y="771" type="line"/>
-      <point x="164.666" y="828" type="line"/>
-      <point x="373.666" y="828" type="line"/>
-      <point x="426.666" y="60" type="line"/>
-      <point x="851.666" y="828" type="line"/>
-      <point x="901.666" y="828" type="line"/>
-      <point x="963.666" y="60" type="line"/>
-      <point x="1202.67" y="457" type="line"/>
-      <point x="1263.67" y="554"/>
-      <point x="1319.67" y="667"/>
-      <point x="1319.67" y="774" type="curve" smooth="yes"/>
-      <point x="1319.67" y="797"/>
-      <point x="1315.67" y="819"/>
-      <point x="1310.67" y="840" type="curve"/>
-      <point x="1352.67" y="840" type="line" smooth="yes"/>
-      <point x="1406.67" y="840"/>
-      <point x="1411.67" y="786"/>
-      <point x="1411.67" y="760" type="curve" smooth="yes"/>
-      <point x="1411.67" y="673"/>
-      <point x="1363.67" y="585"/>
-      <point x="1257.67" y="415" type="curve" smooth="yes"/>
-      <point x="1011.67" y="21" type="line"/>
-      <point x="989.666" y="-7"/>
-      <point x="957.666" y="-19"/>
-      <point x="938.666" y="-19" type="curve" smooth="yes"/>
-      <point x="915.666" y="-19"/>
-      <point x="896.666" y="-3"/>
-      <point x="894.666" y="23" type="curve" smooth="yes"/>
-      <point x="839.666" y="660" type="line"/>
-      <point x="473.666" y="21" type="line"/>
-      <point x="452.666" y="-7"/>
-      <point x="419.666" y="-19"/>
-      <point x="401.666" y="-19" type="curve" smooth="yes"/>
-      <point x="378.666" y="-19"/>
-      <point x="358.666" y="-3"/>
-      <point x="357.666" y="23" type="curve" smooth="yes"/>
+      <point x="296" y="771" type="line"/>
+      <point x="145" y="771" type="line"/>
+      <point x="154" y="828" type="line"/>
+      <point x="366" y="828" type="line"/>
+      <point x="419" y="60" type="line"/>
+      <point x="844" y="828" type="line"/>
+      <point x="894" y="828" type="line"/>
+      <point x="956" y="60" type="line"/>
+      <point x="1189" y="457" type="line" smooth="yes"/>
+      <point x="1251" y="563"/>
+      <point x="1317" y="657"/>
+      <point x="1317" y="764" type="curve" smooth="yes"/>
+      <point x="1317" y="787"/>
+      <point x="1301" y="827"/>
+      <point x="1295" y="840" type="curve"/>
+      <point x="1330" y="840" type="line" smooth="yes"/>
+      <point x="1384" y="840"/>
+      <point x="1397" y="799"/>
+      <point x="1398" y="760" type="curve" smooth="yes"/>
+      <point x="1400" y="673"/>
+      <point x="1348" y="585"/>
+      <point x="1244" y="415" type="curve" smooth="yes"/>
+      <point x="1004" y="21" type="line"/>
+      <point x="982" y="-7"/>
+      <point x="950" y="-19"/>
+      <point x="931" y="-19" type="curve" smooth="yes"/>
+      <point x="908" y="-19"/>
+      <point x="889" y="-3"/>
+      <point x="887" y="23" type="curve" smooth="yes"/>
+      <point x="839" y="683" type="line"/>
+      <point x="466" y="21" type="line"/>
+      <point x="445" y="-7"/>
+      <point x="412" y="-19"/>
+      <point x="394" y="-19" type="curve" smooth="yes"/>
+      <point x="371" y="-19"/>
+      <point x="351" y="-3"/>
+      <point x="350" y="23" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1341.7518158066173</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

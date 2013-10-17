@@ -1,31 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="883"/>
+  <advance width="767"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="746.472" y="0" type="curve"/>
-      <point x="197.472" y="0" type="line" smooth="yes"/>
-      <point x="183.472" y="0"/>
-      <point x="179.472" y="15"/>
-      <point x="177.472" y="29" type="curve"/>
-      <point x="769.472" y="770" type="line"/>
-      <point x="407.472" y="770" type="line"/>
-      <point x="322.472" y="640" type="line"/>
-      <point x="253.472" y="659" type="line"/>
-      <point x="348.472" y="828" type="line"/>
-      <point x="857.472" y="828" type="line"/>
-      <point x="865.472" y="771" type="line" smooth="yes"/>
-      <point x="866.472" y="770"/>
-      <point x="291" y="58"/>
-      <point x="291" y="58" type="curve"/>
-      <point x="704.472" y="58" type="line"/>
-      <point x="718.472" y="84"/>
-      <point x="732.472" y="124"/>
-      <point x="746.472" y="206" type="curve"/>
-      <point x="806.472" y="184" type="line"/>
-      <point x="794.472" y="91"/>
-      <point x="778.472" y="33"/>
+      <point x="706" y="0" type="curve"/>
+      <point x="153" y="0" type="line" smooth="yes"/>
+      <point x="138" y="0"/>
+      <point x="135" y="15"/>
+      <point x="133" y="29" type="curve"/>
+      <point x="734" y="770" type="line"/>
+      <point x="330" y="770" type="line"/>
+      <point x="308" y="630" type="line"/>
+      <point x="239" y="639" type="line"/>
+      <point x="274" y="828" type="line"/>
+      <point x="801" y="828" type="line"/>
+      <point x="821" y="771" type="line" smooth="yes"/>
+      <point x="821" y="770"/>
+      <point x="246" y="58"/>
+      <point x="246" y="58" type="curve"/>
+      <point x="664" y="58" type="line"/>
+      <point x="678" y="84"/>
+      <point x="692" y="144"/>
+      <point x="702" y="206" type="curve"/>
+      <point x="762" y="184" type="line"/>
+      <point x="755" y="131"/>
+      <point x="738" y="33"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>z</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>767</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

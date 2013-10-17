@@ -1,24 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="1435"/>
+  <advance width="1392"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="575.197" y="0" type="line"/>
-      <point x="680.197" y="0" type="line"/>
-      <point x="1412.5" y="1248" type="line"/>
-      <point x="1568.5" y="1248" type="line"/>
-      <point x="1581.5" y="1311" type="line"/>
-      <point x="1186.5" y="1311" type="line"/>
-      <point x="1173.5" y="1248" type="line"/>
-      <point x="1309.5" y="1248" type="line"/>
-      <point x="648" y="83" type="line"/>
-      <point x="456" y="1248" type="line"/>
-      <point x="613.495" y="1248" type="line"/>
-      <point x="626.495" y="1311" type="line"/>
-      <point x="230.495" y="1311" type="line"/>
-      <point x="217.495" y="1248" type="line"/>
-      <point x="366.495" y="1248" type="line"/>
+      <point x="614" y="0" type="line"/>
+      <point x="719" y="0" type="line"/>
+      <point x="1452" y="1248" type="line"/>
+      <point x="1608" y="1248" type="line"/>
+      <point x="1621" y="1311" type="line"/>
+      <point x="1226" y="1311" type="line"/>
+      <point x="1213" y="1248" type="line"/>
+      <point x="1349" y="1248" type="line"/>
+      <point x="687" y="83" type="line"/>
+      <point x="495" y="1248" type="line"/>
+      <point x="652" y="1248" type="line"/>
+      <point x="665" y="1311" type="line"/>
+      <point x="269" y="1311" type="line"/>
+      <point x="256" y="1248" type="line"/>
+      <point x="405" y="1248" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>V</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1392</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
