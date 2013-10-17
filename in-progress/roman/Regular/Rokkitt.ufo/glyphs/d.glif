@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d" format="1">
-  <advance width="1009"/>
+  <advance width="1027"/>
   <unicode hex="0064"/>
   <outline>
-    <component base="lc_ascender_stem_2" xOffset="-46"/>
-    <component base="lc_bowl_left"/>
+    <component base="lc_ascender_stem_2" xOffset="266.935547"/>
+    <component base="lc_bowl_left" xOffset="-83.682114"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1009</integer>
+          <integer>1027</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scircumflex" format="1">
-  <advance width="809"/>
+  <advance width="898"/>
   <unicode hex="015D"/>
   <outline>
-    <component base="circumflex" xOffset="117" yOffset="26"/>
-    <component base="s"/>
+    <component base="circumflex" xOffset="49.323547" yOffset="26.0"/>
+    <component base="s" xOffset="76.500008"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>809</integer>
+          <integer>898</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

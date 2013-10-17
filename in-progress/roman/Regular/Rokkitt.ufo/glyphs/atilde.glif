@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde" format="1">
-  <advance width="889"/>
+  <advance width="1059"/>
   <unicode hex="00E3"/>
   <outline>
-    <component base="a"/>
-    <component base="tilde" xOffset="178" yOffset="-31"/>
+    <component base="a" xOffset="187.970581"/>
+    <component base="tilde" xOffset="142.911774" yOffset="-31.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>889</integer>
+          <integer>1059</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

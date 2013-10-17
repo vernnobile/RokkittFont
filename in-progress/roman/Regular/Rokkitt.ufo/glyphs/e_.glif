@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1097"/>
+  <advance width="1059"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="888" y="1036" type="line"/>
-      <point x="888" y="832" type="line"/>
-      <point x="1019" y="832" type="line"/>
-      <point x="1019" y="1152" type="line"/>
-      <point x="291" y="1152" type="line"/>
-      <point x="291" y="1036" type="line"/>
+      <point x="801" y="1036" type="line"/>
+      <point x="801" y="832" type="line"/>
+      <point x="932" y="832" type="line"/>
+      <point x="932" y="1152" type="line"/>
+      <point x="204" y="1152" type="line"/>
+      <point x="204" y="1036" type="line"/>
     </contour>
     <contour>
-      <point x="290" y="526" type="line"/>
-      <point x="686" y="526" type="line"/>
-      <point x="686" y="410" type="line"/>
-      <point x="787" y="410" type="line"/>
-      <point x="787" y="769" type="line"/>
-      <point x="687" y="769" type="line"/>
-      <point x="687" y="655" type="line"/>
-      <point x="290" y="655" type="line"/>
+      <point x="203" y="526" type="line"/>
+      <point x="599" y="526" type="line"/>
+      <point x="599" y="410" type="line"/>
+      <point x="700" y="410" type="line"/>
+      <point x="700" y="769" type="line"/>
+      <point x="600" y="769" type="line"/>
+      <point x="600" y="655" type="line"/>
+      <point x="203" y="655" type="line"/>
     </contour>
     <contour>
-      <point x="291" y="116" type="line"/>
-      <point x="291" y="0" type="line"/>
-      <point x="1028" y="0" type="line"/>
-      <point x="1028" y="328" type="line"/>
-      <point x="899" y="328" type="line"/>
-      <point x="899" y="116" type="line"/>
+      <point x="204" y="116" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="941" y="0" type="line"/>
+      <point x="941" y="328" type="line"/>
+      <point x="812" y="328" type="line"/>
+      <point x="812" y="116" type="line"/>
     </contour>
-    <component base="uc_main_stem"/>
+    <component base="uc_main_stem" xOffset="-175.205872"/>
   </outline>
   <lib>
     <dict>
@@ -55,8 +55,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1097</integer>
+          <integer>1059</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

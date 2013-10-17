@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcommaaccent" format="1">
-  <advance width="995"/>
+  <advance width="-11008"/>
   <unicode hex="0137"/>
   <outline>
-    <component base="k"/>
+    <component base="k" xOffset="-7901.440918"/>
   </outline>
   <lib>
     <dict>
@@ -29,8 +29,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>995</integer>
+          <integer>-11008</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-	<key>F</key>
-	<dict>
-	    <key>s</key>
-	    <integer>-16</integer>
-	    <key>period</key>
-	    <integer>-50</integer>
-	    <key>comma</key>
-	    <integer>-90</integer>
-	</dict>
-	<key>c</key>
-	<dict>
-	    <key>k</key>
-	    <integer>-23</integer>
-	    <key>h</key>
-	    <integer>-13</integer>
-	</dict>
-	<key>e</key>
-	<dict>
-	    <key>x</key>
-	    <integer>-13</integer>
-	    <key>b</key>
-	    <integer>-23</integer>
-	</dict>
-	<key>f</key>
-	<dict>
-	    <key>quoteright</key>
-	    <integer>100</integer>
-	    <key>quotedblright</key>
-	    <integer>110</integer>
-	</dict>
-	<key>g</key>
-	<dict>
-	    <key>g</key>
-	    <integer>-28</integer>
-	</dict>
-    </dict>
+  <dict>
+  </dict>
 </plist>

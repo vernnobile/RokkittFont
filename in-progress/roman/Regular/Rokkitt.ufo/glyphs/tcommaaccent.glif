@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="1">
-  <advance width="528"/>
+  <advance width="738"/>
   <unicode hex="0163"/>
   <outline>
-    <component base="cedilla" xOffset="35" yOffset="7"/>
-    <component base="t"/>
+    <component base="cedilla" xOffset="51.029419" yOffset="7.0"/>
+    <component base="t" xOffset="37.882355"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>528</integer>
+          <integer>738</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

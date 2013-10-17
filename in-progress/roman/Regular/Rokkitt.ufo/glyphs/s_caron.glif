@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="1">
-  <advance width="972"/>
+  <advance width="1059"/>
   <unicode hex="0160"/>
   <outline>
-    <component base="S"/>
-    <component base="caron" xOffset="189" yOffset="348"/>
+    <component base="S" xOffset="153.029419"/>
+    <component base="caron" xOffset="191.770355" yOffset="348.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>972</integer>
+          <integer>1059</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

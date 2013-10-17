@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omacron" format="1">
-  <advance width="966"/>
+  <advance width="1027"/>
   <unicode hex="014D"/>
   <outline>
-    <component base="macron" xOffset="194" yOffset="-141"/>
-    <component base="o"/>
+    <component base="macron" xOffset="203.323547" yOffset="-141.0"/>
+    <component base="o" xOffset="97.911774"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>966</integer>
+          <integer>1027</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

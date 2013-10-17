@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gbreve" format="1">
-  <advance width="1294"/>
+  <advance width="1380"/>
   <unicode hex="011E"/>
   <outline>
-    <component base="G"/>
-    <component base="breve" xOffset="360" yOffset="333"/>
+    <component base="G" xOffset="316.970581"/>
+    <component base="breve" xOffset="524.299744" yOffset="333.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1294</integer>
+          <integer>1380</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

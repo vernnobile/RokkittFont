@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="1267"/>
+  <advance width="1123"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="489" y="0" type="line"/>
-      <point x="489" y="116" type="line"/>
-      <point x="344" y="116" type="line"/>
-      <point x="435" y="422" type="line"/>
-      <point x="838" y="422" type="line"/>
-      <point x="939" y="116" type="line"/>
-      <point x="777" y="116" type="line"/>
-      <point x="777" y="0" type="line"/>
-      <point x="1237" y="0" type="line"/>
-      <point x="1237" y="116" type="line"/>
-      <point x="1096" y="116" type="line"/>
-      <point x="774" y="1036" type="line"/>
-      <point x="918" y="1036" type="line"/>
-      <point x="918" y="1152" type="line"/>
-      <point x="336" y="1152" type="line"/>
-      <point x="336" y="1036" type="line"/>
-      <point x="482" y="1036" type="line"/>
-      <point x="178" y="116" type="line"/>
-      <point x="30" y="116" type="line"/>
-      <point x="30" y="0" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="410" y="116" type="line"/>
+      <point x="265" y="116" type="line"/>
+      <point x="356" y="422" type="line"/>
+      <point x="759" y="422" type="line"/>
+      <point x="860" y="116" type="line"/>
+      <point x="698" y="116" type="line"/>
+      <point x="698" y="0" type="line"/>
+      <point x="1158" y="0" type="line"/>
+      <point x="1158" y="116" type="line"/>
+      <point x="1017" y="116" type="line"/>
+      <point x="695" y="1036" type="line"/>
+      <point x="839" y="1036" type="line"/>
+      <point x="839" y="1152" type="line"/>
+      <point x="257" y="1152" type="line"/>
+      <point x="257" y="1036" type="line"/>
+      <point x="403" y="1036" type="line"/>
+      <point x="99" y="116" type="line"/>
+      <point x="-48" y="116" type="line"/>
+      <point x="-48" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="625" y="1036" type="line"/>
-      <point x="636" y="1036" type="line"/>
-      <point x="803" y="531" type="line"/>
-      <point x="465" y="531" type="line"/>
+      <point x="546" y="1036" type="line"/>
+      <point x="557" y="1036" type="line"/>
+      <point x="724" y="531" type="line"/>
+      <point x="386" y="531" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -306,8 +306,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1267</integer>
+          <integer>1123</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

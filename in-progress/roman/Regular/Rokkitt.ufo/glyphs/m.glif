@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1604.0"/>
+  <advance width="1187"/>
   <unicode hex="006D"/>
   <outline>
-    <component base="lc_xheight_curved_stem" xOffset="539.0"/>
-    <component base="lc_xheight_curved_stem" xOffset="13.0"/>
-    <component base="lc_xheight_stem" xOffset="8.0"/>
+    <component base="lc_xheight_curved_stem" xOffset="904.34729"/>
+    <component base="lc_xheight_curved_stem" xOffset="378.34729"/>
+    <component base="lc_xheight_stem" xOffset="115.11763"/>
   </outline>
   <lib>
     <dict>
@@ -31,8 +31,15 @@
           <array>
           </array>
           <key>width</key>
-          <real>1604.0</real>
+          <integer>1187</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

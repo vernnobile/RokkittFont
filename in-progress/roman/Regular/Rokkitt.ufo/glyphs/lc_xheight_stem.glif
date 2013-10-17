@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lc_xheight_stem" format="1">
-  <advance width="1031"/>
+  <advance width="738"/>
   <outline>
     <contour>
-      <point x="206.0" y="689.0" type="line"/>
-      <point x="206.0" y="116.0" type="line"/>
-      <point x="54" y="116" type="line"/>
-      <point x="54" y="0" type="line"/>
-      <point x="502.0" y="0.0" type="line"/>
-      <point x="502.0" y="116.0" type="line"/>
-      <point x="357.0" y="116.0" type="line"/>
-      <point x="357.0" y="116.0"/>
-      <point x="357" y="648"/>
-      <point x="357" y="648" type="curve"/>
-      <point x="348" y="805" type="line"/>
-      <point x="54" y="805" type="line"/>
-      <point x="54" y="689" type="line"/>
+      <point x="290" y="689.0" type="line"/>
+      <point x="290" y="116.0" type="line"/>
+      <point x="138" y="116" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="586" y="0.0" type="line"/>
+      <point x="586" y="116.0" type="line"/>
+      <point x="441" y="116.0" type="line"/>
+      <point x="441" y="116.0"/>
+      <point x="441" y="648"/>
+      <point x="441" y="648" type="curve"/>
+      <point x="432" y="805" type="line"/>
+      <point x="138" y="805" type="line"/>
+      <point x="138" y="689" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,8 +42,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1031</integer>
+          <integer>738</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

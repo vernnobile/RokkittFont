@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Edotaccent" format="1">
-  <advance width="1119"/>
+  <advance width="577"/>
   <unicode hex="0116"/>
   <outline>
-    <component base="E"/>
-    <component base="uni0307" xOffset="278" yOffset="322"/>
+    <component base="E" xOffset="398.112"/>
+    <component base="uni0307" xOffset="556.0" yOffset="322.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1119</integer>
+          <integer>577</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

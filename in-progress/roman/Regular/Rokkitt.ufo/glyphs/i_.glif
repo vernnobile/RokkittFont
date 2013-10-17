@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="572.0"/>
+  <advance width="673"/>
   <unicode hex="0049"/>
   <outline>
-    <component base="uc_main_stem" xOffset="-5.0"/>
+    <component base="uc_main_stem" xOffset="-43.147057"/>
   </outline>
   <lib>
     <dict>
@@ -29,8 +29,15 @@
           <array>
           </array>
           <key>width</key>
-          <real>572.0</real>
+          <integer>673</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

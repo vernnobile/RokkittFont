@@ -1,29 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="four" format="1">
-  <advance width="875"/>
-  <unicode hex="0034"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="four" format="1">
+  <advance width="898"></advance>
+  <unicode hex="0034"></unicode>
   <outline>
     <contour>
-      <point x="24" y="315" type="line"/>
-      <point x="24" y="436" type="line"/>
-      <point x="487" y="1153" type="line"/>
-      <point x="625" y="1153" type="line"/>
-      <point x="625" y="436" type="line"/>
-      <point x="815" y="436" type="line"/>
-      <point x="815" y="315" type="line"/>
-      <point x="625" y="315" type="line"/>
-      <point x="625" y="116" type="line"/>
-      <point x="774" y="116" type="line"/>
-      <point x="774" y="0" type="line"/>
-      <point x="319" y="0" type="line"/>
-      <point x="319" y="116" type="line"/>
-      <point x="483" y="116" type="line"/>
-      <point x="483" y="315" type="line"/>
+      <point x="79" y="315" type="line"></point>
+      <point x="79" y="436" type="line"></point>
+      <point x="542" y="1153" type="line"></point>
+      <point x="680" y="1153" type="line"></point>
+      <point x="680" y="436" type="line"></point>
+      <point x="870" y="436" type="line"></point>
+      <point x="870" y="315" type="line"></point>
+      <point x="680" y="315" type="line"></point>
+      <point x="680" y="116" type="line"></point>
+      <point x="829" y="116" type="line"></point>
+      <point x="829" y="0" type="line"></point>
+      <point x="374" y="0" type="line"></point>
+      <point x="374" y="116" type="line"></point>
+      <point x="538" y="116" type="line"></point>
+      <point x="538" y="315" type="line"></point>
     </contour>
     <contour>
-      <point x="168" y="436" type="line"/>
-      <point x="483" y="436" type="line"/>
-      <point x="483" y="947" type="line"/>
+      <point x="223" y="436" type="line"></point>
+      <point x="538" y="436" type="line"></point>
+      <point x="538" y="947" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Igrave" format="1">
-  <advance width="581"/>
+  <advance width="706"/>
   <unicode hex="00CC"/>
   <outline>
-    <component base="I"/>
-    <component base="grave" xOffset="-62" yOffset="358"/>
+    <component base="I" xOffset="-7.946831"/>
+    <component base="grave" xOffset="-124.0" yOffset="358.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>581</integer>
+          <integer>706</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

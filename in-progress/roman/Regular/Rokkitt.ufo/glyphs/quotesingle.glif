@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotesingle" format="1">
-  <advance width="337"/>
-  <unicode hex="0027"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="quotesingle" format="1">
+  <advance width="513"></advance>
+  <unicode hex="0027"></unicode>
   <outline>
     <contour>
-      <point x="284" y="1171" type="line"/>
-      <point x="242" y="756" type="line"/>
-      <point x="112" y="756" type="line"/>
-      <point x="67" y="1171" type="line"/>
+      <point x="369" y="1171" type="line"></point>
+      <point x="327" y="756" type="line"></point>
+      <point x="197" y="756" type="line"></point>
+      <point x="152" y="1171" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

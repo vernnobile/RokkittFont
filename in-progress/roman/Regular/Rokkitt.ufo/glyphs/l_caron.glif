@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcaron" format="1">
-  <advance width="984"/>
+  <advance width="609"/>
   <unicode hex="013D"/>
   <outline>
-    <component base="L"/>
-    <component base="comma" xOffset="619" yOffset="960"/>
+    <component base="L" xOffset="814.906128"/>
+    <component base="comma" xOffset="1275.882324" yOffset="960.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>984</integer>
+          <integer>609</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

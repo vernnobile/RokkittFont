@@ -1,0 +1,157 @@
+
+languagesystem DFLT dflt;
+languagesystem DFLT LAT ;
+languagesystem grek dflt;
+languagesystem latn dflt;
+
+# GSUB 
+
+
+lookup ligaStandardLigatureslookup3 {
+  lookupflag 0;
+    sub \f \f  by \uniFB00;
+    sub \f \f  by \uniFB00;
+    sub \f \i  by \uniFB01;
+    sub \f \i  by \uniFB01;
+    sub \f \l  by \uniFB02;
+    sub \f \l  by \uniFB02;
+} ligaStandardLigatureslookup3;
+
+lookup fracDiagonalFractionslookup2 {
+  lookupflag 0;
+    sub \one \slash \two  by \onehalf;
+    sub \one \slash \four  by \onequarter;
+    sub \three \slash \four  by \threequarters;
+} fracDiagonalFractionslookup2;
+
+feature liga {
+
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigatureslookup3;
+     language LAT  exclude_dflt;
+      lookup ligaStandardLigatureslookup3;
+
+ script grek;
+     language dflt ;
+      lookup ligaStandardLigatureslookup3;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigatureslookup3;
+} liga;
+
+feature frac {
+
+ script DFLT;
+     language dflt ;
+      lookup fracDiagonalFractionslookup2;
+     language LAT  exclude_dflt;
+      lookup fracDiagonalFractionslookup2;
+
+ script latn;
+     language dflt ;
+      lookup fracDiagonalFractionslookup2;
+} frac;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinloo {
+  lookupflag 0;
+    pos \F \period -60;
+    pos \F \g -20;
+    pos \F \comma -60;
+    pos \G \X -20;
+    pos \K \X -44;
+    pos \L \quoteright -100;
+    pos \L \quotedblright -190;
+    pos \L \X -69;
+    pos \a \g -26;
+    pos \c \l -41;
+    pos \c \k -44;
+    pos \c \h -92;
+    pos \e \x -37;
+    pos \e \g -8;
+    pos \e \b -24;
+    pos \f \quoteright 80;
+    pos \f \quotedblright 90;
+    pos \f \f -97;
+    pos \g \g -15;
+} kernHorizontalKerninginLatinloo;
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    @kc3_first_1 = [\A \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Aogonek \Aring \Atilde ];
+    @kc3_first_2 = [\L ];
+    @kc3_first_3 = [\T ];
+    @kc3_first_4 = [\V \W ];
+    @kc3_second_1 = [\C \G \O \Q ];
+    @kc3_second_2 = [\T \Tcaron \Tcommaaccent ];
+    @kc3_second_3 = [\a \aacute \abreve \acircumflex \adieresis \ae \agrave \aogonek \aring \atilde \c 
+	\cacute \ccaron \ccedilla \ccircumflex \d \dcaron \dcroat \e \eacute 
+	\ecaron \ecircumflex \edieresis \egrave \eogonek \o \oacute 
+	\ocircumflex \odieresis \oe \ograve \ohungarumlaut \otilde \q ];
+    pos @kc3_first_1 @kc3_second_2 -103;
+    pos @kc3_first_2 @kc3_second_1 -48;
+    pos @kc3_first_2 @kc3_second_2 -169;
+    pos @kc3_first_3 @kc3_second_1 -81;
+    pos @kc3_first_3 @kc3_second_3 -82;
+    pos @kc3_first_4 @kc3_second_3 -82;
+} kernHorizontalKerninglookup0;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+     language LAT  exclude_dflt;
+      lookup kernHorizontalKerninglookup0;
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinloo;
+      lookup kernHorizontalKerninglookup0;
+} kern;
+
+@GDEF_Simple = [\A \AE \Aacute \Abreve \Acircumflex \Adieresis \Agrave \Aogonek 
+	\Aring \Atilde \B \C \CR \Cacute \Ccaron \Ccedilla \Ccircumflex \D \Dcaron \Dcroat 
+	\Dz \E \Eacute \Ecaron \Ecircumflex \Edieresis \Egrave \Eogonek \Eth \Euro \F \G \H 
+	\I \IJ \Iacute \Icircumflex \Idieresis \Igrave \Iogonek \Itilde \J \Jcircumflex \K 
+	\L \Lacute \Lcaron \Ldotaccent \Lslash \M \N \NULL \Nacute \Ncaron \Ntilde \O \OE 
+	\Oacute \Ocircumflex \Odieresis \Ograve \Ohungarumlaut \Oslash \Otilde \P \Q \R 
+	\Racute \Rcaron \Rcommaaccent \S \Sacute \Scaron \Scedilla \T \Tcaron 
+	\Tcommaaccent \Thorn \U \Uacute \Ucircumflex \Udieresis \Ugrave \Uhungarumlaut 
+	\Umacron \Uogonek \Uring \V \W \X \Y \Yacute \Ydieresis \Z \Zacute \Zcaron 
+	\Zdotaccent \a \a.alt \aacute \abreve \acircumflex \acute \adieresis \ae \agrave 
+	\ampersand \aogonek \aring \asciicircum \asciitilde \asterisk \at \atilde \b 
+	\backslash \bar \braceleft \braceright \bracketleft \bracketright \breve 
+	\brokenbar \bullet \c \cacute \caron \ccaron \ccedilla \ccircumflex \cedilla 
+	\cent \circumflex \colon \comma \commaaccent \copyright \currency \d \dagger 
+	\daggerdbl \dcaron \dcroat \degree \dieresis \divide \dollar \dotaccent 
+	\dotaccentcmb \dotlessi \dotlessj \e \eacute \ecaron \ecircumflex \edieresis 
+	\egrave \eight \ellipsis \emdash \endash \eogonek \equal \eth \exclam \exclamdown 
+	\f \five \florin \foundryicon \four \foursuperior \fraction \g \germandbls \grave 
+	\greater \guillemotleft \guillemotright \guilsinglleft \guilsinglright \h 
+	\hbar \hungarumlaut \hyphen \i \iacute \icircumflex \idieresis \igrave \ij 
+	\iogonek \itilde \j \jcircumflex \k \kcommaaccent \kgreenlandic \l \lacute 
+	\lcaron \ldot \less \logicalnot \lslash \m \macron \minus \mu \multiply \n \nacute 
+	\ncaron \nine \ntilde \numbersign \o \oacute \ocircumflex \odieresis \oe \ogonek 
+	\ograve \ohungarumlaut \one \onesuperior \ordfeminine \ordmasculine \oslash 
+	\otilde \p \paragraph \parenleft \parenright \percent \period \periodcentered 
+	\plus \plusminus \q \question \questiondown \quotedbl \quotedblbase 
+	\quotedblleft \quotedblright \quoteleft \quoteright \quotesinglbase 
+	\quotesingle \r \racute \rcaron \rcommaaccent \registered \ring \s \sacute 
+	\scaron \scedilla \section \semicolon \seven \six \slash \space \sterling \t 
+	\tcaron \tcommaaccent \thorn \three \threesuperior \tilde \trademark \two 
+	\twosuperior \u \uacute \ucircumflex \udieresis \ugrave \uhungarumlaut \umacron 
+	\underscore \uni0001 \uni0002 \uni0003 \uni0004 \uni0005 \uni0006 \uni00AD 
+	\uni030F \uni0311 \uogonek \uring \v \w \x \y \yacute \ydieresis \yen \z \zacute 
+	\zcaron \zdotaccent \zero \uc_main_stem \lc_main_stem \lc_curved_stem ];
+@GDEF_Ligature = [\onehalf \onequarter \threequarters \uniFB00 \uniFB01 \uniFB02 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+} GDEF;
+

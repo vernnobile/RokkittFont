@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lc_bowl_right" format="1">
-  <advance width="1061"/>
+  <advance width="930"/>
   <outline>
     <contour>
-      <point x="256.0" y="181.0" type="curve"/>
-      <point x="428.0" y="-135.0"/>
-      <point x="964" y="-79"/>
-      <point x="964" y="406" type="curve" smooth="yes"/>
-      <point x="964" y="925"/>
-      <point x="414.0" y="912.0"/>
-      <point x="256.0" y="617.0" type="curve"/>
-      <point x="256.0" y="494.0" type="line"/>
-      <point x="420.0" y="752.0"/>
-      <point x="808" y="808"/>
-      <point x="808" y="406" type="curve" smooth="yes"/>
-      <point x="808" y="92"/>
-      <point x="532.0" y="0.0"/>
-      <point x="256.0" y="269.0" type="curve"/>
-      <point x="256.0" y="269.0"/>
-      <point x="256.0" y="181.0"/>
+      <point x="117" y="181.0" type="curve"/>
+      <point x="289" y="-135.0"/>
+      <point x="825" y="-79"/>
+      <point x="825" y="406" type="curve" smooth="yes"/>
+      <point x="825" y="925"/>
+      <point x="275" y="912.0"/>
+      <point x="117" y="617.0" type="curve"/>
+      <point x="117" y="494.0" type="line"/>
+      <point x="281" y="752.0"/>
+      <point x="669" y="808"/>
+      <point x="669" y="406" type="curve" smooth="yes"/>
+      <point x="669" y="92"/>
+      <point x="393" y="0.0"/>
+      <point x="117" y="269.0" type="curve"/>
+      <point x="117" y="269.0"/>
+      <point x="117" y="181.0"/>
     </contour>
   </outline>
   <lib>
@@ -363,8 +363,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1061</integer>
+          <integer>930</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

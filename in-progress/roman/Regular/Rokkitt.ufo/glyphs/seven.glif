@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven" format="1">
-  <advance width="819"/>
-  <unicode hex="0037"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="seven" format="1">
+  <advance width="866"></advance>
+  <unicode hex="0037"></unicode>
   <outline>
     <contour>
-      <point x="641" y="1036" type="curve"/>
-      <point x="188" y="1036" type="line"/>
-      <point x="188" y="860" type="line"/>
-      <point x="51" y="860" type="line"/>
-      <point x="51" y="1153" type="line"/>
-      <point x="809" y="1153" type="line"/>
-      <point x="809" y="1025" type="line"/>
-      <point x="585" y="798"/>
-      <point x="450" y="516"/>
-      <point x="450" y="116" type="curve"/>
-      <point x="632" y="116" type="line"/>
-      <point x="632" y="0" type="line"/>
-      <point x="121" y="0" type="line"/>
-      <point x="121" y="116" type="line"/>
-      <point x="293" y="116" type="line"/>
-      <point x="293" y="471"/>
-      <point x="439" y="818"/>
+      <point x="665" y="1036" type="curve"></point>
+      <point x="212" y="1036" type="line"></point>
+      <point x="212" y="860" type="line"></point>
+      <point x="75" y="860" type="line"></point>
+      <point x="75" y="1153" type="line"></point>
+      <point x="833" y="1153" type="line"></point>
+      <point x="833" y="1025" type="line"></point>
+      <point x="609" y="798"></point>
+      <point x="474" y="516"></point>
+      <point x="474" y="116" type="curve"></point>
+      <point x="656" y="116" type="line"></point>
+      <point x="656" y="0" type="line"></point>
+      <point x="145" y="0" type="line"></point>
+      <point x="145" y="116" type="line"></point>
+      <point x="317" y="116" type="line"></point>
+      <point x="317" y="471"></point>
+      <point x="463" y="818"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

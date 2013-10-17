@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="bracketleft" format="1">
-  <advance width="569"/>
-  <unicode hex="005B"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="bracketleft" format="1">
+  <advance width="673"></advance>
+  <unicode hex="005B"></unicode>
   <outline>
     <contour>
-      <point x="147" y="1262" type="line"/>
-      <point x="541" y="1262" type="line"/>
-      <point x="541" y="1153" type="line"/>
-      <point x="290" y="1153" type="line"/>
-      <point x="290" y="-112" type="line"/>
-      <point x="541" y="-112" type="line"/>
-      <point x="541" y="-219" type="line"/>
-      <point x="147" y="-219" type="line"/>
+      <point x="165" y="1262" type="line"></point>
+      <point x="559" y="1262" type="line"></point>
+      <point x="559" y="1153" type="line"></point>
+      <point x="308" y="1153" type="line"></point>
+      <point x="308" y="-112" type="line"></point>
+      <point x="559" y="-112" type="line"></point>
+      <point x="559" y="-219" type="line"></point>
+      <point x="165" y="-219" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

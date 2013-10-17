@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="561"/>
+  <advance width="545"/>
   <unicode hex="006C"/>
   <outline>
-    <component base="lc_ascender_stem"/>
+    <component base="lc_ascender_stem" xOffset="-131.298218"/>
   </outline>
   <lib>
     <dict>
@@ -29,8 +29,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>561</integer>
+          <integer>545</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>190</integer>
+        <key>rstem</key>
+        <integer>302</integer>
       </dict>
     </dict>
   </lib>

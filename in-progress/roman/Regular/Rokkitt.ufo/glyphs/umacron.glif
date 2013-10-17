@@ -3,8 +3,8 @@
   <advance width="994"/>
   <unicode hex="016B"/>
   <outline>
-    <component base="macron" xOffset="212" yOffset="-141"/>
-    <component base="u"/>
+    <component base="macron" xOffset="206.176483" yOffset="-141.0"/>
+    <component base="u" xOffset="108.264709"/>
   </outline>
   <lib>
     <dict>
@@ -32,6 +32,13 @@
           <key>width</key>
           <integer>994</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

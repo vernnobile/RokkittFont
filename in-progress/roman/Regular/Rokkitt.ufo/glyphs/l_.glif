@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="966"/>
+  <advance width="1027"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="290" y="116" type="line"/>
-      <point x="290" y="0" type="line"/>
-      <point x="946" y="0" type="line"/>
-      <point x="946" y="452" type="line"/>
-      <point x="801" y="452" type="line"/>
-      <point x="801" y="116" type="line"/>
+      <point x="217" y="116" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="873" y="0" type="line"/>
+      <point x="873" y="452" type="line"/>
+      <point x="728" y="452" type="line"/>
+      <point x="728" y="116" type="line"/>
     </contour>
-    <component base="uc_main_stem"/>
+    <component base="uc_main_stem" xOffset="-161.0"/>
   </outline>
   <lib>
     <dict>
@@ -37,8 +37,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>966</integer>
+          <integer>1027</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

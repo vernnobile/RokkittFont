@@ -1,49 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="1323"/>
+  <advance width="1347"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="993" y="-229" type="curve" smooth="yes"/>
-      <point x="1058" y="-229"/>
-      <point x="1117" y="-214"/>
-      <point x="1175" y="-192" type="curve"/>
-      <point x="1130" y="-70" type="line"/>
-      <point x="1095" y="-81"/>
-      <point x="1046" y="-97"/>
-      <point x="987" y="-97" type="curve" smooth="yes"/>
-      <point x="917" y="-97"/>
-      <point x="834" y="-75"/>
-      <point x="744" y="4" type="curve"/>
-      <point x="1036" y="36"/>
-      <point x="1257" y="251"/>
-      <point x="1257" y="586" type="curve" smooth="yes"/>
-      <point x="1257" y="921"/>
-      <point x="1009" y="1171"/>
-      <point x="665" y="1171" type="curve" smooth="yes"/>
-      <point x="308" y="1171"/>
-      <point x="66" y="924"/>
-      <point x="66" y="573" type="curve" smooth="yes"/>
-      <point x="66" y="273"/>
-      <point x="258" y="67"/>
-      <point x="512" y="9" type="curve"/>
-      <point x="711" y="-169"/>
-      <point x="863" y="-229"/>
+      <point x="1091" y="-196" type="curve"/>
+      <point x="1130" y="-53" type="line"/>
+      <point x="875" y="-100"/>
+      <point x="768" y="82"/>
+      <point x="405" y="-53" type="curve"/>
+      <point x="426" y="-151" type="line"/>
+      <point x="746" y="-57"/>
+      <point x="808" y="-223"/>
     </contour>
-    <contour>
-      <point x="660" y="116" type="curve" smooth="yes"/>
-      <point x="407" y="116"/>
-      <point x="243" y="319"/>
-      <point x="243" y="574" type="curve" smooth="yes"/>
-      <point x="243" y="829"/>
-      <point x="409" y="1036"/>
-      <point x="660" y="1037" type="curve"/>
-      <point x="913" y="1036"/>
-      <point x="1079" y="830"/>
-      <point x="1079" y="574" type="curve" smooth="yes"/>
-      <point x="1079" y="317"/>
-      <point x="915" y="116"/>
-    </contour>
+    <component base="O"/>
   </outline>
   <lib>
     <dict>
@@ -463,8 +433,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1323</integer>
+          <integer>1347</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

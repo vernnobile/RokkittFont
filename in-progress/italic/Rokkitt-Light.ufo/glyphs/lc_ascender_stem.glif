@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_ascender_stem" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="544" y="1311" type="line" smooth="yes"/>
+      <point x="277" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="446" y="1254" type="line"/>
+      <point x="278" y="1254" type="line"/>
+      <point x="290" y="1311" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

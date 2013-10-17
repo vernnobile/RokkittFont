@@ -1,31 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lslash" format="1">
-  <advance width="984"/>
-  <unicode hex="0141"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Lslash" format="1">
+  <advance width="1059"></advance>
+  <unicode hex="0141"></unicode>
   <outline>
     <contour>
-      <point x="59" y="1153" type="line"/>
-      <point x="533" y="1153" type="line"/>
-      <point x="533" y="1037" type="line"/>
-      <point x="378" y="1037" type="line"/>
-      <point x="378" y="705" type="line"/>
-      <point x="627" y="805" type="line"/>
-      <point x="627" y="676" type="line"/>
-      <point x="378" y="576" type="line"/>
-      <point x="378" y="116" type="line"/>
-      <point x="788" y="116" type="line"/>
-      <point x="788" y="452" type="line"/>
-      <point x="933" y="452" type="line"/>
-      <point x="933" y="0" type="line"/>
-      <point x="59" y="0" type="line"/>
-      <point x="59" y="116" type="line"/>
-      <point x="217" y="116" type="line"/>
-      <point x="217" y="512" type="line"/>
-      <point x="60" y="450" type="line"/>
-      <point x="60" y="579" type="line"/>
-      <point x="217" y="641" type="line"/>
-      <point x="217" y="1037" type="line"/>
-      <point x="59" y="1037" type="line"/>
+      <point x="37" y="1153" type="line"></point>
+      <point x="511" y="1153" type="line"></point>
+      <point x="511" y="1037" type="line"></point>
+      <point x="356" y="1037" type="line"></point>
+      <point x="356" y="705" type="line"></point>
+      <point x="605" y="805" type="line"></point>
+      <point x="605" y="676" type="line"></point>
+      <point x="356" y="576" type="line"></point>
+      <point x="356" y="116" type="line"></point>
+      <point x="766" y="116" type="line"></point>
+      <point x="766" y="452" type="line"></point>
+      <point x="911" y="452" type="line"></point>
+      <point x="911" y="0" type="line"></point>
+      <point x="37" y="0" type="line"></point>
+      <point x="37" y="116" type="line"></point>
+      <point x="195" y="116" type="line"></point>
+      <point x="195" y="512" type="line"></point>
+      <point x="38" y="450" type="line"></point>
+      <point x="38" y="579" type="line"></point>
+      <point x="195" y="641" type="line"></point>
+      <point x="195" y="1037" type="line"></point>
+      <point x="37" y="1037" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

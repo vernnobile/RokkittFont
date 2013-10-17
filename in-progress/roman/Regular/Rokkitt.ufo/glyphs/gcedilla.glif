@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcedilla" format="1">
-  <advance width="1069"/>
+  <advance width="609"/>
   <unicode hex="0123"/>
   <outline>
-    <component base="g"/>
-    <component base="uni0326" xScale="-1" yScale="-1" xOffset="776" yOffset="852"/>
+    <component base="g" xOffset="856.882324"/>
+    <component base="uni0326" xOffset="1552.0" yOffset="852.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1069</integer>
+          <integer>609</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

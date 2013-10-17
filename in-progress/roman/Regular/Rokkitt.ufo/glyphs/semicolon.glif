@@ -1,26 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="semicolon" format="1">
-  <advance width="414"/>
-  <unicode hex="003B"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="semicolon" format="1">
+  <advance width="609"></advance>
+  <unicode hex="003B"></unicode>
   <outline>
     <contour>
-      <point x="100" y="211" type="line"/>
-      <point x="327" y="211" type="line"/>
-      <point x="327" y="0" type="line"/>
-      <point x="328" y="-164"/>
-      <point x="257" y="-239"/>
-      <point x="100" y="-237" type="curve"/>
-      <point x="100" y="-150" type="line"/>
-      <point x="187" y="-132"/>
-      <point x="221" y="-100"/>
-      <point x="221" y="0" type="curve"/>
-      <point x="100" y="0" type="line"/>
+      <point x="195" y="211" type="line"></point>
+      <point x="422" y="211" type="line"></point>
+      <point x="422" y="0" type="line"></point>
+      <point x="423" y="-164"></point>
+      <point x="352" y="-239"></point>
+      <point x="195" y="-237" type="curve"></point>
+      <point x="195" y="-150" type="line"></point>
+      <point x="282" y="-132"></point>
+      <point x="316" y="-100"></point>
+      <point x="316" y="0" type="curve"></point>
+      <point x="195" y="0" type="line"></point>
     </contour>
     <contour>
-      <point x="93" y="820" type="line"/>
-      <point x="320" y="820" type="line"/>
-      <point x="320" y="609" type="line"/>
-      <point x="93" y="609" type="line"/>
+      <point x="188" y="820" type="line"></point>
+      <point x="415" y="820" type="line"></point>
+      <point x="415" y="609" type="line"></point>
+      <point x="188" y="609" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

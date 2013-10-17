@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="1196"/>
+  <advance width="1187"/>
   <unicode hex="00C5"/>
   <outline>
-    <component base="A"/>
-    <component base="ring" xOffset="315" yOffset="348"/>
+    <component base="A" xOffset="178.911774"/>
+    <component base="ring" xOffset="320.65271" yOffset="348.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1196</integer>
+          <integer>1187</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

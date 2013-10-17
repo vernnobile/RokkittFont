@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="1">
-  <advance width="1321"/>
+  <advance width="1444"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="O"/>
-    <component base="hungarumlaut" xOffset="458" yOffset="374"/>
+    <component base="O" xOffset="423.235291"/>
+    <component base="hungarumlaut" xOffset="715.564453" yOffset="374.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1321</integer>
+          <integer>1444</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

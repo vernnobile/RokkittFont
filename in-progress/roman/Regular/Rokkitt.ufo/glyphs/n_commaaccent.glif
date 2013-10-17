@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncommaaccent" format="1">
-  <advance width="1322"/>
+  <advance width="1251"/>
   <unicode hex="0145"/>
   <outline>
-    <component base="N"/>
-    <component base="uni0326" xOffset="418" yOffset="-36"/>
+    <component base="N" xOffset="263.235291"/>
+    <component base="uni0326" xOffset="545.593872" yOffset="-36.0"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1322</integer>
+          <integer>1251</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="1">
-  <advance width="557"/>
+  <advance width="866"/>
   <unicode hex="0134"/>
   <outline>
     <component base="J"/>
@@ -29,8 +29,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>557</integer>
+          <integer>866</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

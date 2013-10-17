@@ -1,21 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="exclamdown" format="1">
-  <advance width="466"/>
-  <unicode hex="00A1"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="exclamdown" format="1">
+  <advance width="577"></advance>
+  <unicode hex="00A1"></unicode>
   <outline>
     <contour>
-      <point x="127" y="959" type="line"/>
-      <point x="127" y="1171" type="line"/>
-      <point x="339" y="1171" type="line"/>
-      <point x="339" y="959" type="line"/>
+      <point x="174" y="959" type="line"></point>
+      <point x="174" y="1171" type="line"></point>
+      <point x="386" y="1171" type="line"></point>
+      <point x="386" y="959" type="line"></point>
     </contour>
     <contour>
-      <point x="189" y="847" type="line"/>
-      <point x="277" y="847" type="line"/>
-      <point x="319" y="350" type="line"/>
-      <point x="319" y="0" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="147" y="350" type="line"/>
+      <point x="236" y="847" type="line"></point>
+      <point x="324" y="847" type="line"></point>
+      <point x="366" y="350" type="line"></point>
+      <point x="366" y="0" type="line"></point>
+      <point x="194" y="0" type="line"></point>
+      <point x="194" y="350" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

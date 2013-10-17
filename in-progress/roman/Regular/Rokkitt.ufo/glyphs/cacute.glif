@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cacute" format="1">
-  <advance width="899"/>
+  <advance width="962"/>
   <unicode hex="0107"/>
   <outline>
-    <component base="acute" xOffset="218" yOffset="8"/>
-    <component base="c"/>
+    <component base="acute" xOffset="260.794128" yOffset="8.0"/>
+    <component base="c" xOffset="62.647057"/>
   </outline>
   <lib>
     <dict>
@@ -30,8 +30,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>899</integer>
+          <integer>962</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

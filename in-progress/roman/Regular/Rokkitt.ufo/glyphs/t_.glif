@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1009"/>
+  <advance width="1187"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="31" y="1152" type="line"/>
-      <point x="31" y="805" type="line"/>
-      <point x="160" y="805" type="line"/>
-      <point x="160" y="1036" type="line"/>
-      <point x="847" y="1036" type="line"/>
-      <point x="847" y="805" type="line"/>
-      <point x="978" y="805" type="line"/>
-      <point x="978" y="1152" type="line"/>
+      <point x="88" y="1152" type="line"/>
+      <point x="88" y="805" type="line"/>
+      <point x="217" y="805" type="line"/>
+      <point x="217" y="1036" type="line"/>
+      <point x="904" y="1036" type="line"/>
+      <point x="904" y="805" type="line"/>
+      <point x="1035" y="805" type="line"/>
+      <point x="1035" y="1152" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="220"/>
+    <component base="uc_main_stem" xOffset="189.029404"/>
   </outline>
   <lib>
     <dict>
@@ -39,8 +39,15 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1009</integer>
+          <integer>1187</integer>
         </dict>
+      </dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </lib>

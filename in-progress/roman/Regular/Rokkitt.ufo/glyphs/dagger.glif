@@ -1,27 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dagger" format="1">
-  <advance width="918"/>
-  <unicode hex="2020"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dagger" format="1">
+  <advance width="994"></advance>
+  <unicode hex="2020"></unicode>
   <outline>
     <contour>
-      <point x="846" y="946" type="line"/>
-      <point x="502" y="1004" type="line"/>
-      <point x="580" y="772" type="line"/>
-      <point x="528" y="460"/>
-      <point x="502" y="127"/>
-      <point x="502" y="-227" type="curve"/>
-      <point x="416" y="-227" type="line"/>
-      <point x="416" y="123"/>
-      <point x="391" y="456"/>
-      <point x="342" y="772" type="curve"/>
-      <point x="416" y="1004" type="line"/>
-      <point x="72" y="946" type="line"/>
-      <point x="72" y="1122" type="line"/>
-      <point x="416" y="1069" type="line"/>
-      <point x="362" y="1556" type="line"/>
-      <point x="559" y="1556" type="line"/>
-      <point x="502" y="1069" type="line"/>
-      <point x="846" y="1122" type="line"/>
+      <point x="1000" y="946" type="line"></point>
+      <point x="656" y="1004" type="line"></point>
+      <point x="734" y="772" type="line"></point>
+      <point x="682" y="460"></point>
+      <point x="656" y="127"></point>
+      <point x="656" y="-227" type="curve"></point>
+      <point x="570" y="-227" type="line"></point>
+      <point x="570" y="123"></point>
+      <point x="545" y="456"></point>
+      <point x="496" y="772" type="curve"></point>
+      <point x="570" y="1004" type="line"></point>
+      <point x="226" y="946" type="line"></point>
+      <point x="226" y="1122" type="line"></point>
+      <point x="570" y="1069" type="line"></point>
+      <point x="516" y="1556" type="line"></point>
+      <point x="713" y="1556" type="line"></point>
+      <point x="656" y="1069" type="line"></point>
+      <point x="1000" y="1122" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>
