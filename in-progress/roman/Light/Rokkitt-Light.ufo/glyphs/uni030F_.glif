@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030F" format="1">
+  <advance width="627"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="289" y="985" type="line"/>
+      <point x="230" y="1234" type="line"/>
+      <point x="104" y="1234" type="line"/>
+      <point x="258" y="985" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="985" type="line"/>
+      <point x="440" y="1234" type="line"/>
+      <point x="314" y="1234" type="line"/>
+      <point x="468" y="985" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni030F</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>627</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

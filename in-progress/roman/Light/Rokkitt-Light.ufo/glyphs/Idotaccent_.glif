@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="1">
+  <advance width="453"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="169" y="1582" type="line"/>
+      <point x="169" y="1462" type="line"/>
+      <point x="285" y="1462" type="line"/>
+      <point x="285" y="1582" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="1234" type="line"/>
+      <point x="25" y="1171" type="line"/>
+      <point x="186" y="1171" type="line"/>
+      <point x="186" y="62" type="line"/>
+      <point x="25" y="62" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="428" y="62" type="line"/>
+      <point x="268" y="62" type="line"/>
+      <point x="268" y="1171" type="line"/>
+      <point x="428" y="1171" type="line"/>
+      <point x="428" y="1234" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Idotaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>453</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

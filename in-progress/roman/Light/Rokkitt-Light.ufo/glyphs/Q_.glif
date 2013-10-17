@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="1428.68"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="1024" y="-206" type="curve" smooth="yes"/>
+      <point x="1070" y="-206"/>
+      <point x="1117" y="-198"/>
+      <point x="1172" y="-179" type="curve"/>
+      <point x="1150" y="-118" type="line"/>
+      <point x="1106" y="-133"/>
+      <point x="1068" y="-140"/>
+      <point x="1031" y="-140" type="curve" smooth="yes"/>
+      <point x="941" y="-140"/>
+      <point x="867" y="-98"/>
+      <point x="784" y="-32" type="curve"/>
+      <point x="1137" y="2"/>
+      <point x="1313" y="279"/>
+      <point x="1313" y="560" type="curve" smooth="yes"/>
+      <point x="1313" y="860"/>
+      <point x="1112" y="1160"/>
+      <point x="714" y="1160" type="curve" smooth="yes"/>
+      <point x="317" y="1160"/>
+      <point x="116" y="860"/>
+      <point x="116" y="560" type="curve" smooth="yes"/>
+      <point x="116" y="276"/>
+      <point x="296" y="-7"/>
+      <point x="658" y="-33" type="curve"/>
+      <point x="793" y="-138"/>
+      <point x="896" y="-206"/>
+    </contour>
+    <contour>
+      <point x="714" y="31" type="curve" smooth="yes"/>
+      <point x="365" y="31"/>
+      <point x="194" y="290"/>
+      <point x="194" y="561" type="curve" smooth="yes"/>
+      <point x="194" y="824"/>
+      <point x="368" y="1092"/>
+      <point x="714" y="1092" type="curve" smooth="yes"/>
+      <point x="1057" y="1092"/>
+      <point x="1234" y="824"/>
+      <point x="1234" y="561" type="curve" smooth="yes"/>
+      <point x="1234" y="297"/>
+      <point x="1057" y="31"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1428.68</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflex" format="1">
+  <advance width="889"/>
+  <unicode hex="00E2"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflex" xOffset="175" yOffset="26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array/>
+      <key>back</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>components</key>
+      <array/>
+      <key>contours</key>
+      <array/>
+      <key>lib</key>
+      <dict>
+      </dict>
+      <key>name</key>
+      <string>acircumflex</string>
+      <key>unicodes</key>
+      <array/>
+      <key>width</key>
+      <integer>889</integer>
+    </dict>
+  </lib>
+</glyph>
