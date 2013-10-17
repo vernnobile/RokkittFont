@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ydieresis" format="1">
-  <advance width="1069"/>
-  <unicode hex="00FF"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="ydieresis" format="1">
+  <advance width="883"></advance>
+  <unicode hex="00FF"></unicode>
   <outline>
-    <component base="dieresis" xOffset="341" yOffset="1"/>
-    <component base="y"/>
+    <component base="dieresis" xOffset="505.023560" yOffset="1.000000" ></component>
+    <component base="y" xOffset="322.294098" yOffset="0.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

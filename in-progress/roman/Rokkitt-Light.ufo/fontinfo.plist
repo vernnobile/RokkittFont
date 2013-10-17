@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-410</integer>
 	<key>familyName</key>
-	<string>Rokkitt Light</string>
+	<string>Rokkitt</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
@@ -35,8 +35,6 @@
 	<integer>-594</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Rokkitt Light</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
@@ -45,14 +43,10 @@
 	<string>newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Rokkitt Light</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Light</string>
-	<key>openTypeNameUniqueID</key>
-	<string>vernonadams: Rokkitt Light: 2011</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.000</string>
+	<string>2.002</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -99,7 +93,6 @@
 	<integer>1228</integer>
 	<key>openTypeOS2Type</key>
 	<array>
-		<integer>3</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1638</integer>
@@ -180,9 +173,9 @@
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>836</integer>
 </dict>

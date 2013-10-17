@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni01F1" format="1">
-  <advance width="2469"/>
-  <unicode hex="01F1"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="uni01F1" format="1">
+  <advance width="2447"></advance>
+  <unicode hex="01F1"></unicode>
   <outline>
-    <component base="D"/>
-    <component base="Z" xOffset="1313"/>
+    <component base="D" xOffset="3811.458740" yOffset="0.000000" ></component>
+    <component base="Z" xOffset="5079.165039" yOffset="0.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="backslash" format="1">
-  <advance width="543"/>
-  <unicode hex="005C"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="backslash" format="1">
+  <advance width="611"></advance>
+  <unicode hex="005C"></unicode>
   <outline>
     <contour>
-      <point x="286" y="-23" type="line"/>
-      <point x="186" y="1306" type="line"/>
-      <point x="261" y="1306" type="line"/>
-      <point x="366" y="-23" type="line"/>
+      <point x="302" y="-23" type="line"></point>
+      <point x="202" y="1306" type="line"></point>
+      <point x="277" y="1306" type="line"></point>
+      <point x="382" y="-23" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="IJ" format="1">
-  <advance width="1283"/>
-  <unicode hex="0132"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="IJ" format="1">
+  <advance width="1427"></advance>
+  <unicode hex="0132"></unicode>
   <outline>
-    <component base="I"/>
-    <component base="J" xOffset="651"/>
+    <component base="I" xOffset="1433.517578" yOffset="0.000000" ></component>
+    <component base="J" xOffset="1892.235229" yOffset="0.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

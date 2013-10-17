@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cacute" format="1">
-  <advance width="1030"/>
-  <unicode hex="0107"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="cacute" format="1">
+  <advance width="1223"></advance>
+  <unicode hex="0107"></unicode>
   <outline>
-    <component base="acute" xOffset="493" yOffset="1"/>
-    <component base="c"/>
+    <component base="acute" xOffset="1452.800049" yOffset="1.000000" ></component>
+    <component base="c" xOffset="1075.599854" yOffset="0.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,20 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quoteleft" format="1">
-  <advance width="442"/>
-  <unicode hex="2018"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="quoteleft" format="1">
+  <advance width="509"></advance>
+  <unicode hex="2018"></unicode>
   <outline>
     <contour>
-      <point x="180" y="997" type="line"/>
-      <point x="208" y="1125" type="line"/>
-      <point x="229" y="1228"/>
-      <point x="282" y="1306"/>
-      <point x="387" y="1306" type="curve"/>
-      <point x="378" y="1260" type="line"/>
-      <point x="304" y="1237"/>
-      <point x="293" y="1210"/>
-      <point x="275" y="1123" type="curve"/>
-      <point x="338" y="1123" type="line"/>
-      <point x="312" y="997" type="line"/>
+      <point x="181" y="997" type="line"></point>
+      <point x="209" y="1125" type="line"></point>
+      <point x="230" y="1228"></point>
+      <point x="283" y="1306"></point>
+      <point x="388" y="1306" type="curve"></point>
+      <point x="379" y="1260" type="line"></point>
+      <point x="305" y="1237"></point>
+      <point x="294" y="1210"></point>
+      <point x="276" y="1123" type="curve"></point>
+      <point x="339" y="1123" type="line"></point>
+      <point x="313" y="997" type="line"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

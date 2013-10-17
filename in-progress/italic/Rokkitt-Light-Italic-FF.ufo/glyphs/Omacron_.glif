@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omacron" format="1">
-  <advance width="1622"/>
-  <unicode hex="014C"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Omacron" format="1">
+  <advance width="1835"></advance>
+  <unicode hex="014C"></unicode>
   <outline>
-    <component base="O"/>
-    <component base="macron" xOffset="542.147" yOffset="483"/>
+    <component base="O" xOffset="1356.200073" yOffset="0.000000" ></component>
+    <component base="macron" xOffset="1683.206299" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

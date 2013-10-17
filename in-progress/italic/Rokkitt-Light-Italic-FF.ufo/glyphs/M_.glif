@@ -1,38 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="M" format="1">
-  <advance width="1880.0"/>
-  <unicode hex="004D"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="M" format="1">
+  <advance width="1733"></advance>
+  <unicode hex="004D"></unicode>
   <outline>
     <contour>
-      <point x="-4.16041746071" y="0" type="line"/>
-      <point x="7.83958253929" y="62" type="line"/>
-      <point x="183.839582539" y="62" type="line"/>
-      <point x="673.839582539" y="1249" type="line"/>
-      <point x="478.839582539" y="1249" type="line"/>
-      <point x="489.839582539" y="1312" type="line"/>
-      <point x="775.839582539" y="1312" type="line"/>
-      <point x="913.839582539" y="159" type="line"/>
-      <point x="1592.83958254" y="1312" type="line"/>
-      <point x="1839.83958254" y="1312" type="line"/>
-      <point x="1828.83958254" y="1249" type="line"/>
-      <point x="1684.83958254" y="1249" type="line"/>
-      <point x="1579.83958254" y="62" type="line"/>
-      <point x="1755.83958254" y="62" type="line"/>
-      <point x="1734.83958254" y="0" type="line"/>
-      <point x="1305.83958254" y="0" type="line"/>
-      <point x="1326.83958254" y="62" type="line"/>
-      <point x="1495.83958254" y="62" type="line"/>
-      <point x="1602.83958254" y="1184" type="line"/>
-      <point x="905.839582539" y="0" type="line"/>
-      <point x="858.839582539" y="0" type="line"/>
-      <point x="715.839582539" y="1170" type="line"/>
-      <point x="266.839582539" y="62" type="line"/>
-      <point x="477.839582539" y="62" type="line"/>
-      <point x="465.839582539" y="0" type="line"/>
+      <point x="-102" y="0" type="line"></point>
+      <point x="-91" y="62" type="line"></point>
+      <point x="83" y="62" type="line"></point>
+      <point x="573" y="1249" type="line"></point>
+      <point x="378" y="1249" type="line"></point>
+      <point x="389" y="1312" type="line"></point>
+      <point x="675" y="1312" type="line"></point>
+      <point x="813" y="159" type="line"></point>
+      <point x="1492" y="1312" type="line"></point>
+      <point x="1739" y="1312" type="line"></point>
+      <point x="1728" y="1249" type="line"></point>
+      <point x="1584" y="1249" type="line"></point>
+      <point x="1479" y="62" type="line"></point>
+      <point x="1655" y="62" type="line"></point>
+      <point x="1634" y="0" type="line"></point>
+      <point x="1205" y="0" type="line"></point>
+      <point x="1226" y="62" type="line"></point>
+      <point x="1395" y="62" type="line"></point>
+      <point x="1502" y="1184" type="line"></point>
+      <point x="805" y="0" type="line"></point>
+      <point x="758" y="0" type="line"></point>
+      <point x="615" y="1170" type="line"></point>
+      <point x="166" y="62" type="line"></point>
+      <point x="377" y="62" type="line"></point>
+      <point x="365" y="0" type="line"></point>
     </contour>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

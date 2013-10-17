@@ -1,22 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresis" format="1">
-  <advance width="655"/>
-  <unicode hex="00A8"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="dieresis" format="1">
+  <advance width="611"></advance>
+  <unicode hex="00A8"></unicode>
   <outline>
     <contour>
-      <point x="162" y="977" type="line"/>
-      <point x="187" y="1088" type="line"/>
-      <point x="291" y="1088" type="line"/>
-      <point x="266" y="977" type="line"/>
+      <point x="181" y="977" type="line"></point>
+      <point x="206" y="1088" type="line"></point>
+      <point x="310" y="1088" type="line"></point>
+      <point x="285" y="977" type="line"></point>
     </contour>
     <contour>
-      <point x="414" y="977" type="line"/>
-      <point x="439" y="1088" type="line"/>
-      <point x="543" y="1088" type="line"/>
-      <point x="518" y="977" type="line"/>
+      <point x="433" y="977" type="line"></point>
+      <point x="458" y="1088" type="line"></point>
+      <point x="562" y="1088" type="line"></point>
+      <point x="537" y="977" type="line"></point>
     </contour>
     <contour>
-      <point x="352.5" y="828" type="move" name="_top"/>
+      <point x="371" y="828" type="move" name="_top"></point>
     </contour>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

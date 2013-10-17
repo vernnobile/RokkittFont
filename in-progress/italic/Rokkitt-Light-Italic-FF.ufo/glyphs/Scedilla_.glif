@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Scedilla" format="1">
-  <advance width="1047"/>
-  <unicode hex="015E"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Scedilla" format="1">
+  <advance width="1427"></advance>
+  <unicode hex="015E"></unicode>
   <outline>
-    <component base="S"/>
-    <component base="cedilla" xOffset="347"/>
+    <component base="S" xOffset="891.176453" yOffset="0.000000" ></component>
+    <component base="cedilla" xOffset="1118.788574" yOffset="0.000000" ></component>
   </outline>
   <lib>
-    <dict>
+    <dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+
       <key>com.typemytype.robofont.layerData</key>
       <dict>
       </dict>

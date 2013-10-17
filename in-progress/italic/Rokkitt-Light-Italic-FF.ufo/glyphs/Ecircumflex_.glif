@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ecircumflex" format="1">
-  <advance width="1111"/>
-  <unicode hex="00CA"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ecircumflex" format="1">
+  <advance width="1155"></advance>
+  <unicode hex="00CA"></unicode>
   <outline>
-    <component base="E"/>
-    <component base="circumflex" xOffset="229" yOffset="483"/>
+    <component base="E" xOffset="187.929382" yOffset="0.000000" ></component>
+    <component base="circumflex" xOffset="292.694519" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

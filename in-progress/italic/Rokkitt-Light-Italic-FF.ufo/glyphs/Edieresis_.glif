@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Edieresis" format="1">
-  <advance width="1111"/>
-  <unicode hex="00CB"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Edieresis" format="1">
+  <advance width="1121"></advance>
+  <unicode hex="00CB"></unicode>
   <outline>
-    <component base="E"/>
-    <component base="dieresis" xOffset="203.5" yOffset="483"/>
+    <component base="E" xOffset="100.258789" yOffset="0.000000" ></component>
+    <component base="dieresis" xOffset="212.523926" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

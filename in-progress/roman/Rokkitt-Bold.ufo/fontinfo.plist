@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-410</integer>
 	<key>familyName</key>
-	<string>Rokkitt Bold Bold</string>
+	<string>Rokkitt</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
@@ -36,10 +36,12 @@
 	<string>newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernonadams: Rokkitt Bold: 2011</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 2.000</string>
+	<string>Version 2.002</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -174,7 +176,7 @@
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
 	<key>styleMapFamilyName</key>
-	<string>Rokkitt Bold Bold</string>
+	<string>Rokkitt Bold</string>
 	<key>styleMapStyleName</key>
 	<string>bold</string>
 	<key>styleName</key>
@@ -186,7 +188,7 @@
 	<key>versionMajor</key>
 	<integer>2</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>849</integer>
 	<key>year</key>

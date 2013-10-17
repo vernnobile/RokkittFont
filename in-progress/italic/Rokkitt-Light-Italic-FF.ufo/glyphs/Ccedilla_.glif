@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ccedilla" format="1">
-  <advance width="1489"/>
-  <unicode hex="00C7"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ccedilla" format="1">
+  <advance width="1699"></advance>
+  <unicode hex="00C7"></unicode>
   <outline>
-    <component base="C"/>
-    <component base="cedilla" xOffset="568"/>
+    <component base="C" xOffset="1452.282349" yOffset="0.000000" ></component>
+    <component base="cedilla" xOffset="1799.141602" yOffset="0.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

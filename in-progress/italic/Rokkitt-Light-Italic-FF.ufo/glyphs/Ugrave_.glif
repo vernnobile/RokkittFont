@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ugrave" format="1">
-  <advance width="1462"/>
-  <unicode hex="00D9"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Ugrave" format="1">
+  <advance width="1937"></advance>
+  <unicode hex="00D9"></unicode>
   <outline>
-    <component base="U"/>
-    <component base="grave" xOffset="677" yOffset="483"/>
+    <component base="U" xOffset="1866.176514" yOffset="0.000000" ></component>
+    <component base="grave" xOffset="2184.729980" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

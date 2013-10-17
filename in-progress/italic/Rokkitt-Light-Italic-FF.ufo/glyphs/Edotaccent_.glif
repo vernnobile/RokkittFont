@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Edotaccent" format="1">
-  <advance width="1111"/>
-  <unicode hex="0116"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Edotaccent" format="1">
+  <advance width="1291"></advance>
+  <unicode hex="0116"></unicode>
   <outline>
-    <component base="E"/>
-    <component base="dotaccentcmb" xOffset="338" yOffset="483"/>
+    <component base="E" xOffset="404.341156" yOffset="0.000000" ></component>
+    <component base="dotaccentcmb" xOffset="633.106262" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Tbar" format="1">
-  <advance width="1177"/>
-  <unicode hex="0166"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Tbar" format="1">
+  <advance width="951"></advance>
+  <unicode hex="0166"></unicode>
   <outline>
-    <component base="T"/>
-    <component base="caron" xOffset="205" yOffset="483"/>
+    <component base="T" xOffset="366.011780" yOffset="0.000000" ></component>
+    <component base="caron" xOffset="330.941559" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="wacute" format="1">
-  <advance width="1453"/>
-  <unicode hex="1E83"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="wacute" format="1">
+  <advance width="1597"></advance>
+  <unicode hex="1E83"></unicode>
   <outline>
-    <component base="acute" xOffset="683" yOffset="1"/>
-    <component base="w"/>
+    <component base="acute" xOffset="2060.564697" yOffset="1.000000" ></component>
+    <component base="w" xOffset="1559.647095" yOffset="0.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

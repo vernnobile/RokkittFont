@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Emacron" format="1">
-  <advance width="1111"/>
-  <unicode hex="0112"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Emacron" format="1">
+  <advance width="1291"></advance>
+  <unicode hex="0112"></unicode>
   <outline>
-    <component base="E"/>
-    <component base="macron" xOffset="287.147" yOffset="483"/>
+    <component base="E" xOffset="430.011719" yOffset="0.000000" ></component>
+    <component base="macron" xOffset="520.923828" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

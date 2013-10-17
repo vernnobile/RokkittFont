@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Dcaron" format="1">
-  <advance width="1313"/>
-  <unicode hex="010E"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Dcaron" format="1">
+  <advance width="1359"></advance>
+  <unicode hex="010E"></unicode>
   <outline>
-    <component base="D"/>
-    <component base="caron" xOffset="273" yOffset="483"/>
+    <component base="D" xOffset="163.929398" yOffset="0.000000" ></component>
+    <component base="caron" xOffset="349.035645" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

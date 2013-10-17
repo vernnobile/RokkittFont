@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Jcircumflex" format="1">
-  <advance width="632"/>
-  <unicode hex="0134"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="Jcircumflex" format="1">
+  <advance width="1257"></advance>
+  <unicode hex="0134"></unicode>
   <outline>
-    <component base="J"/>
-    <component base="circumflex" xOffset="-11" yOffset="483"/>
+    <component base="J" xOffset="246.000000" yOffset="0.000000" ></component>
+    <component base="circumflex" xOffset="427.659241" yOffset="483.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>

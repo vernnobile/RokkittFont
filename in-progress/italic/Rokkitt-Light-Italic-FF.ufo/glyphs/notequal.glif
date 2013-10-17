@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="notequal" format="1">
-  <advance width="854"/>
-  <unicode hex="2260"/>
+<?xml version="1.0" encoding="UTF-8"?><glyph name="notequal" format="1">
+  <advance width="1257"></advance>
+  <unicode hex="2260"></unicode>
   <outline>
-    <component base="equal"/>
-    <component base="slash" xOffset="157" yOffset="-94"/>
+    <component base="equal" xOffset="862.659241" yOffset="0.000000" ></component>
+    <component base="slash" xOffset="751.988281" yOffset="-94.000000" ></component>
   </outline>
+<lib><dict><key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+<key>org.pippin.gimp.org.kernagic</key><dict><key>lstem</key><integer>0</integer><key>rstem</key><integer>0</integer></dict>
+</dict></lib>
 </glyph>
