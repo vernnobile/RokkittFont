@@ -4,10 +4,23 @@
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="5" y="1184" type="line"/>
-      <point x="5" y="1064" type="line"/>
-      <point x="121" y="1064" type="line"/>
-      <point x="121" y="1184" type="line"/>
+      <point x="63" y="1030" type="line" smooth="yes"/>
+      <point x="107" y="1030"/>
+      <point x="129" y="1062"/>
+      <point x="129" y="1091" type="curve" smooth="yes"/>
+      <point x="129" y="1122"/>
+      <point x="107" y="1152"/>
+      <point x="63" y="1152" type="curve" smooth="yes"/>
+      <point x="60" y="1152" type="line" smooth="yes"/>
+      <point x="17" y="1152"/>
+      <point x="-5" y="1122"/>
+      <point x="-5" y="1091" type="curve" smooth="yes"/>
+      <point x="-5" y="1062"/>
+      <point x="17" y="1030"/>
+      <point x="60" y="1030" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="62" y="805" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -17,22 +30,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>dotaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>126</integer>
         </dict>

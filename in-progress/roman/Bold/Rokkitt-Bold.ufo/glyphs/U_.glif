@@ -32,17 +32,19 @@
       <point x="1010" y="1075" type="line"/>
     </contour>
     <contour>
-      <point x="748" y="1215" type="move"/>
+      <point x="1242" y="10" type="move"/>
     </contour>
     <contour>
-      <point x="1242" y="10" type="move"/>
+      <point x="745" y="1215" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="813" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

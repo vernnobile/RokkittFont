@@ -4,10 +4,13 @@
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="2" y="1058" type="line"/>
-      <point x="393" y="1058" type="line"/>
-      <point x="393" y="1123" type="line"/>
-      <point x="2" y="1123" type="line"/>
+      <point x="2" y="949" type="line"/>
+      <point x="393" y="949" type="line"/>
+      <point x="393" y="1014" type="line"/>
+      <point x="2" y="1014" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="805" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -17,22 +20,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>macron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>395</integer>
         </dict>

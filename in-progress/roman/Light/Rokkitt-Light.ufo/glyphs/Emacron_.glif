@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Emacron" format="1">
-  <advance width="1120"/>
+  <advance width="1211"/>
   <unicode hex="0112"/>
   <outline>
-    <contour>
-      <point x="364" y="1456" type="line"/>
-      <point x="755" y="1456" type="line"/>
-      <point x="755" y="1521" type="line"/>
-      <point x="364" y="1521" type="line"/>
-    </contour>
-    <contour>
-      <point x="977" y="1164" type="line"/>
-      <point x="977" y="858" type="line"/>
-      <point x="1053" y="858" type="line"/>
-      <point x="1053" y="1234" type="line"/>
-      <point x="56" y="1234" type="line"/>
-      <point x="56" y="1164" type="line"/>
-      <point x="231" y="1164" type="line"/>
-      <point x="231" y="70" type="line"/>
-      <point x="56" y="70" type="line"/>
-      <point x="56" y="0" type="line"/>
-      <point x="1075" y="0" type="line"/>
-      <point x="1075" y="376" type="line"/>
-      <point x="998" y="376" type="line"/>
-      <point x="998" y="70" type="line"/>
-      <point x="313" y="70" type="line"/>
-      <point x="313" y="596" type="line"/>
-      <point x="746" y="596" type="line"/>
-      <point x="746" y="424" type="line"/>
-      <point x="813" y="424" type="line"/>
-      <point x="813" y="824" type="line"/>
-      <point x="746" y="824" type="line"/>
-      <point x="746" y="666" type="line"/>
-      <point x="313" y="666" type="line"/>
-      <point x="313" y="1164" type="line"/>
-    </contour>
+    <component base="E"/>
+    <component base="macron" xOffset="438" yOffset="347"/>
   </outline>
   <lib>
     <dict>
@@ -43,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Emacron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1120</integer>
         </dict>

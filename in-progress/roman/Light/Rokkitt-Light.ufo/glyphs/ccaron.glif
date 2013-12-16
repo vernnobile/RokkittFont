@@ -1,48 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccaron" format="1">
-  <advance width="925"/>
+  <advance width="977"/>
   <unicode hex="010D"/>
   <outline>
-    <contour>
-      <point x="273" y="1195" type="line"/>
-      <point x="412" y="922" type="line"/>
-      <point x="507" y="922" type="line"/>
-      <point x="653" y="1195" type="line"/>
-      <point x="564" y="1195" type="line"/>
-      <point x="460" y="971" type="line"/>
-      <point x="355" y="1195" type="line"/>
-    </contour>
-    <contour>
-      <point x="490" y="-14" type="curve" smooth="yes"/>
-      <point x="613" y="-14"/>
-      <point x="747" y="35"/>
-      <point x="861" y="149" type="curve"/>
-      <point x="838" y="222" type="line"/>
-      <point x="752" y="110"/>
-      <point x="621" y="54"/>
-      <point x="494" y="54" type="curve" smooth="yes"/>
-      <point x="306" y="58"/>
-      <point x="133" y="191"/>
-      <point x="133" y="413" type="curve" smooth="yes"/>
-      <point x="133" y="662"/>
-      <point x="307" y="787"/>
-      <point x="494" y="787" type="curve" smooth="yes"/>
-      <point x="692" y="787"/>
-      <point x="757" y="690"/>
-      <point x="766" y="600" type="curve"/>
-      <point x="832" y="600" type="line"/>
-      <point x="832" y="860" type="line"/>
-      <point x="756" y="860" type="line"/>
-      <point x="756" y="750" type="line"/>
-      <point x="723" y="803"/>
-      <point x="625" y="854"/>
-      <point x="494" y="854" type="curve" smooth="yes"/>
-      <point x="219" y="850"/>
-      <point x="51" y="668"/>
-      <point x="51" y="416" type="curve" smooth="yes"/>
-      <point x="51" y="157"/>
-      <point x="261" y="-11"/>
-    </contour>
+    <component base="c"/>
+    <component base="caron" xOffset="294"/>
   </outline>
   <lib>
     <dict>
@@ -51,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>ccaron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>925</integer>
         </dict>

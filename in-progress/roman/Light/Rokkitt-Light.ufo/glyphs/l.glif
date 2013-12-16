@@ -4,16 +4,25 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="262.0" y="1127.0" type="line"/>
-      <point x="262.0" y="58.0" type="line"/>
-      <point x="84.0" y="58.0" type="line"/>
-      <point x="84.0" y="0.0" type="line"/>
-      <point x="515.0" y="0.0" type="line"/>
-      <point x="515.0" y="58.0" type="line"/>
-      <point x="338.0" y="58.0" type="line"/>
-      <point x="338.0" y="1185.0" type="line"/>
-      <point x="84.0" y="1185.0" type="line"/>
-      <point x="84.0" y="1127.0" type="line"/>
+      <point x="262" y="1127" type="line"/>
+      <point x="262" y="58" type="line"/>
+      <point x="84" y="58" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="515" y="58" type="line"/>
+      <point x="338" y="58" type="line"/>
+      <point x="338" y="1185" type="line"/>
+      <point x="84" y="1185" type="line"/>
+      <point x="84" y="1127" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="297" y="1146" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="550" y="685" type="move" name="mid"/>
     </contour>
   </outline>
   <lib>
@@ -23,22 +32,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>l</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>566</integer>
         </dict>

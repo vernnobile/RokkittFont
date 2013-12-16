@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="1">
-  <advance width="611.49"/>
+  <advance width="611.490"/>
   <unicode hex="004A"/>
   <outline>
     <contour>
@@ -21,6 +21,9 @@
       <point x="195" y="1096" type="line"/>
       <point x="325" y="1096" type="line"/>
     </contour>
+    <contour>
+      <point x="369" y="1152" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -29,24 +32,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>J</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>611.49</real>
+          <real>611.49000000000001</real>
         </dict>
       </dict>
     </dict>

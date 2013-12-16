@@ -30,6 +30,12 @@
       <point x="1003" y="58" type="line"/>
     </contour>
     <component base="uc_main_stem"/>
+    <contour>
+      <point x="652" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="686" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -38,22 +44,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>E</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <real>1210.825</real>
         </dict>

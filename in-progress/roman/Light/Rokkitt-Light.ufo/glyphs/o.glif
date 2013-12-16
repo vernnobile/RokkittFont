@@ -31,6 +31,9 @@
       <point x="90" y="130"/>
       <point x="301" y="-14"/>
     </contour>
+    <contour>
+      <point x="515" y="805" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -39,22 +42,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>o</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1038</integer>
         </dict>

@@ -36,6 +36,12 @@
       <point x="1253" y="549" type="curve"/>
       <point x="927" y="549" type="line"/>
     </contour>
+    <contour>
+      <point x="702" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="713" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -44,24 +50,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>G</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1384.735</real>
+          <real>1384.7349999999999</real>
         </dict>
       </dict>
     </dict>

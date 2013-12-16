@@ -22,13 +22,13 @@
       <point x="1145" y="1215" type="line"/>
     </contour>
     <contour>
-      <point x="626" y="1215" type="move"/>
+      <point x="627" y="1215" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="626" y="0" type="move"/>
+      <point x="627" y="623" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="626" y="608" type="move"/>
+      <point x="635" y="0" type="move" name="bot"/>
     </contour>
   </outline>
 </glyph>

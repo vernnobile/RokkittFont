@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0237" format="1">
-  <advance width="333"/>
+  <advance width="444"/>
   <unicode hex="0237"/>
   <outline>
     <contour>
-      <point x="215" y="-34" type="line" smooth="yes"/>
-      <point x="215" y="-149"/>
-      <point x="215" y="-211"/>
-      <point x="78" y="-211" type="curve" smooth="yes"/>
-      <point x="0" y="-211" type="line"/>
-      <point x="0" y="-271" type="line"/>
-      <point x="80" y="-271" type="line" smooth="yes"/>
-      <point x="294" y="-271"/>
-      <point x="294" y="-143"/>
-      <point x="294" y="-22" type="curve" smooth="yes"/>
-      <point x="294" y="836" type="line"/>
-      <point x="78" y="836" type="line"/>
-      <point x="78" y="779" type="line"/>
-      <point x="215" y="779" type="line"/>
+      <point x="234" y="-30" type="line" smooth="yes"/>
+      <point x="234" y="-141"/>
+      <point x="234" y="-200"/>
+      <point x="103" y="-200" type="curve" smooth="yes"/>
+      <point x="28" y="-200" type="line"/>
+      <point x="28" y="-258" type="line"/>
+      <point x="105" y="-258" type="line" smooth="yes"/>
+      <point x="310" y="-258"/>
+      <point x="310" y="-135"/>
+      <point x="310" y="-19" type="curve" smooth="yes"/>
+      <point x="310" y="805" type="line"/>
+      <point x="66" y="805" type="line"/>
+      <point x="66" y="750" type="line"/>
+      <point x="234" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="235" y="805" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -27,22 +30,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni0237</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>333</integer>
         </dict>
