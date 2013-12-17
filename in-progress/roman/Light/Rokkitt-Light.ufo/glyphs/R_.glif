@@ -30,10 +30,17 @@
     </contour>
     <component base="uc_main_stem"/>
     <contour>
+<<<<<<< HEAD
       <point x="623" y="1152" type="move" name="top"/>
     </contour>
     <contour>
       <point x="706" y="0" type="move" name="bot"/>
+=======
+      <point x="630" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="703" y="0" type="move" name="bot"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

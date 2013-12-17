@@ -6,9 +6,12 @@
     <component base="lc_xheight_curved_stem" xOffset="522"/>
     <component base="lc_xheight_curved_stem" xOffset="-34"/>
     <component base="lc_xheight_stem" xOffset="-17"/>
+<<<<<<< HEAD
     <contour>
       <point x="880" y="805" type="move" name="top"/>
     </contour>
+=======
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
   </outline>
   <lib>
     <dict>

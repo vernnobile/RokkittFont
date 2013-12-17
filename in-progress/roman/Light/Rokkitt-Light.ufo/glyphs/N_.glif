@@ -4,26 +4,32 @@
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="122" y="1154" type="line"/>
-      <point x="122" y="1095" type="line"/>
-      <point x="273" y="1095" type="line"/>
+      <point x="122" y="1152" type="line"/>
+      <point x="122" y="1093" type="line"/>
+      <point x="273" y="1093" type="line"/>
       <point x="273" y="58" type="line"/>
       <point x="122" y="58" type="line"/>
       <point x="122" y="0" type="line"/>
       <point x="497" y="0" type="line"/>
       <point x="497" y="58" type="line"/>
       <point x="347" y="58" type="line"/>
-      <point x="347" y="1042" type="line"/>
+      <point x="347" y="1040" type="line"/>
       <point x="1136" y="0" type="line"/>
       <point x="1210" y="0" type="line"/>
-      <point x="1210" y="1095" type="line"/>
-      <point x="1347" y="1095" type="line"/>
-      <point x="1347" y="1154" type="line"/>
-      <point x="985" y="1154" type="line"/>
-      <point x="985" y="1095" type="line"/>
-      <point x="1136" y="1095" type="line"/>
+      <point x="1210" y="1093" type="line"/>
+      <point x="1347" y="1093" type="line"/>
+      <point x="1347" y="1152" type="line"/>
+      <point x="985" y="1152" type="line"/>
+      <point x="985" y="1093" type="line"/>
+      <point x="1136" y="1093" type="line"/>
       <point x="1136" y="117" type="line"/>
-      <point x="347" y="1154" type="line"/>
+      <point x="347" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="710" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="713" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="728" y="1152" type="move" name="top"/>

@@ -32,10 +32,17 @@
       <point x="1154" y="1093" type="line"/>
     </contour>
     <contour>
+<<<<<<< HEAD
       <point x="748" y="1152" type="move" name="top"/>
     </contour>
     <contour>
       <point x="811" y="0" type="move" name="ogonek"/>
+=======
+      <point x="733" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="803" y="0" type="move" name="ogonek"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

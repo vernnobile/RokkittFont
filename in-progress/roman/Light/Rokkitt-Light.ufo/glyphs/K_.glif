@@ -11,20 +11,27 @@
       <point x="1201" y="56" type="line"/>
       <point x="1062" y="56" type="line"/>
       <point x="448" y="593" type="line"/>
-      <point x="1006" y="1098" type="line"/>
-      <point x="1168" y="1098" type="line"/>
-      <point x="1168" y="1154" type="line"/>
-      <point x="764" y="1154" type="line"/>
-      <point x="764" y="1098" type="line"/>
-      <point x="907" y="1098" type="line"/>
+      <point x="1006" y="1096" type="line"/>
+      <point x="1168" y="1096" type="line"/>
+      <point x="1168" y="1152" type="line"/>
+      <point x="764" y="1152" type="line"/>
+      <point x="764" y="1096" type="line"/>
+      <point x="907" y="1096" type="line"/>
       <point x="350" y="593" type="line"/>
     </contour>
     <component base="uc_main_stem"/>
     <contour>
+<<<<<<< HEAD
       <point x="648" y="1152" type="move" name="top"/>
     </contour>
     <contour>
       <point x="626" y="0" type="move" name="bot"/>
+=======
+      <point x="650" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="663" y="0" type="move" name="bot"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

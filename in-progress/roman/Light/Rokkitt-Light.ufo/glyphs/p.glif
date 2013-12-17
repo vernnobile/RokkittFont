@@ -6,7 +6,11 @@
     <component base="lc_descender_stem" xOffset="-7"/>
     <component base="lc_bowl_right" xOffset="-7"/>
     <contour>
+<<<<<<< HEAD
       <point x="599" y="805" type="move" name="top"/>
+=======
+      <point x="597" y="805" type="move" name="top"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

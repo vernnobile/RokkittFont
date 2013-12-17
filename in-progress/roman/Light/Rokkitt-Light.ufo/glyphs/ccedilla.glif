@@ -4,7 +4,11 @@
   <unicode hex="00E7"/>
   <outline>
     <component base="c"/>
+<<<<<<< HEAD
     <component base="cedilla" xOffset="316"/>
+=======
+    <component base="cedilla" xOffset="290"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
   </outline>
   <lib>
     <dict>

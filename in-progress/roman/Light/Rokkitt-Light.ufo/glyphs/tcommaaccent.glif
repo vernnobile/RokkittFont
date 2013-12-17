@@ -3,7 +3,11 @@
   <advance width="576"/>
   <outline>
     <component base="t"/>
+<<<<<<< HEAD
     <component base="commaaccent" xOffset="231"/>
+=======
+    <component base="commaaccent" xOffset="167"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
   </outline>
   <lib>
     <dict>

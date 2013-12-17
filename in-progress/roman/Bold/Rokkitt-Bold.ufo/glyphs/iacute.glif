@@ -1,34 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute" format="1">
-  <advance width="701"/>
+  <advance width="741"/>
   <unicode hex="00ED"/>
   <outline>
-    <contour>
-      <point x="225" y="709" type="line"/>
-      <point x="225" y="140" type="line"/>
-      <point x="88" y="140" type="line"/>
-      <point x="88" y="0" type="line"/>
-      <point x="558" y="0" type="line"/>
-      <point x="558" y="140" type="line"/>
-      <point x="421" y="140" type="line"/>
-      <point x="421" y="849" type="line"/>
-      <point x="88" y="849" type="line"/>
-      <point x="88" y="709" type="line"/>
-    </contour>
-    <contour>
-      <point x="406" y="968" type="line"/>
-      <point x="622" y="1274" type="line"/>
-      <point x="364" y="1274" type="line"/>
-      <point x="240" y="968" type="line"/>
-    </contour>
-    <contour>
-      <point x="307" y="849" type="move"/>
-    </contour>
-    <contour>
-      <point x="535" y="10" type="move"/>
-    </contour>
-    <contour>
-      <point x="431" y="857" type="move"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="acute" xOffset="106"/>
   </outline>
 </glyph>

@@ -33,12 +33,14 @@
       <point x="645" y="616" type="curve" smooth="yes"/>
       <point x="507" y="616" type="line"/>
     </contour>
+    <contour>
+      <point x="665" y="1215" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

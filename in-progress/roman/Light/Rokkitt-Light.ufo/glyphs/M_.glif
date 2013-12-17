@@ -5,25 +5,25 @@
   <outline>
     <contour>
       <point x="347" y="58" type="line"/>
-      <point x="347" y="1017" type="line"/>
+      <point x="347" y="1015" type="line"/>
       <point x="804" y="88" type="line"/>
       <point x="819" y="88" type="line"/>
-      <point x="1258" y="1017" type="line"/>
+      <point x="1258" y="1015" type="line"/>
       <point x="1258" y="58" type="line"/>
       <point x="1107" y="58" type="line"/>
       <point x="1107" y="0" type="line"/>
       <point x="1482" y="0" type="line"/>
       <point x="1482" y="58" type="line"/>
       <point x="1331" y="58" type="line"/>
-      <point x="1331" y="1095" type="line"/>
-      <point x="1482" y="1095" type="line"/>
-      <point x="1482" y="1154" type="line"/>
-      <point x="1243" y="1154" type="line"/>
+      <point x="1331" y="1093" type="line"/>
+      <point x="1482" y="1093" type="line"/>
+      <point x="1482" y="1152" type="line"/>
+      <point x="1243" y="1152" type="line"/>
       <point x="812" y="226" type="line"/>
-      <point x="362" y="1154" type="line"/>
-      <point x="122" y="1154" type="line"/>
-      <point x="122" y="1095" type="line"/>
-      <point x="273" y="1095" type="line"/>
+      <point x="362" y="1152" type="line"/>
+      <point x="122" y="1152" type="line"/>
+      <point x="122" y="1093" type="line"/>
+      <point x="273" y="1093" type="line"/>
       <point x="273" y="58" type="line"/>
       <point x="122" y="58" type="line"/>
       <point x="122" y="0" type="line"/>
@@ -31,7 +31,11 @@
       <point x="497" y="58" type="line"/>
     </contour>
     <contour>
+<<<<<<< HEAD
       <point x="809" y="0" type="move" name="top"/>
+=======
+      <point x="800" y="1152" type="move" name="top"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

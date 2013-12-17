@@ -131,8 +131,13 @@ http://scripts.sil.org/OFL</string>
 	<integer>1052</integer>
 	<key>postscriptOtherBlues</key>
 	<array>
+<<<<<<< HEAD
 		<integer>-430</integer>
 		<integer>-410</integer>
+=======
+		<integer>-333</integer>
+		<integer>-322</integer>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>

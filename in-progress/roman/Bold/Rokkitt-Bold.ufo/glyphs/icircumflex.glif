@@ -1,37 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="icircumflex" format="1">
-  <advance width="724"/>
+  <advance width="741"/>
   <unicode hex="00EE"/>
   <outline>
-    <contour>
-      <point x="269" y="709" type="line"/>
-      <point x="269" y="140" type="line"/>
-      <point x="132" y="140" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="602" y="0" type="line"/>
-      <point x="602" y="140" type="line"/>
-      <point x="465" y="140" type="line"/>
-      <point x="465" y="849" type="line"/>
-      <point x="132" y="849" type="line"/>
-      <point x="132" y="709" type="line"/>
-    </contour>
-    <contour>
-      <point x="263" y="968" type="line"/>
-      <point x="364" y="1220" type="line"/>
-      <point x="465" y="968" type="line"/>
-      <point x="645" y="968" type="line"/>
-      <point x="505" y="1297" type="line"/>
-      <point x="222" y="1297" type="line"/>
-      <point x="88" y="968" type="line"/>
-    </contour>
-    <contour>
-      <point x="351" y="849" type="move"/>
-    </contour>
-    <contour>
-      <point x="579" y="10" type="move"/>
-    </contour>
-    <contour>
-      <point x="366" y="858" type="move"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="circumflex" xOffset="43"/>
   </outline>
 </glyph>

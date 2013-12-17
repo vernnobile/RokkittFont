@@ -25,10 +25,17 @@
     </contour>
     <component base="uc_main_stem"/>
     <contour>
+<<<<<<< HEAD
       <point x="680" y="1152" type="move" name="top"/>
     </contour>
     <contour>
       <point x="325" y="622" type="move" name="mid"/>
+=======
+      <point x="640" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="318" y="592" type="move" name="mid"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

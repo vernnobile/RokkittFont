@@ -31,7 +31,14 @@
       <point x="1291" y="0" type="line"/>
     </contour>
     <contour>
+<<<<<<< HEAD
       <point x="971" y="1152" type="move" name="top"/>
+=======
+      <point x="970" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="973" y="0" type="move" name="bot"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

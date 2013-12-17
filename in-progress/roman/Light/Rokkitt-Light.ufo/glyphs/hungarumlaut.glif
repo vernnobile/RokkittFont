@@ -4,6 +4,7 @@
   <unicode hex="02DD"/>
   <outline>
     <contour>
+<<<<<<< HEAD
       <point x="249" y="903" type="line"/>
       <point x="373" y="1152" type="line"/>
       <point x="277" y="1152" type="line"/>
@@ -17,6 +18,21 @@
     </contour>
     <contour>
       <point x="131" y="805" type="move" name="_top"/>
+=======
+      <point x="260" y="903" type="line"/>
+      <point x="414" y="1152" type="line"/>
+      <point x="288" y="1152" type="line"/>
+      <point x="229" y="903" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="903" type="line"/>
+      <point x="204" y="1152" type="line"/>
+      <point x="78" y="1152" type="line"/>
+      <point x="19" y="903" type="line"/>
+    </contour>
+    <contour>
+      <point x="144" y="805" type="move" name="_top"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

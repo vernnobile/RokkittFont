@@ -19,7 +19,11 @@
     </contour>
     <component base="lc_bowl_left" xOffset="-45" yOffset="15" yScale="0.98"/>
     <contour>
+<<<<<<< HEAD
       <point x="528" y="805" type="move" name="top"/>
+=======
+      <point x="505" y="805" type="move" name="top"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

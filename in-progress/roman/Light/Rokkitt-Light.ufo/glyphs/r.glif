@@ -15,10 +15,14 @@
     </contour>
     <component base="lc_xheight_stem"/>
     <contour>
+<<<<<<< HEAD
       <point x="419" y="805" type="move" name="top"/>
     </contour>
     <contour>
       <point x="311" y="0" type="move" name="bot"/>
+=======
+      <point x="455" y="805" type="move" name="top"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

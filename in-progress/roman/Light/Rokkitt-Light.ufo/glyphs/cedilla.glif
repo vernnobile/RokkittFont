@@ -29,7 +29,11 @@
       <point x="80" y="-210" type="curve"/>
     </contour>
     <contour>
+<<<<<<< HEAD
       <point x="190" y="0" type="move" name="_bot"/>
+=======
+      <point x="191" y="0" type="move" name="_bot"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

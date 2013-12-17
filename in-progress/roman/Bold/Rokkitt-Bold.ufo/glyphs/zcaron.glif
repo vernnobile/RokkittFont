@@ -1,38 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="1">
-  <advance width="1088"/>
+  <advance width="1065"/>
   <unicode hex="017E"/>
   <outline>
-    <contour>
-      <point x="917" y="0" type="line"/>
-      <point x="917" y="298" type="line"/>
-      <point x="766" y="298" type="line"/>
-      <point x="766" y="133" type="line"/>
-      <point x="399" y="133" type="line"/>
-      <point x="918" y="710" type="line"/>
-      <point x="918" y="849" type="line"/>
-      <point x="177" y="849" type="line"/>
-      <point x="177" y="562" type="line"/>
-      <point x="323" y="562" type="line"/>
-      <point x="323" y="715" type="line"/>
-      <point x="684" y="715" type="line"/>
-      <point x="169" y="135" type="line"/>
-      <point x="169" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="285" y="1227" type="line"/>
-      <point x="447" y="968" type="line"/>
-      <point x="643" y="968" type="line"/>
-      <point x="802" y="1227" type="line"/>
-      <point x="698" y="1227" type="line"/>
-      <point x="546" y="1073" type="line"/>
-      <point x="392" y="1227" type="line"/>
-    </contour>
-    <contour>
-      <point x="541" y="849" type="move"/>
-    </contour>
-    <contour>
-      <point x="543" y="905" type="move"/>
-    </contour>
+    <component base="z"/>
+    <component base="caron" xOffset="265"/>
   </outline>
 </glyph>

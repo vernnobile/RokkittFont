@@ -26,6 +26,7 @@
       <point x="39" y="752" type="line"/>
     </contour>
     <contour>
+<<<<<<< HEAD
       <point x="228" y="1126" type="move" name="top"/>
     </contour>
     <contour>
@@ -33,6 +34,9 @@
     </contour>
     <contour>
       <point x="431" y="0" type="move" name="bot"/>
+=======
+      <point x="365" y="0" type="move" name="bot"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

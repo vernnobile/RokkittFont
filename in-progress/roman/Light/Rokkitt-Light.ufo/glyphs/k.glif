@@ -21,7 +21,11 @@
     </contour>
     <component base="lc_ascender_stem"/>
     <contour>
+<<<<<<< HEAD
       <point x="506" y="0" type="move" name="bot"/>
+=======
+      <point x="519" y="0" type="move" name="bot"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
     </contour>
   </outline>
   <lib>

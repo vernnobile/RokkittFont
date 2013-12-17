@@ -4,7 +4,11 @@
   <unicode hex="00C3"/>
   <outline>
     <component base="A"/>
+<<<<<<< HEAD
     <component base="tilde" xOffset="409" yOffset="347"/>
+=======
+    <component base="tilde" xOffset="429" yOffset="347"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
   </outline>
   <lib>
     <dict>
