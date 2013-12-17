@@ -70,6 +70,8 @@
 	<string>Eogonek_.glif</string>
 	<key>Eth</key>
 	<string>Eth_.glif</string>
+	<key>Euro</key>
+	<string>Euro_.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -396,10 +398,10 @@
 	<string>eogonek.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>estimated</key>
+	<string>estimated.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
-	<key>euro</key>
-	<string>euro.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
@@ -424,10 +426,10 @@
 	<string>g.glif</string>
 	<key>gbreve</key>
 	<string>gbreve.glif</string>
-	<key>gcedilla</key>
-	<string>gcedilla.glif</string>
 	<key>gcircumflex</key>
 	<string>gcircumflex.glif</string>
+	<key>gcommaaccent</key>
+	<string>gcommaaccent.glif</string>
 	<key>gdotaccent</key>
 	<string>gdotaccent.glif</string>
 	<key>germandbls</key>
@@ -438,10 +440,10 @@
 	<string>greater.glif</string>
 	<key>greaterequal</key>
 	<string>greaterequal.glif</string>
-	<key>guillemetleft</key>
-	<string>guillemetleft.glif</string>
-	<key>guillemetright</key>
-	<string>guillemetright.glif</string>
+	<key>guillemotleft</key>
+	<string>guillemotleft.glif</string>
+	<key>guillemotright</key>
+	<string>guillemotright.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
 	<key>guilsinglright</key>
@@ -796,8 +798,14 @@
 	<string>uni0216.glif</string>
 	<key>uni0217</key>
 	<string>uni0217.glif</string>
+	<key>uni021A</key>
+	<string>uni021A_.glif</string>
+	<key>uni021B</key>
+	<string>uni021B_.glif</string>
 	<key>uni0237</key>
 	<string>uni0237.glif</string>
+	<key>uni02C9</key>
+	<string>uni02C9_.glif</string>
 	<key>uni0307</key>
 	<string>uni0307.glif</string>
 	<key>uni030F</key>
@@ -834,10 +842,16 @@
 	<string>uni1E6A_.glif</string>
 	<key>uni1E6B</key>
 	<string>uni1E6B_.glif</string>
+	<key>uni2113</key>
+	<string>uni2113.glif</string>
+	<key>uni2126</key>
+	<string>uni2126.glif</string>
 	<key>uni2206</key>
 	<string>uni2206.glif</string>
 	<key>uni2215</key>
 	<string>uni2215.glif</string>
+	<key>uni2219</key>
+	<string>uni2219.glif</string>
 	<key>uniFB00</key>
 	<string>uniFB00_.glif</string>
 	<key>uniFB01</key>

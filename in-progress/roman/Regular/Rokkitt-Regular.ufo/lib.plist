@@ -709,7 +709,6 @@
 		<string>gcircumflex</string>
 		<string>gbreve</string>
 		<string>gdotaccent</string>
-		<string>gcedilla</string>
 		<string>uni01F5</string>
 		<string>h</string>
 		<string>hcircumflex</string>
@@ -955,14 +954,22 @@
 		<string>threesuperior</string>
 		<string>foursuperior</string>
 		<string>softhyphen</string>
-		<string>guillemetleft</string>
-		<string>guillemetright</string>
-		<string>euro</string>
 		<string>emptyset</string>
 		<string>partialdiff</string>
 		<string>radical</string>
 		<string>summation</string>
 		<string>product.001</string>
+		<string>uni021A</string>
+		<string>gcommaaccent</string>
+		<string>uni021B</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
+		<string>Euro</string>
+		<string>uni2126</string>
+		<string>uni2219</string>
+		<string>estimated</string>
+		<string>uni2113</string>
+		<string>uni02C9</string>
 	</array>
 </dict>
 </plist>
