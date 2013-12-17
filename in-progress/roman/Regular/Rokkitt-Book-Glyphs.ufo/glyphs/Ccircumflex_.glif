@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccircumflex" format="1">
-  <advance width="1249"/>
+  <advance width="1247"/>
   <unicode hex="0108"/>
   <outline>
     <component base="C"/>
-    <component base="circumflex" xOffset="332" yOffset="377"/>
+    <component base="circumflex" xOffset="363" yOffset="347"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>Ccircumflex</string>
       <key>unicodes</key>

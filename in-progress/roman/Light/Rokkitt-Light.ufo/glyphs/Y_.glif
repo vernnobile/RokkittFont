@@ -4,7 +4,7 @@
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="180" y="1095" type="line"/>
+      <point x="180" y="1093" type="line"/>
       <point x="593" y="408" type="line"/>
       <point x="593" y="58" type="line"/>
       <point x="442" y="58" type="line"/>
@@ -13,18 +13,21 @@
       <point x="819" y="58" type="line"/>
       <point x="669" y="58" type="line"/>
       <point x="669" y="408" type="line"/>
-      <point x="1080" y="1095" type="line"/>
-      <point x="1226" y="1095" type="line"/>
-      <point x="1226" y="1154" type="line"/>
-      <point x="849" y="1154" type="line"/>
-      <point x="849" y="1095" type="line"/>
-      <point x="998" y="1095" type="line"/>
+      <point x="1080" y="1093" type="line"/>
+      <point x="1226" y="1093" type="line"/>
+      <point x="1226" y="1152" type="line"/>
+      <point x="849" y="1152" type="line"/>
+      <point x="849" y="1093" type="line"/>
+      <point x="998" y="1093" type="line"/>
       <point x="633" y="475" type="line"/>
-      <point x="262" y="1095" type="line"/>
-      <point x="409" y="1095" type="line"/>
-      <point x="409" y="1154" type="line"/>
-      <point x="32" y="1154" type="line"/>
-      <point x="32" y="1095" type="line"/>
+      <point x="262" y="1093" type="line"/>
+      <point x="409" y="1093" type="line"/>
+      <point x="409" y="1152" type="line"/>
+      <point x="32" y="1152" type="line"/>
+      <point x="32" y="1093" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -34,22 +37,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Y</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <real>1257.575</real>
         </dict>

@@ -776,7 +776,6 @@
 		<string>gcircumflex</string>
 		<string>gbreve</string>
 		<string>gdotaccent</string>
-		<string>gcedilla</string>
 		<string>uni01F5</string>
 		<string>h</string>
 		<string>hcircumflex</string>
@@ -876,7 +875,6 @@
 		<string>uni01C9</string>
 		<string>uni01CC</string>
 		<string>uni01F3</string>
-		<string>uni0237</string>
 		<string>pi</string>
 		<string>uni01C5</string>
 		<string>uni01c8</string>
@@ -885,7 +883,6 @@
 		<string>uni0307</string>
 		<string>uni030F</string>
 		<string>uni0311</string>
-		<string>uni0326</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -896,8 +893,6 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>uni00B9</string>
-		<string>uni00B2</string>
 		<string>uni00B3</string>
 		<string>onequarter</string>
 		<string>onehalf</string>
@@ -925,8 +920,6 @@
 		<string>quotedblbase</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
-		<string>guillemotleft</string>
-		<string>guillemotright</string>
 		<string>asterisk</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
@@ -976,7 +969,6 @@
 		<string>sterling</string>
 		<string>currency</string>
 		<string>yen</string>
-		<string>Euro</string>
 		<string>florin</string>
 		<string>asciicircum</string>
 		<string>asciitilde</string>
@@ -998,25 +990,6 @@
 		<string>trademark</string>
 		<string>degree</string>
 		<string>lozenge</string>
-		<string>uni0001</string>
-		<string>uni0002</string>
-		<string>uni0003</string>
-		<string>uni0004</string>
-		<string>uni0005</string>
-		<string>uni0006</string>
-		<string>uni0007</string>
-		<string>uni0008</string>
-		<string>uni0009</string>
-		<string>uni0010</string>
-		<string>uni0011</string>
-		<string>uni0012</string>
-		<string>uni0013</string>
-		<string>uni0014</string>
-		<string>uni0015</string>
-		<string>uni0016</string>
-		<string>uni0017</string>
-		<string>uni0018</string>
-		<string>uni0019</string>
 		<string>uni00AD</string>
 		<string>fj</string>
 		<string>ff</string>
@@ -1034,6 +1007,86 @@
 		<string>lc_xheight_stem</string>
 		<string>uc_main_stem</string>
 		<string>lc_xheight_curved_stem</string>
+		<string>Aringacute</string>
+		<string>AEacute</string>
+		<string>Bdotaccent</string>
+		<string>Dcroat</string>
+		<string>Ddotaccent</string>
+		<string>Dz</string>
+		<string>Dzcaron</string>
+		<string>Fdotaccent</string>
+		<string>Gacute</string>
+		<string>Lj</string>
+		<string>Mdotaccent</string>
+		<string>Eng</string>
+		<string>Nj</string>
+		<string>Oslashacute</string>
+		<string>Pdotaccent</string>
+		<string>Sdotaccent</string>
+		<string>Schwa</string>
+		<string>Tbar</string>
+		<string>Tcedilla</string>
+		<string>Tdotaccent</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
+		<string>Ycircumflex</string>
+		<string>Ygrave</string>
+		<string>aringacute</string>
+		<string>aeacute</string>
+		<string>bdotaccent</string>
+		<string>ddotaccent</string>
+		<string>dz</string>
+		<string>dzcaron</string>
+		<string>fdotaccent</string>
+		<string>gacute</string>
+		<string>gcommaaccent</string>
+		<string>idotaccent</string>
+		<string>dotlessj</string>
+		<string>lj</string>
+		<string>mdotaccent</string>
+		<string>napostrophe</string>
+		<string>eng</string>
+		<string>nj</string>
+		<string>oslashacute</string>
+		<string>pdotaccent</string>
+		<string>sdotaccent</string>
+		<string>schwa</string>
+		<string>tbar</string>
+		<string>tcedilla</string>
+		<string>tdotaccent</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
+		<string>ycircumflex</string>
+		<string>ygrave</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>uniFB00</string>
+		<string>uniFB03</string>
+		<string>uniFB04</string>
+		<string>Delta</string>
+		<string>Omega</string>
+		<string>mu</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>softhyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
+		<string>.notdef</string>
+		<string>euro</string>
+		<string>divisionslash</string>
+		<string>emptyset</string>
+		<string>perthousand</string>
+		<string>uni2219</string>
+		<string>uniF8FF</string>
+		<string>commaaccent</string>
+		<string>dotaboverightcomb</string>
+		<string>apostrophemod</string>
+		<string>uni02C9</string>
+		<string>foundryicon</string>
 	</array>
 </dict>
 </plist>

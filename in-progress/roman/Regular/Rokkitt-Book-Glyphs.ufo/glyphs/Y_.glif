@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="1">
-  <advance width="1129"/>
+  <advance width="1166"/>
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="129" y="1036" type="line"/>
-      <point x="487" y="530" type="line"/>
-      <point x="487" y="116" type="line"/>
-      <point x="328" y="116" type="line"/>
-      <point x="328" y="0" type="line"/>
-      <point x="811" y="0" type="line"/>
-      <point x="811" y="116" type="line"/>
-      <point x="647" y="116" type="line"/>
-      <point x="647" y="530" type="line"/>
-      <point x="990" y="1036" type="line"/>
-      <point x="1146" y="1036" type="line"/>
-      <point x="1146" y="1152" type="line"/>
-      <point x="686" y="1152" type="line"/>
-      <point x="686" y="1036" type="line"/>
-      <point x="836" y="1036" type="line"/>
-      <point x="579" y="648" type="line"/>
-      <point x="305" y="1036" type="line"/>
-      <point x="455" y="1036" type="line"/>
-      <point x="455" y="1152" type="line"/>
-      <point x="-20" y="1152" type="line"/>
-      <point x="-20" y="1036" type="line"/>
+      <point x="706" y="1152" type="line"/>
+      <point x="706" y="1036" type="line"/>
+      <point x="856" y="1036" type="line"/>
+      <point x="599" y="648" type="line"/>
+      <point x="325" y="1036" type="line"/>
+      <point x="475" y="1036" type="line"/>
+      <point x="475" y="1152" type="line"/>
+      <point x="0" y="1152" type="line"/>
+      <point x="0" y="1036" type="line"/>
+      <point x="149" y="1036" type="line"/>
+      <point x="507" y="530" type="line"/>
+      <point x="507" y="116" type="line"/>
+      <point x="348" y="116" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="831" y="0" type="line"/>
+      <point x="831" y="116" type="line"/>
+      <point x="667" y="116" type="line"/>
+      <point x="667" y="530" type="line"/>
+      <point x="1010" y="1036" type="line"/>
+      <point x="1166" y="1036" type="line"/>
+      <point x="1166" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="602" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -32,18 +35,15 @@
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>Y</string>
       <key>unicodes</key>

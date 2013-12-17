@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1050.88"/>
+  <advance width="1050.880"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
@@ -20,6 +20,9 @@
       <point x="300" y="421" type="line"/>
     </contour>
     <component base="lc_ascender_stem"/>
+    <contour>
+      <point x="506" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -32,8 +35,6 @@
           <false/>
           <key>magnetic</key>
           <integer>5</integer>
-          <key>name</key>
-          <string></string>
           <key>x</key>
           <integer>474</integer>
           <key>y</key>
@@ -45,24 +46,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>k</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1050.88</real>
+          <real>1050.8800000000001</real>
         </dict>
       </dict>
     </dict>

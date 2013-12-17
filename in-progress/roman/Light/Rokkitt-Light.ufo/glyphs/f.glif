@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="661.44"/>
+  <advance width="661.440"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
@@ -33,6 +33,12 @@
       <point x="252" y="58" type="line"/>
       <point x="104" y="58" type="line"/>
     </contour>
+    <contour>
+      <point x="432" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="305" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -41,24 +47,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>f</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>661.44</real>
+          <real>661.44000000000005</real>
         </dict>
       </dict>
     </dict>

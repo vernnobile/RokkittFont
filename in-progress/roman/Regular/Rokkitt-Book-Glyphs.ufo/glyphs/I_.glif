@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="572"/>
+  <advance width="580"/>
   <unicode hex="0049"/>
   <outline>
-    <component base="uc_main_stem" xOffset="-5"/>
+    <component base="uc_main_stem" xOffset="4"/>
+    <contour>
+      <point x="290" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="311" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>I</string>
       <key>unicodes</key>

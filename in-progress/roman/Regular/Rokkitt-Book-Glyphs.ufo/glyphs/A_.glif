@@ -4,6 +4,12 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
+      <point x="336" y="1152" type="line"/>
+      <point x="336" y="1036" type="line"/>
+      <point x="482" y="1036" type="line"/>
+      <point x="178" y="116" type="line"/>
+      <point x="30" y="116" type="line"/>
+      <point x="30" y="0" type="line"/>
       <point x="489" y="0" type="line"/>
       <point x="489" y="116" type="line"/>
       <point x="344" y="116" type="line"/>
@@ -18,18 +24,18 @@
       <point x="774" y="1036" type="line"/>
       <point x="918" y="1036" type="line"/>
       <point x="918" y="1152" type="line"/>
-      <point x="336" y="1152" type="line"/>
-      <point x="336" y="1036" type="line"/>
-      <point x="482" y="1036" type="line"/>
-      <point x="178" y="116" type="line"/>
-      <point x="30" y="116" type="line"/>
-      <point x="30" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="625" y="1036" type="line"/>
-      <point x="636" y="1036" type="line"/>
       <point x="803" y="531" type="line"/>
       <point x="465" y="531" type="line"/>
+      <point x="625" y="1036" type="line"/>
+      <point x="636" y="1036" type="line"/>
+    </contour>
+    <contour>
+      <point x="1016" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="637" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -37,24 +43,19 @@
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>A</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>line</string>
       <key>unicodes</key>

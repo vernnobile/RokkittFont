@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="1">
-  <advance width="1102.72"/>
+  <advance width="1102.720"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
@@ -43,6 +43,9 @@
       <point x="276" y="38"/>
       <point x="167" y="194"/>
     </contour>
+    <contour>
+      <point x="490" y="805" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -51,22 +54,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>q</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <real>1102.72</real>
         </dict>

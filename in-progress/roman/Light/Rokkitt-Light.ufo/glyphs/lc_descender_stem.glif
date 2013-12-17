@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lc_descender_stem" format="1">
-  <advance width="1155.84"/>
+  <advance width="1155.840"/>
   <outline>
     <contour>
-      <point x="447.0" y="-312.0" type="line"/>
-      <point x="447.0" y="-254.0" type="line"/>
+      <point x="447" y="-312" type="line"/>
+      <point x="447" y="-254" type="line"/>
       <point x="306" y="-254" type="line"/>
-      <point x="306.0" y="-254.0"/>
-      <point x="306.0" y="312.205331249"/>
-      <point x="306.0" y="616.200728232" type="curve" smooth="yes"/>
-      <point x="306.0" y="727.754927235"/>
-      <point x="306.0" y="804.0"/>
+      <point x="306" y="-254"/>
+      <point x="306" y="312.205"/>
+      <point x="306" y="616.201" type="curve" smooth="yes"/>
+      <point x="306" y="727.755"/>
+      <point x="306" y="804"/>
       <point x="306" y="804" type="curve"/>
-      <point x="93.0" y="804.0" type="line"/>
-      <point x="93.0" y="746.0" type="line"/>
-      <point x="230.0" y="746.0" type="line"/>
-      <point x="230.0" y="-254.0" type="line"/>
-      <point x="87.0" y="-254.0" type="line"/>
-      <point x="87.0" y="-312.0" type="line"/>
+      <point x="93" y="804" type="line"/>
+      <point x="93" y="746" type="line"/>
+      <point x="230" y="746" type="line"/>
+      <point x="230" y="-254" type="line"/>
+      <point x="87" y="-254" type="line"/>
+      <point x="87" y="-312" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,24 +27,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>lc_descender_stem</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1155.84</real>
+          <real>1155.8399999999999</real>
         </dict>
       </dict>
     </dict>

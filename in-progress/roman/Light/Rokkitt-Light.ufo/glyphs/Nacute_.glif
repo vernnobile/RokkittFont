@@ -1,36 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="1">
-  <advance width="1392"/>
+  <advance width="1423"/>
   <unicode hex="0143"/>
   <outline>
-    <contour>
-      <point x="634" y="1383" type="line"/>
-      <point x="788" y="1632" type="line"/>
-      <point x="662" y="1632" type="line"/>
-      <point x="603" y="1383" type="line"/>
-    </contour>
-    <contour>
-      <point x="56" y="1234" type="line"/>
-      <point x="56" y="1171" type="line"/>
-      <point x="217" y="1171" type="line"/>
-      <point x="217" y="62" type="line"/>
-      <point x="56" y="62" type="line"/>
-      <point x="56" y="0" type="line"/>
-      <point x="457" y="0" type="line"/>
-      <point x="457" y="62" type="line"/>
-      <point x="296" y="62" type="line"/>
-      <point x="296" y="1114" type="line"/>
-      <point x="1140" y="0" type="line"/>
-      <point x="1219" y="0" type="line"/>
-      <point x="1219" y="1171" type="line"/>
-      <point x="1366" y="1171" type="line"/>
-      <point x="1366" y="1234" type="line"/>
-      <point x="979" y="1234" type="line"/>
-      <point x="979" y="1171" type="line"/>
-      <point x="1140" y="1171" type="line"/>
-      <point x="1140" y="125" type="line"/>
-      <point x="296" y="1234" type="line"/>
-    </contour>
+    <component base="N"/>
+    <component base="acute" xOffset="666" yOffset="347"/>
   </outline>
   <lib>
     <dict>
@@ -39,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Nacute</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1392</integer>
         </dict>

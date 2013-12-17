@@ -17,12 +17,18 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>2D3E2A24-DE0E-4F12-825E-B8FC510A491C</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>com.schriftgestaltung.weight</key>
+	<string>Light</string>
 	<key>com.typemytype.robofont.b.layerStrokeColor</key>
 	<array>
-		<real>1.0</real>
+		<real>1</real>
 		<real>0.75</real>
 		<real>0.0</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -43,7 +49,7 @@
 		<real>0.5</real>
 		<real>0.0</real>
 		<real>0.5</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -506,49 +512,49 @@
 	<dict>
 		<key>@MMK_L_A_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_B_Left</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_H_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_O_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_P_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_R_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_S_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
@@ -556,48 +562,48 @@
 		<key>@MMK_L_T_Left</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>1</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_U_Left</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_V_Left</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_W_Left</key>
 		<array>
 			<real>0.5</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_X_Left</key>
 		<array>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>1</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_Y_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_k_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
@@ -605,69 +611,69 @@
 		<key>@MMK_L_n_Left</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_o_Left</key>
 		<array>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>1</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_r_Left</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>1</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_t_Left</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_v_Left</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_w_Left</key>
 		<array>
 			<real>0.5</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_y_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_A_Right</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>1</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_H_Right</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_O_Right</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
@@ -676,47 +682,47 @@
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_T_Right</key>
 		<array>
 			<real>0.0</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_U_Right</key>
 		<array>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_V_Right</key>
 		<array>
 			<real>0.5</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_W_Right</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_Y_Right</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_a_Right</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>0.25</real>
@@ -724,43 +730,43 @@
 		<key>@MMK_R_n_Right</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_o_Right</key>
 		<array>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>1</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_u_Left</key>
 		<array>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.5</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_v_Left</key>
 		<array>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>1</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_w_Left</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
+			<real>1</real>
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_y_Left</key>
 		<array>
 			<real>0.0</real>
-			<real>1.0</real>
-			<real>1.0</real>
+			<real>1</real>
+			<real>1</real>
 			<real>0.25</real>
 		</array>
 	</dict>
@@ -1199,10 +1205,86 @@
 		<string>lc_xheight_curved_stem</string>
 		<string>lc_xheight_stem</string>
 		<string>uc_main_stem</string>
-		<string>lc_ascender_stem.add_1</string>
 		<string>.notdef</string>
 		<string>lc_ascender_stem_1</string>
 		<string>lc_ascender_stem_2</string>
+		<string>Aringacute</string>
+		<string>AEacute</string>
+		<string>Bdotaccent</string>
+		<string>Dcroat</string>
+		<string>Ddotaccent</string>
+		<string>Dz</string>
+		<string>Dzcaron</string>
+		<string>Ebreve</string>
+		<string>Fdotaccent</string>
+		<string>Gacute</string>
+		<string>Lj</string>
+		<string>Mdotaccent</string>
+		<string>Eng</string>
+		<string>Nj</string>
+		<string>Oslashacute</string>
+		<string>Pdotaccent</string>
+		<string>Scircumflex</string>
+		<string>Scommaaccent</string>
+		<string>Sdotaccent</string>
+		<string>Schwa</string>
+		<string>Tbar</string>
+		<string>Tcedilla</string>
+		<string>Tdotaccent</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
+		<string>Ycircumflex</string>
+		<string>Ygrave</string>
+		<string>aringacute</string>
+		<string>aeacute</string>
+		<string>bdotaccent</string>
+		<string>ddotaccent</string>
+		<string>dz</string>
+		<string>dzcaron</string>
+		<string>ebreve</string>
+		<string>fdotaccent</string>
+		<string>gacute</string>
+		<string>gcommaaccent</string>
+		<string>idotaccent</string>
+		<string>dotlessj</string>
+		<string>lj</string>
+		<string>mdotaccent</string>
+		<string>napostrophe</string>
+		<string>eng</string>
+		<string>nj</string>
+		<string>oslashacute</string>
+		<string>pdotaccent</string>
+		<string>sdotaccent</string>
+		<string>schwa</string>
+		<string>tbar</string>
+		<string>tcedilla</string>
+		<string>tdotaccent</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
+		<string>ycircumflex</string>
+		<string>ygrave</string>
+		<string>uniFB00</string>
+		<string>uniFB03</string>
+		<string>uniFB04</string>
+		<string>Delta</string>
+		<string>Omega</string>
+		<string>softhyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
+		<string>uni00A0</string>
+		<string>euro</string>
+		<string>divisionslash</string>
+		<string>emptyset</string>
+		<string>perthousand</string>
+		<string>uni2219</string>
+		<string>uniF8FF</string>
+		<string>dotaboverightcomb</string>
+		<string>apostrophemod</string>
+		<string>uni02C9</string>
 	</array>
 </dict>
 </plist>

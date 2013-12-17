@@ -31,6 +31,12 @@
       <point x="120" y="273"/>
       <point x="319" y="-23"/>
     </contour>
+    <contour>
+      <point x="717" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="791" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -39,22 +45,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>O</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1437</integer>
         </dict>

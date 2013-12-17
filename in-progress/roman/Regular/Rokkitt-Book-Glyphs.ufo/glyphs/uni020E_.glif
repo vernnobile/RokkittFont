@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020E" format="1">
-  <advance width="1321"/>
+  <advance width="1330"/>
   <unicode hex="020E"/>
   <outline>
     <component base="O"/>
-    <component base="uni0311" xOffset="368" yOffset="348"/>
+    <component base="uni0311" xOffset="369" yOffset="347"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>uni020E</string>
       <key>unicodes</key>

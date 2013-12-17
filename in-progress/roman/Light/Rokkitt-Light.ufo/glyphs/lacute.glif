@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="1">
-  <advance width="466"/>
+  <advance width="566"/>
   <unicode hex="013A"/>
   <outline>
-    <contour>
-      <point x="200" y="1174" type="line"/>
-      <point x="200" y="60" type="line"/>
-      <point x="14" y="60" type="line"/>
-      <point x="14" y="0" type="line"/>
-      <point x="463" y="0" type="line"/>
-      <point x="463" y="60" type="line"/>
-      <point x="279" y="60" type="line"/>
-      <point x="279" y="1234" type="line"/>
-      <point x="14" y="1234" type="line"/>
-      <point x="14" y="1174" type="line"/>
-    </contour>
-    <contour>
-      <point x="242" y="1336" type="line"/>
-      <point x="396" y="1585" type="line"/>
-      <point x="270" y="1585" type="line"/>
-      <point x="211" y="1336" type="line"/>
-    </contour>
+    <component base="l"/>
+    <component base="acute" xOffset="243" yOffset="347"/>
   </outline>
   <lib>
     <dict>
@@ -29,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>lacute</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>466</integer>
         </dict>

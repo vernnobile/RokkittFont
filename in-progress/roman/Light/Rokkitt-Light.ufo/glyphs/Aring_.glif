@@ -1,64 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="1272"/>
+  <advance width="1354"/>
   <unicode hex="00C5"/>
   <outline>
-    <contour>
-      <point x="513" y="1563" type="curve" smooth="yes"/>
-      <point x="513" y="1626"/>
-      <point x="555" y="1689"/>
-      <point x="637" y="1689" type="curve" smooth="yes"/>
-      <point x="716" y="1689"/>
-      <point x="758" y="1626"/>
-      <point x="758" y="1563" type="curve" smooth="yes"/>
-      <point x="758" y="1501"/>
-      <point x="716" y="1437"/>
-      <point x="637" y="1437" type="curve" smooth="yes"/>
-      <point x="555" y="1437"/>
-      <point x="513" y="1501"/>
-    </contour>
-    <contour>
-      <point x="465" y="1563" type="curve" smooth="yes"/>
-      <point x="465" y="1478"/>
-      <point x="523" y="1393"/>
-      <point x="636" y="1393" type="curve" smooth="yes"/>
-      <point x="748" y="1393"/>
-      <point x="806" y="1478"/>
-      <point x="806" y="1563" type="curve" smooth="yes"/>
-      <point x="806" y="1648"/>
-      <point x="748" y="1734"/>
-      <point x="636" y="1734" type="curve" smooth="yes"/>
-      <point x="523" y="1734"/>
-      <point x="465" y="1648"/>
-    </contour>
-    <contour>
-      <point x="-7" y="0" type="line"/>
-      <point x="-7" y="62" type="line"/>
-      <point x="152" y="62" type="line"/>
-      <point x="568" y="1171" type="line"/>
-      <point x="410" y="1171" type="line"/>
-      <point x="410" y="1234" type="line"/>
-      <point x="861" y="1234" type="line"/>
-      <point x="861" y="1171" type="line"/>
-      <point x="704" y="1171" type="line"/>
-      <point x="1119" y="62" type="line"/>
-      <point x="1277" y="62" type="line"/>
-      <point x="1277" y="0" type="line"/>
-      <point x="874" y="0" type="line"/>
-      <point x="874" y="62" type="line"/>
-      <point x="1033" y="62" type="line"/>
-      <point x="873" y="503" type="line"/>
-      <point x="398" y="503" type="line"/>
-      <point x="238" y="62" type="line"/>
-      <point x="397" y="62" type="line"/>
-      <point x="397" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="419" y="564" type="line"/>
-      <point x="861" y="564" type="line"/>
-      <point x="638" y="1166" type="line"/>
-      <point x="632" y="1166" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="ring" xOffset="481" yOffset="347"/>
   </outline>
   <lib>
     <dict>
@@ -67,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Aring</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1272</integer>
         </dict>

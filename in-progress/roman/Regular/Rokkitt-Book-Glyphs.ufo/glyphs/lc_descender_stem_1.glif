@@ -3,44 +3,41 @@
   <advance width="1017"/>
   <outline>
     <contour>
-      <point x="-7" y="-336" type="line"/>
-      <point x="-7" y="-212" type="line"/>
-      <point x="145" y="-212" type="line"/>
-      <point x="145" y="-212"/>
-      <point x="145" y="588"/>
-      <point x="145" y="588" type="curve"/>
       <point x="153" y="805" type="line"/>
-      <point x="445" y="805" type="line"/>
-      <point x="445" y="689" type="line"/>
-      <point x="292" y="689" type="line"/>
-      <point x="292" y="-212" type="line"/>
-      <point x="458" y="-212" type="line"/>
+      <point x="145" y="588" type="line"/>
+      <point x="145" y="588"/>
+      <point x="145" y="-212"/>
+      <point x="145" y="-212" type="curve"/>
+      <point x="-7" y="-212" type="line"/>
+      <point x="-7" y="-336" type="line"/>
       <point x="458" y="-336" type="line"/>
+      <point x="458" y="-212" type="line"/>
+      <point x="292" y="-212" type="line"/>
+      <point x="292" y="689" type="line"/>
+      <point x="445" y="689" type="line"/>
+      <point x="445" y="805" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>p</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>line</string>
       <key>unicodes</key>

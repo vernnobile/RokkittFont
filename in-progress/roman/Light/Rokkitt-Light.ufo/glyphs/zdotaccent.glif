@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zdotaccent" format="1">
-  <advance width="837"/>
+  <advance width="914"/>
   <unicode hex="017C"/>
   <outline>
-    <contour>
-      <point x="757" y="0" type="line"/>
-      <point x="757" y="277" type="line"/>
-      <point x="688" y="277" type="line"/>
-      <point x="688" y="58" type="line"/>
-      <point x="170" y="58" type="line"/>
-      <point x="739" y="764" type="line"/>
-      <point x="739" y="836" type="line"/>
-      <point x="101" y="836" type="line"/>
-      <point x="101" y="583" type="line"/>
-      <point x="170" y="583" type="line"/>
-      <point x="170" y="776" type="line"/>
-      <point x="656" y="776" type="line"/>
-      <point x="80" y="67" type="line"/>
-      <point x="80" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="343" y="1076" type="line"/>
-      <point x="343" y="956" type="line"/>
-      <point x="459" y="956" type="line"/>
-      <point x="459" y="1076" type="line"/>
-    </contour>
+    <component base="z"/>
+    <component base="dotaccent" xOffset="401"/>
   </outline>
   <lib>
     <dict>
@@ -33,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>zdotaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>837</integer>
         </dict>

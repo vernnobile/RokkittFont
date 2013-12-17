@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lc_ascender_stem_2" format="1">
-  <advance width="1155.84"/>
+  <advance width="1155.840"/>
   <outline>
     <contour>
-      <point x="447.0" y="0.0" type="line"/>
-      <point x="447.0" y="58.0" type="line"/>
-      <point x="306.0" y="58.0" type="line"/>
-      <point x="306.0" y="58.0"/>
+      <point x="447" y="0" type="line"/>
+      <point x="447" y="58" type="line"/>
+      <point x="306" y="58" type="line"/>
+      <point x="306" y="58"/>
       <point x="306" y="1152"/>
       <point x="306" y="1152" type="curve"/>
       <point x="93" y="1152" type="line"/>
       <point x="93" y="1094" type="line"/>
       <point x="230" y="1094" type="line"/>
-      <point x="230.0" y="206.431757927" type="line"/>
+      <point x="230" y="206.432" type="line"/>
       <point x="230" y="0" type="line"/>
     </contour>
   </outline>
@@ -23,24 +23,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>lc_descender_stem</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1155.84</real>
+          <real>1155.8399999999999</real>
         </dict>
       </dict>
     </dict>

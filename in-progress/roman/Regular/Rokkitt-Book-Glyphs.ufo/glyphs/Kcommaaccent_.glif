@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Kcommaaccent" format="1">
-  <advance width="1139"/>
+  <advance width="1156"/>
   <unicode hex="0136"/>
   <outline>
     <component base="K"/>
-    <component base="uni0326" xOffset="336" yOffset="-36"/>
+    <component base="commaaccent" xOffset="297"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>Kcommaaccent</string>
       <key>unicodes</key>

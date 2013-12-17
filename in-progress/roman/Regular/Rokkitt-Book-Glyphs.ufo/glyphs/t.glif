@@ -4,6 +4,10 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
+      <point x="146" y="1063" type="line"/>
+      <point x="146" y="805" type="line"/>
+      <point x="22" y="805" type="line"/>
+      <point x="22" y="689" type="line"/>
       <point x="146" y="689" type="line"/>
       <point x="146" y="273" type="line" smooth="yes"/>
       <point x="146" y="62"/>
@@ -20,10 +24,15 @@
       <point x="477" y="805" type="line"/>
       <point x="297" y="805" type="line"/>
       <point x="297" y="1095" type="line"/>
-      <point x="146" y="1063" type="line"/>
-      <point x="146" y="805" type="line"/>
-      <point x="22" y="805" type="line"/>
-      <point x="22" y="689" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="1055" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="222" y="480" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="364" y="20" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -31,18 +40,15 @@
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>t</string>
       <key>unicodes</key>

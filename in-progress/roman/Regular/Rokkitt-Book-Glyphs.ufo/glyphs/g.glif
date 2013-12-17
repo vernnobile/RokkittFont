@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g" format="1">
-  <advance width="1024"/>
+  <advance width="1020"/>
   <unicode hex="0067"/>
   <outline>
     <contour>
+      <point x="713" y="805" type="line"/>
+      <point x="713" y="-45" type="line" smooth="yes"/>
+      <point x="713" y="-248"/>
+      <point x="395" y="-253"/>
+      <point x="213" y="-161" type="curve"/>
       <point x="166" y="-271" type="line"/>
       <point x="458" y="-406"/>
       <point x="863" y="-348"/>
@@ -11,37 +16,30 @@
       <point x="863" y="689" type="line"/>
       <point x="1014" y="689" type="line"/>
       <point x="1014" y="805" type="line"/>
-      <point x="713" y="805" type="line"/>
-      <point x="713" y="-45" type="line" smooth="yes"/>
-      <point x="713" y="-248"/>
-      <point x="395" y="-253"/>
-      <point x="213" y="-161" type="curve"/>
     </contour>
     <component base="lc_bowl_left" yOffset="16" yScale="0.98"/>
+    <contour>
+      <point x="487" y="805" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>g</string>
       <key>points</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>segmentType</key>
       <string>curve</string>
       <key>unicodes</key>

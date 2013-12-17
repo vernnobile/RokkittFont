@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zdotaccent" format="1">
-  <advance width="1010"/>
+  <advance width="959"/>
   <unicode hex="017B"/>
   <outline>
     <component base="Z"/>
-    <component base="uni0307" xOffset="250" yOffset="322"/>
+    <component base="uni0307" xOffset="248" yOffset="347"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>Zdotaccent</string>
       <key>unicodes</key>

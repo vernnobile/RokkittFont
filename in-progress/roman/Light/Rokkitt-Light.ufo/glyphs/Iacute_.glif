@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="1">
-  <advance width="453"/>
+  <advance width="635"/>
   <unicode hex="00CD"/>
   <outline>
-    <contour>
-      <point x="165" y="1383" type="line"/>
-      <point x="319" y="1632" type="line"/>
-      <point x="193" y="1632" type="line"/>
-      <point x="134" y="1383" type="line"/>
-    </contour>
-    <contour>
-      <point x="24" y="1234" type="line"/>
-      <point x="24" y="1171" type="line"/>
-      <point x="185" y="1171" type="line"/>
-      <point x="185" y="62" type="line"/>
-      <point x="24" y="62" type="line"/>
-      <point x="24" y="0" type="line"/>
-      <point x="427" y="0" type="line"/>
-      <point x="427" y="62" type="line"/>
-      <point x="267" y="62" type="line"/>
-      <point x="267" y="1171" type="line"/>
-      <point x="427" y="1171" type="line"/>
-      <point x="427" y="1234" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="acute" xOffset="257" yOffset="347"/>
   </outline>
   <lib>
     <dict>
@@ -31,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Iacute</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>453</integer>
         </dict>

@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C9" format="1">
-  <advance width="928"/>
+  <advance width="1011"/>
   <unicode hex="01C9"/>
   <outline>
-    <component base="j" xOffset="487"/>
-    <component base="l"/>
+    <component base="j"/>
+    <component base="l" xOffset="450"/>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>uni01C9</string>
       <key>unicodes</key>

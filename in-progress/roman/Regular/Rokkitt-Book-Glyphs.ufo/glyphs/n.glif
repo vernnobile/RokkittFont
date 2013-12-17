@@ -5,24 +5,27 @@
   <outline>
     <component base="lc_xheight_curved_stem" xOffset="22"/>
     <component base="lc_xheight_stem" xOffset="8"/>
+    <contour>
+      <point x="553" y="805" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="581" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>n</string>
       <key>unicodes</key>

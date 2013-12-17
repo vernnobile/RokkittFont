@@ -1,53 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1097"/>
+  <advance width="1082"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="888" y="1036" type="line"/>
-      <point x="888" y="832" type="line"/>
-      <point x="1019" y="832" type="line"/>
-      <point x="1019" y="1152" type="line"/>
-      <point x="291" y="1152" type="line"/>
-      <point x="291" y="1036" type="line"/>
+      <point x="899" y="328" type="line"/>
+      <point x="899" y="116" type="line"/>
+      <point x="291" y="116" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="1028" y="328" type="line"/>
     </contour>
     <contour>
+      <point x="687" y="769" type="line"/>
+      <point x="687" y="655" type="line"/>
+      <point x="290" y="655" type="line"/>
       <point x="290" y="526" type="line"/>
       <point x="686" y="526" type="line"/>
       <point x="686" y="410" type="line"/>
       <point x="787" y="410" type="line"/>
       <point x="787" y="769" type="line"/>
-      <point x="687" y="769" type="line"/>
-      <point x="687" y="655" type="line"/>
-      <point x="290" y="655" type="line"/>
     </contour>
     <contour>
-      <point x="291" y="116" type="line"/>
-      <point x="291" y="0" type="line"/>
-      <point x="1028" y="0" type="line"/>
-      <point x="1028" y="328" type="line"/>
-      <point x="899" y="328" type="line"/>
-      <point x="899" y="116" type="line"/>
+      <point x="291" y="1152" type="line"/>
+      <point x="291" y="1036" type="line"/>
+      <point x="888" y="1036" type="line"/>
+      <point x="888" y="832" type="line"/>
+      <point x="1019" y="832" type="line"/>
+      <point x="1019" y="1152" type="line"/>
     </contour>
     <component base="uc_main_stem"/>
+    <contour>
+      <point x="610" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="676" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>E</string>
       <key>unicodes</key>

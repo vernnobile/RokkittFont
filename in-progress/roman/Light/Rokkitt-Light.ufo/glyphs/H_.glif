@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1445.0"/>
+  <advance width="1445"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
@@ -11,6 +11,9 @@
     </contour>
     <component base="uc_main_stem" xOffset="810"/>
     <component base="uc_main_stem"/>
+    <contour>
+      <point x="730" y="1152" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -19,24 +22,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>H</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1445.0</real>
+          <real>1445</real>
         </dict>
       </dict>
     </dict>

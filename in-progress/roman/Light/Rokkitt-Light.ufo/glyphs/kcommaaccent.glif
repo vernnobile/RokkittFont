@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcommaaccent" format="1">
-  <advance width="1000"/>
+  <advance width="1051"/>
   <unicode hex="0137"/>
   <outline>
-    <contour>
-      <point x="210" y="1174" type="line"/>
-      <point x="210" y="60" type="line"/>
-      <point x="24" y="60" type="line"/>
-      <point x="24" y="0" type="line"/>
-      <point x="473" y="0" type="line"/>
-      <point x="473" y="60" type="line"/>
-      <point x="289" y="60" type="line"/>
-      <point x="289" y="431" type="line"/>
-      <point x="719" y="60" type="line"/>
-      <point x="596" y="60" type="line"/>
-      <point x="596" y="0" type="line"/>
-      <point x="979" y="0" type="line"/>
-      <point x="979" y="60" type="line"/>
-      <point x="828" y="60" type="line"/>
-      <point x="382" y="439" type="line"/>
-      <point x="785" y="776" type="line"/>
-      <point x="944" y="776" type="line"/>
-      <point x="944" y="836" type="line"/>
-      <point x="559" y="836" type="line"/>
-      <point x="559" y="776" type="line"/>
-      <point x="683" y="776" type="line"/>
-      <point x="289" y="454" type="line"/>
-      <point x="289" y="1234" type="line"/>
-      <point x="24" y="1234" type="line"/>
-      <point x="24" y="1174" type="line"/>
-    </contour>
+    <component base="k"/>
+    <component base="commaaccent" xOffset="306"/>
   </outline>
   <lib>
     <dict>
@@ -38,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>kcommaaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1000</integer>
         </dict>

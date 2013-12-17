@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="1">
-  <advance width="453"/>
+  <advance width="635"/>
   <unicode hex="00CF"/>
   <outline>
-    <contour>
-      <point x="298" y="1444" type="line"/>
-      <point x="298" y="1338" type="line"/>
-      <point x="398" y="1338" type="line"/>
-      <point x="398" y="1444" type="line"/>
-    </contour>
-    <contour>
-      <point x="56" y="1444" type="line"/>
-      <point x="56" y="1338" type="line"/>
-      <point x="156" y="1338" type="line"/>
-      <point x="156" y="1444" type="line"/>
-    </contour>
-    <contour>
-      <point x="25" y="1234" type="line"/>
-      <point x="25" y="1171" type="line"/>
-      <point x="186" y="1171" type="line"/>
-      <point x="186" y="62" type="line"/>
-      <point x="25" y="62" type="line"/>
-      <point x="25" y="0" type="line"/>
-      <point x="428" y="0" type="line"/>
-      <point x="428" y="62" type="line"/>
-      <point x="268" y="62" type="line"/>
-      <point x="268" y="1171" type="line"/>
-      <point x="428" y="1171" type="line"/>
-      <point x="428" y="1234" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="dieresis" xOffset="129" yOffset="347"/>
   </outline>
   <lib>
     <dict>
@@ -37,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Idieresis</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>453</integer>
         </dict>

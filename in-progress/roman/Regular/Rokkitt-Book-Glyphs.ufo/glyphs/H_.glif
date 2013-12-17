@@ -4,31 +4,31 @@
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="1002" y="667" type="line"/>
       <point x="289" y="667" type="line"/>
       <point x="289" y="538" type="line"/>
       <point x="1002" y="538" type="line"/>
+      <point x="1002" y="667" type="line"/>
     </contour>
     <component base="uc_main_stem" xOffset="716"/>
     <component base="uc_main_stem"/>
+    <contour>
+      <point x="648" y="1152" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>anchors</key>
       <array/>
       <key>back</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>components</key>
       <array/>
       <key>contours</key>
       <array/>
       <key>lib</key>
-      <dict>
-      </dict>
+      <dict/>
       <key>name</key>
       <string>H</string>
       <key>unicodes</key>

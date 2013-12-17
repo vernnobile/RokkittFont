@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lcommaaccent" format="1">
-  <advance width="978"/>
+  <advance width="1041"/>
   <unicode hex="013B"/>
   <outline>
-    <contour>
-      <point x="57" y="1234" type="line"/>
-      <point x="57" y="1174" type="line"/>
-      <point x="196" y="1174" type="line"/>
-      <point x="196" y="70" type="line"/>
-      <point x="57" y="70" type="line"/>
-      <point x="57" y="0" type="line"/>
-      <point x="982" y="0" type="line"/>
-      <point x="982" y="412" type="line"/>
-      <point x="906" y="412" type="line"/>
-      <point x="906" y="70" type="line"/>
-      <point x="278" y="70" type="line"/>
-      <point x="278" y="1174" type="line"/>
-      <point x="417" y="1174" type="line"/>
-      <point x="417" y="1234" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="commaaccent" xOffset="406"/>
   </outline>
   <lib>
     <dict>
@@ -27,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Lcommaaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>978</integer>
         </dict>

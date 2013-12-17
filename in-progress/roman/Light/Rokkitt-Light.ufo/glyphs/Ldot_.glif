@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ldot" format="1">
-  <advance width="978"/>
+  <advance width="1041"/>
   <unicode hex="013F"/>
   <outline>
-    <contour>
-      <point x="443" y="687" type="line"/>
-      <point x="443" y="567" type="line"/>
-      <point x="560" y="567" type="line"/>
-      <point x="560" y="687" type="line"/>
-    </contour>
-    <contour>
-      <point x="57" y="1234" type="line"/>
-      <point x="57" y="1174" type="line"/>
-      <point x="196" y="1174" type="line"/>
-      <point x="196" y="70" type="line"/>
-      <point x="57" y="70" type="line"/>
-      <point x="57" y="0" type="line"/>
-      <point x="982" y="0" type="line"/>
-      <point x="982" y="412" type="line"/>
-      <point x="906" y="412" type="line"/>
-      <point x="906" y="70" type="line"/>
-      <point x="278" y="70" type="line"/>
-      <point x="278" y="1174" type="line"/>
-      <point x="417" y="1174" type="line"/>
-      <point x="417" y="1234" type="line"/>
-    </contour>
+    <component base="L"/>
+    <component base="periodcentered" xOffset="460" yOffset="-80"/>
   </outline>
   <lib>
     <dict>
@@ -33,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Ldot</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>978</integer>
         </dict>
