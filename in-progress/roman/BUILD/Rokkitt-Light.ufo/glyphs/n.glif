@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="1">
+  <advance width="1056"/>
+  <unicode hex="006E"/>
+  <outline>
+    <component base="lc_xheight_curved_stem" xOffset="-41"/>
+    <component base="lc_xheight_stem" xOffset="-41"/>
+    <contour>
+      <point x="572" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="612" y="805" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1107</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

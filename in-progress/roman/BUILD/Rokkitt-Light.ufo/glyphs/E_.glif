@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1211"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="1003" y="352" type="line"/>
+      <point x="1003" y="58" type="line"/>
+      <point x="315" y="58" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="1075" y="0" type="line"/>
+      <point x="1075" y="352" type="line"/>
+    </contour>
+    <contour>
+      <point x="768" y="770" type="line"/>
+      <point x="768" y="623" type="line"/>
+      <point x="321" y="623" type="line"/>
+      <point x="321" y="557" type="line"/>
+      <point x="768" y="557" type="line"/>
+      <point x="768" y="396" type="line"/>
+      <point x="830" y="396" type="line"/>
+      <point x="830" y="770" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="1152" type="line"/>
+      <point x="315" y="1093" type="line"/>
+      <point x="984" y="1093" type="line"/>
+      <point x="984" y="802" type="line"/>
+      <point x="1055" y="802" type="line"/>
+      <point x="1055" y="1152" type="line"/>
+    </contour>
+    <component base="uc_main_stem"/>
+    <contour>
+      <point x="686" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="652" y="1152" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1210.825</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

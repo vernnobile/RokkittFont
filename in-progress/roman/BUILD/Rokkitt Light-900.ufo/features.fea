@@ -1,0 +1,51 @@
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn CAT;
+languagesystem latn ROM;
+languagesystem latn MOL;
+
+feature locl {
+# automatic
+script latn;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+} locl;
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub four by foursuperior;
+} sups;
+feature frac {
+# automatic
+sub one slash four by onequarter;
+} frac;
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+} liga;
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+feature dlig {
+sub f f i by ffi;
+sub f f l by ffl;
+sub f f by ff;
+sub f j by fj;
+} dlig;

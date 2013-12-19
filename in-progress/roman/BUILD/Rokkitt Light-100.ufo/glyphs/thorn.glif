@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="1">
+  <advance width="1069"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="26" y="1152" type="line"/>
+      <point x="26" y="1114" type="line"/>
+      <point x="178" y="1114" type="line"/>
+      <point x="178" y="-348" type="line"/>
+      <point x="4" y="-348" type="line"/>
+      <point x="4" y="-383" type="line"/>
+      <point x="224" y="-383" type="line"/>
+      <point x="228" y="1152" type="line"/>
+    </contour>
+    <component base="lc_bowl_right" xOffset="-38" yOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>thorn</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1083</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

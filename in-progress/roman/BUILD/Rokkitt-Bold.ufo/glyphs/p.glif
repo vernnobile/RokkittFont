@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="1">
+  <advance width="1052"/>
+  <unicode hex="0070"/>
+  <outline>
+    <component base="lc_descender_stem" xOffset="-39"/>
+    <component base="lc_bowl_right" xOffset="-43"/>
+    <contour>
+      <point x="632" y="849" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>p</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1097</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
