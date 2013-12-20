@@ -4,10 +4,10 @@
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="588" y="1246" type="line"/>
-      <point x="14" y="-6" type="line"/>
       <point x="122" y="-35" type="line"/>
       <point x="695" y="1217" type="line"/>
+      <point x="588" y="1246" type="line"/>
+      <point x="14" y="-6" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,17 +17,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>fraction</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>708</integer>
         </dict>

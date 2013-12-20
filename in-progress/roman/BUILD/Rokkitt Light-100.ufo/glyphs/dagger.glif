@@ -4,16 +4,6 @@
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="148" y="1072" type="line"/>
-      <point x="172" y="865" type="line"/>
-      <point x="-12" y="869" type="line"/>
-      <point x="-12" y="828" type="line"/>
-      <point x="172" y="840" type="line"/>
-      <point x="144" y="690"/>
-      <point x="166" y="649"/>
-      <point x="166" y="517" type="curve"/>
-      <point x="146" y="383"/>
-      <point x="172" y="271"/>
       <point x="172" y="94" type="curve"/>
       <point x="194" y="94" type="line"/>
       <point x="194" y="267"/>
@@ -26,6 +16,16 @@
       <point x="374" y="869" type="line"/>
       <point x="194" y="865" type="line"/>
       <point x="217" y="1072" type="line"/>
+      <point x="148" y="1072" type="line"/>
+      <point x="172" y="865" type="line"/>
+      <point x="-12" y="869" type="line"/>
+      <point x="-12" y="828" type="line"/>
+      <point x="172" y="840" type="line"/>
+      <point x="144" y="690"/>
+      <point x="166" y="649"/>
+      <point x="166" y="517" type="curve"/>
+      <point x="146" y="383"/>
+      <point x="172" y="271"/>
     </contour>
   </outline>
   <lib>
@@ -35,17 +35,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>dagger</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>522</integer>
         </dict>

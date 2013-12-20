@@ -3,17 +3,17 @@
   <advance width="1124"/>
   <outline>
     <contour>
-      <point x="102" y="804" type="line"/>
-      <point x="102" y="749" type="line"/>
-      <point x="275" y="749" type="line"/>
-      <point x="275" y="58" type="line"/>
-      <point x="101" y="58" type="line"/>
       <point x="101" y="0" type="line"/>
       <point x="516" y="0" type="line"/>
       <point x="516" y="58" type="line"/>
       <point x="351" y="58" type="line"/>
       <point x="351" y="642" type="line"/>
       <point x="351" y="804" type="line"/>
+      <point x="102" y="804" type="line"/>
+      <point x="102" y="749" type="line"/>
+      <point x="275" y="749" type="line"/>
+      <point x="275" y="58" type="line"/>
+      <point x="101" y="58" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,17 +25,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>lc_xheight_stem</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1124</integer>
         </dict>

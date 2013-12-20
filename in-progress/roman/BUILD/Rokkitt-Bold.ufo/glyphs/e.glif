@@ -4,9 +4,6 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
-      <point x="46" y="400" type="curve" smooth="yes"/>
-      <point x="46" y="155"/>
-      <point x="230" y="-19"/>
       <point x="497" y="-19" type="curve" smooth="yes"/>
       <point x="663" y="-19"/>
       <point x="808" y="50"/>
@@ -24,15 +21,18 @@
       <point x="482" y="826" type="curve" smooth="yes"/>
       <point x="220" y="826"/>
       <point x="46" y="650"/>
+      <point x="46" y="400" type="curve" smooth="yes"/>
+      <point x="46" y="155"/>
+      <point x="230" y="-19"/>
     </contour>
     <contour>
-      <point x="680" y="481" type="curve"/>
       <point x="256" y="481" type="line"/>
       <point x="274" y="598"/>
       <point x="356" y="681"/>
       <point x="481" y="681" type="curve" smooth="yes"/>
       <point x="607" y="681"/>
       <point x="669" y="598"/>
+      <point x="680" y="481" type="curve"/>
     </contour>
     <contour>
       <point x="620" y="0" type="move" name="ogonek"/>
@@ -48,9 +48,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -145,7 +147,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <real>726.76831688899995</real>
+                  <real>726.768316889</real>
                   <key>y</key>
                   <integer>819</integer>
                 </dict>
@@ -303,11 +305,13 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>e</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1054</integer>
         </dict>

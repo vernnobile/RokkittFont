@@ -4,27 +4,6 @@
   <unicode hex="0073"/>
   <outline>
     <contour>
-      <point x="109" y="592" type="curve" smooth="yes"/>
-      <point x="109" y="412"/>
-      <point x="206" y="351"/>
-      <point x="392" y="299" type="curve" smooth="yes"/>
-      <point x="485" y="275" type="line" smooth="yes"/>
-      <point x="565" y="253"/>
-      <point x="615" y="251"/>
-      <point x="615" y="196" type="curve" smooth="yes"/>
-      <point x="615" y="152"/>
-      <point x="572" y="135"/>
-      <point x="506" y="135" type="curve" smooth="yes"/>
-      <point x="424" y="135"/>
-      <point x="301" y="150"/>
-      <point x="281" y="247" type="curve" smooth="yes"/>
-      <point x="269" y="304" type="line"/>
-      <point x="115" y="304" type="line"/>
-      <point x="115" y="0" type="line"/>
-      <point x="286" y="0" type="line"/>
-      <point x="286" y="68" type="line"/>
-      <point x="336" y="11"/>
-      <point x="420" y="-22"/>
       <point x="539" y="-22" type="curve" smooth="yes"/>
       <point x="750" y="-22"/>
       <point x="855" y="96"/>
@@ -52,6 +31,27 @@
       <point x="429" y="826" type="curve" smooth="yes"/>
       <point x="210" y="826"/>
       <point x="109" y="709"/>
+      <point x="109" y="592" type="curve" smooth="yes"/>
+      <point x="109" y="412"/>
+      <point x="206" y="351"/>
+      <point x="392" y="299" type="curve" smooth="yes"/>
+      <point x="485" y="275" type="line" smooth="yes"/>
+      <point x="565" y="253"/>
+      <point x="615" y="251"/>
+      <point x="615" y="196" type="curve" smooth="yes"/>
+      <point x="615" y="152"/>
+      <point x="572" y="135"/>
+      <point x="506" y="135" type="curve" smooth="yes"/>
+      <point x="424" y="135"/>
+      <point x="301" y="150"/>
+      <point x="281" y="247" type="curve" smooth="yes"/>
+      <point x="269" y="304" type="line"/>
+      <point x="115" y="304" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="68" type="line"/>
+      <point x="336" y="11"/>
+      <point x="420" y="-22"/>
     </contour>
     <contour>
       <point x="441" y="804" type="move" name="top"/>

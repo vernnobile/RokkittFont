@@ -4,12 +4,6 @@
   <unicode hex="0152"/>
   <outline>
     <contour>
-      <point x="800" y="1152" type="line" smooth="yes"/>
-      <point x="409" y="1152"/>
-      <point x="164" y="933"/>
-      <point x="164" y="583" type="curve" smooth="yes"/>
-      <point x="164" y="225"/>
-      <point x="410" y="0"/>
       <point x="801" y="0" type="curve" smooth="yes"/>
       <point x="1944" y="0" type="line"/>
       <point x="1944" y="341" type="line"/>
@@ -29,9 +23,14 @@
       <point x="1775" y="817" type="line"/>
       <point x="1941" y="817" type="line"/>
       <point x="1941" y="1152" type="line"/>
+      <point x="800" y="1152" type="line" smooth="yes"/>
+      <point x="409" y="1152"/>
+      <point x="164" y="933"/>
+      <point x="164" y="583" type="curve" smooth="yes"/>
+      <point x="164" y="225"/>
+      <point x="410" y="0"/>
     </contour>
     <contour>
-      <point x="1080" y="136" type="line"/>
       <point x="818" y="136" type="line" smooth="yes"/>
       <point x="562" y="136"/>
       <point x="402" y="308"/>
@@ -40,6 +39,7 @@
       <point x="562" y="1016"/>
       <point x="816" y="1016" type="curve" smooth="yes"/>
       <point x="1080" y="1016" type="line"/>
+      <point x="1080" y="136" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,17 +49,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>OE</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>2046</integer>
         </dict>

@@ -4,10 +4,10 @@
   <unicode hex="00B7"/>
   <outline>
     <contour>
-      <point x="175" y="657" type="line"/>
       <point x="175" y="446" type="line"/>
       <point x="402" y="446" type="line"/>
       <point x="402" y="657" type="line"/>
+      <point x="175" y="657" type="line"/>
     </contour>
     <contour>
       <point x="294" y="553" type="move" name="_mid"/>
@@ -20,17 +20,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>periodcentered</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>574</integer>
         </dict>

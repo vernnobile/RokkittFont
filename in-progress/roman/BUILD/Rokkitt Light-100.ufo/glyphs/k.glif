@@ -4,10 +4,6 @@
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="522" y="804" type="line"/>
-      <point x="522" y="770" type="line"/>
-      <point x="671" y="770" type="line"/>
-      <point x="256" y="423" type="line"/>
       <point x="681" y="0" type="line"/>
       <point x="879" y="0" type="line"/>
       <point x="879" y="34" type="line"/>
@@ -16,6 +12,10 @@
       <point x="731" y="770" type="line"/>
       <point x="874" y="770" type="line"/>
       <point x="874" y="804" type="line"/>
+      <point x="522" y="804" type="line"/>
+      <point x="522" y="770" type="line"/>
+      <point x="671" y="770" type="line"/>
+      <point x="256" y="423" type="line"/>
     </contour>
     <component base="lc_ascender_stem" xOffset="-20"/>
     <contour>
@@ -44,19 +44,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>k</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1050.8800000000001</real>
+          <real>1050.88</real>
         </dict>
       </dict>
     </dict>

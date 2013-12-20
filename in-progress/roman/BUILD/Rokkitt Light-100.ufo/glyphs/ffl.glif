@@ -3,13 +3,6 @@
   <advance width="1801"/>
   <outline>
     <contour>
-      <point x="264" y="1005" type="curve" smooth="yes"/>
-      <point x="264" y="804" type="line"/>
-      <point x="109" y="804" type="line"/>
-      <point x="109" y="775" type="line"/>
-      <point x="264" y="775" type="line"/>
-      <point x="264" y="35" type="line"/>
-      <point x="114" y="35" type="line"/>
       <point x="114" y="0" type="line"/>
       <point x="504" y="0" type="line"/>
       <point x="504" y="35" type="line"/>
@@ -25,6 +18,13 @@
       <point x="930" y="1092" type="line"/>
       <point x="607" y="1313"/>
       <point x="264" y="1181"/>
+      <point x="264" y="1005" type="curve" smooth="yes"/>
+      <point x="264" y="804" type="line"/>
+      <point x="109" y="804" type="line"/>
+      <point x="109" y="775" type="line"/>
+      <point x="264" y="775" type="line"/>
+      <point x="264" y="35" type="line"/>
+      <point x="114" y="35" type="line"/>
     </contour>
     <component base="fl" xOffset="578"/>
   </outline>
@@ -35,17 +35,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>ffl</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1522</integer>
         </dict>

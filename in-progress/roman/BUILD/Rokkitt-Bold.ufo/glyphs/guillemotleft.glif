@@ -4,20 +4,20 @@
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="783" y="963" type="line"/>
-      <point x="470" y="552" type="line"/>
-      <point x="783" y="143" type="line"/>
-      <point x="927" y="143" type="line"/>
-      <point x="720" y="553" type="line"/>
-      <point x="927" y="963" type="line"/>
-    </contour>
-    <contour>
-      <point x="340" y="963" type="line"/>
-      <point x="27" y="552" type="line"/>
       <point x="340" y="143" type="line"/>
       <point x="484" y="143" type="line"/>
       <point x="277" y="553" type="line"/>
       <point x="484" y="963" type="line"/>
+      <point x="340" y="963" type="line"/>
+      <point x="27" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="783" y="143" type="line"/>
+      <point x="927" y="143" type="line"/>
+      <point x="720" y="553" type="line"/>
+      <point x="927" y="963" type="line"/>
+      <point x="783" y="963" type="line"/>
+      <point x="470" y="552" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,17 +27,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>guillemotleft</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>954</integer>
         </dict>

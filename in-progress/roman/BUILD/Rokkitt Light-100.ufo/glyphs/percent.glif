@@ -4,29 +4,6 @@
   <unicode hex="0025"/>
   <outline>
     <contour>
-      <point x="274" y="-11" type="line"/>
-      <point x="308" y="-47" type="line"/>
-      <point x="1329" y="1192" type="line"/>
-      <point x="1299" y="1222" type="line"/>
-    </contour>
-    <contour>
-      <point x="97" y="887" type="curve" smooth="yes"/>
-      <point x="97" y="698"/>
-      <point x="242" y="602"/>
-      <point x="390" y="602" type="curve" smooth="yes"/>
-      <point x="537" y="602"/>
-      <point x="685" y="698"/>
-      <point x="685" y="887" type="curve" smooth="yes"/>
-      <point x="685" y="1075"/>
-      <point x="537" y="1168"/>
-      <point x="390" y="1168" type="curve" smooth="yes"/>
-      <point x="241" y="1168"/>
-      <point x="97" y="1073"/>
-    </contour>
-    <contour>
-      <point x="629" y="887" type="curve" smooth="yes"/>
-      <point x="629" y="730"/>
-      <point x="508" y="651"/>
       <point x="390" y="651" type="curve" smooth="yes"/>
       <point x="271" y="651"/>
       <point x="153" y="730"/>
@@ -36,25 +13,31 @@
       <point x="390" y="1121" type="curve" smooth="yes"/>
       <point x="508" y="1121"/>
       <point x="629" y="1042"/>
+      <point x="629" y="887" type="curve" smooth="yes"/>
+      <point x="629" y="730"/>
+      <point x="508" y="651"/>
     </contour>
     <contour>
-      <point x="877" y="256" type="curve" smooth="yes"/>
-      <point x="877" y="69"/>
-      <point x="1024" y="-28"/>
-      <point x="1171" y="-28" type="curve" smooth="yes"/>
-      <point x="1318" y="-28"/>
-      <point x="1466" y="69"/>
-      <point x="1466" y="256" type="curve" smooth="yes"/>
-      <point x="1466" y="444"/>
-      <point x="1318" y="539"/>
-      <point x="1171" y="539" type="curve" smooth="yes"/>
-      <point x="1023" y="539"/>
-      <point x="877" y="442"/>
+      <point x="390" y="602" type="curve" smooth="yes"/>
+      <point x="537" y="602"/>
+      <point x="685" y="698"/>
+      <point x="685" y="887" type="curve" smooth="yes"/>
+      <point x="685" y="1075"/>
+      <point x="537" y="1168"/>
+      <point x="390" y="1168" type="curve" smooth="yes"/>
+      <point x="241" y="1168"/>
+      <point x="97" y="1073"/>
+      <point x="97" y="887" type="curve" smooth="yes"/>
+      <point x="97" y="698"/>
+      <point x="242" y="602"/>
     </contour>
     <contour>
-      <point x="1410" y="256" type="curve" smooth="yes"/>
-      <point x="1410" y="100"/>
-      <point x="1289" y="20"/>
+      <point x="308" y="-47" type="line"/>
+      <point x="1329" y="1192" type="line"/>
+      <point x="1299" y="1222" type="line"/>
+      <point x="274" y="-11" type="line"/>
+    </contour>
+    <contour>
       <point x="1171" y="20" type="curve" smooth="yes"/>
       <point x="1051" y="20"/>
       <point x="934" y="100"/>
@@ -64,6 +47,23 @@
       <point x="1171" y="492" type="curve" smooth="yes"/>
       <point x="1289" y="492"/>
       <point x="1410" y="411"/>
+      <point x="1410" y="256" type="curve" smooth="yes"/>
+      <point x="1410" y="100"/>
+      <point x="1289" y="20"/>
+    </contour>
+    <contour>
+      <point x="1171" y="-28" type="curve" smooth="yes"/>
+      <point x="1318" y="-28"/>
+      <point x="1466" y="69"/>
+      <point x="1466" y="256" type="curve" smooth="yes"/>
+      <point x="1466" y="444"/>
+      <point x="1318" y="539"/>
+      <point x="1171" y="539" type="curve" smooth="yes"/>
+      <point x="1023" y="539"/>
+      <point x="877" y="442"/>
+      <point x="877" y="256" type="curve" smooth="yes"/>
+      <point x="877" y="69"/>
+      <point x="1024" y="-28"/>
     </contour>
   </outline>
   <lib>
@@ -73,19 +73,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>percent</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1580.1500000000001</real>
+          <real>1580.15</real>
         </dict>
       </dict>
     </dict>

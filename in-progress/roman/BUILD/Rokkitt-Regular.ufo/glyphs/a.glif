@@ -4,6 +4,22 @@
   <unicode hex="0061"/>
   <outline>
     <contour>
+      <point x="343" y="-18" type="curve" smooth="yes"/>
+      <point x="431" y="-18"/>
+      <point x="561" y="19"/>
+      <point x="621" y="93" type="curve"/>
+      <point x="621" y="93"/>
+      <point x="623" y="21"/>
+      <point x="623" y="0" type="curve"/>
+      <point x="889" y="0" type="line"/>
+      <point x="889" y="116" type="line"/>
+      <point x="756" y="116" type="line"/>
+      <point x="756" y="545" type="line" smooth="yes"/>
+      <point x="756" y="741"/>
+      <point x="603" y="826"/>
+      <point x="432" y="826" type="curve" smooth="yes"/>
+      <point x="322" y="826"/>
+      <point x="205" y="789"/>
       <point x="116" y="731" type="curve"/>
       <point x="169" y="634" type="line"/>
       <point x="261" y="681"/>
@@ -21,28 +37,8 @@
       <point x="76" y="206" type="curve" smooth="yes"/>
       <point x="76" y="69"/>
       <point x="201" y="-18"/>
-      <point x="343" y="-18" type="curve" smooth="yes"/>
-      <point x="431" y="-18"/>
-      <point x="561" y="19"/>
-      <point x="621" y="93" type="curve"/>
-      <point x="621" y="93"/>
-      <point x="623" y="21"/>
-      <point x="623" y="0" type="curve"/>
-      <point x="889" y="0" type="line"/>
-      <point x="889" y="116" type="line"/>
-      <point x="756" y="116" type="line"/>
-      <point x="756" y="545" type="line" smooth="yes"/>
-      <point x="756" y="741"/>
-      <point x="603" y="826"/>
-      <point x="432" y="826" type="curve" smooth="yes"/>
-      <point x="322" y="826"/>
-      <point x="205" y="789"/>
     </contour>
     <contour>
-      <point x="608" y="356" type="curve"/>
-      <point x="608" y="182" type="line"/>
-      <point x="545" y="123"/>
-      <point x="461" y="93"/>
       <point x="358" y="93" type="curve" smooth="yes"/>
       <point x="275" y="93"/>
       <point x="216" y="145"/>
@@ -52,6 +48,10 @@
       <point x="432" y="372" type="curve" smooth="yes"/>
       <point x="485" y="372"/>
       <point x="582" y="361"/>
+      <point x="608" y="356" type="curve"/>
+      <point x="608" y="182" type="line"/>
+      <point x="545" y="123"/>
+      <point x="461" y="93"/>
     </contour>
     <contour>
       <point x="712" y="0" type="move" name="ogonek"/>
@@ -67,9 +67,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -476,11 +478,13 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>a</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>941</integer>
         </dict>

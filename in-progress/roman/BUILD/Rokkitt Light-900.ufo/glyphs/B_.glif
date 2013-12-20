@@ -4,6 +4,20 @@
   <unicode hex="0042"/>
   <outline>
     <contour>
+      <point x="342" y="0" type="line"/>
+      <point x="668" y="0" type="line" smooth="yes"/>
+      <point x="1139" y="0"/>
+      <point x="1147" y="256"/>
+      <point x="1147" y="339" type="curve" smooth="yes"/>
+      <point x="1147" y="470"/>
+      <point x="1060" y="582"/>
+      <point x="902" y="625" type="curve"/>
+      <point x="1012" y="669"/>
+      <point x="1089" y="744"/>
+      <point x="1089" y="872" type="curve" smooth="yes"/>
+      <point x="1089" y="1044"/>
+      <point x="948" y="1153"/>
+      <point x="621" y="1151" type="curve" smooth="yes"/>
       <point x="355" y="1151" type="line"/>
       <point x="355" y="987" type="line"/>
       <point x="524" y="987" type="line" smooth="yes"/>
@@ -23,20 +37,6 @@
       <point x="818" y="166"/>
       <point x="585" y="166" type="curve" smooth="yes"/>
       <point x="342" y="166" type="line"/>
-      <point x="342" y="0" type="line"/>
-      <point x="668" y="0" type="line" smooth="yes"/>
-      <point x="1139" y="0"/>
-      <point x="1147" y="256"/>
-      <point x="1147" y="339" type="curve" smooth="yes"/>
-      <point x="1147" y="470"/>
-      <point x="1060" y="582"/>
-      <point x="902" y="625" type="curve"/>
-      <point x="1012" y="669"/>
-      <point x="1089" y="744"/>
-      <point x="1089" y="872" type="curve" smooth="yes"/>
-      <point x="1089" y="1044"/>
-      <point x="948" y="1153"/>
-      <point x="621" y="1151" type="curve" smooth="yes"/>
     </contour>
     <component base="uc_main_stem" xOffset="-101"/>
     <contour>

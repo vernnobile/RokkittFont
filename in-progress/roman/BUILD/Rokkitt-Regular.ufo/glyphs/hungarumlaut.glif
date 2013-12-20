@@ -4,16 +4,16 @@
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="377" y="1171" type="line"/>
-      <point x="287" y="899" type="line"/>
-      <point x="382" y="899" type="line"/>
-      <point x="567" y="1171" type="line"/>
-    </contour>
-    <contour>
-      <point x="116" y="1171" type="line"/>
       <point x="25" y="899" type="line"/>
       <point x="121" y="899" type="line"/>
       <point x="306" y="1171" type="line"/>
+      <point x="116" y="1171" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="899" type="line"/>
+      <point x="382" y="899" type="line"/>
+      <point x="567" y="1171" type="line"/>
+      <point x="377" y="1171" type="line"/>
     </contour>
     <contour>
       <point x="219" y="805" type="move" name="_top"/>
@@ -26,17 +26,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>hungarumlaut</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>422</integer>
         </dict>

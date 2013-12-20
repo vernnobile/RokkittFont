@@ -4,6 +4,12 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
+      <point x="368" y="0" type="curve"/>
+      <point x="415" y="0" type="line"/>
+      <point x="415" y="0"/>
+      <point x="623" y="673"/>
+      <point x="798" y="1101" type="curve"/>
+      <point x="798" y="1153" type="line"/>
       <point x="66" y="1153" type="line"/>
       <point x="66" y="853" type="line"/>
       <point x="112" y="853" type="line"/>
@@ -11,12 +17,6 @@
       <point x="744" y="1108" type="line"/>
       <point x="521" y="497"/>
       <point x="368" y="0"/>
-      <point x="368" y="0" type="curve"/>
-      <point x="415" y="0" type="line"/>
-      <point x="415" y="0"/>
-      <point x="623" y="673"/>
-      <point x="798" y="1101" type="curve"/>
-      <point x="798" y="1153" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,19 +26,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>seven</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>877.96500000000003</real>
+          <real>877.965</real>
         </dict>
       </dict>
     </dict>

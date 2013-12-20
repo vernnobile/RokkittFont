@@ -4,30 +4,30 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="917" y="328" type="line"/>
-      <point x="917" y="116" type="line"/>
-      <point x="295" y="116" type="line"/>
-      <point x="295" y="0" type="line"/>
-      <point x="1046" y="0" type="line"/>
-      <point x="1046" y="328" type="line"/>
-    </contour>
-    <contour>
+      <point x="751" y="410" type="line"/>
+      <point x="852" y="410" type="line"/>
+      <point x="852" y="769" type="line"/>
       <point x="752" y="769" type="line"/>
       <point x="752" y="655" type="line"/>
       <point x="299" y="655" type="line"/>
       <point x="301" y="526" type="line"/>
       <point x="751" y="526" type="line"/>
-      <point x="751" y="410" type="line"/>
-      <point x="852" y="410" type="line"/>
-      <point x="852" y="769" type="line"/>
     </contour>
     <contour>
-      <point x="295" y="1152" type="line"/>
-      <point x="295" y="1039" type="line"/>
-      <point x="915" y="1037" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="1046" y="0" type="line"/>
+      <point x="1046" y="328" type="line"/>
+      <point x="917" y="328" type="line"/>
+      <point x="917" y="116" type="line"/>
+      <point x="295" y="116" type="line"/>
+    </contour>
+    <contour>
       <point x="915" y="818" type="line"/>
       <point x="1046" y="818" type="line"/>
       <point x="1046" y="1152" type="line"/>
+      <point x="295" y="1152" type="line"/>
+      <point x="295" y="1039" type="line"/>
+      <point x="915" y="1037" type="line"/>
     </contour>
     <component base="uc_main_stem" xOffset="-39"/>
     <contour>
@@ -44,17 +44,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>E</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <real>1210.825</real>
         </dict>

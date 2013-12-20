@@ -3,9 +3,9 @@
   <advance width="1487.449"/>
   <unicode hex="006D"/>
   <outline>
-    <component base="lc_xheight_curved_stem" xOffset="455" xScale="0.98"/>
-    <component base="lc_xheight_curved_stem" xOffset="-27" xScale="0.98"/>
-    <component base="lc_xheight_stem" xOffset="-65" xScale="0.98"/>
+    <component base="lc_xheight_curved_stem" xScale="0.98" xOffset="455"/>
+    <component base="lc_xheight_curved_stem" xScale="0.98" xOffset="-27"/>
+    <component base="lc_xheight_stem" xScale="0.98" xOffset="-65"/>
     <contour>
       <point x="810" y="805" type="move" name="top"/>
     </contour>
@@ -17,17 +17,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>m</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1646</integer>
         </dict>

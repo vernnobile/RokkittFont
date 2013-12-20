@@ -4,9 +4,6 @@
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="163" y="1097" type="curve" smooth="yes"/>
-      <point x="163" y="1023"/>
-      <point x="224" y="966"/>
       <point x="300" y="966" type="curve" smooth="yes"/>
       <point x="378" y="966"/>
       <point x="439" y="1023"/>
@@ -16,6 +13,9 @@
       <point x="300" y="1227" type="curve" smooth="yes"/>
       <point x="224" y="1227"/>
       <point x="163" y="1169"/>
+      <point x="163" y="1097" type="curve" smooth="yes"/>
+      <point x="163" y="1023"/>
+      <point x="224" y="966"/>
     </contour>
     <component base="lc_xheight_stem" xOffset="-76"/>
     <contour>
@@ -29,17 +29,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>i</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>651</integer>
         </dict>

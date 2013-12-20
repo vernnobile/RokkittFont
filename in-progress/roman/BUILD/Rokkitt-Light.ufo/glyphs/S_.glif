@@ -4,28 +4,6 @@
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="355" y="1172"/>
-      <point x="184" y="1067"/>
-      <point x="184" y="856" type="curve" smooth="yes"/>
-      <point x="184" y="598"/>
-      <point x="396" y="574"/>
-      <point x="598" y="550" type="curve" smooth="yes"/>
-      <point x="784" y="528"/>
-      <point x="962" y="505"/>
-      <point x="955" y="297" type="curve" smooth="yes"/>
-      <point x="951" y="166"/>
-      <point x="861" y="47"/>
-      <point x="644" y="47" type="curve" smooth="yes"/>
-      <point x="417" y="47"/>
-      <point x="261" y="134"/>
-      <point x="261" y="277" type="curve" smooth="yes"/>
-      <point x="261" y="387" type="line"/>
-      <point x="187" y="387" type="line"/>
-      <point x="187" y="-1" type="line"/>
-      <point x="261" y="-1" type="line"/>
-      <point x="261" y="122" type="line"/>
-      <point x="335" y="22"/>
-      <point x="459" y="-23"/>
       <point x="639" y="-23" type="curve" smooth="yes"/>
       <point x="945" y="-23"/>
       <point x="1026" y="171"/>
@@ -50,6 +28,28 @@
       <point x="828" y="1131"/>
       <point x="679" y="1172"/>
       <point x="567" y="1172" type="curve" smooth="yes"/>
+      <point x="355" y="1172"/>
+      <point x="184" y="1067"/>
+      <point x="184" y="856" type="curve" smooth="yes"/>
+      <point x="184" y="598"/>
+      <point x="396" y="574"/>
+      <point x="598" y="550" type="curve" smooth="yes"/>
+      <point x="784" y="528"/>
+      <point x="962" y="505"/>
+      <point x="955" y="297" type="curve" smooth="yes"/>
+      <point x="951" y="166"/>
+      <point x="861" y="47"/>
+      <point x="644" y="47" type="curve" smooth="yes"/>
+      <point x="417" y="47"/>
+      <point x="261" y="134"/>
+      <point x="261" y="277" type="curve" smooth="yes"/>
+      <point x="261" y="387" type="line"/>
+      <point x="187" y="387" type="line"/>
+      <point x="187" y="-1" type="line"/>
+      <point x="261" y="-1" type="line"/>
+      <point x="261" y="122" type="line"/>
+      <point x="335" y="22"/>
+      <point x="459" y="-23"/>
     </contour>
     <contour>
       <point x="642" y="0" type="move" name="bot"/>
@@ -65,9 +65,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -489,13 +491,15 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>S</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1143.5050000000001</real>
+          <real>1143.505</real>
         </dict>
       </dict>
     </dict>

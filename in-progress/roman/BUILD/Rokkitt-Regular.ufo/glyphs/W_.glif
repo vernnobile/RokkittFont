@@ -4,6 +4,14 @@
   <unicode hex="0057"/>
   <outline>
     <contour>
+      <point x="503" y="0" type="line"/>
+      <point x="661" y="0" type="line"/>
+      <point x="939" y="949" type="line"/>
+      <point x="1224" y="0" type="line"/>
+      <point x="1382" y="0" type="line"/>
+      <point x="1679" y="1037" type="line"/>
+      <point x="1823" y="1037" type="line"/>
+      <point x="1823" y="1153" type="line"/>
       <point x="1394" y="1153" type="line"/>
       <point x="1394" y="1037" type="line"/>
       <point x="1524" y="1037" type="line"/>
@@ -17,14 +25,6 @@
       <point x="52" y="1153" type="line"/>
       <point x="52" y="1037" type="line"/>
       <point x="195" y="1037" type="line"/>
-      <point x="503" y="0" type="line"/>
-      <point x="661" y="0" type="line"/>
-      <point x="939" y="949" type="line"/>
-      <point x="1224" y="0" type="line"/>
-      <point x="1382" y="0" type="line"/>
-      <point x="1679" y="1037" type="line"/>
-      <point x="1823" y="1037" type="line"/>
-      <point x="1823" y="1153" type="line"/>
     </contour>
     <contour>
       <point x="952" y="1152" type="move" name="top"/>
@@ -37,19 +37,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>W</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1937.3199999999999</real>
+          <real>1937.32</real>
         </dict>
       </dict>
     </dict>

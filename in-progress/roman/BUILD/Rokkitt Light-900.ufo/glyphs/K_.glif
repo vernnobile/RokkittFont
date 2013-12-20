@@ -4,12 +4,6 @@
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="774" y="1151" type="line"/>
-      <point x="774" y="987" type="line"/>
-      <point x="878" y="987" type="line"/>
-      <point x="423" y="553" type="line"/>
-      <point x="821" y="166" type="line"/>
-      <point x="726" y="166" type="line"/>
       <point x="726" y="0" type="line"/>
       <point x="1333" y="0" type="line"/>
       <point x="1333" y="166" type="line"/>
@@ -18,6 +12,12 @@
       <point x="1208" y="987" type="line"/>
       <point x="1357" y="987" type="line"/>
       <point x="1357" y="1151" type="line"/>
+      <point x="774" y="1151" type="line"/>
+      <point x="774" y="987" type="line"/>
+      <point x="878" y="987" type="line"/>
+      <point x="423" y="553" type="line"/>
+      <point x="821" y="166" type="line"/>
+      <point x="726" y="166" type="line"/>
     </contour>
     <component base="uc_main_stem" xOffset="-101"/>
     <contour>

@@ -4,6 +4,21 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
+      <point x="327" y="0" type="line"/>
+      <point x="810" y="0" type="line"/>
+      <point x="810" y="116" type="line"/>
+      <point x="646" y="116" type="line"/>
+      <point x="646" y="297" type="line"/>
+      <point x="885" y="297" type="line"/>
+      <point x="885" y="414" type="line"/>
+      <point x="646" y="414" type="line"/>
+      <point x="646" y="503" type="line"/>
+      <point x="885" y="503" type="line"/>
+      <point x="885" y="622" type="line"/>
+      <point x="708" y="622" type="line"/>
+      <point x="989" y="1037" type="line"/>
+      <point x="1145" y="1037" type="line"/>
+      <point x="1145" y="1153" type="line"/>
       <point x="685" y="1153" type="line"/>
       <point x="685" y="1037" type="line"/>
       <point x="835" y="1037" type="line"/>
@@ -24,21 +39,6 @@
       <point x="486" y="297" type="line"/>
       <point x="486" y="116" type="line"/>
       <point x="327" y="116" type="line"/>
-      <point x="327" y="0" type="line"/>
-      <point x="810" y="0" type="line"/>
-      <point x="810" y="116" type="line"/>
-      <point x="646" y="116" type="line"/>
-      <point x="646" y="297" type="line"/>
-      <point x="885" y="297" type="line"/>
-      <point x="885" y="414" type="line"/>
-      <point x="646" y="414" type="line"/>
-      <point x="646" y="503" type="line"/>
-      <point x="885" y="503" type="line"/>
-      <point x="885" y="622" type="line"/>
-      <point x="708" y="622" type="line"/>
-      <point x="989" y="1037" type="line"/>
-      <point x="1145" y="1037" type="line"/>
-      <point x="1145" y="1153" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,17 +48,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>yen</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1378</integer>
         </dict>

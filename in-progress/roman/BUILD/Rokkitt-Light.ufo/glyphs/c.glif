@@ -4,16 +4,6 @@
   <unicode hex="0063"/>
   <outline>
     <contour>
-      <point x="741" y="825" type="line"/>
-      <point x="741" y="714" type="line"/>
-      <point x="685" y="783"/>
-      <point x="588" y="819"/>
-      <point x="483" y="819" type="curve" smooth="yes"/>
-      <point x="285" y="819"/>
-      <point x="64" y="689"/>
-      <point x="64" y="406" type="curve" smooth="yes"/>
-      <point x="64" y="150"/>
-      <point x="255" y="-14"/>
       <point x="478" y="-14" type="curve" smooth="yes"/>
       <point x="599" y="-14"/>
       <point x="728" y="34"/>
@@ -33,6 +23,16 @@
       <point x="750" y="570" type="curve"/>
       <point x="814" y="570" type="line"/>
       <point x="814" y="825" type="line"/>
+      <point x="741" y="825" type="line"/>
+      <point x="741" y="714" type="line"/>
+      <point x="685" y="783"/>
+      <point x="588" y="819"/>
+      <point x="483" y="819" type="curve" smooth="yes"/>
+      <point x="285" y="819"/>
+      <point x="64" y="689"/>
+      <point x="64" y="406" type="curve" smooth="yes"/>
+      <point x="64" y="150"/>
+      <point x="255" y="-14"/>
     </contour>
     <contour>
       <point x="455" y="0" type="move" name="bot"/>
@@ -48,9 +48,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -266,7 +268,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <real>268.96812951340218</real>
+                  <real>268.9681295134022</real>
                   <key>y</key>
                   <integer>819</integer>
                 </dict>
@@ -318,11 +320,13 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>c</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>977</integer>
         </dict>

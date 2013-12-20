@@ -4,12 +4,6 @@
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="764" y="1152" type="line"/>
-      <point x="764" y="1096" type="line"/>
-      <point x="907" y="1096" type="line"/>
-      <point x="350" y="593" type="line"/>
-      <point x="952" y="56" type="line"/>
-      <point x="796" y="56" type="line"/>
       <point x="796" y="0" type="line"/>
       <point x="1201" y="0" type="line"/>
       <point x="1201" y="56" type="line"/>
@@ -18,6 +12,12 @@
       <point x="1006" y="1096" type="line"/>
       <point x="1168" y="1096" type="line"/>
       <point x="1168" y="1152" type="line"/>
+      <point x="764" y="1152" type="line"/>
+      <point x="764" y="1096" type="line"/>
+      <point x="907" y="1096" type="line"/>
+      <point x="350" y="593" type="line"/>
+      <point x="952" y="56" type="line"/>
+      <point x="796" y="56" type="line"/>
     </contour>
     <component base="uc_main_stem"/>
     <contour>
@@ -49,17 +49,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>K</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <real>1269.73</real>
         </dict>

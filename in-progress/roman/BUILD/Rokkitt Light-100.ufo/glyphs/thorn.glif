@@ -4,14 +4,14 @@
   <unicode hex="00FE"/>
   <outline>
     <contour>
+      <point x="4" y="-383" type="line"/>
+      <point x="224" y="-383" type="line"/>
+      <point x="228" y="1152" type="line"/>
       <point x="26" y="1152" type="line"/>
       <point x="26" y="1114" type="line"/>
       <point x="178" y="1114" type="line"/>
       <point x="178" y="-348" type="line"/>
       <point x="4" y="-348" type="line"/>
-      <point x="4" y="-383" type="line"/>
-      <point x="224" y="-383" type="line"/>
-      <point x="228" y="1152" type="line"/>
     </contour>
     <component base="lc_bowl_right" xOffset="-38" yOffset="21"/>
   </outline>
@@ -22,17 +22,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>thorn</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1083</integer>
         </dict>

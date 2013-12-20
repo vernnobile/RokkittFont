@@ -4,10 +4,10 @@
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="112" y="895" type="line"/>
       <point x="112" y="790" type="line"/>
       <point x="1321" y="790" type="line"/>
       <point x="1321" y="895" type="line"/>
+      <point x="112" y="895" type="line"/>
     </contour>
     <component base="H"/>
   </outline>
@@ -18,17 +18,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>Hbar</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1535</integer>
         </dict>

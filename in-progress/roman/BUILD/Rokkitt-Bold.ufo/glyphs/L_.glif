@@ -4,12 +4,12 @@
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="851" y="506" type="line"/>
-      <point x="851" y="141" type="line"/>
-      <point x="325" y="141" type="line"/>
       <point x="325" y="0" type="line"/>
       <point x="1031" y="0" type="line"/>
       <point x="1031" y="506" type="line"/>
+      <point x="851" y="506" type="line"/>
+      <point x="851" y="141" type="line"/>
+      <point x="325" y="141" type="line"/>
     </contour>
     <component base="uc_main_stem" xOffset="-70"/>
     <contour>
@@ -29,17 +29,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>L</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1189</integer>
         </dict>

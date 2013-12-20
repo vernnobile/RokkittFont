@@ -23,11 +23,14 @@ feature sups {
 # automatic
 sub one by onesuperior;
 sub two by twosuperior;
+sub three by threesuperior;
 sub four by foursuperior;
 } sups;
 feature frac {
 # automatic
 sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
 } frac;
 feature ordn {
 # automatic

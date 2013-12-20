@@ -4,14 +4,6 @@
   <unicode hex="2122"/>
   <outline>
     <contour>
-      <point x="1204" y="1277" type="line"/>
-      <point x="1079" y="892" type="line"/>
-      <point x="958" y="1277" type="line"/>
-      <point x="721" y="1277" type="line"/>
-      <point x="721" y="1179" type="line"/>
-      <point x="789" y="1179" type="line"/>
-      <point x="789" y="809" type="line"/>
-      <point x="721" y="809" type="line"/>
       <point x="721" y="710" type="line"/>
       <point x="946" y="710" type="line"/>
       <point x="946" y="809" type="line"/>
@@ -29,15 +21,16 @@
       <point x="1391" y="1179" type="line"/>
       <point x="1460" y="1179" type="line"/>
       <point x="1460" y="1277" type="line"/>
+      <point x="1204" y="1277" type="line"/>
+      <point x="1079" y="892" type="line"/>
+      <point x="958" y="1277" type="line"/>
+      <point x="721" y="1277" type="line"/>
+      <point x="721" y="1179" type="line"/>
+      <point x="789" y="1179" type="line"/>
+      <point x="789" y="809" type="line"/>
+      <point x="721" y="809" type="line"/>
     </contour>
     <contour>
-      <point x="201" y="1277" type="line"/>
-      <point x="201" y="1012" type="line"/>
-      <point x="295" y="1012" type="line"/>
-      <point x="295" y="1179" type="line"/>
-      <point x="380" y="1179" type="line"/>
-      <point x="380" y="809" type="line"/>
-      <point x="306" y="809" type="line"/>
       <point x="306" y="710" type="line"/>
       <point x="582" y="710" type="line"/>
       <point x="582" y="809" type="line"/>
@@ -47,6 +40,13 @@
       <point x="595" y="1012" type="line"/>
       <point x="688" y="1012" type="line"/>
       <point x="688" y="1277" type="line"/>
+      <point x="201" y="1277" type="line"/>
+      <point x="201" y="1012" type="line"/>
+      <point x="295" y="1012" type="line"/>
+      <point x="295" y="1179" type="line"/>
+      <point x="380" y="1179" type="line"/>
+      <point x="380" y="809" type="line"/>
+      <point x="306" y="809" type="line"/>
     </contour>
   </outline>
   <lib>

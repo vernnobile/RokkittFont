@@ -4,6 +4,12 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
+      <point x="325" y="0" type="curve"/>
+      <point x="515" y="0" type="line"/>
+      <point x="515" y="0"/>
+      <point x="633" y="513"/>
+      <point x="920" y="1021" type="curve"/>
+      <point x="920" y="1152" type="line"/>
       <point x="121" y="1152" type="line"/>
       <point x="121" y="829" type="line"/>
       <point x="279" y="829" type="line"/>
@@ -11,12 +17,6 @@
       <point x="719" y="1011" type="line"/>
       <point x="456" y="531"/>
       <point x="325" y="0"/>
-      <point x="325" y="0" type="curve"/>
-      <point x="515" y="0" type="line"/>
-      <point x="515" y="0"/>
-      <point x="633" y="513"/>
-      <point x="920" y="1021" type="curve"/>
-      <point x="920" y="1152" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,17 +26,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>seven</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>997</integer>
         </dict>

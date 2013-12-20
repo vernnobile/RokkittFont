@@ -4,22 +4,22 @@
   <unicode hex="2026"/>
   <outline>
     <contour>
-      <point x="395" y="84" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="468" y="0" type="line"/>
-      <point x="468" y="84" type="line"/>
-    </contour>
-    <contour>
-      <point x="197" y="84" type="line"/>
       <point x="197" y="0" type="line"/>
       <point x="268" y="0" type="line"/>
       <point x="268" y="84" type="line"/>
+      <point x="197" y="84" type="line"/>
     </contour>
     <contour>
-      <point x="595" y="84" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="468" y="84" type="line"/>
+      <point x="395" y="84" type="line"/>
+    </contour>
+    <contour>
       <point x="595" y="0" type="line"/>
       <point x="666" y="0" type="line"/>
       <point x="666" y="84" type="line"/>
+      <point x="595" y="84" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,17 +29,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>ellipsis</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>966</integer>
         </dict>

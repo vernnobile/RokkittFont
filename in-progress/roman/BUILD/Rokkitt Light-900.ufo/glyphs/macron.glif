@@ -4,10 +4,10 @@
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="-127" y="992" type="line"/>
       <point x="-127" y="843" type="line"/>
       <point x="336" y="843" type="line"/>
       <point x="336" y="992" type="line"/>
+      <point x="-127" y="992" type="line"/>
     </contour>
     <contour>
       <point x="95" y="929" type="move" name="_mid"/>

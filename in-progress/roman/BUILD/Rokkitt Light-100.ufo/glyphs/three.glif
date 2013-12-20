@@ -4,6 +4,21 @@
   <unicode hex="0033"/>
   <outline>
     <contour>
+      <point x="453" y="-21" type="curve" smooth="yes"/>
+      <point x="701" y="-21"/>
+      <point x="837" y="120"/>
+      <point x="837" y="328" type="curve" smooth="yes"/>
+      <point x="837" y="476"/>
+      <point x="728" y="593"/>
+      <point x="551" y="612" type="curve"/>
+      <point x="716" y="636"/>
+      <point x="827" y="741"/>
+      <point x="827" y="870" type="curve" smooth="yes"/>
+      <point x="827" y="1049"/>
+      <point x="685" y="1173"/>
+      <point x="444" y="1173" type="curve" smooth="yes"/>
+      <point x="287" y="1173"/>
+      <point x="131" y="1080"/>
       <point x="81" y="942" type="curve"/>
       <point x="124" y="929" type="line"/>
       <point x="179" y="1046"/>
@@ -28,21 +43,6 @@
       <point x="84" y="199" type="line"/>
       <point x="145" y="63"/>
       <point x="301" y="-21"/>
-      <point x="453" y="-21" type="curve" smooth="yes"/>
-      <point x="701" y="-21"/>
-      <point x="837" y="120"/>
-      <point x="837" y="328" type="curve" smooth="yes"/>
-      <point x="837" y="476"/>
-      <point x="728" y="593"/>
-      <point x="551" y="612" type="curve"/>
-      <point x="716" y="636"/>
-      <point x="827" y="741"/>
-      <point x="827" y="870" type="curve" smooth="yes"/>
-      <point x="827" y="1049"/>
-      <point x="685" y="1173"/>
-      <point x="444" y="1173" type="curve" smooth="yes"/>
-      <point x="287" y="1173"/>
-      <point x="131" y="1080"/>
     </contour>
   </outline>
   <lib>
@@ -52,19 +52,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>three</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>976.13999999999999</real>
+          <real>976.14</real>
         </dict>
       </dict>
     </dict>

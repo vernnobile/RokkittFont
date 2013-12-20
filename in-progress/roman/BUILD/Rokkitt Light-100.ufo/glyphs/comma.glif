@@ -4,14 +4,6 @@
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="162" y="92" type="curve"/>
-      <point x="162" y="101"/>
-      <point x="162" y="-14"/>
-      <point x="162" y="-5" type="curve"/>
-      <point x="211" y="-5" type="line"/>
-      <point x="211" y="-84"/>
-      <point x="212" y="-107"/>
-      <point x="152" y="-129" type="curve"/>
       <point x="152" y="-162" type="line"/>
       <point x="234" y="-162"/>
       <point x="263" y="-90"/>
@@ -21,6 +13,14 @@
       <point x="264" y="91" type="curve"/>
       <point x="275" y="91"/>
       <point x="153" y="91"/>
+      <point x="162" y="92" type="curve"/>
+      <point x="162" y="101"/>
+      <point x="162" y="-14"/>
+      <point x="162" y="-5" type="curve"/>
+      <point x="211" y="-5" type="line"/>
+      <point x="211" y="-84"/>
+      <point x="212" y="-107"/>
+      <point x="152" y="-129" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -30,17 +30,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>comma</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>399</integer>
         </dict>

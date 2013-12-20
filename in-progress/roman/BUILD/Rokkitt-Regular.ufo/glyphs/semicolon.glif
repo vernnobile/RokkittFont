@@ -4,23 +4,23 @@
   <unicode hex="003B"/>
   <outline>
     <contour>
+      <point x="100" y="-237" type="line"/>
+      <point x="257" y="-239"/>
+      <point x="328" y="-164"/>
+      <point x="327" y="0" type="curve"/>
+      <point x="327" y="211" type="line"/>
       <point x="100" y="211" type="line"/>
       <point x="100" y="0" type="line"/>
       <point x="221" y="0" type="line"/>
       <point x="221" y="-100"/>
       <point x="187" y="-132"/>
       <point x="100" y="-150" type="curve"/>
-      <point x="100" y="-237" type="line"/>
-      <point x="257" y="-239"/>
-      <point x="328" y="-164"/>
-      <point x="327" y="0" type="curve"/>
-      <point x="327" y="211" type="line"/>
     </contour>
     <contour>
-      <point x="93" y="820" type="line"/>
       <point x="93" y="609" type="line"/>
       <point x="320" y="609" type="line"/>
       <point x="320" y="820" type="line"/>
+      <point x="93" y="820" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,17 +30,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>semicolon</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>328</integer>
         </dict>

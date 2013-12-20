@@ -4,18 +4,6 @@
   <unicode hex="00A2"/>
   <outline>
     <contour>
-      <point x="709" y="1227" type="line"/>
-      <point x="585" y="852" type="line"/>
-      <point x="555" y="861"/>
-      <point x="523" y="866"/>
-      <point x="489" y="866" type="curve" smooth="yes"/>
-      <point x="237" y="866"/>
-      <point x="59" y="672"/>
-      <point x="59" y="423" type="curve" smooth="yes"/>
-      <point x="59" y="257"/>
-      <point x="140" y="93"/>
-      <point x="308" y="20" type="curve"/>
-      <point x="198" y="-312" type="line"/>
       <point x="276" y="-335" type="line"/>
       <point x="385" y="-5" type="line"/>
       <point x="423" y="-14"/>
@@ -43,9 +31,20 @@
       <point x="686" y="805"/>
       <point x="660" y="820" type="curve"/>
       <point x="788" y="1203" type="line"/>
+      <point x="709" y="1227" type="line"/>
+      <point x="585" y="852" type="line"/>
+      <point x="555" y="861"/>
+      <point x="523" y="866"/>
+      <point x="489" y="866" type="curve" smooth="yes"/>
+      <point x="237" y="866"/>
+      <point x="59" y="672"/>
+      <point x="59" y="423" type="curve" smooth="yes"/>
+      <point x="59" y="257"/>
+      <point x="140" y="93"/>
+      <point x="308" y="20" type="curve"/>
+      <point x="198" y="-312" type="line"/>
     </contour>
     <contour>
-      <point x="537" y="710" type="curve"/>
       <point x="363" y="184" type="line"/>
       <point x="299" y="233"/>
       <point x="265" y="318"/>
@@ -55,6 +54,7 @@
       <point x="513" y="711" type="curve" smooth="yes"/>
       <point x="521" y="711"/>
       <point x="529" y="710"/>
+      <point x="537" y="710" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -64,17 +64,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>cent</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>969</integer>
         </dict>

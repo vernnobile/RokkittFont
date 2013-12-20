@@ -3,17 +3,17 @@
   <advance width="1192"/>
   <outline>
     <contour>
-      <point x="119" y="804" type="line"/>
-      <point x="119" y="770" type="line"/>
-      <point x="243" y="770" type="line"/>
-      <point x="243" y="-282" type="line"/>
-      <point x="103" y="-282" type="line"/>
       <point x="103" y="-316" type="line"/>
       <point x="421" y="-316" type="line"/>
       <point x="421" y="-282" type="line"/>
       <point x="287" y="-282" type="line"/>
       <point x="288" y="682" type="line"/>
       <point x="287" y="804" type="line"/>
+      <point x="119" y="804" type="line"/>
+      <point x="119" y="770" type="line"/>
+      <point x="243" y="770" type="line"/>
+      <point x="243" y="-282" type="line"/>
+      <point x="103" y="-282" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,19 +25,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>lc_descender_stem</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1155.8399999999999</real>
+          <real>1155.84</real>
         </dict>
       </dict>
     </dict>

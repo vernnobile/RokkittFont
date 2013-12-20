@@ -4,6 +4,19 @@
   <unicode hex="00B2"/>
   <outline>
     <contour>
+      <point x="173" y="456" type="line"/>
+      <point x="714" y="456" type="line"/>
+      <point x="714" y="661" type="line"/>
+      <point x="650" y="661" type="line"/>
+      <point x="650" y="517" type="line"/>
+      <point x="263" y="517" type="line"/>
+      <point x="535" y="784" type="line" smooth="yes"/>
+      <point x="638" y="886"/>
+      <point x="713" y="973"/>
+      <point x="713" y="1094" type="curve" smooth="yes"/>
+      <point x="713" y="1246"/>
+      <point x="601" y="1335"/>
+      <point x="451" y="1335" type="curve" smooth="yes"/>
       <point x="296" y="1335"/>
       <point x="181" y="1241"/>
       <point x="181" y="1082" type="curve" smooth="yes"/>
@@ -24,19 +37,6 @@
       <point x="589" y="932"/>
       <point x="492" y="835" type="curve" smooth="yes"/>
       <point x="173" y="518" type="line"/>
-      <point x="173" y="456" type="line"/>
-      <point x="714" y="456" type="line"/>
-      <point x="714" y="661" type="line"/>
-      <point x="650" y="661" type="line"/>
-      <point x="650" y="517" type="line"/>
-      <point x="263" y="517" type="line"/>
-      <point x="535" y="784" type="line" smooth="yes"/>
-      <point x="638" y="886"/>
-      <point x="713" y="973"/>
-      <point x="713" y="1094" type="curve" smooth="yes"/>
-      <point x="713" y="1246"/>
-      <point x="601" y="1335"/>
-      <point x="451" y="1335" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -46,17 +46,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni00B2</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>811</integer>
         </dict>

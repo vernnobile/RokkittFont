@@ -4,16 +4,6 @@
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="841" y="1153" type="line"/>
-      <point x="841" y="1037" type="line"/>
-      <point x="1006" y="1037" type="line"/>
-      <point x="1006" y="211" type="line"/>
-      <point x="458" y="1153" type="line"/>
-      <point x="76" y="1153" type="line"/>
-      <point x="76" y="1037" type="line"/>
-      <point x="245" y="1037" type="line"/>
-      <point x="245" y="116" type="line"/>
-      <point x="76" y="116" type="line"/>
       <point x="76" y="0" type="line"/>
       <point x="548" y="0" type="line"/>
       <point x="548" y="116" type="line"/>
@@ -24,6 +14,16 @@
       <point x="1140" y="1037" type="line"/>
       <point x="1313" y="1037" type="line"/>
       <point x="1313" y="1153" type="line"/>
+      <point x="841" y="1153" type="line"/>
+      <point x="841" y="1037" type="line"/>
+      <point x="1006" y="1037" type="line"/>
+      <point x="1006" y="211" type="line"/>
+      <point x="458" y="1153" type="line"/>
+      <point x="76" y="1153" type="line"/>
+      <point x="76" y="1037" type="line"/>
+      <point x="245" y="1037" type="line"/>
+      <point x="245" y="116" type="line"/>
+      <point x="76" y="116" type="line"/>
     </contour>
     <contour>
       <point x="717" y="0" type="move" name="bot"/>
@@ -39,19 +39,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>N</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1423.0699999999999</real>
+          <real>1423.07</real>
         </dict>
       </dict>
     </dict>

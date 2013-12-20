@@ -4,16 +4,6 @@
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="646" y="804" type="line"/>
-      <point x="646" y="766" type="line"/>
-      <point x="764" y="766" type="line"/>
-      <point x="344" y="423" type="line"/>
-      <point x="344" y="804" type="line"/>
-      <point x="93" y="804" type="line"/>
-      <point x="93" y="766" type="line"/>
-      <point x="292" y="766" type="line"/>
-      <point x="292" y="38" type="line"/>
-      <point x="93" y="38" type="line"/>
       <point x="93" y="0" type="line"/>
       <point x="559" y="0" type="line"/>
       <point x="559" y="38" type="line"/>
@@ -29,6 +19,16 @@
       <point x="836" y="766" type="line"/>
       <point x="1006" y="766" type="line"/>
       <point x="1006" y="804" type="line"/>
+      <point x="646" y="804" type="line"/>
+      <point x="646" y="766" type="line"/>
+      <point x="764" y="766" type="line"/>
+      <point x="344" y="423" type="line"/>
+      <point x="344" y="804" type="line"/>
+      <point x="93" y="804" type="line"/>
+      <point x="93" y="766" type="line"/>
+      <point x="292" y="766" type="line"/>
+      <point x="292" y="38" type="line"/>
+      <point x="93" y="38" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,17 +38,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>kgreenlandic</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1141</integer>
         </dict>

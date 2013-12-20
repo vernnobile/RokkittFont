@@ -4,16 +4,6 @@
   <unicode hex="0063"/>
   <outline>
     <contour>
-      <point x="759" y="804" type="line"/>
-      <point x="757" y="694" type="line"/>
-      <point x="707" y="789"/>
-      <point x="608" y="826"/>
-      <point x="487" y="826" type="curve" smooth="yes"/>
-      <point x="303" y="826"/>
-      <point x="63" y="707"/>
-      <point x="63" y="405" type="curve" smooth="yes"/>
-      <point x="63" y="146"/>
-      <point x="254" y="-22"/>
       <point x="475" y="-22" type="curve" smooth="yes"/>
       <point x="600" y="-22"/>
       <point x="720" y="24"/>
@@ -33,6 +23,16 @@
       <point x="765" y="578" type="curve"/>
       <point x="803" y="578" type="line"/>
       <point x="803" y="804" type="line"/>
+      <point x="759" y="804" type="line"/>
+      <point x="757" y="694" type="line"/>
+      <point x="707" y="789"/>
+      <point x="608" y="826"/>
+      <point x="487" y="826" type="curve" smooth="yes"/>
+      <point x="303" y="826"/>
+      <point x="63" y="707"/>
+      <point x="63" y="405" type="curve" smooth="yes"/>
+      <point x="63" y="146"/>
+      <point x="254" y="-22"/>
     </contour>
     <contour>
       <point x="482" y="805" type="move" name="top"/>
@@ -48,9 +48,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -266,7 +268,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <real>268.96812951340218</real>
+                  <real>268.9681295134022</real>
                   <key>y</key>
                   <integer>819</integer>
                 </dict>
@@ -318,11 +320,13 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>c</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>977</integer>
         </dict>

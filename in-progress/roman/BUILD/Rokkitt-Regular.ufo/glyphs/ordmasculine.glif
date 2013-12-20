@@ -4,11 +4,6 @@
   <unicode hex="00BA"/>
   <outline>
     <contour>
-      <point x="173" y="1170"/>
-      <point x="38" y="1035"/>
-      <point x="38" y="857" type="curve" smooth="yes"/>
-      <point x="38" y="678"/>
-      <point x="172" y="544"/>
       <point x="351" y="544" type="curve" smooth="yes"/>
       <point x="353" y="544" type="line" smooth="yes"/>
       <point x="532" y="544"/>
@@ -17,13 +12,13 @@
       <point x="667" y="1037"/>
       <point x="532" y="1171"/>
       <point x="353" y="1171" type="curve" smooth="yes"/>
+      <point x="173" y="1170"/>
+      <point x="38" y="1035"/>
+      <point x="38" y="857" type="curve" smooth="yes"/>
+      <point x="38" y="678"/>
+      <point x="172" y="544"/>
     </contour>
     <contour>
-      <point x="463" y="1068"/>
-      <point x="546" y="978"/>
-      <point x="546" y="857" type="curve" smooth="yes"/>
-      <point x="546" y="736"/>
-      <point x="463" y="644"/>
       <point x="353" y="644" type="curve" smooth="yes"/>
       <point x="242" y="644"/>
       <point x="158" y="736"/>
@@ -31,6 +26,11 @@
       <point x="158" y="978"/>
       <point x="241" y="1068"/>
       <point x="352" y="1068" type="curve" smooth="yes"/>
+      <point x="463" y="1068"/>
+      <point x="546" y="978"/>
+      <point x="546" y="857" type="curve" smooth="yes"/>
+      <point x="546" y="736"/>
+      <point x="463" y="644"/>
     </contour>
   </outline>
   <lib>
@@ -40,17 +40,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>ordmasculine</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>870</integer>
         </dict>

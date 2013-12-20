@@ -4,22 +4,22 @@
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="26" y="613" type="line"/>
-      <point x="26" y="495" type="line"/>
-      <point x="869" y="495" type="line"/>
-      <point x="869" y="613" type="line"/>
-    </contour>
-    <contour>
-      <point x="364" y="324" type="line"/>
       <point x="364" y="156" type="line"/>
       <point x="531" y="156" type="line"/>
       <point x="531" y="324" type="line"/>
+      <point x="364" y="324" type="line"/>
     </contour>
     <contour>
-      <point x="364" y="948" type="line"/>
+      <point x="26" y="495" type="line"/>
+      <point x="869" y="495" type="line"/>
+      <point x="869" y="613" type="line"/>
+      <point x="26" y="613" type="line"/>
+    </contour>
+    <contour>
       <point x="364" y="780" type="line"/>
       <point x="531" y="780" type="line"/>
       <point x="531" y="948" type="line"/>
+      <point x="364" y="948" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,17 +29,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>divide</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>895</integer>
         </dict>
