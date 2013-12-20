@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1498"/>
+  <advance width="1500"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="368" y="504" type="line"/>
-      <point x="1144" y="504" type="line"/>
-      <point x="1145" y="681" type="line"/>
-      <point x="369" y="681" type="line"/>
+      <point x="372" y="504" type="line"/>
+      <point x="1148" y="504" type="line"/>
+      <point x="1149" y="681" type="line"/>
+      <point x="373" y="681" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="691"/>
-    <component base="uc_main_stem" xOffset="-101"/>
+    <component base="uc_main_stem" xOffset="695"/>
+    <component base="uc_main_stem" xOffset="-97"/>
     <contour>
-      <point x="766" y="1151" type="move" name="top"/>
+      <point x="770" y="1151" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="731" y="0" type="move" name="bot"/>
+      <point x="735" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>

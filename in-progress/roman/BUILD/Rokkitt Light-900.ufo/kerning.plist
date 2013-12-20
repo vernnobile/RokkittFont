@@ -33,17 +33,8 @@
 	</dict>
 	<key>@MMK_L_B_Left</key>
 	<dict>
-		<key>@MMK_R_A_Right</key>
-		<integer>-36</integer>
 		<key>@MMK_R_U_Right</key>
 		<integer>-48</integer>
-	</dict>
-	<key>@MMK_L_H_Left</key>
-	<dict>
-		<key>comma</key>
-		<integer>-80</integer>
-		<key>period</key>
-		<integer>-80</integer>
 	</dict>
 	<key>@MMK_L_O_Left</key>
 	<dict>
@@ -98,7 +89,7 @@
 		<key>@MMK_R_a_Right</key>
 		<integer>-52</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-26</integer>
+		<integer>0</integer>
 		<key>@MMK_R_v_Left</key>
 		<integer>-26</integer>
 		<key>@MMK_R_w_Left</key>
@@ -279,8 +270,6 @@
 	</dict>
 	<key>d</key>
 	<dict>
-		<key>@MMK_R_o_Right</key>
-		<integer>-48</integer>
 		<key>@MMK_R_v_Left</key>
 		<integer>-20</integer>
 		<key>@MMK_R_w_Left</key>
@@ -299,8 +288,6 @@
 	</dict>
 	<key>f</key>
 	<dict>
-		<key>@MMK_R_a_Right</key>
-		<integer>-14</integer>
 		<key>@MMK_R_o_Right</key>
 		<integer>-40</integer>
 		<key>quotedblright</key>

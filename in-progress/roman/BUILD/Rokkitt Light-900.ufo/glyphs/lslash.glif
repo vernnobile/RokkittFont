@@ -9,6 +9,9 @@
       <point x="601" y="783" type="line"/>
       <point x="57" y="502" type="line"/>
     </contour>
+    <contour>
+      <point x="339" y="555" type="move" name="_mid"/>
+    </contour>
   </outline>
   <lib>
     <dict>
