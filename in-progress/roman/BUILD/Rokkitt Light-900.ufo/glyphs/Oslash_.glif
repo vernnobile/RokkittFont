@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="1557"/>
+  <advance width="1430"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
-      <point x="439" y="-77" type="line"/>
-      <point x="1407" y="1165" type="line"/>
-      <point x="1293" y="1246" type="line"/>
-      <point x="325" y="4" type="line"/>
+      <point x="400" y="-171" type="line"/>
+      <point x="1135" y="1263" type="line"/>
+      <point x="1041" y="1306" type="line"/>
+      <point x="306" y="-128" type="line"/>
     </contour>
-    <component base="O" xOffset="20" yOffset="-25"/>
+    <component base="O"/>
   </outline>
   <lib>
     <dict>
