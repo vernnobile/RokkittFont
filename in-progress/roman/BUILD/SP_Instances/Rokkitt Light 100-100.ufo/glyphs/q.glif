@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="1">
+  <advance width="1041"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="645" y="-326" type="line"/>
+      <point x="983" y="-326" type="line"/>
+      <point x="983" y="-280" type="line"/>
+      <point x="843" y="-280" type="line"/>
+      <point x="843" y="751" type="line"/>
+      <point x="972" y="751" type="line"/>
+      <point x="972" y="797" type="line"/>
+      <point x="793" y="797" type="line"/>
+      <point x="783" y="679" type="line"/>
+      <point x="783" y="-280" type="line"/>
+      <point x="645" y="-280" type="line"/>
+    </contour>
+    <component base="lc_bowl_left" xOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1102.72</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

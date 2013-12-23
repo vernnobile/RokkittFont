@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1068"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="511" y="79" type="line"/>
+      <point x="353" y="79" type="line"/>
+      <point x="353" y="398" type="line"/>
+      <point x="750" y="79" type="line"/>
+      <point x="633" y="79" type="line"/>
+      <point x="633" y="0" type="line"/>
+      <point x="1025" y="0" type="line"/>
+      <point x="1025" y="79" type="line"/>
+      <point x="881" y="79" type="line"/>
+      <point x="468" y="412" type="line"/>
+      <point x="852" y="725" type="line"/>
+      <point x="1002" y="725" type="line"/>
+      <point x="1002" y="804" type="line"/>
+      <point x="597" y="804" type="line"/>
+      <point x="597" y="725" type="line"/>
+      <point x="726" y="725" type="line"/>
+      <point x="353" y="421" type="line"/>
+      <point x="353" y="804" type="line"/>
+      <point x="76" y="804" type="line"/>
+      <point x="76" y="725" type="line"/>
+      <point x="251" y="725" type="line"/>
+      <point x="251" y="79" type="line"/>
+      <point x="76" y="79" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>kgreenlandic</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1141</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

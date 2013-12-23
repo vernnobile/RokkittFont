@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0311" format="1">
+  <advance width="584"/>
+  <unicode hex="0311"/>
+  <outline>
+    <contour>
+      <point x="285" y="840" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="3" y="950" type="curve"/>
+      <point x="159" y="950" type="line"/>
+      <point x="172" y="1022"/>
+      <point x="214" y="1062"/>
+      <point x="283" y="1062" type="curve" smooth="yes"/>
+      <point x="351" y="1062"/>
+      <point x="397" y="1022"/>
+      <point x="406" y="950" type="curve"/>
+      <point x="567" y="950" type="line"/>
+      <point x="551" y="1108"/>
+      <point x="444" y="1210"/>
+      <point x="284" y="1210" type="curve" smooth="yes"/>
+      <point x="126" y="1210"/>
+      <point x="16" y="1109"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni0311</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>854</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

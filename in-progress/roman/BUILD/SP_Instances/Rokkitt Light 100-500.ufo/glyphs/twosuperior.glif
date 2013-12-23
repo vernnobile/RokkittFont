@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="900"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="174" y="455" type="line"/>
+      <point x="790" y="455" type="line"/>
+      <point x="788" y="727" type="line"/>
+      <point x="674" y="727" type="line"/>
+      <point x="673" y="561" type="line"/>
+      <point x="345" y="561" type="line"/>
+      <point x="542" y="747" type="line" smooth="yes"/>
+      <point x="642" y="841"/>
+      <point x="766" y="951"/>
+      <point x="766" y="1079" type="curve" smooth="yes"/>
+      <point x="766" y="1235"/>
+      <point x="665" y="1335"/>
+      <point x="476" y="1335" type="curve" smooth="yes"/>
+      <point x="279" y="1335"/>
+      <point x="159" y="1222"/>
+      <point x="159" y="1067" type="curve" smooth="yes"/>
+      <point x="159" y="1033"/>
+      <point x="165" y="997"/>
+      <point x="177" y="960" type="curve"/>
+      <point x="307" y="960" type="line"/>
+      <point x="299" y="992"/>
+      <point x="295" y="1022"/>
+      <point x="295" y="1049" type="curve" smooth="yes"/>
+      <point x="295" y="1160"/>
+      <point x="360" y="1223"/>
+      <point x="478" y="1223" type="curve" smooth="yes"/>
+      <point x="590" y="1223"/>
+      <point x="622" y="1153"/>
+      <point x="625" y="1077" type="curve" smooth="yes"/>
+      <point x="629" y="1002"/>
+      <point x="531" y="912"/>
+      <point x="449" y="832" type="curve" smooth="yes"/>
+      <point x="174" y="565" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni00B2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>811</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

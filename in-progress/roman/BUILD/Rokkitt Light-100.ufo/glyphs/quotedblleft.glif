@@ -4,23 +4,6 @@
   <unicode hex="201C"/>
   <outline>
     <contour>
-      <point x="463" y="1197" type="line"/>
-      <point x="383" y="1196"/>
-      <point x="361" y="1131"/>
-      <point x="361" y="1058" type="curve" smooth="yes"/>
-      <point x="361" y="972" type="line"/>
-      <point x="441" y="972" type="line"/>
-      <point x="441" y="1056" type="line"/>
-      <point x="398" y="1056" type="line"/>
-      <point x="399" y="1133"/>
-      <point x="404" y="1157"/>
-      <point x="463" y="1180" type="curve"/>
-    </contour>
-    <contour>
-      <point x="271" y="1197" type="line"/>
-      <point x="192" y="1196"/>
-      <point x="169" y="1131"/>
-      <point x="169" y="1058" type="curve" smooth="yes"/>
       <point x="169" y="972" type="line"/>
       <point x="249" y="972" type="line"/>
       <point x="249" y="1056" type="line"/>
@@ -28,6 +11,23 @@
       <point x="208" y="1134"/>
       <point x="212" y="1157"/>
       <point x="271" y="1180" type="curve"/>
+      <point x="271" y="1197" type="line"/>
+      <point x="192" y="1196"/>
+      <point x="169" y="1131"/>
+      <point x="169" y="1058" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="361" y="972" type="line"/>
+      <point x="441" y="972" type="line"/>
+      <point x="441" y="1056" type="line"/>
+      <point x="398" y="1056" type="line"/>
+      <point x="399" y="1133"/>
+      <point x="404" y="1157"/>
+      <point x="463" y="1180" type="curve"/>
+      <point x="463" y="1197" type="line"/>
+      <point x="383" y="1196"/>
+      <point x="361" y="1131"/>
+      <point x="361" y="1058" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -37,17 +37,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>quotedblleft</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>664</integer>
         </dict>

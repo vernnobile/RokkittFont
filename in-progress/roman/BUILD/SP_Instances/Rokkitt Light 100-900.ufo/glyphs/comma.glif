@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="666"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="200" y="-324" type="line"/>
+      <point x="470" y="-316"/>
+      <point x="469" y="-197"/>
+      <point x="471" y="-3" type="curve"/>
+      <point x="471" y="-21"/>
+      <point x="472" y="305"/>
+      <point x="473" y="291" type="curve"/>
+      <point x="496" y="291"/>
+      <point x="160" y="291"/>
+      <point x="179" y="293" type="curve"/>
+      <point x="179" y="311"/>
+      <point x="179" y="-18"/>
+      <point x="178" y="0" type="curve"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="-124"/>
+      <point x="339" y="-206"/>
+      <point x="200" y="-198" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>comma</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>399</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

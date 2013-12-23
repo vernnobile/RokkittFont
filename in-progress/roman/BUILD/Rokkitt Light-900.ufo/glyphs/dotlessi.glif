@@ -3,7 +3,18 @@
   <advance width="709"/>
   <unicode hex="0131"/>
   <outline>
-    <component base="lc_xheight_stem"/>
+    <contour>
+      <point x="148" y="0" type="line"/>
+      <point x="638" y="0" type="line"/>
+      <point x="638" y="164" type="line"/>
+      <point x="521" y="164" type="line"/>
+      <point x="520" y="804" type="line"/>
+      <point x="151" y="804" type="line"/>
+      <point x="151" y="640" type="line"/>
+      <point x="277" y="640" type="line"/>
+      <point x="277" y="164" type="line"/>
+      <point x="148" y="164" type="line"/>
+    </contour>
     <contour>
       <point x="359" y="804" type="move" name="top"/>
     </contour>

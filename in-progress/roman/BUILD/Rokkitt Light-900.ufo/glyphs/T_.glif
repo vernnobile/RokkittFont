@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1123"/>
+  <advance width="1161"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="-3" y="674" type="line"/>
-      <point x="188" y="674" type="line"/>
-      <point x="188" y="988" type="line"/>
-      <point x="937" y="988" type="line"/>
-      <point x="937" y="674" type="line"/>
-      <point x="1126" y="674" type="line"/>
-      <point x="1126" y="1152" type="line"/>
-      <point x="-3" y="1152" type="line"/>
+      <point x="26" y="674" type="line"/>
+      <point x="217" y="674" type="line"/>
+      <point x="217" y="988" type="line"/>
+      <point x="946" y="988" type="line"/>
+      <point x="946" y="674" type="line"/>
+      <point x="1135" y="674" type="line"/>
+      <point x="1135" y="1152" type="line"/>
+      <point x="26" y="1152" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="114"/>
+    <component base="uc_main_stem" xOffset="133"/>
     <contour>
-      <point x="553" y="1152" type="move" name="top"/>
+      <point x="572" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="563" y="0" type="move" name="bot"/>
+      <point x="582" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>

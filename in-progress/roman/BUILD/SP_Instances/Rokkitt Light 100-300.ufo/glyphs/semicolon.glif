@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="357"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="89" y="-66" type="line"/>
+      <point x="209" y="-67"/>
+      <point x="256" y="9"/>
+      <point x="256" y="129" type="curve"/>
+      <point x="256" y="281" type="line"/>
+      <point x="96" y="281" type="line"/>
+      <point x="96" y="131" type="line"/>
+      <point x="177" y="131" type="line"/>
+      <point x="177" y="41"/>
+      <point x="162" y="13"/>
+      <point x="89" y="-7" type="curve"/>
+    </contour>
+    <contour>
+      <point x="96" y="666" type="line"/>
+      <point x="250" y="666" type="line"/>
+      <point x="250" y="817" type="line"/>
+      <point x="96" y="817" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>semicolon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>328</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

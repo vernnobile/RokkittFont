@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="1041"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="680" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="613" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="314" y="0" type="line"/>
+      <point x="987" y="0" type="line"/>
+      <point x="987" y="385" type="line"/>
+      <point x="916" y="385" type="line"/>
+      <point x="916" y="58" type="line"/>
+      <point x="314" y="58" type="line"/>
+    </contour>
+    <component base="uc_main_stem"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1040.655</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

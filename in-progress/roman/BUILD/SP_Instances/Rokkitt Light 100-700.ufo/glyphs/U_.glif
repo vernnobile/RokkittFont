@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="1312"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="683" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="748" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="669" y="-19" type="curve" smooth="yes"/>
+      <point x="938" y="-19"/>
+      <point x="1135" y="112"/>
+      <point x="1135" y="428" type="curve" smooth="yes"/>
+      <point x="1135" y="1007" type="line"/>
+      <point x="1294" y="1007" type="line"/>
+      <point x="1294" y="1152" type="line"/>
+      <point x="795" y="1152" type="line"/>
+      <point x="795" y="1007" type="line"/>
+      <point x="948" y="1007" type="line"/>
+      <point x="948" y="415" type="line" smooth="yes"/>
+      <point x="948" y="244"/>
+      <point x="853" y="146"/>
+      <point x="674" y="146" type="curve" smooth="yes"/>
+      <point x="502" y="146"/>
+      <point x="417" y="247"/>
+      <point x="417" y="412" type="curve" smooth="yes"/>
+      <point x="417" y="1007" type="line"/>
+      <point x="574" y="1007" type="line"/>
+      <point x="574" y="1152" type="line"/>
+      <point x="34" y="1152" type="line"/>
+      <point x="34" y="1007" type="line"/>
+      <point x="188" y="1007" type="line"/>
+      <point x="188" y="452" type="line" smooth="yes"/>
+      <point x="188" y="193"/>
+      <point x="280" y="-19"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>U</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1454.86</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

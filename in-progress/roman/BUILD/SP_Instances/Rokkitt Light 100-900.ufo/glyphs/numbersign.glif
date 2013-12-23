@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1282"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="216" y="-26" type="line"/>
+      <point x="402" y="-26" type="line"/>
+      <point x="492" y="340" type="line"/>
+      <point x="695" y="340" type="line"/>
+      <point x="602" y="-26" type="line"/>
+      <point x="790" y="-26" type="line"/>
+      <point x="880" y="340" type="line"/>
+      <point x="1145" y="340" type="line"/>
+      <point x="1184" y="509" type="line"/>
+      <point x="922" y="509" type="line"/>
+      <point x="992" y="793" type="line"/>
+      <point x="1203" y="793" type="line"/>
+      <point x="1242" y="962" type="line"/>
+      <point x="1032" y="962" type="line"/>
+      <point x="1124" y="1334" type="line"/>
+      <point x="934" y="1334" type="line"/>
+      <point x="846" y="962" type="line"/>
+      <point x="647" y="962" type="line"/>
+      <point x="739" y="1334" type="line"/>
+      <point x="551" y="1334" type="line"/>
+      <point x="459" y="962" type="line"/>
+      <point x="189" y="962" type="line"/>
+      <point x="150" y="793" type="line"/>
+      <point x="414" y="793" type="line"/>
+      <point x="350" y="509" type="line"/>
+      <point x="128" y="509" type="line"/>
+      <point x="89" y="340" type="line"/>
+      <point x="305" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="534" y="509" type="line"/>
+      <point x="601" y="793" type="line"/>
+      <point x="803" y="793" type="line"/>
+      <point x="735" y="509" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>numbersign</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>993.905</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

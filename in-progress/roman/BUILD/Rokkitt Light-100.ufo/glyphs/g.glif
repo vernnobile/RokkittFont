@@ -23,7 +23,7 @@
       <point x="298" y="-355"/>
       <point x="394" y="-374"/>
     </contour>
-    <component base="lc_bowl_left" xOffset="-74" yOffset="15" yScale="0.98"/>
+    <component base="lc_bowl_left" yScale="0.98" xOffset="-74" yOffset="15"/>
     <contour>
       <point x="496" y="805" type="move" name="top"/>
     </contour>
@@ -35,9 +35,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -237,11 +239,13 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>g</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1075</integer>
         </dict>

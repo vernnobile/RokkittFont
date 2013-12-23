@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1292"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="554" y="774" type="line"/>
+      <point x="764" y="774" type="line"/>
+      <point x="764" y="874" type="line"/>
+      <point x="702" y="874" type="line"/>
+      <point x="702" y="1170" type="line"/>
+      <point x="848" y="774" type="line"/>
+      <point x="914" y="774" type="line"/>
+      <point x="1044" y="1170" type="line"/>
+      <point x="1044" y="874" type="line"/>
+      <point x="983" y="874" type="line"/>
+      <point x="983" y="774" type="line"/>
+      <point x="1239" y="774" type="line"/>
+      <point x="1239" y="874" type="line"/>
+      <point x="1177" y="874" type="line"/>
+      <point x="1177" y="1203" type="line"/>
+      <point x="1239" y="1203" type="line"/>
+      <point x="1239" y="1302" type="line"/>
+      <point x="989" y="1302" type="line"/>
+      <point x="884" y="944" type="line"/>
+      <point x="783" y="1302" type="line"/>
+      <point x="554" y="1302" type="line"/>
+      <point x="554" y="1203" type="line"/>
+      <point x="615" y="1203" type="line"/>
+      <point x="615" y="874" type="line"/>
+      <point x="554" y="874" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="774" type="line"/>
+      <point x="428" y="774" type="line"/>
+      <point x="428" y="874" type="line"/>
+      <point x="368" y="874" type="line"/>
+      <point x="368" y="1203" type="line"/>
+      <point x="436" y="1203" type="line"/>
+      <point x="436" y="1035" type="line"/>
+      <point x="526" y="1035" type="line"/>
+      <point x="526" y="1302" type="line"/>
+      <point x="74" y="1302" type="line"/>
+      <point x="74" y="1035" type="line"/>
+      <point x="166" y="1035" type="line"/>
+      <point x="166" y="1203" type="line"/>
+      <point x="235" y="1203" type="line"/>
+      <point x="235" y="874" type="line"/>
+      <point x="171" y="874" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1697</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

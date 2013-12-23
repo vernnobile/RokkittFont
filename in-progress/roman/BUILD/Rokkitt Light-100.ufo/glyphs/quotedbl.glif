@@ -10,10 +10,10 @@
       <point x="167" y="1174" type="line"/>
     </contour>
     <contour>
+      <point x="342" y="844" type="line"/>
       <point x="362" y="844" type="line"/>
       <point x="377" y="1174" type="line"/>
       <point x="328" y="1174" type="line"/>
-      <point x="342" y="844" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,17 +23,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>quotedbl</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>557</integer>
         </dict>
