@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="1">
-  <advance width="1034"/>
+  <advance width="1038"/>
   <unicode hex="0024"/>
   <outline>
     <contour>
-      <point x="447" y="-184" type="line"/>
-      <point x="542" y="-184" type="line"/>
-      <point x="542" y="1367" type="line"/>
-      <point x="447" y="1367" type="line"/>
+      <point x="516" y="-184" type="line"/>
+      <point x="591" y="-184" type="line"/>
+      <point x="591" y="1367" type="line"/>
+      <point x="516" y="1367" type="line"/>
     </contour>
-    <component base="S" xOffset="-60"/>
+    <component base="S"/>
   </outline>
   <lib>
     <dict>
@@ -18,22 +18,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>dollar</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1034</integer>
         </dict>

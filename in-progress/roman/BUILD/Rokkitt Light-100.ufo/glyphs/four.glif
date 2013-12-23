@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four" format="1">
-  <advance width="814"/>
+  <advance width="1061"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="336" y="0" type="line"/>
-      <point x="668" y="0" type="line"/>
-      <point x="668" y="35" type="line"/>
-      <point x="523" y="35" type="line"/>
-      <point x="523" y="370" type="line"/>
-      <point x="783" y="370" type="line"/>
-      <point x="783" y="404" type="line"/>
-      <point x="523" y="404" type="line"/>
-      <point x="523" y="1152" type="line"/>
-      <point x="428" y="1152" type="line"/>
-      <point x="3" y="408" type="line"/>
-      <point x="12" y="370" type="line"/>
-      <point x="473" y="370" type="line"/>
-      <point x="473" y="35" type="line"/>
-      <point x="336" y="35" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="861" y="0" type="line"/>
+      <point x="861" y="35" type="line"/>
+      <point x="696" y="35" type="line"/>
+      <point x="696" y="370" type="line"/>
+      <point x="912" y="370" type="line"/>
+      <point x="912" y="404" type="line"/>
+      <point x="696" y="404" type="line"/>
+      <point x="696" y="1152" type="line"/>
+      <point x="650" y="1152" type="line"/>
+      <point x="115" y="403" type="line"/>
+      <point x="124" y="370" type="line"/>
+      <point x="652" y="370" type="line"/>
+      <point x="652" y="35" type="line"/>
+      <point x="485" y="35" type="line"/>
     </contour>
     <contour>
-      <point x="61" y="404" type="line"/>
-      <point x="473" y="1132" type="line"/>
-      <point x="473" y="404" type="line"/>
+      <point x="161" y="404" type="line"/>
+      <point x="652" y="1094" type="line"/>
+      <point x="652" y="404" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,24 +33,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>four</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>868.615</real>
+          <real>868.61500000000001</real>
         </dict>
       </dict>
     </dict>

@@ -4,32 +4,32 @@
   <unicode hex="0030"/>
   <outline>
     <contour>
-      <point x="502" y="-18" type="curve" smooth="yes"/>
-      <point x="808" y="-18"/>
-      <point x="916" y="230"/>
-      <point x="917" y="577" type="curve" smooth="yes"/>
-      <point x="917" y="902"/>
-      <point x="807" y="1171"/>
-      <point x="502" y="1171" type="curve" smooth="yes"/>
-      <point x="195" y="1171"/>
-      <point x="87" y="923"/>
-      <point x="87" y="577" type="curve" smooth="yes"/>
-      <point x="87" y="252"/>
-      <point x="197" y="-18"/>
+      <point x="503" y="-18" type="curve" smooth="yes"/>
+      <point x="809" y="-18"/>
+      <point x="917" y="230"/>
+      <point x="918" y="577" type="curve" smooth="yes"/>
+      <point x="918" y="902"/>
+      <point x="808" y="1171"/>
+      <point x="503" y="1171" type="curve" smooth="yes"/>
+      <point x="196" y="1171"/>
+      <point x="88" y="923"/>
+      <point x="88" y="577" type="curve" smooth="yes"/>
+      <point x="88" y="252"/>
+      <point x="198" y="-18"/>
     </contour>
     <contour>
-      <point x="498" y="101" type="curve" smooth="yes"/>
-      <point x="288" y="105"/>
-      <point x="241" y="290"/>
-      <point x="241" y="576" type="curve" smooth="yes"/>
-      <point x="241" y="832"/>
-      <point x="298" y="1051"/>
-      <point x="501" y="1051" type="curve" smooth="yes"/>
-      <point x="723" y="1051"/>
-      <point x="764" y="835"/>
-      <point x="764" y="575" type="curve" smooth="yes"/>
-      <point x="764" y="312"/>
-      <point x="725" y="101"/>
+      <point x="499" y="101" type="curve" smooth="yes"/>
+      <point x="289" y="105"/>
+      <point x="242" y="290"/>
+      <point x="242" y="576" type="curve" smooth="yes"/>
+      <point x="242" y="832"/>
+      <point x="299" y="1051"/>
+      <point x="502" y="1051" type="curve" smooth="yes"/>
+      <point x="724" y="1051"/>
+      <point x="765" y="835"/>
+      <point x="765" y="575" type="curve" smooth="yes"/>
+      <point x="765" y="312"/>
+      <point x="726" y="101"/>
     </contour>
   </outline>
   <lib>
@@ -39,24 +39,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>zero</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1065.9</real>
+          <real>1065.9000000000001</real>
         </dict>
       </dict>
     </dict>

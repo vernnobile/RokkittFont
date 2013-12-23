@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="967"/>
+  <advance width="1065"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="139" y="-23" type="line"/>
-      <point x="964" y="596" type="line"/>
-      <point x="964" y="630" type="line"/>
-      <point x="139" y="1255" type="line"/>
-      <point x="139" y="1162" type="line"/>
-      <point x="872" y="613" type="line"/>
-      <point x="139" y="68" type="line"/>
+      <point x="963" y="526" type="line"/>
+      <point x="196" y="955" type="line"/>
+      <point x="196" y="872" type="line"/>
+      <point x="869" y="511" type="line"/>
+      <point x="196" y="158" type="line"/>
+      <point x="196" y="77" type="line"/>
+      <point x="963" y="496" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,22 +20,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>greater</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>967</integer>
         </dict>

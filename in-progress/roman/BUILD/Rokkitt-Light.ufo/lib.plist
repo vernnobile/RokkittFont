@@ -6,13 +6,13 @@
 	<dict>
 		<key>1F09728C-766D-4240-AE17-E499EF32E23D</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>98C086B7-81AA-4491-8494-0C6A76849168</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.petr.ptt</key>
 	<dict>
@@ -40,7 +40,7 @@
 		<integer>1</integer>
 		<real>0.75</real>
 		<integer>0</integer>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -61,7 +61,7 @@
 		<real>0.5</real>
 		<integer>0</integer>
 		<real>0.5</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -1096,7 +1096,6 @@
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
 		<string>asterisk</string>
-		<string>dagger</string>
 		<string>daggerdbl</string>
 		<string>period</string>
 		<string>comma</string>
@@ -1204,6 +1203,7 @@
 		<string>estimated</string>
 		<string>uni2113</string>
 		<string>uni02C9</string>
+		<string>partdagger</string>
 	</array>
 </dict>
 </plist>

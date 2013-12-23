@@ -4,8 +4,8 @@
   <unicode hex="012F"/>
   <outline>
     <component base="dotlessi"/>
+    <component base="dotaccent" xOffset="18"/>
     <component base="ogonek" xOffset="69"/>
-    <component base="dotaccent" xOffset="324"/>
   </outline>
   <lib>
     <dict>
@@ -14,22 +14,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>iogonek</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>432</integer>
         </dict>

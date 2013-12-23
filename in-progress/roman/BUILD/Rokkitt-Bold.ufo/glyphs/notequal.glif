@@ -4,26 +4,26 @@
   <unicode hex="2260"/>
   <outline>
     <contour>
-      <point x="375" y="250" type="line"/>
-      <point x="520" y="250" type="line"/>
-      <point x="573" y="461" type="line"/>
-      <point x="1016" y="461" type="line"/>
-      <point x="1016" y="604" type="line"/>
-      <point x="610" y="604" type="line"/>
-      <point x="676" y="858" type="line"/>
-      <point x="1016" y="858" type="line"/>
-      <point x="1016" y="1001" type="line"/>
-      <point x="713" y="1001" type="line"/>
-      <point x="768" y="1212" type="line"/>
-      <point x="625" y="1212" type="line"/>
-      <point x="569" y="1001" type="line"/>
-      <point x="129" y="1001" type="line"/>
-      <point x="129" y="858" type="line"/>
-      <point x="532" y="858" type="line"/>
-      <point x="465" y="604" type="line"/>
-      <point x="129" y="604" type="line"/>
-      <point x="129" y="461" type="line"/>
-      <point x="428" y="461" type="line"/>
+      <point x="375" y="53" type="line"/>
+      <point x="520" y="53" type="line"/>
+      <point x="573" y="264" type="line"/>
+      <point x="1016" y="264" type="line"/>
+      <point x="1016" y="407" type="line"/>
+      <point x="610" y="407" type="line"/>
+      <point x="676" y="661" type="line"/>
+      <point x="1016" y="661" type="line"/>
+      <point x="1016" y="804" type="line"/>
+      <point x="713" y="804" type="line"/>
+      <point x="768" y="1015" type="line"/>
+      <point x="625" y="1015" type="line"/>
+      <point x="569" y="804" type="line"/>
+      <point x="129" y="804" type="line"/>
+      <point x="129" y="661" type="line"/>
+      <point x="532" y="661" type="line"/>
+      <point x="465" y="407" type="line"/>
+      <point x="129" y="407" type="line"/>
+      <point x="129" y="264" type="line"/>
+      <point x="428" y="264" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,22 +33,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>notequal</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1145</integer>
         </dict>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1506"/>
+  <advance width="1409"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="326" y="564" type="line"/>
-      <point x="1180" y="564" type="line"/>
-      <point x="1181" y="598" type="line"/>
-      <point x="327" y="598" type="line"/>
+      <point x="277" y="564" type="line"/>
+      <point x="1131" y="564" type="line"/>
+      <point x="1132" y="598" type="line"/>
+      <point x="278" y="598" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="865"/>
-    <component base="uc_main_stem" xOffset="16"/>
+    <component base="uc_main_stem" xOffset="816"/>
+    <component base="uc_main_stem" xOffset="-33"/>
     <contour>
-      <point x="750" y="1152" type="move" name="top"/>
+      <point x="703" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="752" y="0" type="move" name="bot"/>
+      <point x="701" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -25,22 +25,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>H</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1445</integer>
         </dict>

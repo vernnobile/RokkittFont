@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1227"/>
+  <advance width="1126"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="782" y="390" type="line"/>
-      <point x="821" y="390" type="line"/>
-      <point x="821" y="770" type="line"/>
-      <point x="781" y="770" type="line"/>
-      <point x="781" y="603" type="line"/>
-      <point x="330" y="603" type="line"/>
-      <point x="329" y="569" type="line"/>
-      <point x="782" y="569" type="line"/>
+      <point x="733" y="390" type="line"/>
+      <point x="772" y="390" type="line"/>
+      <point x="772" y="770" type="line"/>
+      <point x="732" y="770" type="line"/>
+      <point x="732" y="603" type="line"/>
+      <point x="281" y="603" type="line"/>
+      <point x="280" y="569" type="line"/>
+      <point x="733" y="569" type="line"/>
     </contour>
     <contour>
-      <point x="323" y="0" type="line"/>
-      <point x="1087" y="0" type="line"/>
-      <point x="1087" y="362" type="line"/>
-      <point x="1047" y="362" type="line"/>
-      <point x="1047" y="34" type="line"/>
-      <point x="323" y="34" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="1038" y="0" type="line"/>
+      <point x="1038" y="362" type="line"/>
+      <point x="998" y="362" type="line"/>
+      <point x="998" y="34" type="line"/>
+      <point x="274" y="34" type="line"/>
     </contour>
     <contour>
-      <point x="1019" y="796" type="line"/>
-      <point x="1059" y="796" type="line"/>
-      <point x="1059" y="1152" type="line"/>
-      <point x="323" y="1152" type="line"/>
-      <point x="323" y="1118" type="line"/>
-      <point x="1019" y="1118" type="line"/>
+      <point x="970" y="796" type="line"/>
+      <point x="1010" y="796" type="line"/>
+      <point x="1010" y="1152" type="line"/>
+      <point x="274" y="1152" type="line"/>
+      <point x="274" y="1118" type="line"/>
+      <point x="970" y="1118" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="16"/>
+    <component base="uc_main_stem" xOffset="-33"/>
     <contour>
-      <point x="676" y="1152" type="move" name="top"/>
+      <point x="625" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="674" y="0" type="move" name="ogonek"/>
+      <point x="627" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -44,22 +44,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>E</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <real>1210.825</real>
         </dict>

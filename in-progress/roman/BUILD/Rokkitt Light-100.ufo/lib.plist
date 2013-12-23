@@ -6,13 +6,13 @@
 	<dict>
 		<key>1F09728C-766D-4240-AE17-E499EF32E23D</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>98C086B7-81AA-4491-8494-0C6A76849168</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.petr.ptt</key>
 	<dict>
@@ -42,7 +42,7 @@
 		<integer>1</integer>
 		<real>0.75</real>
 		<integer>0</integer>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -63,7 +63,7 @@
 		<real>0.5</real>
 		<integer>0</integer>
 		<real>0.5</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -1058,7 +1058,6 @@
 		<string>uni0307</string>
 		<string>uni030F</string>
 		<string>uni0311</string>
-		<string>uni0326</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -1190,6 +1189,21 @@
 		<string>uni2219</string>
 		<string>uni2113</string>
 		<string>uni02C9</string>
+		<string>pi</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
+		<string>threesuperior</string>
+		<string>florin</string>
+		<string>dollar</string>
+		<string>sterling</string>
+		<string>approxequal</string>
+		<string>integral</string>
+		<string>partialdiff</string>
+		<string>estimated</string>
+		<string>section</string>
+		<string>cedilla</string>
+		<string>dotaccent</string>
+		<string>commaaccent</string>
 	</array>
 </dict>
 </plist>

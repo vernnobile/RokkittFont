@@ -3,20 +3,7 @@
   <advance width="466"/>
   <unicode hex="00A1"/>
   <outline>
-    <contour>
-      <point x="147" y="0" type="line"/>
-      <point x="319" y="0" type="line"/>
-      <point x="319" y="350" type="line"/>
-      <point x="277" y="847" type="line"/>
-      <point x="189" y="847" type="line"/>
-      <point x="147" y="350" type="line"/>
-    </contour>
-    <contour>
-      <point x="127" y="959" type="line"/>
-      <point x="339" y="959" type="line"/>
-      <point x="339" y="1171" type="line"/>
-      <point x="127" y="1171" type="line"/>
-    </contour>
+    <component base="exclam" yOffset="913" yScale="-1"/>
   </outline>
   <lib>
     <dict>
@@ -25,22 +12,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>exclamdown</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>262</integer>
         </dict>

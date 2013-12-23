@@ -4,20 +4,20 @@
   <unicode hex="0311"/>
   <outline>
     <contour>
-      <point x="322" y="934" type="curve"/>
-      <point x="372" y="934" type="line"/>
-      <point x="386" y="986"/>
-      <point x="442" y="1013"/>
-      <point x="487" y="1013" type="curve" smooth="yes"/>
-      <point x="532" y="1013"/>
-      <point x="586" y="987"/>
-      <point x="601" y="934" type="curve"/>
-      <point x="649" y="934" type="line"/>
-      <point x="635" y="1021"/>
-      <point x="549" y="1060"/>
-      <point x="487" y="1059" type="curve" smooth="yes"/>
-      <point x="428" y="1060"/>
-      <point x="340" y="1021"/>
+      <point x="352" y="934" type="curve"/>
+      <point x="388" y="934" type="line"/>
+      <point x="403" y="988"/>
+      <point x="436" y="1015"/>
+      <point x="488" y="1015" type="curve" smooth="yes"/>
+      <point x="545" y="1015"/>
+      <point x="580" y="988"/>
+      <point x="595" y="934" type="curve"/>
+      <point x="629" y="934" type="line"/>
+      <point x="616" y="1013"/>
+      <point x="570" y="1051"/>
+      <point x="488" y="1051" type="curve" smooth="yes"/>
+      <point x="413" y="1051"/>
+      <point x="368" y="1013"/>
     </contour>
     <contour>
       <point x="488" y="804" type="move" name="_top"/>
@@ -30,22 +30,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni0311</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>854</integer>
         </dict>

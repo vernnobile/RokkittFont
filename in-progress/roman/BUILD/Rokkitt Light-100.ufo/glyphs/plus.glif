@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="1">
-  <advance width="690"/>
+  <advance width="798"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="328" y="156" type="line"/>
-      <point x="365" y="156" type="line"/>
-      <point x="365" y="554" type="line"/>
-      <point x="700" y="554" type="line"/>
-      <point x="700" y="596" type="line"/>
-      <point x="365" y="596" type="line"/>
-      <point x="365" y="977" type="line"/>
-      <point x="328" y="977" type="line"/>
-      <point x="328" y="596" type="line"/>
-      <point x="-10" y="596" type="line"/>
-      <point x="-10" y="554" type="line"/>
-      <point x="328" y="554" type="line"/>
+      <point x="382" y="156" type="line"/>
+      <point x="419" y="156" type="line"/>
+      <point x="419" y="558" type="line"/>
+      <point x="754" y="558" type="line"/>
+      <point x="754" y="592" type="line"/>
+      <point x="419" y="592" type="line"/>
+      <point x="419" y="977" type="line"/>
+      <point x="382" y="977" type="line"/>
+      <point x="382" y="592" type="line"/>
+      <point x="44" y="592" type="line"/>
+      <point x="44" y="558" type="line"/>
+      <point x="382" y="558" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,22 +25,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>plus</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>792</integer>
         </dict>

@@ -4,6 +4,9 @@
   <unicode hex="02DB"/>
   <outline>
     <contour>
+      <point x="139" y="-205" type="curve" smooth="yes"/>
+      <point x="139" y="-286"/>
+      <point x="200" y="-353"/>
       <point x="326" y="-353" type="curve" smooth="yes"/>
       <point x="358" y="-353"/>
       <point x="410" y="-346"/>
@@ -12,18 +15,15 @@
       <point x="422" y="-226"/>
       <point x="393" y="-233"/>
       <point x="364" y="-233" type="curve" smooth="yes"/>
-      <point x="299" y="-233"/>
-      <point x="266" y="-197"/>
-      <point x="266" y="-126" type="curve" smooth="yes"/>
-      <point x="266" y="-83"/>
-      <point x="281" y="-41"/>
+      <point x="294" y="-233"/>
+      <point x="265" y="-188"/>
+      <point x="265" y="-132" type="curve" smooth="yes"/>
+      <point x="265" y="-89"/>
+      <point x="282" y="-40"/>
       <point x="311" y="0" type="curve"/>
-      <point x="237" y="0" type="line"/>
-      <point x="164" y="-50"/>
-      <point x="137" y="-123"/>
-      <point x="137" y="-176" type="curve" smooth="yes"/>
-      <point x="137" y="-285"/>
-      <point x="215" y="-353"/>
+      <point x="267" y="0" type="line"/>
+      <point x="183" y="-58"/>
+      <point x="139" y="-137"/>
     </contour>
     <contour>
       <point x="273" y="0" type="move" name="_ogonek"/>
@@ -36,22 +36,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>ogonek</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>446</integer>
         </dict>

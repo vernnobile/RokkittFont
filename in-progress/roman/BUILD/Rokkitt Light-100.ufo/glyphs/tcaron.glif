@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcaron" format="1">
-  <advance width="491"/>
+  <advance width="574"/>
   <unicode hex="0165"/>
   <outline>
-    <component base="comma" xOffset="130" yOffset="1206"/>
+    <component base="comma" xOffset="170" yOffset="1256"/>
     <component base="t"/>
   </outline>
   <lib>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>tcaron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>517</integer>
         </dict>

@@ -3,8 +3,8 @@
   <advance width="986"/>
   <unicode hex="00F3"/>
   <outline>
-    <component base="acute" xOffset="532"/>
     <component base="o"/>
+    <component base="acute" xOffset="468" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>oacute</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1004</integer>
         </dict>

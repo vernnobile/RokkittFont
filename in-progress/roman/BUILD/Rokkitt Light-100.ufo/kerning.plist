@@ -193,23 +193,13 @@
 	<dict>
 		<key>@MMK_R_u_Left</key>
 		<integer>-24</integer>
-		<key>@MMK_R_v_Left</key>
-		<integer>-45</integer>
-		<key>@MMK_R_y_Left</key>
-		<integer>-25</integer>
 	</dict>
 	<key>@MMK_L_o_Left</key>
 	<dict>
-		<key>@MMK_R_v_Left</key>
-		<integer>-41</integer>
-		<key>@MMK_R_w_Left</key>
-		<integer>-25</integer>
 		<key>@MMK_R_y_Left</key>
-		<integer>-49</integer>
+		<integer>0</integer>
 		<key>b</key>
 		<integer>-63</integer>
-		<key>l</key>
-		<integer>-50</integer>
 		<key>x</key>
 		<integer>-49</integer>
 	</dict>
@@ -218,7 +208,7 @@
 		<key>@MMK_R_a_Right</key>
 		<integer>-8</integer>
 		<key>@MMK_R_o_Right</key>
-		<integer>-10</integer>
+		<integer>0</integer>
 		<key>comma</key>
 		<integer>-42</integer>
 		<key>period</key>
@@ -228,8 +218,6 @@
 	<dict>
 		<key>@MMK_R_a_Right</key>
 		<integer>-27</integer>
-		<key>@MMK_R_o_Right</key>
-		<integer>-11</integer>
 		<key>comma</key>
 		<integer>-56</integer>
 		<key>h</key>
@@ -330,11 +318,6 @@
 	<dict>
 		<key>@MMK_R_w_Left</key>
 		<integer>-35</integer>
-	</dict>
-	<key>x</key>
-	<dict>
-		<key>@MMK_R_o_Right</key>
-		<integer>-10</integer>
 	</dict>
 </dict>
 </plist>

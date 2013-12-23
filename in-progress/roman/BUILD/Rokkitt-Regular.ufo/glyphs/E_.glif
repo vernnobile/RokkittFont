@@ -26,8 +26,8 @@
       <point x="1046" y="818" type="line"/>
       <point x="1046" y="1152" type="line"/>
       <point x="295" y="1152" type="line"/>
-      <point x="295" y="1039" type="line"/>
-      <point x="915" y="1037" type="line"/>
+      <point x="295" y="1037" type="line"/>
+      <point x="915" y="1035" type="line"/>
     </contour>
     <component base="uc_main_stem" xOffset="-39"/>
     <contour>
@@ -44,22 +44,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>E</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <real>1210.825</real>
         </dict>

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W" format="1">
-  <advance width="1962"/>
+  <advance width="1872"/>
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="601" y="0" type="line"/>
-      <point x="654" y="0" type="line"/>
-      <point x="980" y="984" type="line"/>
-      <point x="1318" y="0" type="line"/>
-      <point x="1369" y="0" type="line"/>
-      <point x="1748" y="1118" type="line"/>
-      <point x="1886" y="1118" type="line"/>
-      <point x="1886" y="1152" type="line"/>
-      <point x="1535" y="1152" type="line"/>
-      <point x="1535" y="1118" type="line"/>
+      <point x="559" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="936" y="1018" type="line"/>
+      <point x="1276" y="0" type="line"/>
+      <point x="1327" y="0" type="line"/>
       <point x="1692" y="1118" type="line"/>
-      <point x="1343" y="48" type="line"/>
-      <point x="993" y="1087" type="line"/>
-      <point x="958" y="1087" type="line"/>
-      <point x="627" y="48" type="line"/>
-      <point x="264" y="1118" type="line"/>
-      <point x="427" y="1118" type="line"/>
-      <point x="427" y="1152" type="line"/>
-      <point x="76" y="1152" type="line"/>
-      <point x="76" y="1118" type="line"/>
-      <point x="213" y="1118" type="line"/>
+      <point x="1830" y="1118" type="line"/>
+      <point x="1830" y="1152" type="line"/>
+      <point x="1493" y="1152" type="line"/>
+      <point x="1493" y="1118" type="line"/>
+      <point x="1650" y="1118" type="line"/>
+      <point x="1301" y="48" type="line"/>
+      <point x="951" y="1087" type="line"/>
+      <point x="916" y="1087" type="line"/>
+      <point x="585" y="48" type="line"/>
+      <point x="222" y="1118" type="line"/>
+      <point x="385" y="1118" type="line"/>
+      <point x="385" y="1152" type="line"/>
+      <point x="42" y="1152" type="line"/>
+      <point x="42" y="1118" type="line"/>
+      <point x="179" y="1118" type="line"/>
     </contour>
     <contour>
-      <point x="977" y="1152" type="move" name="top"/>
+      <point x="935" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -37,24 +37,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>W</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>1937.32</real>
+          <real>1937.3199999999999</real>
         </dict>
       </dict>
     </dict>

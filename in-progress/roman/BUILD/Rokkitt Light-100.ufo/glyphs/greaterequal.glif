@@ -9,7 +9,7 @@
       <point x="610" y="519" type="line"/>
       <point x="-1" y="836" type="line"/>
       <point x="-1" y="793" type="line"/>
-      <point x="538" y="507" type="line"/>
+      <point x="557" y="507" type="line"/>
       <point x="-1" y="222" type="line"/>
     </contour>
     <contour>
@@ -26,22 +26,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>greaterequal</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>752</integer>
         </dict>

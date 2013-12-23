@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="1">
-  <advance width="838"/>
+  <advance width="917"/>
   <unicode hex="003D"/>
   <outline>
     <contour>
-      <point x="165" y="356" type="line"/>
-      <point x="674" y="356" type="line"/>
-      <point x="674" y="419" type="line"/>
-      <point x="165" y="419" type="line"/>
+      <point x="164" y="356" type="line"/>
+      <point x="753" y="356" type="line"/>
+      <point x="753" y="419" type="line"/>
+      <point x="164" y="419" type="line"/>
     </contour>
     <contour>
-      <point x="165" y="634" type="line"/>
-      <point x="674" y="634" type="line"/>
-      <point x="674" y="696" type="line"/>
-      <point x="165" y="696" type="line"/>
+      <point x="164" y="634" type="line"/>
+      <point x="753" y="634" type="line"/>
+      <point x="753" y="696" type="line"/>
+      <point x="164" y="696" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,22 +23,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>equal</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>838</integer>
         </dict>

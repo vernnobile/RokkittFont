@@ -3,8 +3,8 @@
   <advance width="1147"/>
   <unicode hex="0164"/>
   <outline>
-    <component base="caron" xOffset="386" yOffset="347"/>
     <component base="T"/>
+    <component base="caron" xOffset="390" yOffset="348"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Tcaron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1103</integer>
         </dict>

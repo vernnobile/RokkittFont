@@ -1,45 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="1">
-  <advance width="1477"/>
+  <advance width="1237"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="554" y="0" type="line"/>
-      <point x="925" y="0" type="line"/>
-      <point x="925" y="40" type="line"/>
-      <point x="766" y="40" type="line"/>
-      <point x="766" y="198" type="line"/>
-      <point x="1141" y="198" type="line"/>
-      <point x="1141" y="238" type="line"/>
-      <point x="766" y="238" type="line"/>
-      <point x="766" y="405" type="line"/>
-      <point x="1141" y="405" type="line"/>
-      <point x="1141" y="446" type="line"/>
-      <point x="792" y="446" type="line"/>
-      <point x="1244" y="1225" type="line"/>
-      <point x="1400" y="1225" type="line"/>
-      <point x="1400" y="1266" type="line"/>
-      <point x="1020" y="1266" type="line"/>
-      <point x="1020" y="1225" type="line"/>
-      <point x="1182" y="1225" type="line"/>
-      <point x="739" y="452" type="line"/>
-      <point x="293" y="1225" type="line"/>
-      <point x="453" y="1225" type="line"/>
-      <point x="453" y="1266" type="line"/>
-      <point x="77" y="1266" type="line"/>
-      <point x="77" y="1225" type="line"/>
-      <point x="240" y="1225" type="line"/>
-      <point x="691" y="446" type="line"/>
-      <point x="347" y="446" type="line"/>
-      <point x="347" y="405" type="line"/>
-      <point x="716" y="405" type="line"/>
-      <point x="716" y="238" type="line"/>
-      <point x="347" y="238" type="line"/>
-      <point x="347" y="198" type="line"/>
-      <point x="716" y="198" type="line"/>
-      <point x="716" y="40" type="line"/>
-      <point x="554" y="40" type="line"/>
+      <point x="942" y="356" type="line"/>
+      <point x="942" y="386" type="line"/>
+      <point x="278" y="386" type="line"/>
+      <point x="278" y="356" type="line"/>
     </contour>
+    <contour>
+      <point x="942" y="206" type="line"/>
+      <point x="942" y="236" type="line"/>
+      <point x="278" y="236" type="line"/>
+      <point x="278" y="206" type="line"/>
+    </contour>
+    <component base="Y"/>
   </outline>
   <lib>
     <dict>
@@ -48,22 +24,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>yen</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1378</integer>
         </dict>

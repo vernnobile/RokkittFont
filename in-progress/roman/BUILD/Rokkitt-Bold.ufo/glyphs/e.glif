@@ -38,7 +38,7 @@
       <point x="620" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="515" y="804" type="move" name="top"/>
+      <point x="465" y="804" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -48,11 +48,9 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
           <array>
             <dict>
@@ -147,7 +145,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <real>726.768316889</real>
+                  <real>726.76831688899995</real>
                   <key>y</key>
                   <integer>819</integer>
                 </dict>
@@ -305,13 +303,11 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>e</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1054</integer>
         </dict>

@@ -4,12 +4,12 @@
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="73" y="415" type="line"/>
-      <point x="539" y="627" type="line"/>
-      <point x="539" y="763" type="line"/>
-      <point x="73" y="544" type="line"/>
+      <point x="84" y="415" type="line"/>
+      <point x="550" y="627" type="line"/>
+      <point x="550" y="763" type="line"/>
+      <point x="84" y="544" type="line"/>
     </contour>
-    <component base="lc_ascender_stem" xOffset="9"/>
+    <component base="lc_ascender_stem" xOffset="20"/>
   </outline>
   <lib>
     <dict>
@@ -18,22 +18,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>lslash</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>680</integer>
         </dict>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="1">
-  <advance width="264"/>
+  <advance width="740"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="-56" y="0" type="line"/>
-      <point x="315" y="0" type="line"/>
-      <point x="315" y="35" type="line"/>
-      <point x="155" y="35" type="line"/>
-      <point x="155" y="1154" type="line"/>
-      <point x="-49" y="1091" type="line"/>
-      <point x="-27" y="1048" type="line"/>
-      <point x="108" y="1086" type="line"/>
-      <point x="108" y="35" type="line"/>
-      <point x="-56" y="35" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="597" y="36" type="line"/>
+      <point x="437" y="36" type="line"/>
+      <point x="437" y="1154" type="line"/>
+      <point x="233" y="1091" type="line"/>
+      <point x="248" y="1055" type="line"/>
+      <point x="393" y="1101" type="line"/>
+      <point x="393" y="36" type="line"/>
+      <point x="226" y="36" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,24 +23,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>one</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>475.915</real>
+          <real>475.91500000000002</real>
         </dict>
       </dict>
     </dict>

@@ -1,47 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="2243"/>
+  <advance width="1697"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="93" y="0" type="line"/>
-      <point x="475" y="0" type="line"/>
-      <point x="487" y="40" type="line"/>
-      <point x="328" y="40" type="line"/>
-      <point x="624" y="448" type="line"/>
-      <point x="1113" y="448" type="line"/>
-      <point x="1191" y="40" type="line"/>
-      <point x="1030" y="40" type="line"/>
-      <point x="1018" y="0" type="line"/>
-      <point x="2061" y="0" type="line"/>
-      <point x="1996" y="395" type="line"/>
-      <point x="1940" y="395" type="line"/>
-      <point x="1997" y="52" type="line"/>
-      <point x="1246" y="52" type="line"/>
-      <point x="1151" y="528" type="line"/>
-      <point x="1604" y="528" type="line"/>
-      <point x="1632" y="343" type="line"/>
-      <point x="1687" y="343" type="line"/>
-      <point x="1617" y="759" type="line"/>
-      <point x="1562" y="759" type="line"/>
-      <point x="1594" y="584" type="line"/>
-      <point x="1143" y="584" type="line"/>
-      <point x="1048" y="1100" type="line"/>
-      <point x="1764" y="1100" type="line"/>
-      <point x="1822" y="754" type="line"/>
-      <point x="1877" y="754" type="line"/>
-      <point x="1809" y="1152" type="line"/>
-      <point x="826" y="1152" type="line"/>
-      <point x="815" y="1110" type="line"/>
-      <point x="996" y="1110" type="line"/>
-      <point x="272" y="40" type="line"/>
-      <point x="106" y="40" type="line"/>
+      <point x="887" y="34" type="line"/>
+      <point x="885" y="0" type="line"/>
+      <point x="1609" y="0" type="line"/>
+      <point x="1609" y="362" type="line"/>
+      <point x="1569" y="362" type="line"/>
+      <point x="1569" y="34" type="line"/>
+      <point x="1077" y="34" type="line"/>
+      <point x="912" y="569" type="line"/>
+      <point x="1346" y="569" type="line"/>
+      <point x="1346" y="390" type="line"/>
+      <point x="1385" y="390" type="line"/>
+      <point x="1385" y="770" type="line"/>
+      <point x="1345" y="770" type="line"/>
+      <point x="1345" y="603" type="line"/>
+      <point x="902" y="603" type="line"/>
+      <point x="743" y="1118" type="line"/>
+      <point x="1551" y="1118" type="line"/>
+      <point x="1551" y="796" type="line"/>
+      <point x="1591" y="796" type="line"/>
+      <point x="1591" y="1152" type="line"/>
+      <point x="529" y="1152" type="line"/>
+      <point x="527" y="1118" type="line"/>
+      <point x="672" y="1118" type="line"/>
+      <point x="193" y="34" type="line"/>
+      <point x="38" y="34" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="388" y="34" type="line"/>
+      <point x="240" y="34" type="line"/>
+      <point x="442" y="488" type="line"/>
+      <point x="898" y="488" type="line"/>
+      <point x="1036" y="34" type="line"/>
     </contour>
     <contour>
-      <point x="651" y="485" type="line"/>
-      <point x="1109" y="485" type="line"/>
-      <point x="1011" y="1094" type="line"/>
-      <point x="1025" y="1094" type="line"/>
+      <point x="453" y="520" type="line"/>
+      <point x="704" y="1111" type="line"/>
+      <point x="707" y="1111" type="line"/>
+      <point x="889" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="1606" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="1608" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -51,22 +57,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>AE</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>2097</integer>
         </dict>

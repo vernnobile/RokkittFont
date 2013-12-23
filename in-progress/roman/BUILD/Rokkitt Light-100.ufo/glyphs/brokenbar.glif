@@ -4,16 +4,16 @@
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="184" y="-26" type="line"/>
-      <point x="231" y="-26" type="line"/>
-      <point x="231" y="544" type="line"/>
-      <point x="184" y="544" type="line"/>
+      <point x="189" y="-87" type="line"/>
+      <point x="236" y="-87" type="line"/>
+      <point x="236" y="483" type="line"/>
+      <point x="189" y="483" type="line"/>
     </contour>
     <contour>
-      <point x="184" y="725" type="line"/>
-      <point x="231" y="725" type="line"/>
-      <point x="231" y="1296" type="line"/>
-      <point x="184" y="1296" type="line"/>
+      <point x="189" y="664" type="line"/>
+      <point x="236" y="664" type="line"/>
+      <point x="236" y="1235" type="line"/>
+      <point x="189" y="1235" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,22 +23,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>brokenbar</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>414</integer>
         </dict>

@@ -4,10 +4,10 @@
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="56" y="724" type="line"/>
-      <point x="876" y="724" type="line"/>
-      <point x="876" y="842" type="line"/>
-      <point x="56" y="842" type="line"/>
+      <point x="56" y="530" type="line"/>
+      <point x="876" y="530" type="line"/>
+      <point x="876" y="648" type="line"/>
+      <point x="56" y="648" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,22 +17,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>minus</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1233</integer>
         </dict>

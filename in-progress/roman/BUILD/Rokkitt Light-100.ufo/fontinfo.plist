@@ -15,7 +15,7 @@
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>3</integer>
 	<key>openTypeHheaCaretOffset</key>
-	<integer>0</integer>
+	<real>0.0</real>
 	<key>openTypeHheaCaretSlopeRise</key>
 	<integer>1</integer>
 	<key>openTypeHheaCaretSlopeRun</key>
@@ -77,7 +77,7 @@
 	<key>postscriptFullName</key>
 	<string>Rokkitt Light 100</string>
 	<key>postscriptNominalWidthX</key>
-	<integer>1052</integer>
+	<real>1052</real>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>

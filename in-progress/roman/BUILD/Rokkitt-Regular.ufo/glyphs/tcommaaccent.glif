@@ -3,7 +3,7 @@
   <advance width="585"/>
   <outline>
     <component base="t"/>
-    <component base="uni0326" xOffset="100" yOffset="10"/>
+    <component base="commaaccent" xOffset="170" yOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -12,22 +12,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>tcommaaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>517</integer>
         </dict>

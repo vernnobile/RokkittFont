@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="summation" format="1">
-  <advance width="1209"/>
+  <advance width="1092"/>
   <unicode hex="2211"/>
   <outline>
     <contour>
-      <point x="153" y="0" type="line"/>
-      <point x="1085" y="0" type="line"/>
-      <point x="1085" y="328" type="line"/>
-      <point x="956" y="328" type="line"/>
-      <point x="956" y="116" type="line"/>
-      <point x="408" y="116" type="line"/>
-      <point x="790" y="582" type="line"/>
-      <point x="791" y="613" type="line"/>
-      <point x="448" y="1037" type="line"/>
-      <point x="954" y="1037" type="line"/>
-      <point x="954" y="818" type="line"/>
-      <point x="1085" y="818" type="line"/>
-      <point x="1085" y="1153" type="line"/>
-      <point x="153" y="1153" type="line"/>
-      <point x="153" y="1037" type="line"/>
-      <point x="269" y="1037" type="line"/>
-      <point x="644" y="566" type="line"/>
-      <point x="269" y="116" type="line"/>
-      <point x="153" y="116" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="1008" y="0" type="line"/>
+      <point x="1008" y="328" type="line"/>
+      <point x="879" y="328" type="line"/>
+      <point x="879" y="116" type="line"/>
+      <point x="331" y="116" type="line"/>
+      <point x="713" y="582" type="line"/>
+      <point x="714" y="613" type="line"/>
+      <point x="371" y="1037" type="line"/>
+      <point x="877" y="1037" type="line"/>
+      <point x="877" y="818" type="line"/>
+      <point x="1008" y="818" type="line"/>
+      <point x="1008" y="1153" type="line"/>
+      <point x="76" y="1153" type="line"/>
+      <point x="76" y="1037" type="line"/>
+      <point x="192" y="1037" type="line"/>
+      <point x="567" y="566" type="line"/>
+      <point x="192" y="116" type="line"/>
+      <point x="76" y="116" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,22 +32,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>summation</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>395</integer>
         </dict>

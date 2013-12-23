@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ffi" format="1">
-  <advance width="1699"/>
+  <advance width="1567"/>
   <outline>
     <contour>
-      <point x="207" y="0" type="line"/>
-      <point x="598" y="0" type="line"/>
-      <point x="598" y="35" type="line"/>
-      <point x="405" y="35" type="line"/>
-      <point x="405" y="775" type="line"/>
-      <point x="848" y="775" type="line"/>
-      <point x="848" y="804" type="line"/>
-      <point x="405" y="804" type="line"/>
-      <point x="405" y="1011" type="line" smooth="yes"/>
-      <point x="405" y="1126"/>
-      <point x="699" y="1260"/>
-      <point x="990" y="1075" type="curve"/>
-      <point x="1026" y="1092" type="line"/>
-      <point x="703" y="1313"/>
-      <point x="358" y="1181"/>
-      <point x="358" y="1005" type="curve" smooth="yes"/>
-      <point x="358" y="804" type="line"/>
-      <point x="202" y="804" type="line"/>
-      <point x="202" y="775" type="line"/>
-      <point x="358" y="775" type="line"/>
-      <point x="358" y="35" type="line"/>
-      <point x="207" y="35" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="34" type="line"/>
+      <point x="293" y="34" type="line"/>
+      <point x="293" y="770" type="line"/>
+      <point x="711" y="770" type="line"/>
+      <point x="711" y="804" type="line"/>
+      <point x="293" y="804" type="line"/>
+      <point x="293" y="1011" type="line" smooth="yes"/>
+      <point x="293" y="1100"/>
+      <point x="420" y="1174"/>
+      <point x="558" y="1174" type="curve" smooth="yes"/>
+      <point x="674" y="1174"/>
+      <point x="771" y="1151"/>
+      <point x="890" y="1071" type="curve"/>
+      <point x="913" y="1093" type="line"/>
+      <point x="792" y="1176"/>
+      <point x="666" y="1208"/>
+      <point x="558" y="1208" type="curve" smooth="yes"/>
+      <point x="393" y="1208"/>
+      <point x="249" y="1115"/>
+      <point x="249" y="1005" type="curve" smooth="yes"/>
+      <point x="249" y="804" type="line"/>
+      <point x="90" y="804" type="line"/>
+      <point x="90" y="770" type="line"/>
+      <point x="249" y="770" type="line"/>
+      <point x="249" y="34" type="line"/>
+      <point x="95" y="34" type="line"/>
     </contour>
-    <component base="fi" xOffset="671"/>
+    <component base="fi" xOffset="534"/>
   </outline>
   <lib>
     <dict>
@@ -35,22 +41,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>ffi</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1364</integer>
         </dict>

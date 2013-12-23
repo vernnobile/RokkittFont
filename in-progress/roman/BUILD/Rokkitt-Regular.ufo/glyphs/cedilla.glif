@@ -4,28 +4,28 @@
   <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="242" y="-321" type="curve" smooth="yes"/>
-      <point x="314" y="-321"/>
-      <point x="372" y="-294"/>
-      <point x="372" y="-218" type="curve" smooth="yes"/>
-      <point x="372" y="-169"/>
-      <point x="333" y="-120"/>
-      <point x="248" y="-110" type="curve"/>
-      <point x="273" y="6" type="line"/>
+      <point x="185" y="-391"/>
+      <point x="230" y="-391" type="curve" smooth="yes"/>
+      <point x="330" y="-391"/>
+      <point x="380" y="-331"/>
+      <point x="380" y="-268" type="curve" smooth="yes"/>
+      <point x="380" y="-209"/>
+      <point x="336" y="-147"/>
+      <point x="248" y="-130" type="curve"/>
+      <point x="272" y="6" type="line"/>
       <point x="206" y="6" type="line"/>
       <point x="152" y="-148" type="line"/>
-      <point x="213" y="-154"/>
-      <point x="243" y="-172"/>
-      <point x="243" y="-204" type="curve" smooth="yes"/>
-      <point x="243" y="-234"/>
-      <point x="218" y="-243"/>
-      <point x="185" y="-243" type="curve" smooth="yes"/>
-      <point x="149" y="-243"/>
-      <point x="105" y="-233"/>
-      <point x="75" y="-227" type="curve"/>
-      <point x="75" y="-285" type="line"/>
-      <point x="127" y="-306"/>
-      <point x="189" y="-321"/>
+      <point x="229" y="-157"/>
+      <point x="264" y="-198"/>
+      <point x="264" y="-237" type="curve" smooth="yes"/>
+      <point x="264" y="-276"/>
+      <point x="230" y="-312"/>
+      <point x="171" y="-312" type="curve" smooth="yes"/>
+      <point x="146" y="-312"/>
+      <point x="108" y="-303"/>
+      <point x="75" y="-287" type="curve"/>
+      <point x="75" y="-345" type="line"/>
+      <point x="133" y="-378"/>
     </contour>
     <contour>
       <point x="244" y="0" type="move" name="_bot"/>
@@ -38,22 +38,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>cedilla</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>381</integer>
         </dict>

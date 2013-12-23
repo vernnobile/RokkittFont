@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="1">
-  <advance width="915"/>
+  <advance width="715"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
-      <point x="195" y="437" type="line"/>
-      <point x="718" y="437" type="line"/>
-      <point x="718" y="471" type="line"/>
-      <point x="195" y="471" type="line"/>
+      <point x="96" y="542" type="line"/>
+      <point x="619" y="542" type="line"/>
+      <point x="619" y="576" type="line"/>
+      <point x="96" y="576" type="line"/>
     </contour>
     <contour>
-      <point x="431" y="449" type="move" name="_mid"/>
+      <point x="344" y="557" type="move" name="_mid"/>
     </contour>
   </outline>
   <lib>
@@ -20,22 +20,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>hyphen</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>859</integer>
         </dict>

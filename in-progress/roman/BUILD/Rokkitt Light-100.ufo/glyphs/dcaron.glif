@@ -3,7 +3,7 @@
   <advance width="1052"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="comma" xOffset="891" yOffset="1062"/>
+    <component base="comma" xOffset="840" yOffset="1078"/>
     <component base="d"/>
   </outline>
   <lib>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>dcaron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1068</integer>
         </dict>
