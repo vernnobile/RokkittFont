@@ -1,0 +1,66 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="131028_2106_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="60.0" />
+<data name="previewtext" value="Honduran Blowfish Glondikein Racecourse" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525328" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="BUILD/600-900/Rokkitt-Regular.ufo">
+<location>
+</location>
+<!-- color for BUILD/600-900/Rokkitt-Regular.ufo -->
+<color a="1.000000" b="1.000000" g="1.000000" r="0.500000" />
+</master>
+<master filename="BUILD/600-900/Rokkitt-Bold.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="500" />
+</location>
+<!-- color for BUILD/600-900/Rokkitt-Bold.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="BUILD/600-900/Rokkitt Light-900.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for BUILD/600-900/Rokkitt Light-900.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.500000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Rokkitt Light 100" sequence="" stylename="500">
+<location>
+<dimension name="new_axis_1" xvalue="200" />
+</location>
+</instance>
+<instance familyname="Rokkitt Light" sequence="" stylename="600">
+<location>
+<dimension name="new_axis_1" xvalue="500" />
+</location>
+</instance>
+<instance familyname="Rokkitt Light" sequence="" stylename="700">
+<location>
+<dimension name="new_axis_1" xvalue="750" />
+</location>
+</instance>
+<instance familyname="Rokkitt Light" sequence="" stylename="800">
+<location>
+<dimension name="new_axis_1" xvalue="1050" />
+</location>
+</instance>
+<instance familyname="Rokkitt Light" sequence="" stylename="900">
+<location>
+<dimension name="new_axis_1" xvalue="1200" />
+</location>
+</instance>
+</designspace>

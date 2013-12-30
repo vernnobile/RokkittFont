@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x" format="1">
+  <advance width="1035"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="428" y="93" type="line"/>
+      <point x="312" y="93" type="line"/>
+      <point x="519" y="343" type="line"/>
+      <point x="733" y="93" type="line"/>
+      <point x="603" y="93" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="980" y="0" type="line"/>
+      <point x="980" y="93" type="line"/>
+      <point x="855" y="93" type="line"/>
+      <point x="581" y="411" type="line"/>
+      <point x="830" y="711" type="line"/>
+      <point x="971" y="711" type="line"/>
+      <point x="971" y="804" type="line"/>
+      <point x="591" y="804" type="line"/>
+      <point x="591" y="711" type="line"/>
+      <point x="708" y="711" type="line"/>
+      <point x="516" y="481" type="line"/>
+      <point x="319" y="711" type="line"/>
+      <point x="445" y="711" type="line"/>
+      <point x="445" y="804" type="line"/>
+      <point x="70" y="804" type="line"/>
+      <point x="70" y="711" type="line"/>
+      <point x="202" y="711" type="line"/>
+      <point x="454" y="414" type="line"/>
+      <point x="183" y="93" type="line"/>
+      <point x="54" y="93" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>x</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1052</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

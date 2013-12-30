@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="1">
+  <advance width="574"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaaccent" xOffset="95" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>tcommaaccent</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>574</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

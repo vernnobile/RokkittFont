@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="730"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="708" y="188" type="line"/>
+      <point x="708" y="244" type="line"/>
+      <point x="137" y="542" type="line"/>
+      <point x="708" y="841" type="line"/>
+      <point x="708" y="899" type="line"/>
+      <point x="55" y="557" type="line"/>
+      <point x="55" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="0" type="line"/>
+      <point x="708" y="0" type="line"/>
+      <point x="708" y="47" type="line"/>
+      <point x="55" y="47" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lessequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>593</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

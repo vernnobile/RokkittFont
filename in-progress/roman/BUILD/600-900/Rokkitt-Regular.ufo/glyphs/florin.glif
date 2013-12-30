@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin" format="1">
+  <advance width="916"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="-54" y="-245" type="line"/>
+      <point x="-20.9678635765" y="-254.589975091"/>
+      <point x="12.1761909928" y="-258.772873336"/>
+      <point x="44.7322158422" y="-257.742475877" type="curve" smooth="yes"/>
+      <point x="206.95270585" y="-252.608200991"/>
+      <point x="354.573360723" y="-118.036152402"/>
+      <point x="401" y="122" type="curve" smooth="yes"/>
+      <point x="514" y="698" type="line"/>
+      <point x="727" y="698" type="line"/>
+      <point x="744" y="782" type="line"/>
+      <point x="532" y="782" type="line"/>
+      <point x="565" y="954" type="line" smooth="yes"/>
+      <point x="585" y="1054"/>
+      <point x="607" y="1152"/>
+      <point x="705" y="1152" type="curve" smooth="yes"/>
+      <point x="757" y="1152"/>
+      <point x="783" y="1102"/>
+      <point x="783" y="1001" type="curve"/>
+      <point x="916" y="1001" type="line"/>
+      <point x="916" y="1187"/>
+      <point x="814" y="1234"/>
+      <point x="698" y="1234" type="curve" smooth="yes"/>
+      <point x="517" y="1234"/>
+      <point x="433" y="1104"/>
+      <point x="400" y="941" type="curve" smooth="yes"/>
+      <point x="369" y="782" type="line"/>
+      <point x="207" y="782" type="line"/>
+      <point x="190" y="698" type="line"/>
+      <point x="355" y="698" type="line"/>
+      <point x="241" y="123" type="line" smooth="yes"/>
+      <point x="210.971072117" y="-28.1785505917"/>
+      <point x="225.797426051" y="-174.556982567"/>
+      <point x="47.9641753216" y="-171.109158287" type="curve" smooth="yes"/>
+      <point x="23.748426097" y="-170.639664265"/>
+      <point x="-4.03972699714" y="-167.39200666"/>
+      <point x="-36" y="-161" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>florin</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>916</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

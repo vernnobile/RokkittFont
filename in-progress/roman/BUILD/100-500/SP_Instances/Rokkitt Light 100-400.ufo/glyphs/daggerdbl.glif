@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="765"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="320" y="-76" type="line"/>
+      <point x="447" y="-76" type="line"/>
+      <point x="410" y="211" type="line"/>
+      <point x="650" y="180" type="line"/>
+      <point x="650" y="290" type="line"/>
+      <point x="410" y="254" type="line"/>
+      <point x="454" y="401"/>
+      <point x="415" y="469"/>
+      <point x="409" y="568" type="curve" smooth="yes"/>
+      <point x="415" y="665"/>
+      <point x="454" y="736"/>
+      <point x="410" y="883" type="curve"/>
+      <point x="650" y="848" type="line"/>
+      <point x="650" y="958" type="line"/>
+      <point x="410" y="927" type="line"/>
+      <point x="447" y="1214" type="line"/>
+      <point x="320" y="1214" type="line"/>
+      <point x="356" y="927" type="line"/>
+      <point x="115" y="958" type="line"/>
+      <point x="115" y="848" type="line"/>
+      <point x="356" y="883" type="line"/>
+      <point x="313" y="738"/>
+      <point x="351" y="671"/>
+      <point x="357" y="571" type="curve" smooth="yes"/>
+      <point x="351" y="474"/>
+      <point x="313" y="402"/>
+      <point x="356" y="254" type="curve"/>
+      <point x="115" y="290" type="line"/>
+      <point x="115" y="180" type="line"/>
+      <point x="356" y="211" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>daggerdbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>486</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

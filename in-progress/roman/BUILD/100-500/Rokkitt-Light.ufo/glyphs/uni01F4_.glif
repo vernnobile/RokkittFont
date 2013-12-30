@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01F4" format="1">
+  <advance width="1370"/>
+  <unicode hex="01F4"/>
+  <outline>
+    <component base="G"/>
+    <component base="acute" xOffset="659" yOffset="347"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni01F4</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1385</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

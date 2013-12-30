@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="1">
+  <advance width="810"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="404" y="602" type="curve" smooth="yes"/>
+      <point x="268" y="602"/>
+      <point x="159" y="701"/>
+      <point x="159" y="865" type="curve" smooth="yes"/>
+      <point x="159" y="1027"/>
+      <point x="268" y="1125"/>
+      <point x="404" y="1125" type="curve" smooth="yes"/>
+      <point x="538" y="1125"/>
+      <point x="649" y="1027"/>
+      <point x="649" y="865" type="curve" smooth="yes"/>
+      <point x="649" y="701"/>
+      <point x="538" y="602"/>
+    </contour>
+    <contour>
+      <point x="404" y="552" type="curve" smooth="yes"/>
+      <point x="570" y="552"/>
+      <point x="709" y="669"/>
+      <point x="709" y="865" type="curve" smooth="yes"/>
+      <point x="709" y="1059"/>
+      <point x="570" y="1174"/>
+      <point x="404" y="1174" type="curve" smooth="yes"/>
+      <point x="236" y="1174"/>
+      <point x="100" y="1058"/>
+      <point x="100" y="865" type="curve" smooth="yes"/>
+      <point x="100" y="669"/>
+      <point x="237" y="552"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ordmasculine</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>809</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

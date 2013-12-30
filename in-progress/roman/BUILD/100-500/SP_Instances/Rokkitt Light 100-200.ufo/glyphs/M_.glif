@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1552"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="770" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="105" y="0" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="47" type="line"/>
+      <point x="317" y="47" type="line"/>
+      <point x="317" y="1035" type="line"/>
+      <point x="783" y="96" type="line"/>
+      <point x="793" y="96" type="line"/>
+      <point x="1236" y="1035" type="line"/>
+      <point x="1236" y="47" type="line"/>
+      <point x="1082" y="47" type="line"/>
+      <point x="1082" y="0" type="line"/>
+      <point x="1447" y="0" type="line"/>
+      <point x="1447" y="47" type="line"/>
+      <point x="1295" y="47" type="line"/>
+      <point x="1295" y="1105" type="line"/>
+      <point x="1447" y="1105" type="line"/>
+      <point x="1447" y="1152" type="line"/>
+      <point x="1226" y="1152" type="line"/>
+      <point x="787" y="209" type="line"/>
+      <point x="325" y="1152" type="line"/>
+      <point x="105" y="1152" type="line"/>
+      <point x="105" y="1105" type="line"/>
+      <point x="257" y="1105" type="line"/>
+      <point x="257" y="47" type="line"/>
+      <point x="105" y="47" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1524</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
