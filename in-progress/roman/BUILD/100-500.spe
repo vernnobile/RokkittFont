@@ -18,6 +18,7 @@
 <!-- master definitions -->
 <master filename="100-500/Rokkitt-Build-100.ufo">
 <location>
+<dimension name="new_axis_1" xvalue="0" />
 </location>
 <!-- color for 100-500/Rokkitt-Build-100.ufo -->
 <color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
