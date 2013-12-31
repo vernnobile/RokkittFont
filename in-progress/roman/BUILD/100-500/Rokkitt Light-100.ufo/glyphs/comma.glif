@@ -16,6 +16,9 @@
       <point x="212" y="-126"/>
       <point x="138" y="-128" type="curve"/>
     </contour>
+    <contour>
+      <point x="187.0" y="0" type="move" name="_bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -24,17 +27,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>comma</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>374</integer>
         </dict>

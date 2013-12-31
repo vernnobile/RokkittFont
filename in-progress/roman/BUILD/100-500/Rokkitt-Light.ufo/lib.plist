@@ -6,13 +6,13 @@
 	<dict>
 		<key>1F09728C-766D-4240-AE17-E499EF32E23D</key>
 		<dict>
-	</dict>
+		</dict>
 		<key>98C086B7-81AA-4491-8494-0C6A76849168</key>
 		<dict>
-	</dict>
+		</dict>
 		<key>EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE</key>
 		<dict>
-	</dict>
+		</dict>
 	</dict>
 	<key>com.petr.ptt</key>
 	<dict>
@@ -40,7 +40,7 @@
 		<integer>1</integer>
 		<real>0.75</real>
 		<integer>0</integer>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -61,7 +61,7 @@
 		<real>0.5</real>
 		<integer>0</integer>
 		<real>0.5</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -498,6 +498,105 @@
 				<string>uni2113</string>
 				<string>uni02C9</string>
 				<string>partdagger</string>
+				<string>dagger</string>
+				<string>AEacute</string>
+				<string>AEmacron</string>
+				<string>Ebreve</string>
+				<string>Gcaron</string>
+				<string>Eng</string>
+				<string>Oslashacute</string>
+				<string>Scircumflex</string>
+				<string>Tbar</string>
+				<string>Tcedilla</string>
+				<string>Wacute</string>
+				<string>Wcircumflex</string>
+				<string>Wdieresis</string>
+				<string>Wgrave</string>
+				<string>Ycircumflex</string>
+				<string>Ygrave</string>
+				<string>uni01CD</string>
+				<string>uni01CF</string>
+				<string>uni01D1</string>
+				<string>uni01D3</string>
+				<string>uni01E8</string>
+				<string>uni01EA</string>
+				<string>uni01F8</string>
+				<string>uni021E</string>
+				<string>uni0226</string>
+				<string>uni0228</string>
+				<string>uni0232</string>
+				<string>uni1E02</string>
+				<string>uni1E0A</string>
+				<string>uni1E1E</string>
+				<string>uni1E40</string>
+				<string>uni1E56</string>
+				<string>uni1E60</string>
+				<string>uni1E6A</string>
+				<string>uni1EBC</string>
+				<string>uni1EF8</string>
+				<string>aeacute</string>
+				<string>aemacron</string>
+				<string>ebreve</string>
+				<string>gcaron</string>
+				<string>idotaccent</string>
+				<string>dotlessj</string>
+				<string>napostrophe</string>
+				<string>eng</string>
+				<string>oslashacute</string>
+				<string>tbar</string>
+				<string>tcedilla</string>
+				<string>uni01CE</string>
+				<string>uni01D0</string>
+				<string>uni01D2</string>
+				<string>uni01D4</string>
+				<string>uni01E9</string>
+				<string>uni01EB</string>
+				<string>uni01F0</string>
+				<string>uni01F9</string>
+				<string>uni0209</string>
+				<string>uni021F</string>
+				<string>uni0227</string>
+				<string>uni0229</string>
+				<string>uni0233</string>
+				<string>uni1E03</string>
+				<string>uni1E0B</string>
+				<string>uni1E1F</string>
+				<string>uni1E41</string>
+				<string>uni1E57</string>
+				<string>uni1E61</string>
+				<string>uni1E6B</string>
+				<string>uni1EBD</string>
+				<string>uni1EF9</string>
+				<string>wacute</string>
+				<string>wcircumflex</string>
+				<string>wdieresis</string>
+				<string>wgrave</string>
+				<string>ycircumflex</string>
+				<string>ygrave</string>
+				<string>uniFB00</string>
+				<string>uniFB03</string>
+				<string>uniFB04</string>
+				<string>Delta</string>
+				<string>Sigma</string>
+				<string>uni03A9</string>
+				<string>Omega</string>
+				<string>mu</string>
+				<string>uni03BC</string>
+				<string>uni022E</string>
+				<string>uni022F</string>
+				<string>uni000D</string>
+				<string>emptyset</string>
+				<string>caron.alt</string>
+				<string>breveinvertedcomb</string>
+				<string>commaturnedabovecomb</string>
+				<string>dblgravecmb</string>
+				<string>apostrophemod</string>
+				<string>dotaccentcmb</string>
+				<string>middot</string>
+				<string>slashbar</string>
+				<string>uni0002</string>
+				<string>uni0009</string>
+				<string>uni000A</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1188,6 +1287,104 @@
 		<string>uni02C9</string>
 		<string>partdagger</string>
 		<string>dagger</string>
+		<string>AEacute</string>
+		<string>AEmacron</string>
+		<string>Ebreve</string>
+		<string>Gcaron</string>
+		<string>Eng</string>
+		<string>Oslashacute</string>
+		<string>Scircumflex</string>
+		<string>Tbar</string>
+		<string>Tcedilla</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
+		<string>Ycircumflex</string>
+		<string>Ygrave</string>
+		<string>uni01CD</string>
+		<string>uni01CF</string>
+		<string>uni01D1</string>
+		<string>uni01D3</string>
+		<string>uni01E8</string>
+		<string>uni01EA</string>
+		<string>uni01F8</string>
+		<string>uni021E</string>
+		<string>uni0226</string>
+		<string>uni0228</string>
+		<string>uni0232</string>
+		<string>uni1E02</string>
+		<string>uni1E0A</string>
+		<string>uni1E1E</string>
+		<string>uni1E40</string>
+		<string>uni1E56</string>
+		<string>uni1E60</string>
+		<string>uni1E6A</string>
+		<string>uni1EBC</string>
+		<string>uni1EF8</string>
+		<string>aeacute</string>
+		<string>aemacron</string>
+		<string>ebreve</string>
+		<string>gcaron</string>
+		<string>idotaccent</string>
+		<string>dotlessj</string>
+		<string>napostrophe</string>
+		<string>eng</string>
+		<string>oslashacute</string>
+		<string>tbar</string>
+		<string>tcedilla</string>
+		<string>uni01CE</string>
+		<string>uni01D0</string>
+		<string>uni01D2</string>
+		<string>uni01D4</string>
+		<string>uni01E9</string>
+		<string>uni01EB</string>
+		<string>uni01F0</string>
+		<string>uni01F9</string>
+		<string>uni0209</string>
+		<string>uni021F</string>
+		<string>uni0227</string>
+		<string>uni0229</string>
+		<string>uni0233</string>
+		<string>uni1E03</string>
+		<string>uni1E0B</string>
+		<string>uni1E1F</string>
+		<string>uni1E41</string>
+		<string>uni1E57</string>
+		<string>uni1E61</string>
+		<string>uni1E6B</string>
+		<string>uni1EBD</string>
+		<string>uni1EF9</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
+		<string>ycircumflex</string>
+		<string>ygrave</string>
+		<string>uniFB00</string>
+		<string>uniFB03</string>
+		<string>uniFB04</string>
+		<string>Delta</string>
+		<string>Sigma</string>
+		<string>uni03A9</string>
+		<string>Omega</string>
+		<string>mu</string>
+		<string>uni03BC</string>
+		<string>uni022E</string>
+		<string>uni022F</string>
+		<string>uni000D</string>
+		<string>emptyset</string>
+		<string>caron.alt</string>
+		<string>breveinvertedcomb</string>
+		<string>commaturnedabovecomb</string>
+		<string>dblgravecmb</string>
+		<string>apostrophemod</string>
+		<string>dotaccentcmb</string>
+		<string>middot</string>
+		<string>slashbar</string>
+		<string>uni0002</string>
+		<string>uni0009</string>
+		<string>uni000A</string>
 	</array>
 </dict>
 </plist>

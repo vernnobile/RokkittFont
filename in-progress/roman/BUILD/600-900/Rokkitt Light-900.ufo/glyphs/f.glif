@@ -33,6 +33,9 @@
       <point x="239" y="164" type="line"/>
       <point x="74" y="164" type="line"/>
     </contour>
+    <contour>
+      <point x="373.0" y="804" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -41,19 +44,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>f</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>661.44000000000005</real>
+          <integer>746</integer>
         </dict>
       </dict>
     </dict>

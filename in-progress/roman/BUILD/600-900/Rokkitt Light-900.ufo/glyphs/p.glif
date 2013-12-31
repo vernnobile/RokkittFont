@@ -8,6 +8,9 @@
     <contour>
       <point x="630" y="893" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="531.0" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -16,19 +19,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>p</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1104.0236221299999</real>
+          <integer>1062</integer>
         </dict>
       </dict>
     </dict>

@@ -11,6 +11,9 @@
     <contour>
       <point x="312" y="899" type="move" name="mid"/>
     </contour>
+    <contour>
+      <point x="570.5" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -19,19 +22,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>h</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1078</integer>
+          <integer>1141</integer>
         </dict>
       </dict>
     </dict>

@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1772.800"/>
+  <advance width="1772.8"/>
   <unicode hex="006D"/>
   <outline>
-    <component base="lc_xheight_curved_stem" xOffset="426" xScale="1.02"/>
-    <component base="lc_xheight_curved_stem" xOffset="-167" xScale="1.02"/>
-    <component base="lc_xheight_stem" xOffset="-101" xScale="1.02"/>
+    <component base="lc_xheight_curved_stem" xScale="1.02" xOffset="426"/>
+    <component base="lc_xheight_curved_stem" xScale="1.02" xOffset="-167"/>
+    <component base="lc_xheight_stem" xScale="1.02" xOffset="-101"/>
+    <contour>
+      <point x="886.4" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="886.4" y="804" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -14,19 +20,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>m</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1646</integer>
+          <real>1772.8</real>
         </dict>
       </dict>
     </dict>

@@ -35,6 +35,12 @@
     <contour>
       <point x="714" y="0" type="move" name="bot"/>
     </contour>
+    <contour>
+      <point x="641.0" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="641.0" y="1152" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -43,9 +49,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -354,13 +362,15 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>R</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1258.51</real>
+          <integer>1282</integer>
         </dict>
       </dict>
     </dict>
