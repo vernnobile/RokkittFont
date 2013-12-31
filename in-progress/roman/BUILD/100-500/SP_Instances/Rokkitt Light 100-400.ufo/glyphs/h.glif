@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="1">
-  <advance width="1056"/>
+  <advance width="1078"/>
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="633" y="1005" type="move" name="top"/>
+      <point x="670" y="911" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="282" y="937" type="move" name="mid"/>
+      <point x="539" y="0" type="move" name="bot"/>
     </contour>
-    <component base="lc_xheight_curved_stem" xOffset="-27"/>
-    <component base="lc_ascender_stem" xOffset="-14"/>
+    <contour>
+      <point x="303" y="924" type="move" name="mid"/>
+    </contour>
+    <component base="lc_xheight_curved_stem" xOffset="3"/>
+    <component base="lc_ascender_stem" xOffset="-6"/>
   </outline>
   <lib>
     <dict>

@@ -1,38 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="534"/>
+  <advance width="569"/>
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="306" y="0" type="move" name="ogonek"/>
+      <point x="328" y="0" type="move" name="ogonek"/>
     </contour>
-    <contour>
-      <point x="88" y="0" type="line"/>
-      <point x="509" y="0" type="line"/>
-      <point x="509" y="67" type="line"/>
-      <point x="347" y="67" type="line"/>
-      <point x="347" y="641" type="line"/>
-      <point x="347" y="804" type="line"/>
-      <point x="88" y="804" type="line"/>
-      <point x="88" y="739" type="line"/>
-      <point x="260" y="739" type="line"/>
-      <point x="260" y="67" type="line"/>
-      <point x="88" y="67" type="line"/>
-    </contour>
-    <contour>
-      <point x="294" y="1022" type="curve" smooth="yes"/>
-      <point x="339" y="1022"/>
-      <point x="364" y="1054"/>
-      <point x="364" y="1087" type="curve" smooth="yes"/>
-      <point x="364" y="1122"/>
-      <point x="339" y="1152"/>
-      <point x="294" y="1152" type="curve" smooth="yes"/>
-      <point x="248" y="1152"/>
-      <point x="225" y="1122"/>
-      <point x="225" y="1087" type="curve" smooth="yes"/>
-      <point x="225" y="1054"/>
-      <point x="248" y="1022"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="dotaccent" xOffset="107" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

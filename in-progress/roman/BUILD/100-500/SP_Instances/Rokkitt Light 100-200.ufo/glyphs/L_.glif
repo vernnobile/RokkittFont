@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="1032"/>
+  <advance width="1022"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="683" y="1152" type="move" name="top"/>
+      <point x="511" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="620" y="0" type="move" name="bot"/>
+      <point x="407" y="804" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="306" y="0" type="line"/>
-      <point x="983" y="0" type="line"/>
-      <point x="983" y="373" type="line"/>
-      <point x="928" y="373" type="line"/>
-      <point x="928" y="47" type="line"/>
-      <point x="306" y="47" type="line"/>
+      <point x="588" y="0" type="move" name="bot"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-4"/>
+    <contour>
+      <point x="304" y="607" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="299" y="0" type="line"/>
+      <point x="971" y="0" type="line"/>
+      <point x="971" y="393" type="line"/>
+      <point x="890" y="393" type="line"/>
+      <point x="890" y="65" type="line"/>
+      <point x="299" y="65" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="-18"/>
   </outline>
   <lib>
     <dict>

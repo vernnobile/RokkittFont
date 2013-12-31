@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="1">
-  <advance width="1051"/>
+  <advance width="1056"/>
   <unicode hex="0111"/>
   <outline>
-    <component base="macron" xOffset="594" yOffset="-29"/>
+    <component base="macron" xOffset="541" yOffset="-39"/>
     <component base="d"/>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1001</integer>
+          <integer>1008</integer>
         </dict>
       </dict>
     </dict>

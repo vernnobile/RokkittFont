@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="1">
-  <advance width="937"/>
+  <advance width="925"/>
   <unicode hex="00E1"/>
   <outline>
     <component base="a"/>
-    <component base="acute" xOffset="392"/>
+    <component base="acute" xOffset="238"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>910</integer>
+          <integer>929</integer>
         </dict>
       </dict>
     </dict>

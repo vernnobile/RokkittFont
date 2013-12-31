@@ -3,7 +3,6 @@
   <advance width="1053"/>
   <unicode hex="00FE"/>
   <outline>
-    <component base="lc_bowl_right" xOffset="-44" yOffset="21"/>
     <contour>
       <point x="10" y="-360" type="line"/>
       <point x="251" y="-360" type="line"/>
@@ -14,33 +13,29 @@
       <point x="175" y="-300" type="line"/>
       <point x="10" y="-300" type="line"/>
     </contour>
+    <component base="lc_bowl_right" xOffset="-44" yOffset="21"/>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>thorn</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <real>1053.03</real>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>thorn</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1053.03</real>
+        </dict>
       </dict>
     </dict>
   </lib>

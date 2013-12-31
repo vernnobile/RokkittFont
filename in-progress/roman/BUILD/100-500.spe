@@ -1,0 +1,61 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="131028_2106_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="60.0" />
+<data name="previewtext" value="juniper Tonkan" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="100-500/Rokkitt-Build-100.ufo">
+<location>
+</location>
+<!-- color for 100-500/Rokkitt-Build-100.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+<master filename="100-500/Rokkitt-Build-200.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="200" />
+</location>
+<!-- color for 100-500/Rokkitt-Build-200.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+<master filename="100-500/Rokkitt-Build-400.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+<!-- color for 100-500/Rokkitt-Build-400.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Rokkitt Light 100" sequence="" stylename="100">
+<location>
+<dimension name="new_axis_1" xvalue="0" />
+</location>
+</instance>
+<instance familyname="Rokkitt Light 100" sequence="" stylename="200">
+<location>
+<dimension name="new_axis_1" xvalue="300" />
+</location>
+</instance>
+<instance familyname="Rokkitt Light 100" sequence="" stylename="300">
+<location>
+<dimension name="new_axis_1" xvalue="700" />
+</location>
+</instance>
+<instance familyname="Rokkitt Light 100" sequence="" stylename="400">
+<location>
+<dimension name="new_axis_1" xvalue="1000" />
+</location>
+</instance>
+</designspace>

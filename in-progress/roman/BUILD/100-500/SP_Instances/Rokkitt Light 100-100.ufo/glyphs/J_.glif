@@ -4,6 +4,12 @@
   <unicode hex="004A"/>
   <outline>
     <contour>
+      <point x="276" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="346" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="107" y="-40" type="line"/>
       <point x="212" y="-40" type="line" smooth="yes"/>
       <point x="313" y="-39"/>
@@ -21,9 +27,6 @@
       <point x="229" y="-6" type="curve" smooth="yes"/>
       <point x="107" y="-6" type="line"/>
     </contour>
-    <contour>
-      <point x="346" y="1152" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -32,17 +35,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>J</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>551</integer>
         </dict>

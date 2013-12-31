@@ -4,8 +4,7 @@
   <unicode hex="01C6"/>
   <outline>
     <component base="d"/>
-    <component base="z" xOffset="1008"/>
-    <component base="caron" xOffset="1287"/>
+    <component base="zcaron" xOffset="1008"/>
   </outline>
   <lib>
     <dict>
@@ -14,19 +13,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni01C6</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>1842</integer>
+          <integer>1866</integer>
         </dict>
       </dict>
     </dict>

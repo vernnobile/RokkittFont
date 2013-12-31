@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1595"/>
+  <advance width="1583"/>
   <unicode hex="006D"/>
   <outline>
-    <component base="lc_xheight_curved_stem" xOffset="494"/>
-    <component base="lc_xheight_curved_stem" xOffset="-69"/>
-    <component base="lc_xheight_stem" xOffset="-42"/>
+    <contour>
+      <point x="799" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="791" y="0" type="move" name="bot"/>
+    </contour>
+    <component base="lc_xheight_curved_stem" xScale="0.9975" xOffset="-52"/>
+    <component base="lc_xheight_curved_stem" xScale="0.9975" xOffset="491"/>
+    <component base="lc_xheight_stem" xScale="0.9975" xOffset="-42"/>
   </outline>
   <lib>
     <dict>

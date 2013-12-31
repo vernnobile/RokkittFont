@@ -4,6 +4,12 @@
   <unicode hex="0053"/>
   <outline>
     <contour>
+      <point x="547" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="604" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
       <point x="617" y="-22" type="curve" smooth="yes"/>
       <point x="961" y="-22"/>
       <point x="1006" y="197"/>
@@ -42,7 +48,7 @@
       <point x="620" y="14" type="curve" smooth="yes"/>
       <point x="366" y="14"/>
       <point x="201" y="102"/>
-      <point x="201" y="252" type="curve"/>
+      <point x="201" y="252" type="curve" smooth="yes"/>
       <point x="201" y="387" type="line"/>
       <point x="157" y="387" type="line"/>
       <point x="157" y="-1" type="line"/>
@@ -50,12 +56,6 @@
       <point x="201" y="130" type="line"/>
       <point x="277" y="21"/>
       <point x="410" y="-22"/>
-    </contour>
-    <contour>
-      <point x="604" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="560" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -65,9 +65,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -489,11 +491,13 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>S</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1093</integer>
         </dict>

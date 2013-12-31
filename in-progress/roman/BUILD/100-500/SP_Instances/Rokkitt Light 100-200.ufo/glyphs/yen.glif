@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="1">
-  <advance width="1248"/>
+  <advance width="1259"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="262" y="235" type="line"/>
-      <point x="972" y="235" type="line"/>
-      <point x="972" y="279" type="line"/>
-      <point x="262" y="279" type="line"/>
+      <point x="257" y="262" type="line"/>
+      <point x="992" y="262" type="line"/>
+      <point x="992" y="326" type="line"/>
+      <point x="257" y="326" type="line"/>
     </contour>
     <contour>
-      <point x="262" y="385" type="line"/>
-      <point x="972" y="385" type="line"/>
-      <point x="972" y="429" type="line"/>
-      <point x="262" y="429" type="line"/>
+      <point x="257" y="421" type="line"/>
+      <point x="992" y="421" type="line"/>
+      <point x="992" y="485" type="line"/>
+      <point x="257" y="485" type="line"/>
     </contour>
     <component base="Y"/>
   </outline>

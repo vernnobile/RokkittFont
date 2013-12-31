@@ -3,8 +3,8 @@
   <advance width="858"/>
   <unicode hex="017E"/>
   <outline>
+    <component base="caron" xOffset="280"/>
     <component base="z"/>
-    <component base="caron" xOffset="279"/>
   </outline>
   <lib>
     <dict>
@@ -13,19 +13,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>zcaron</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>841</integer>
+          <integer>858</integer>
         </dict>
       </dict>
     </dict>

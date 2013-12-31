@@ -2,7 +2,6 @@
 <glyph name="fj" format="1">
   <advance width="901"/>
   <outline>
-    <component base="f"/>
     <contour>
       <point x="530" y="-240" type="line"/>
       <point x="602" y="-240" type="line" smooth="yes"/>
@@ -33,33 +32,29 @@
       <point x="697" y="1073"/>
       <point x="712" y="1056"/>
     </contour>
+    <component base="f"/>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>fj</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>901</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>fj</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>901</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

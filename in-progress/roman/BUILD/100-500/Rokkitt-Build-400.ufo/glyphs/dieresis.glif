@@ -4,9 +4,6 @@
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="286" y="804" type="move" name="_top"/>
-    </contour>
-    <contour>
       <point x="134" y="948" type="curve" smooth="yes"/>
       <point x="191" y="948"/>
       <point x="226" y="990"/>
@@ -34,33 +31,31 @@
       <point x="346" y="990"/>
       <point x="389" y="950"/>
     </contour>
+    <contour>
+      <point x="286" y="804" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>dieresis</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>572</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>dieresis</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>572</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

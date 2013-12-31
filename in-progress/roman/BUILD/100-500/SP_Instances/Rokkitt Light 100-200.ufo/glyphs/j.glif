@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="419"/>
+  <advance width="458"/>
   <unicode hex="006A"/>
   <outline>
-    <contour>
-      <point x="29" y="-250" type="line"/>
-      <point x="104" y="-250" type="line" smooth="yes"/>
-      <point x="305" y="-250"/>
-      <point x="294" y="-119"/>
-      <point x="294" y="-26" type="curve" smooth="yes"/>
-      <point x="294" y="805" type="line"/>
-      <point x="68" y="805" type="line"/>
-      <point x="68" y="759" type="line"/>
-      <point x="233" y="759" type="line"/>
-      <point x="233" y="-34" type="line" smooth="yes"/>
-      <point x="233" y="-146"/>
-      <point x="235" y="-203"/>
-      <point x="98" y="-203" type="curve" smooth="yes"/>
-      <point x="29" y="-203" type="line"/>
-    </contour>
-    <contour>
-      <point x="251" y="1042" type="curve" smooth="yes"/>
-      <point x="286" y="1042"/>
-      <point x="306" y="1067"/>
-      <point x="306" y="1096" type="curve" smooth="yes"/>
-      <point x="306" y="1125"/>
-      <point x="286" y="1149"/>
-      <point x="251" y="1149" type="curve" smooth="yes"/>
-      <point x="216" y="1149"/>
-      <point x="198" y="1125"/>
-      <point x="198" y="1096" type="curve" smooth="yes"/>
-      <point x="198" y="1067"/>
-      <point x="216" y="1042"/>
-    </contour>
+    <component base="dotlessj"/>
+    <component base="dotaccent" xOffset="192" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

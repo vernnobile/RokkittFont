@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="1017"/>
+  <advance width="1024"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="482" y="0" type="line"/>
-      <point x="554" y="0" type="line"/>
-      <point x="872" y="758" type="line"/>
-      <point x="1014" y="758" type="line"/>
-      <point x="1014" y="805" type="line"/>
-      <point x="641" y="805" type="line"/>
-      <point x="641" y="758" type="line"/>
-      <point x="803" y="758" type="line"/>
-      <point x="517" y="51" type="line"/>
-      <point x="212" y="758" type="line"/>
-      <point x="381" y="758" type="line"/>
-      <point x="381" y="805" type="line"/>
-      <point x="4" y="805" type="line"/>
-      <point x="4" y="758" type="line"/>
-      <point x="149" y="758" type="line"/>
+      <point x="477" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="873" y="740" type="line"/>
+      <point x="1012" y="740" type="line"/>
+      <point x="1012" y="805" type="line"/>
+      <point x="632" y="805" type="line"/>
+      <point x="632" y="740" type="line"/>
+      <point x="779" y="740" type="line"/>
+      <point x="521" y="80" type="line"/>
+      <point x="241" y="740" type="line"/>
+      <point x="397" y="740" type="line"/>
+      <point x="397" y="805" type="line"/>
+      <point x="12" y="805" type="line"/>
+      <point x="12" y="740" type="line"/>
+      <point x="153" y="740" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>975</integer>
+          <integer>1005</integer>
         </dict>
       </dict>
     </dict>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lc_ascender_stem_1" format="1">
-  <advance width="822"/>
+  <advance width="600"/>
   <outline>
     <contour>
-      <point x="79" y="0" type="line"/>
-      <point x="347" y="0" type="line"/>
-      <point x="347" y="1174" type="line"/>
-      <point x="83" y="1174" type="line"/>
-      <point x="83" y="1081" type="line"/>
-      <point x="228" y="1081" type="line"/>
-      <point x="228" y="93" type="line"/>
-      <point x="79" y="93" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="374" y="1174" type="line"/>
+      <point x="76" y="1174" type="line"/>
+      <point x="76" y="1058" type="line"/>
+      <point x="226" y="1058" type="line"/>
+      <point x="226" y="116" type="line"/>
+      <point x="74" y="116" type="line"/>
     </contour>
   </outline>
   <lib>

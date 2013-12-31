@@ -4,19 +4,19 @@
   <unicode hex="0048"/>
   <outline>
     <contour>
+      <point x="705" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="703" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
       <point x="277" y="564" type="line"/>
       <point x="1131" y="564" type="line"/>
       <point x="1132" y="598" type="line"/>
       <point x="278" y="598" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="816"/>
     <component base="uc_main_stem" xOffset="-33"/>
-    <contour>
-      <point x="703" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="701" y="1152" type="move" name="top"/>
-    </contour>
+    <component base="uc_main_stem" xOffset="816"/>
   </outline>
   <lib>
     <dict>
@@ -25,17 +25,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>H</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1409</integer>
         </dict>

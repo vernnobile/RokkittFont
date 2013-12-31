@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="643"/>
+  <advance width="657"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="325" y="1153" type="move" name="top"/>
+      <point x="329" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="331" y="0" type="move" name="ogonek"/>
+      <point x="343" y="0" type="move" name="ogonek"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-3"/>
+    <contour>
+      <point x="329" y="0" type="move" name="bot"/>
+    </contour>
+    <component base="uc_main_stem"/>
   </outline>
   <lib>
     <dict>

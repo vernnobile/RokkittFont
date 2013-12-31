@@ -3,13 +3,6 @@
   <advance width="1198"/>
   <unicode hex="004B"/>
   <outline>
-    <component base="uc_main_stem" xOffset="-21"/>
-    <contour>
-      <point x="599" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="642" y="0" type="move" name="bot"/>
-    </contour>
     <contour>
       <point x="775" y="0" type="line"/>
       <point x="1180" y="0" type="line"/>
@@ -26,48 +19,50 @@
       <point x="931" y="56" type="line"/>
       <point x="775" y="56" type="line"/>
     </contour>
+    <component base="uc_main_stem" xOffset="-21"/>
+    <contour>
+      <point x="599" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="642" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.guides</key>
+      <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
-    <key>y</key>
-      <integer>593</integer>
-    <key>x</key>
-      <integer>467</integer>
-    <key>magnetic</key>
-      <integer>5</integer>
-    <key>angle</key>
-      <integer>0</integer>
-    <key>isGlobal</key>
-      <integer>0</integer>
-      </dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>467</integer>
+          <key>y</key>
+          <integer>593</integer>
+        </dict>
       </array>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>K</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1198</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1198</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

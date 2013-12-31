@@ -11,7 +11,7 @@
       <point x="698" y="1123" type="line"/>
       <point x="860" y="1123" type="line"/>
       <point x="860" y="1152" type="line"/>
-      <point x="406" y="1152" type="line"/>
+      <point x="406" y="1152" type="line" smooth="yes"/>
       <point x="207" y="1152"/>
       <point x="115" y="1023"/>
       <point x="115" y="930" type="curve" smooth="yes"/>
@@ -36,17 +36,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>paragraph</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>953</integer>
         </dict>

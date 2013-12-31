@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d" format="1">
-  <advance width="1055"/>
+  <advance width="1059"/>
   <unicode hex="0064"/>
   <outline>
     <contour>
-      <point x="807" y="942" type="move" name="mid"/>
+      <point x="383" y="804" type="move" name="top"/>
     </contour>
-    <component base="lc_ascender_stem_2" xOffset="519"/>
-    <component base="lc_bowl_left" xOffset="-62"/>
+    <contour>
+      <point x="681" y="804" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="804" y="931" type="move" name="mid"/>
+    </contour>
+    <component base="lc_ascender_stem_2" xOffset="503"/>
+    <component base="lc_bowl_left" xOffset="-56"/>
   </outline>
   <lib>
     <dict>
@@ -33,7 +39,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1001</integer>
+          <real>1008.03</real>
         </dict>
       </dict>
     </dict>

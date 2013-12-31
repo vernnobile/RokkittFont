@@ -3,8 +3,8 @@
   <advance width="875"/>
   <unicode hex="015F"/>
   <outline>
+    <component base="cedilla" xOffset="154"/>
     <component base="s"/>
-    <component base="cedilla" xOffset="177"/>
   </outline>
   <lib>
     <dict>
@@ -13,17 +13,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>scedilla</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>875</integer>
         </dict>

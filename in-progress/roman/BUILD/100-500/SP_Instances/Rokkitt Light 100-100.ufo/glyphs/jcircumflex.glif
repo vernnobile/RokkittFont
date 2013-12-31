@@ -3,8 +3,8 @@
   <advance width="398"/>
   <unicode hex="0135"/>
   <outline>
-    <component base="uni0237"/>
-    <component base="circumflex" xOffset="50" yOffset="1"/>
+    <component base="circumflex" xOffset="72"/>
+    <component base="dotlessj"/>
   </outline>
   <lib>
     <dict>
@@ -13,17 +13,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>jcircumflex</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>398</integer>
         </dict>

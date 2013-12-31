@@ -3,8 +3,8 @@
   <advance width="937"/>
   <unicode hex="0205"/>
   <outline>
+    <component base="dblgravecmb" xOffset="94"/>
     <component base="e"/>
-    <component base="uni030F" xOffset="94"/>
   </outline>
   <lib>
     <dict>
@@ -13,19 +13,24 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni0205</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <integer>924</integer>
+          <integer>937</integer>
         </dict>
       </dict>
     </dict>

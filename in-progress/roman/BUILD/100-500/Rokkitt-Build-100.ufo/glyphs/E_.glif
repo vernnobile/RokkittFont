@@ -3,16 +3,6 @@
   <advance width="1126"/>
   <unicode hex="0045"/>
   <outline>
-    <component base="uc_main_stem" xOffset="-33"/>
-    <contour>
-      <point x="563" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="563" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="625" y="0" type="move" name="ogonek"/>
-    </contour>
     <contour>
       <point x="733" y="390" type="line"/>
       <point x="772" y="390" type="line"/>
@@ -39,33 +29,38 @@
       <point x="274" y="1118" type="line"/>
       <point x="970" y="1118" type="line"/>
     </contour>
+    <component base="uc_main_stem" xOffset="-33"/>
+    <contour>
+      <point x="563" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="563" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="625" y="0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>E</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1126</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>E</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1126</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

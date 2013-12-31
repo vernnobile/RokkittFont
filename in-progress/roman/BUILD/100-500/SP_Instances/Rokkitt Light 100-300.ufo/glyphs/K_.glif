@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="1204"/>
+  <advance width="1220"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="634" y="1152" type="move" name="top"/>
+      <point x="610" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="644" y="0" type="move" name="bot"/>
+      <point x="649" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="768" y="0" type="line"/>
-      <point x="1184" y="0" type="line"/>
-      <point x="1184" y="66" type="line"/>
-      <point x="1046" y="66" type="line"/>
-      <point x="454" y="592" type="line"/>
-      <point x="995" y="1087" type="line"/>
-      <point x="1152" y="1087" type="line"/>
-      <point x="1152" y="1152" type="line"/>
-      <point x="742" y="1152" type="line"/>
-      <point x="742" y="1087" type="line"/>
-      <point x="882" y="1087" type="line"/>
-      <point x="341" y="592" type="line"/>
-      <point x="922" y="66" type="line"/>
-      <point x="768" y="66" type="line"/>
+      <point x="748" y="0" type="line"/>
+      <point x="1195" y="0" type="line"/>
+      <point x="1195" y="94" type="line"/>
+      <point x="1061" y="94" type="line"/>
+      <point x="531" y="591" type="line"/>
+      <point x="1025" y="1059" type="line"/>
+      <point x="1166" y="1059" type="line"/>
+      <point x="1166" y="1153" type="line"/>
+      <point x="739" y="1153" type="line"/>
+      <point x="739" y="1059" type="line"/>
+      <point x="872" y="1059" type="line"/>
+      <point x="374" y="591" type="line"/>
+      <point x="897" y="94" type="line"/>
+      <point x="748" y="94" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-17"/>
+    <component base="uc_main_stem" xOffset="-4"/>
   </outline>
   <lib>
     <dict>

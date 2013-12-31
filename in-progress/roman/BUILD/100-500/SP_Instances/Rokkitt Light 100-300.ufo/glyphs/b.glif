@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1049"/>
+  <advance width="1068"/>
   <unicode hex="0062"/>
   <outline>
-    <component base="lc_ascender_stem_1" xOffset="-24"/>
-    <component base="lc_bowl_right" xOffset="-30"/>
+    <contour>
+      <point x="586" y="804" type="move" name="top"/>
+    </contour>
+    <component base="lc_ascender_stem_1" xOffset="-14"/>
+    <component base="lc_bowl_right" xOffset="-6"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1025</integer>
+          <real>1032.09</real>
         </dict>
       </dict>
     </dict>

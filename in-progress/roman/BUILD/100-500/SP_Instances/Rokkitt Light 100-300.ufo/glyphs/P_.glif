@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="1">
-  <advance width="1136"/>
+  <advance width="1143"/>
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="614" y="1152" type="move" name="top"/>
+      <point x="572" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="436" y="481" type="line"/>
-      <point x="670" y="481" type="line" smooth="yes"/>
-      <point x="899" y="481"/>
-      <point x="1042" y="618"/>
-      <point x="1042" y="835" type="curve" smooth="yes"/>
-      <point x="1042" y="1030"/>
-      <point x="908" y="1152"/>
-      <point x="693" y="1152" type="curve" smooth="yes"/>
-      <point x="303" y="1152" type="line"/>
-      <point x="303" y="1084" type="line"/>
-      <point x="694" y="1084" type="line" smooth="yes"/>
-      <point x="853" y="1084"/>
-      <point x="953" y="987"/>
-      <point x="953" y="833" type="curve" smooth="yes"/>
-      <point x="953" y="659"/>
-      <point x="845" y="551"/>
-      <point x="675" y="551" type="curve" smooth="yes"/>
-      <point x="436" y="551" type="line"/>
+      <point x="572" y="0" type="move" name="bot"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-17"/>
+    <contour>
+      <point x="466" y="476" type="line"/>
+      <point x="630" y="476" type="line" smooth="yes"/>
+      <point x="892" y="476"/>
+      <point x="1056" y="611"/>
+      <point x="1056" y="825" type="curve" smooth="yes"/>
+      <point x="1056" y="1025"/>
+      <point x="912" y="1152"/>
+      <point x="683" y="1152" type="curve" smooth="yes"/>
+      <point x="324" y="1152" type="line"/>
+      <point x="324" y="1057" type="line"/>
+      <point x="685" y="1057" type="line" smooth="yes"/>
+      <point x="833" y="1057"/>
+      <point x="926" y="968"/>
+      <point x="926" y="825" type="curve" smooth="yes"/>
+      <point x="924" y="665"/>
+      <point x="818" y="572"/>
+      <point x="649" y="572" type="curve" smooth="yes"/>
+      <point x="466" y="572" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="-4"/>
   </outline>
   <lib>
     <dict>

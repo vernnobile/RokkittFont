@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C6" format="1">
-  <advance width="1960"/>
+  <advance width="1947"/>
   <unicode hex="01C6"/>
   <outline>
-    <component base="caron" xOffset="1289"/>
-    <component base="z" xOffset="1051"/>
     <component base="d"/>
+    <component base="zcaron" xOffset="1056"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1842</integer>
+          <integer>1866</integer>
         </dict>
       </dict>
     </dict>

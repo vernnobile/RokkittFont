@@ -1,35 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="1367"/>
+  <advance width="1358"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="623" y="1152" type="move" name="top"/>
+      <point x="679" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="307" y="592" type="move" name="mid"/>
+      <point x="679" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="298" y="0" type="line"/>
-      <point x="735" y="0" type="line" smooth="yes"/>
-      <point x="1085" y="0"/>
-      <point x="1259" y="272"/>
-      <point x="1259" y="578" type="curve" smooth="yes"/>
-      <point x="1259" y="879"/>
-      <point x="1080" y="1152"/>
-      <point x="737" y="1152" type="curve" smooth="yes"/>
-      <point x="298" y="1152" type="line"/>
-      <point x="298" y="1084" type="line"/>
-      <point x="737" y="1084" type="line" smooth="yes"/>
-      <point x="1025" y="1084"/>
-      <point x="1167" y="840"/>
-      <point x="1167" y="577" type="curve" smooth="yes"/>
-      <point x="1167" y="315"/>
-      <point x="1026" y="67"/>
-      <point x="739" y="67" type="curve" smooth="yes"/>
-      <point x="298" y="67" type="line"/>
+      <point x="338" y="591" type="move" name="mid"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-17"/>
+    <contour>
+      <point x="314" y="0" type="line"/>
+      <point x="694" y="0" type="line" smooth="yes"/>
+      <point x="1072" y="0"/>
+      <point x="1260" y="232"/>
+      <point x="1260" y="588" type="curve" smooth="yes"/>
+      <point x="1260" y="926"/>
+      <point x="1057" y="1153"/>
+      <point x="703" y="1153" type="curve" smooth="yes"/>
+      <point x="314" y="1153" type="line"/>
+      <point x="314" y="1057" type="line"/>
+      <point x="700" y="1057" type="line" smooth="yes"/>
+      <point x="988" y="1057"/>
+      <point x="1128" y="854"/>
+      <point x="1128" y="579" type="curve" smooth="yes"/>
+      <point x="1128" y="311"/>
+      <point x="991" y="94"/>
+      <point x="710" y="94" type="curve" smooth="yes"/>
+      <point x="314" y="94" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="-4"/>
   </outline>
   <lib>
     <dict>

@@ -10,14 +10,11 @@
 	<integer>-410</integer>
 	<key>familyName</key>
 	<string>Rokkitt Light 100</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>3</integer>
-	<key>openTypeHheaCaretOffset</key>
-	<integer>0</integer>
-	<key>openTypeHheaCaretSlopeRise</key>
-	<integer>1</integer>
-	<key>openTypeHheaCaretSlopeRun</key>
-	<integer>0</integer>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -66,12 +63,8 @@
 		<integer>1152</integer>
 		<integer>1174</integer>
 	</array>
-	<key>postscriptDefaultWidthX</key>
-	<integer>395</integer>
 	<key>postscriptFullName</key>
 	<string>Rokkitt Light 100 200</string>
-	<key>postscriptNominalWidthX</key>
-	<integer>1052</integer>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>

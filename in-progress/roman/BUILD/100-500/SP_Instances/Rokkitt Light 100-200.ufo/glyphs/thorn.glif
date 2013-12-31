@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="1060"/>
+  <advance width="1048"/>
   <unicode hex="00FE"/>
   <outline>
     <contour>
-      <point x="7" y="-371" type="line"/>
-      <point x="239" y="-371" type="line"/>
-      <point x="242" y="1152" type="line"/>
+      <point x="12" y="-353" type="line"/>
+      <point x="259" y="-353" type="line"/>
+      <point x="262" y="1152" type="line"/>
       <point x="26" y="1152" type="line"/>
-      <point x="26" y="1102" type="line"/>
-      <point x="176" y="1102" type="line"/>
-      <point x="176" y="-322" type="line"/>
-      <point x="7" y="-322" type="line"/>
+      <point x="26" y="1085" type="line"/>
+      <point x="174" y="1085" type="line"/>
+      <point x="174" y="-285" type="line"/>
+      <point x="12" y="-285" type="line"/>
     </contour>
-    <component base="lc_bowl_right" xOffset="-41" yOffset="21"/>
+    <component base="lc_bowl_right" xOffset="-46" yOffset="21"/>
   </outline>
   <lib>
     <dict>

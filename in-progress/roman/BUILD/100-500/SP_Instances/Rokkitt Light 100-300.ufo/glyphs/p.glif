@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="1">
-  <advance width="1052"/>
+  <advance width="1061"/>
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="587" y="805" type="move" name="top"/>
+      <point x="600" y="805" type="move" name="top"/>
     </contour>
-    <component base="lc_bowl_right" xOffset="-28"/>
-    <component base="lc_descender_stem" xOffset="-18"/>
+    <contour>
+      <point x="530" y="0" type="move" name="bot"/>
+    </contour>
+    <component base="lc_bowl_right" xOffset="-17"/>
+    <component base="lc_descender_stem" xOffset="-9"/>
   </outline>
   <lib>
     <dict>
@@ -33,7 +36,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1022</integer>
+          <real>1029.09</real>
         </dict>
       </dict>
     </dict>

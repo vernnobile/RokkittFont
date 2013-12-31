@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="1">
-  <advance width="1010"/>
+  <advance width="1139"/>
   <unicode hex="2026"/>
   <outline>
     <contour>
-      <point x="152" y="0" type="line"/>
-      <point x="286" y="0" type="line"/>
-      <point x="286" y="135" type="line"/>
-      <point x="152" y="135" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="301" y="177" type="line"/>
+      <point x="116" y="177" type="line"/>
     </contour>
     <contour>
-      <point x="437" y="0" type="line"/>
-      <point x="572" y="0" type="line"/>
-      <point x="572" y="135" type="line"/>
-      <point x="437" y="135" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="658" y="0" type="line"/>
+      <point x="658" y="177" type="line"/>
+      <point x="472" y="177" type="line"/>
     </contour>
     <contour>
-      <point x="722" y="0" type="line"/>
-      <point x="856" y="0" type="line"/>
-      <point x="856" y="135" type="line"/>
-      <point x="722" y="135" type="line"/>
+      <point x="829" y="0" type="line"/>
+      <point x="1014" y="0" type="line"/>
+      <point x="1014" y="177" type="line"/>
+      <point x="829" y="177" type="line"/>
     </contour>
   </outline>
   <lib>

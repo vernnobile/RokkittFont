@@ -3,9 +3,9 @@
   <advance width="1532"/>
   <unicode hex="006D"/>
   <outline>
-    <component base="lc_xheight_curved_stem" xScale="0.98" xOffset="-9"/>
-    <component base="lc_xheight_curved_stem" xScale="0.98" xOffset="473"/>
-    <component base="lc_xheight_stem" xScale="0.98" xOffset="-47"/>
+    <component base="lc_xheight_curved_stem" xOffset="-9" xScale="0.98"/>
+    <component base="lc_xheight_curved_stem" xOffset="473" xScale="0.98"/>
+    <component base="lc_xheight_stem" xOffset="-47" xScale="0.98"/>
     <contour>
       <point x="766.07" y="0" type="move" name="bot"/>
     </contour>
@@ -15,30 +15,25 @@
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>m</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <real>1532.14</real>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1532.1400000000001</real>
+        </dict>
       </dict>
     </dict>
   </lib>

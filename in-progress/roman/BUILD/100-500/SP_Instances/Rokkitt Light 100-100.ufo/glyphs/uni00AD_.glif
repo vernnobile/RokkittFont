@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni00AD" format="1">
-  <advance width="-130"/>
+  <advance width="715"/>
   <unicode hex="00AD"/>
   <outline>
+    <contour>
+      <point x="344" y="557" type="move" name="_mid"/>
+    </contour>
+    <contour>
+      <point x="96" y="542" type="line"/>
+      <point x="619" y="542" type="line"/>
+      <point x="619" y="576" type="line"/>
+      <point x="96" y="576" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -11,17 +20,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni00AD</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>-130</integer>
         </dict>

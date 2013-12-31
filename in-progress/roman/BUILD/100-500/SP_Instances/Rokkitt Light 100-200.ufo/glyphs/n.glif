@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="1049"/>
+  <advance width="1060"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="586" y="805" type="move" name="top"/>
+      <point x="611" y="805" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="566" y="0" type="move" name="bot"/>
+      <point x="574" y="0" type="move" name="bot"/>
     </contour>
-    <component base="lc_xheight_curved_stem" xOffset="-52"/>
+    <component base="lc_xheight_curved_stem" xOffset="-35"/>
     <component base="lc_xheight_stem" xOffset="-42"/>
   </outline>
   <lib>

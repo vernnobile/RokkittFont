@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="1">
-  <advance width="960"/>
+  <advance width="956"/>
   <unicode hex="0119"/>
   <outline>
-    <component base="ogonek" xOffset="314"/>
+    <component base="ogonek" xOffset="311"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>924</integer>
+          <integer>937</integer>
         </dict>
       </dict>
     </dict>

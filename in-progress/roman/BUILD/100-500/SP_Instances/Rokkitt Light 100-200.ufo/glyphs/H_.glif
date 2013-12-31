@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1406"/>
+  <advance width="1405"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="700" y="1152" type="move" name="top"/>
+      <point x="702" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="703" y="0" type="move" name="bot"/>
+      <point x="705" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="289" y="561" type="line"/>
-      <point x="1119" y="561" type="line"/>
-      <point x="1120" y="609" type="line"/>
-      <point x="289" y="609" type="line"/>
+      <point x="305" y="556" type="line"/>
+      <point x="1106" y="556" type="line"/>
+      <point x="1106" y="624" type="line"/>
+      <point x="305" y="624" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="801"/>
-    <component base="uc_main_stem" xOffset="-27"/>
+    <component base="uc_main_stem" xOffset="-18"/>
+    <component base="uc_main_stem" xOffset="784"/>
   </outline>
   <lib>
     <dict>

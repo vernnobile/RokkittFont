@@ -3,7 +3,7 @@
   <advance width="951"/>
   <unicode hex="010D"/>
   <outline>
-    <component base="caron" xOffset="224"/>
+    <component base="caron" xOffset="197" yOffset="1"/>
     <component base="c"/>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>872</integer>
+          <integer>900</integer>
         </dict>
       </dict>
     </dict>

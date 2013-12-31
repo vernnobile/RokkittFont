@@ -3,19 +3,6 @@
   <advance width="1084"/>
   <unicode hex="004C"/>
   <outline>
-    <component base="uc_main_stem" xOffset="7"/>
-    <contour>
-      <point x="562" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="349" y="712" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="542" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="381" y="804" type="move" name="caron.alt"/>
-    </contour>
     <contour>
       <point x="341" y="0" type="line"/>
       <point x="1002" y="0" type="line"/>
@@ -24,33 +11,41 @@
       <point x="857" y="116" type="line"/>
       <point x="341" y="116" type="line"/>
     </contour>
+    <component base="uc_main_stem" xOffset="7"/>
+    <contour>
+      <point x="381" y="804" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="349" y="712" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="542" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="562" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>L</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1084</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1084</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

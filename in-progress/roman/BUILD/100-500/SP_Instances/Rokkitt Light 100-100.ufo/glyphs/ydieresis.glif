@@ -3,8 +3,8 @@
   <advance width="941"/>
   <unicode hex="00FF"/>
   <outline>
+    <component base="dieresis" xOffset="326"/>
     <component base="y"/>
-    <component base="dieresis" xOffset="316"/>
   </outline>
   <lib>
     <dict>
@@ -13,17 +13,22 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>ydieresis</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>941</integer>
         </dict>
