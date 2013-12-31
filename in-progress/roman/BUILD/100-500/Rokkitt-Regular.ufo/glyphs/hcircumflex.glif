@@ -4,7 +4,7 @@
   <unicode hex="0125"/>
   <outline>
     <component base="h"/>
-    <component base="circumflex" xOffset="383" yOffset="201"/>
+    <component base="circumflex" xOffset="374" yOffset="107"/>
     <contour>
       <point x="674" y="1115" type="move" name="top"/>
     </contour>
@@ -16,22 +16,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>hcircumflex</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1078</integer>
         </dict>

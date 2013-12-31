@@ -26,13 +26,16 @@
       <point x="227" y="0"/>
     </contour>
     <contour>
-      <point x="388" y="10" type="move" name="bot"/>
+      <point x="141" y="1063" type="move" name="caron.alt"/>
     </contour>
     <contour>
       <point x="300" y="503" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="317.0" y="804" type="move" name="top"/>
+      <point x="247" y="1014" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="388" y="10" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -42,22 +45,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>t</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>634</integer>
         </dict>

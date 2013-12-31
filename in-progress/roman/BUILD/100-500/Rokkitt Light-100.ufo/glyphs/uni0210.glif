@@ -4,7 +4,7 @@
   <unicode hex="0210"/>
   <outline>
     <component base="R"/>
-    <component base="uni030F" xOffset="224" yOffset="348"/>
+    <component base="dblgravecmb" xOffset="205" yOffset="348"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni0210</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1180</integer>
         </dict>

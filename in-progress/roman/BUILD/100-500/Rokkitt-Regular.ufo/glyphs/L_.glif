@@ -13,16 +13,16 @@
     </contour>
     <component base="uc_main_stem" xOffset="7"/>
     <contour>
+      <point x="381" y="804" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="542" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="349" y="712" type="move" name="mid"/>
+    </contour>
+    <contour>
       <point x="562" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="647" y="1153" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="542.0" y="804" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="542.0" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -32,22 +32,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>L</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1084</integer>
         </dict>

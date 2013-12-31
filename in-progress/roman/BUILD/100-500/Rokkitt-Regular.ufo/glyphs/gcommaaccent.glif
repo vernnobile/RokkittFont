@@ -4,7 +4,7 @@
   <unicode hex="0123"/>
   <outline>
     <component base="g"/>
-    <component base="comma" xScale="-1" yScale="-1" xOffset="711" yOffset="1128"/>
+    <component base="commaturnedabovecomb" xOffset="214" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>gcedilla</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1050</integer>
         </dict>

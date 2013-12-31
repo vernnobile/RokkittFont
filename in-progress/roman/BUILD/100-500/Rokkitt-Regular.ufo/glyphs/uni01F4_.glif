@@ -4,7 +4,7 @@
   <unicode hex="01F4"/>
   <outline>
     <component base="G"/>
-    <component base="acute" xOffset="451" yOffset="348"/>
+    <component base="acute" xOffset="397" yOffset="348"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni01F4</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1355</integer>
         </dict>

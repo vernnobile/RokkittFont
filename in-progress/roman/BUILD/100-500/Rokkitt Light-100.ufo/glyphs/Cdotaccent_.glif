@@ -4,7 +4,7 @@
   <unicode hex="010A"/>
   <outline>
     <component base="C"/>
-    <component base="dotaccent" xOffset="445" yOffset="348"/>
+    <component base="dotaccent" xOffset="422" yOffset="348"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Cdotaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1345</integer>
         </dict>

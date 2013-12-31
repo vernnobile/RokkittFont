@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="758.011"/>
+  <advance width="570"/>
   <unicode hex="013E"/>
   <outline>
-    <component base="comma" xOffset="467" yOffset="962"/>
     <component base="l"/>
+    <component base="caron.alt" xOffset="-80"/>
   </outline>
   <lib>
     <dict>
@@ -13,24 +13,19 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>lcaron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <real>758.011</real>
+          <real>758.01099999999997</real>
         </dict>
       </dict>
     </dict>

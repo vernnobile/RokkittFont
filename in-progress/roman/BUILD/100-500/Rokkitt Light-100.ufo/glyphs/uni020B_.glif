@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni020B" format="1">
-  <advance width="496"/>
+  <advance width="513"/>
   <unicode hex="020B"/>
   <outline>
-    <component base="uni0311" xOffset="-258"/>
-    <component base="dotlessi"/>
+    <component base="i"/>
+    <component base="breveinvertedcomb" xOffset="-196"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni020B</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>496</integer>
         </dict>

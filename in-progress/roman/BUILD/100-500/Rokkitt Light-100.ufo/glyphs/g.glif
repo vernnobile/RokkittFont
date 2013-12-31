@@ -23,12 +23,12 @@
       <point x="298" y="-355"/>
       <point x="394" y="-374"/>
     </contour>
-    <component base="lc_bowl_left" yScale="0.98" xOffset="-74" yOffset="15"/>
+    <component base="lc_bowl_left" xOffset="-74" yOffset="15" yScale="0.98"/>
     <contour>
       <point x="496" y="805" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="501.0" y="0" type="move" name="bot"/>
+      <point x="501" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -38,11 +38,9 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
           <array>
             <dict>
@@ -242,13 +240,11 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>g</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1002</integer>
         </dict>

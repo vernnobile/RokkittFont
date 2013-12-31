@@ -4,7 +4,7 @@
   <unicode hex="014D"/>
   <outline>
     <component base="o"/>
-    <component base="macron" xOffset="290"/>
+    <component base="macron" xOffset="292" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>omacron</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>986</integer>
         </dict>

@@ -16,13 +16,10 @@
       <point x="86" y="-446" type="curve"/>
     </contour>
     <contour>
-      <point x="198" y="0" type="move" name="_bot"/>
+      <point x="196.506" y="0" type="move" name="_bot"/>
     </contour>
     <contour>
       <point x="3" y="-169" type="move" name="_caron"/>
-    </contour>
-    <contour>
-      <point x="196.506" y="0" type="move" name="_bot"/>
     </contour>
   </outline>
   <lib>
@@ -32,22 +29,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>commaaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <real>393.012</real>
         </dict>

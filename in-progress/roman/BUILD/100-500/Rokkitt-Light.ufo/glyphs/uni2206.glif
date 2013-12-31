@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2206" format="1">
-  <advance width="759"/>
+  <advance width="1268"/>
   <unicode hex="2206"/>
   <outline>
     <contour>
-      <point x="52" y="0" type="line"/>
-      <point x="718" y="0" type="line"/>
-      <point x="718" y="66" type="line"/>
-      <point x="393" y="1078" type="line"/>
-      <point x="365" y="1078" type="line"/>
-      <point x="52" y="67" type="line"/>
+      <point x="597" y="1152" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="1078" y="0" type="line"/>
+      <point x="708" y="1152" type="line"/>
     </contour>
     <contour>
-      <point x="109" y="61" type="line"/>
-      <point x="370" y="956" type="line"/>
-      <point x="648" y="61" type="line"/>
+      <point x="645" y="1107" type="line"/>
+      <point x="953" y="93" type="line"/>
+      <point x="294" y="93" type="line"/>
+      <point x="639" y="1107" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,22 +23,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>uni2206</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>759</integer>
         </dict>

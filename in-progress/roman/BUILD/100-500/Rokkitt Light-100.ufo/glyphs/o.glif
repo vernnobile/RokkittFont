@@ -35,10 +35,10 @@
       <point x="495" y="805" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="500.0" y="0" type="move" name="bot"/>
+      <point x="500" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="0" y="0" type="move" name="ogonek"/>
+      <point x="534" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -48,22 +48,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>o</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1000</integer>
         </dict>

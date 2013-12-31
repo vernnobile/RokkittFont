@@ -3,7 +3,7 @@
   <advance width="466"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="exclam" yScale="-1" yOffset="913"/>
+    <component base="exclam" yOffset="913" yScale="-1"/>
   </outline>
   <lib>
     <dict>
@@ -12,22 +12,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>exclamdown</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>466</integer>
         </dict>

@@ -5,13 +5,16 @@
   <outline>
     <component base="lc_ascender_stem" xOffset="2"/>
     <contour>
-      <point x="303" y="0" type="move" name="bot"/>
+      <point x="220" y="804" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="569" y="598" type="move" name="mid"/>
+      <point x="309" y="598" type="move" name="mid"/>
     </contour>
     <contour>
       <point x="301" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="303" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -21,22 +24,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>l</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>570</integer>
         </dict>

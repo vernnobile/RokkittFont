@@ -4,7 +4,7 @@
   <unicode hex="00E7"/>
   <outline>
     <component base="c"/>
-    <component base="cedilla" xOffset="264"/>
+    <component base="cedilla" xOffset="265"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>ccedilla</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>951</integer>
         </dict>

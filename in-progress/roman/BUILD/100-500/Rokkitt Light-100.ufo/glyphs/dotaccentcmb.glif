@@ -2,5 +2,6 @@
 <glyph name="dotaccentcmb" format="1">
   <advance width="600"/>
   <outline>
+    <component base="dotaccent"/>
   </outline>
 </glyph>

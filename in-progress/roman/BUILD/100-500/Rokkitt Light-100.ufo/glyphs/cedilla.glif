@@ -34,10 +34,7 @@
       <point x="243" y="-306"/>
     </contour>
     <contour>
-      <point x="277" y="0" type="move" name="_bot"/>
-    </contour>
-    <contour>
-      <point x="300.0" y="0" type="move" name="_bot"/>
+      <point x="300" y="0" type="move" name="_bot"/>
     </contour>
   </outline>
   <lib>
@@ -47,22 +44,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>cedilla</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>600</integer>
         </dict>

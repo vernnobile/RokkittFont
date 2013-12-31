@@ -8,13 +8,10 @@
       <point x="283" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="287" y="1152" type="move" name="top"/>
+      <point x="284" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="284.0" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="284.0" y="1152" type="move" name="top"/>
+      <point x="284" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -24,22 +21,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>I</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>568</integer>
         </dict>

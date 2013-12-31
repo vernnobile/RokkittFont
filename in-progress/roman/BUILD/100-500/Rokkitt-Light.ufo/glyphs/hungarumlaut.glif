@@ -16,10 +16,7 @@
       <point x="288" y="1152" type="line"/>
     </contour>
     <contour>
-      <point x="144" y="805" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="211.0" y="804" type="move" name="_top"/>
+      <point x="211" y="804" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -29,22 +26,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>hungarumlaut</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>422</integer>
         </dict>

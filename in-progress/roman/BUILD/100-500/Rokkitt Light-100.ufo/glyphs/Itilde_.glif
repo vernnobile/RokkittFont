@@ -4,7 +4,7 @@
   <unicode hex="0128"/>
   <outline>
     <component base="I"/>
-    <component base="tilde" xOffset="67" yOffset="363"/>
+    <component base="tilde" xOffset="70" yOffset="348"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>Itilde</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>568</integer>
         </dict>
