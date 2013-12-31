@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="418"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="189" y="-87" type="line"/>
+      <point x="236" y="-87" type="line"/>
+      <point x="236" y="483" type="line"/>
+      <point x="189" y="483" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="664" type="line"/>
+      <point x="236" y="664" type="line"/>
+      <point x="236" y="1235" type="line"/>
+      <point x="189" y="1235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>brokenbar</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>418</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

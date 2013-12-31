@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emptyset" format="1">
+  <advance width="1426"/>
+  <unicode hex="2205"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="133" y="32" type="line"/>
+      <point x="1330" y="1089" type="line"/>
+      <point x="1321" y="1101" type="line"/>
+      <point x="122" y="47" type="line"/>
+    </contour>
+  </outline>
+</glyph>
