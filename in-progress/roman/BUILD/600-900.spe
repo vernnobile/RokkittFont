@@ -11,30 +11,23 @@
 <data name="previewTypeSize" value="60.0" />
 <data name="previewtext" value="Honduran Blowfish Glondikein Racecourse" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68561525328" />
+<data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
 <!-- master definitions -->
-<master filename="BUILD/600-900/Rokkitt-Regular.ufo">
+<master filename="600-900/Rokkitt-Regular.ufo">
 <location>
 </location>
-<!-- color for BUILD/600-900/Rokkitt-Regular.ufo -->
-<color a="1.000000" b="1.000000" g="1.000000" r="0.500000" />
+<!-- color for 600-900/Rokkitt-Regular.ufo -->
+<color a="1.000000" b="1.000000" g="1.000000" r="0.000000" />
 </master>
-<master filename="BUILD/600-900/Rokkitt-Bold.ufo">
-<location>
-<dimension name="new_axis_1" xvalue="500" />
-</location>
-<!-- color for BUILD/600-900/Rokkitt-Bold.ufo -->
-<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
-</master>
-<master filename="BUILD/600-900/Rokkitt Light-900.ufo">
+<master filename="600-900/Rokkitt Light-900.ufo">
 <location>
 <dimension name="new_axis_1" xvalue="1000" />
 </location>
-<!-- color for BUILD/600-900/Rokkitt Light-900.ufo -->
-<color a="1.000000" b="1.000000" g="0.500000" r="0.500000" />
+<!-- color for 600-900/Rokkitt Light-900.ufo -->
+<color a="1.000000" b="0.500000" g="0.000000" r="0.500000" />
 </master>
 
 <!-- instance definitions -->

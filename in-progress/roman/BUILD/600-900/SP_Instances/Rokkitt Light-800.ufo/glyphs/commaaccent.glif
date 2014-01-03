@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="1">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="220" y="0" type="move" name="_bot"/>
+    </contour>
+    <contour>
+      <point x="70" y="-738" type="line"/>
+      <point x="341" y="-737"/>
+      <point x="409" y="-602"/>
+      <point x="408" y="-350" type="curve"/>
+      <point x="393" y="-86" type="line"/>
+      <point x="78" y="-86" type="line"/>
+      <point x="78" y="-392" type="line"/>
+      <point x="246" y="-392" type="line"/>
+      <point x="246" y="-533"/>
+      <point x="197" y="-581"/>
+      <point x="70" y="-607" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>commaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>393.012</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

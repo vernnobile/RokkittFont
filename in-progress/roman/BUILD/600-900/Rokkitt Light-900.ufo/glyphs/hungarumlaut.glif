@@ -16,9 +16,6 @@
       <point x="576" y="1241" type="line"/>
     </contour>
     <contour>
-      <point x="359" y="804" type="move" name="_top"/>
-    </contour>
-    <contour>
       <point x="463.5" y="804" type="move" name="_top"/>
     </contour>
   </outline>
@@ -29,22 +26,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>hungarumlaut</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>927</integer>
         </dict>

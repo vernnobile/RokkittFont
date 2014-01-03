@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcommaaccent" format="1">
-  <advance width="659"/>
+  <advance width="691"/>
   <outline>
     <component base="t"/>
-    <component base="commaaccent" xOffset="170"/>
+    <component base="commaaccent" xOffset="193"/>
   </outline>
   <lib>
     <dict>
@@ -12,22 +12,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>tcommaaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>659</integer>
         </dict>

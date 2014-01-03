@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="1">
-  <advance width="1062"/>
+  <advance width="1072"/>
   <unicode hex="0070"/>
   <outline>
     <component base="lc_bowl_right" xOffset="-76"/>
@@ -9,7 +9,7 @@
       <point x="630" y="893" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="531.0" y="0" type="move" name="bot"/>
+      <point x="531" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -19,22 +19,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>p</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1062</integer>
         </dict>

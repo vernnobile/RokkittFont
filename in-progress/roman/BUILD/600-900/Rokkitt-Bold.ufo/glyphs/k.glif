@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="1041"/>
+  <advance width="1064"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
       <point x="764" y="0" type="line"/>
-      <point x="1015" y="0" type="line"/>
-      <point x="1015" y="141" type="line"/>
-      <point x="865" y="141" type="line"/>
+      <point x="1019" y="0" type="line"/>
+      <point x="1019" y="141" type="line"/>
+      <point x="863" y="141" type="line"/>
       <point x="595" y="420" type="line"/>
       <point x="901" y="664" type="line"/>
-      <point x="1010" y="664" type="line"/>
-      <point x="1010" y="804" type="line"/>
+      <point x="1014" y="664" type="line"/>
+      <point x="1014" y="804" type="line"/>
       <point x="558" y="804" type="line"/>
       <point x="558" y="664" type="line"/>
       <point x="700" y="664" type="line"/>
@@ -47,22 +47,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>k</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1041</integer>
         </dict>

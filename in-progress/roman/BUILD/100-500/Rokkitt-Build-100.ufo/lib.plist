@@ -6,13 +6,13 @@
 	<dict>
 		<key>1F09728C-766D-4240-AE17-E499EF32E23D</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>98C086B7-81AA-4491-8494-0C6A76849168</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.petr.ptt</key>
 	<dict>
@@ -42,7 +42,7 @@
 		<integer>1</integer>
 		<real>0.75</real>
 		<integer>0</integer>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -63,7 +63,38 @@
 		<real>0.5</real>
 		<integer>0</integer>
 		<real>0.5</real>
-		<real>0.7</real>
+		<real>0.69999999999999996</real>
+	</array>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>234</integer>
+			<key>y</key>
+			<integer>34</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>846</integer>
+			<key>y</key>
+			<integer>768</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -344,14 +375,11 @@
 				<string>uni01C9</string>
 				<string>uni01CC</string>
 				<string>uni01F3</string>
-				<string>uni0237</string>
 				<string>uni01C5</string>
 				<string>uni01c8</string>
 				<string>uni01cb</string>
 				<string>uni01F2</string>
 				<string>uni0307</string>
-				<string>uni030F</string>
-				<string>uni0311</string>
 				<string>zero</string>
 				<string>one</string>
 				<string>two</string>
@@ -498,7 +526,6 @@
 				<string>cedilla</string>
 				<string>dotaccent</string>
 				<string>commaaccent</string>
-				<string>uni0326</string>
 				<string>fj</string>
 				<string>AEacute</string>
 				<string>AEmacron</string>
@@ -579,17 +606,14 @@
 				<string>uniFB04</string>
 				<string>Delta</string>
 				<string>Sigma</string>
-				<string>uni03A9</string>
 				<string>Omega</string>
 				<string>mu</string>
-				<string>uni03BC</string>
 				<string>uni022E</string>
 				<string>uni022F</string>
 				<string>uni000D</string>
 				<string>emptyset</string>
 				<string>caron.alt</string>
 				<string>breveinvertedcomb</string>
-				<string>commaturnedabovecomb</string>
 				<string>dblgravecmb</string>
 				<string>apostrophemod</string>
 				<string>dotaccentcmb</string>
@@ -976,8 +1000,6 @@
 		<string>lozenge</string>
 		<string>CR</string>
 		<string>uni00AD</string>
-		<string>NULL</string>
-		<string>Tcommaaccent</string>
 		<string>foundryicon</string>
 		<string>tcommaaccent</string>
 		<string>fi</string>
@@ -992,7 +1014,6 @@
 		<string>lc_xheight_curved_stem</string>
 		<string>lc_xheight_stem</string>
 		<string>uc_main_stem</string>
-		<string>.notdef</string>
 		<string>lc_ascender_stem_1</string>
 		<string>lc_ascender_stem_2</string>
 		<string>Dcroat</string>
@@ -1098,9 +1119,6 @@
 		<string>wgrave</string>
 		<string>ycircumflex</string>
 		<string>ygrave</string>
-		<string>uniFB00</string>
-		<string>uniFB03</string>
-		<string>uniFB04</string>
 		<string>Delta</string>
 		<string>Sigma</string>
 		<string>Omega</string>
@@ -1119,6 +1137,7 @@
 		<string>uni0002</string>
 		<string>uni0009</string>
 		<string>uni000A</string>
+		<string>commaturnedabovecomb</string>
 	</array>
 </dict>
 </plist>

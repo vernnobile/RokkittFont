@@ -44,10 +44,7 @@
       <point x="923" y="543" type="line"/>
     </contour>
     <contour>
-      <point x="939.0" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="939.0" y="1152" type="move" name="top"/>
+      <point x="939" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -57,22 +54,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>AE</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1878</integer>
         </dict>

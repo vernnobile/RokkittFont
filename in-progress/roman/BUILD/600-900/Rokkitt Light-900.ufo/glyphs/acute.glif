@@ -10,13 +10,7 @@
       <point x="302" y="1197" type="line"/>
     </contour>
     <contour>
-      <point x="272" y="804" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="298.0" y="804" type="move" name="_top"/>
-    </contour>
-    <contour>
-      <point x="298.0" y="804" type="move" name="_top"/>
+      <point x="298" y="804" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -26,22 +20,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>acute</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>596</integer>
         </dict>

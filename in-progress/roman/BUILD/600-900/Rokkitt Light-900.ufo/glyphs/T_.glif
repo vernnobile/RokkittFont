@@ -15,19 +15,13 @@
     </contour>
     <component base="uc_main_stem" xOffset="133"/>
     <contour>
-      <point x="572" y="1152" type="move" name="top"/>
+      <point x="580.5" y="1152" type="move" name="top"/>
     </contour>
     <contour>
       <point x="582" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="580.5" y="804" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="580.5" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="580.5" y="1152" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -37,22 +31,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>T</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1161</integer>
         </dict>

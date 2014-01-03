@@ -12,11 +12,11 @@
       <point x="737" y="204"/>
       <point x="658" y="131"/>
       <point x="501" y="137" type="curve" smooth="yes"/>
-      <point x="358" y="143"/>
-      <point x="256" y="258"/>
+      <point x="351" y="143"/>
+      <point x="256" y="250"/>
       <point x="256" y="414" type="curve" smooth="yes"/>
-      <point x="256" y="559"/>
-      <point x="358" y="665"/>
+      <point x="256" y="566"/>
+      <point x="351" y="665"/>
       <point x="501" y="671" type="curve" smooth="yes"/>
       <point x="632" y="677"/>
       <point x="722" y="613"/>
@@ -28,11 +28,11 @@
       <point x="706" y="778"/>
       <point x="598" y="826"/>
       <point x="494" y="826" type="curve" smooth="yes"/>
-      <point x="234" y="826"/>
-      <point x="50" y="653"/>
+      <point x="221" y="826"/>
+      <point x="50" y="665"/>
       <point x="50" y="409" type="curve" smooth="yes"/>
-      <point x="50" y="158"/>
-      <point x="236" y="-19"/>
+      <point x="50" y="146"/>
+      <point x="223" y="-19"/>
     </contour>
     <contour>
       <point x="513" y="0" type="move" name="bot"/>
@@ -48,11 +48,9 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
           <array>
             <dict>
@@ -268,7 +266,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <real>268.9681295134022</real>
+                  <real>268.96812951340218</real>
                   <key>y</key>
                   <integer>819</integer>
                 </dict>
@@ -320,13 +318,11 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>c</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>961</integer>
         </dict>

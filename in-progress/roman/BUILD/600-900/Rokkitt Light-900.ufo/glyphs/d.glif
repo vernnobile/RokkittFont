@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d" format="1">
-  <advance width="1074"/>
+  <advance width="1096"/>
   <unicode hex="0064"/>
   <outline>
-    <component base="lc_ascender_stem_2" xOffset="378"/>
-    <component base="lc_bowl_left" xOffset="-125"/>
+    <component base="lc_ascender_stem_2" xOffset="389"/>
+    <component base="lc_bowl_left" xOffset="-114"/>
     <contour>
-      <point x="794" y="909" type="move" name="mid"/>
+      <point x="805" y="909" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="537.0" y="804" type="move" name="top"/>
+      <point x="548" y="804" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -19,22 +19,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>d</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1074</integer>
         </dict>

@@ -4,7 +4,7 @@
   <unicode hex="013C"/>
   <outline>
     <component base="l"/>
-    <component base="commaaccent" xOffset="28"/>
+    <component base="commaaccent" xOffset="51"/>
   </outline>
   <lib>
     <dict>
@@ -13,22 +13,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>lcommaaccent</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>572</integer>
         </dict>
