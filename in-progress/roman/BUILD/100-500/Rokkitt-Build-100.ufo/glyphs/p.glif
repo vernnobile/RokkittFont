@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="1">
-  <advance width="1029"/>
+  <advance width="1037"/>
   <unicode hex="0070"/>
   <outline>
-    <component base="lc_bowl_right" xOffset="-66"/>
-    <component base="lc_descender_stem" xOffset="-53"/>
+    <component base="lc_bowl_right" xOffset="-58"/>
+    <component base="lc_descender_stem" xOffset="-45"/>
     <contour>
-      <point x="514.545" y="0" type="move" name="bot"/>
+      <point x="523" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="548" y="805" type="move" name="top"/>
+      <point x="556" y="805" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
