@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="1208"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="357" y="872" type="line"/>
+      <point x="513" y="872" type="line"/>
+      <point x="563" y="1365" type="line"/>
+      <point x="296" y="1365" type="line"/>
+    </contour>
+    <contour>
+      <point x="706" y="872" type="line"/>
+      <point x="858" y="872" type="line"/>
+      <point x="911" y="1365" type="line"/>
+      <point x="639" y="1365" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>quotedbl</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>557</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

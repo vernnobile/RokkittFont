@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="554"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="-179" y="-86" type="line"/>
+      <point x="783" y="1342" type="line"/>
+      <point x="658" y="1479" type="line"/>
+      <point x="-308" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>slash</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>436.64499999999998</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

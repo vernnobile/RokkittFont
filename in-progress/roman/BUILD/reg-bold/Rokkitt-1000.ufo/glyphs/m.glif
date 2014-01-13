@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="1967.680"/>
+  <unicode hex="006D"/>
+  <outline>
+    <component base="lc_xheight_curved_stem" xOffset="373" xScale="1.06"/>
+    <component base="lc_xheight_curved_stem" xOffset="-290" xScale="1.06"/>
+    <component base="lc_xheight_stem" xOffset="-130" xScale="1.06"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>m</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1646</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

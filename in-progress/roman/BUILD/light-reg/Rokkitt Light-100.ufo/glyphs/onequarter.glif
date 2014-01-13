@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="1395"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="1197" y="804" type="line"/>
+      <point x="839" y="286" type="line"/>
+      <point x="852" y="262" type="line"/>
+      <point x="1208" y="262" type="line"/>
+      <point x="1208" y="34" type="line"/>
+      <point x="1088" y="34" type="line"/>
+      <point x="1088" y="0" type="line"/>
+      <point x="1355" y="0" type="line"/>
+      <point x="1355" y="34" type="line"/>
+      <point x="1246" y="34" type="line"/>
+      <point x="1246" y="262" type="line"/>
+      <point x="1353" y="262" type="line"/>
+      <point x="1353" y="296" type="line"/>
+      <point x="1246" y="296" type="line"/>
+      <point x="1246" y="804" type="line"/>
+    </contour>
+    <contour>
+      <point x="1208" y="296" type="line"/>
+      <point x="890" y="296" type="line"/>
+      <point x="1208" y="759" type="line"/>
+    </contour>
+    <contour>
+      <point x="1116" y="1152" type="line"/>
+      <point x="339" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="1155" y="1152" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="1152" type="line"/>
+      <point x="114" y="1118" type="line"/>
+      <point x="234" y="1118" type="line"/>
+      <point x="234" y="400" type="line"/>
+      <point x="113" y="400" type="line"/>
+      <point x="113" y="366" type="line"/>
+      <point x="394" y="366" type="line"/>
+      <point x="394" y="400" type="line"/>
+      <point x="272" y="400" type="line"/>
+      <point x="272" y="1152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>onequarter</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1348</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
