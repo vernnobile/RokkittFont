@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="1122"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="527" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="566" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="751" y="0" type="line"/>
+      <point x="1057" y="0" type="line"/>
+      <point x="1057" y="176" type="line"/>
+      <point x="910" y="176" type="line"/>
+      <point x="694" y="439" type="line"/>
+      <point x="931" y="630" type="line"/>
+      <point x="1044" y="630" type="line"/>
+      <point x="1044" y="804" type="line"/>
+      <point x="575" y="804" type="line"/>
+      <point x="575" y="630" type="line"/>
+      <point x="719" y="630" type="line"/>
+      <point x="415" y="407" type="line"/>
+    </contour>
+    <component base="lc_ascender_stem" xOffset="-128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>474</integer>
+          <key>y</key>
+          <integer>421</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1075</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

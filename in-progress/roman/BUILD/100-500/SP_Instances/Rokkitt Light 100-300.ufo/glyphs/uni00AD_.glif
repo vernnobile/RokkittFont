@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00AD" format="1">
+  <advance width="772"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <contour>
+      <point x="380" y="534" type="move" name="_mid"/>
+    </contour>
+    <contour>
+      <point x="119" y="489" type="line"/>
+      <point x="659" y="489" type="line"/>
+      <point x="659" y="584" type="line"/>
+      <point x="119" y="584" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni00AD</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>715</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

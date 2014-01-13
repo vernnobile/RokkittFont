@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="1">
+<<<<<<< HEAD
+  <advance width="510"/>
+  <unicode hex="012F"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccent"/>
+    <component base="ogonek"/>
+=======
+  <advance width="503"/>
+  <unicode hex="012F"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dotaccent" xOffset="244"/>
+    <component base="ogonek" xOffset="71"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>iogonek</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>432</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

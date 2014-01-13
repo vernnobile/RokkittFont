@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="897"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="374" y="-112" type="line"/>
+      <point x="526" y="-112" type="line"/>
+      <point x="481" y="159" type="line"/>
+      <point x="723" y="121" type="line"/>
+      <point x="723" y="262" type="line"/>
+      <point x="481" y="221" type="line"/>
+      <point x="481" y="887" type="line"/>
+      <point x="723" y="847" type="line"/>
+      <point x="723" y="988" type="line"/>
+      <point x="481" y="950" type="line"/>
+      <point x="526" y="1220" type="line"/>
+      <point x="374" y="1220" type="line"/>
+      <point x="416" y="950" type="line"/>
+      <point x="174" y="988" type="line"/>
+      <point x="174" y="847" type="line"/>
+      <point x="416" y="887" type="line"/>
+      <point x="416" y="221" type="line"/>
+      <point x="174" y="262" type="line"/>
+      <point x="174" y="121" type="line"/>
+      <point x="416" y="159" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>daggerdbl</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>918</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

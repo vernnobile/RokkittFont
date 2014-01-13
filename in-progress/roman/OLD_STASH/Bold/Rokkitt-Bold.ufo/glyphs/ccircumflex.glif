@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccircumflex" format="1">
+  <advance width="1097"/>
+  <unicode hex="0109"/>
+  <outline>
+    <contour>
+      <point x="440" y="968" type="line"/>
+      <point x="541" y="1220" type="line"/>
+      <point x="642" y="968" type="line"/>
+      <point x="822" y="968" type="line"/>
+      <point x="682" y="1297" type="line"/>
+      <point x="399" y="1297" type="line"/>
+      <point x="265" y="968" type="line"/>
+    </contour>
+    <contour>
+      <point x="572" y="-19" type="curve" smooth="yes"/>
+      <point x="756" y="-19"/>
+      <point x="886" y="53"/>
+      <point x="966" y="189" type="curve"/>
+      <point x="833" y="274" type="line"/>
+      <point x="776" y="184"/>
+      <point x="679" y="137"/>
+      <point x="575" y="137" type="curve" smooth="yes"/>
+      <point x="417" y="137"/>
+      <point x="327" y="251"/>
+      <point x="327" y="428" type="curve" smooth="yes"/>
+      <point x="327" y="599"/>
+      <point x="417" y="711"/>
+      <point x="575" y="711" type="curve" smooth="yes"/>
+      <point x="701" y="711"/>
+      <point x="765" y="637"/>
+      <point x="792" y="535" type="curve"/>
+      <point x="949" y="535" type="line"/>
+      <point x="949" y="849" type="line"/>
+      <point x="786" y="849" type="line"/>
+      <point x="787" y="769" type="line"/>
+      <point x="740" y="820"/>
+      <point x="655" y="866"/>
+      <point x="551" y="866" type="curve" smooth="yes"/>
+      <point x="299" y="866"/>
+      <point x="121" y="672"/>
+      <point x="121" y="423" type="curve" smooth="yes"/>
+      <point x="121" y="201"/>
+      <point x="267" y="-19"/>
+    </contour>
+    <contour>
+      <point x="544" y="849" type="move"/>
+    </contour>
+    <contour>
+      <point x="544" y="0" type="move"/>
+    </contour>
+    <contour>
+      <point x="543" y="858" type="move"/>
+    </contour>
+  </outline>
+</glyph>

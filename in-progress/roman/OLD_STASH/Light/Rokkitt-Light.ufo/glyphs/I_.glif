@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="634.865"/>
+  <unicode hex="0049"/>
+  <outline>
+    <component base="uc_main_stem"/>
+    <contour>
+<<<<<<< HEAD
+      <point x="319" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="319" y="0" type="move" name="ogonek"/>
+=======
+      <point x="321" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="321" y="0" type="move" name="ogonek"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>I</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>634.86500000000001</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

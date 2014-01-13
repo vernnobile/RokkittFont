@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="978"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="1126" y="1255" type="line"/>
+      <point x="1126" y="1135" type="line"/>
+      <point x="1188" y="1135" type="line"/>
+      <point x="1188" y="1051"/>
+      <point x="1183" y="1025"/>
+      <point x="1117" y="1003" type="curve"/>
+      <point x="1117" y="959" type="line"/>
+      <point x="1218" y="959"/>
+      <point x="1252" y="1035"/>
+      <point x="1252" y="1133" type="curve" smooth="yes"/>
+      <point x="1252" y="1255" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="1234" type="line"/>
+      <point x="57" y="1174" type="line"/>
+      <point x="196" y="1174" type="line"/>
+      <point x="196" y="70" type="line"/>
+      <point x="57" y="70" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="982" y="0" type="line"/>
+      <point x="982" y="412" type="line"/>
+      <point x="906" y="412" type="line"/>
+      <point x="906" y="70" type="line"/>
+      <point x="278" y="70" type="line"/>
+      <point x="278" y="1174" type="line"/>
+      <point x="417" y="1174" type="line"/>
+      <point x="417" y="1234" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Lcaron</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>978</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

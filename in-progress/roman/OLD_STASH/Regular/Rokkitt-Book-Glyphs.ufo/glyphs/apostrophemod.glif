@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="600"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <component base="comma" xOffset="97" yOffset="806"/>
+    <contour>
+      <point x="577" y="484" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="1">
+  <advance width="1099"/>
+  <unicode hex="016F"/>
+  <outline>
+    <component base="u"/>
+<<<<<<< HEAD
+    <component base="ring" xOffset="319"/>
+=======
+    <component base="ring" xOffset="329"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uring</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>982</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="1269.730"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="952" y="56" type="line"/>
+      <point x="796" y="56" type="line"/>
+      <point x="796" y="0" type="line"/>
+      <point x="1201" y="0" type="line"/>
+      <point x="1201" y="56" type="line"/>
+      <point x="1062" y="56" type="line"/>
+      <point x="448" y="593" type="line"/>
+      <point x="1006" y="1096" type="line"/>
+      <point x="1168" y="1096" type="line"/>
+      <point x="1168" y="1152" type="line"/>
+      <point x="764" y="1152" type="line"/>
+      <point x="764" y="1096" type="line"/>
+      <point x="907" y="1096" type="line"/>
+      <point x="350" y="593" type="line"/>
+    </contour>
+    <component base="uc_main_stem"/>
+    <contour>
+<<<<<<< HEAD
+      <point x="648" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="626" y="0" type="move" name="bot"/>
+=======
+      <point x="650" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="663" y="0" type="move" name="bot"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>467</integer>
+          <key>y</key>
+          <integer>593</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1269.73</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="1">
+  <advance width="915"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="426" y="-22" type="curve" smooth="yes"/>
+      <point x="797" y="-22"/>
+      <point x="840" y="333"/>
+      <point x="840" y="541" type="curve" smooth="yes"/>
+      <point x="840" y="814"/>
+      <point x="758" y="1156"/>
+      <point x="445" y="1156" type="curve" smooth="yes"/>
+      <point x="334" y="1151"/>
+      <point x="263" y="1132"/>
+      <point x="159" y="1082" type="curve"/>
+      <point x="185" y="1018" type="line"/>
+      <point x="279" y="1062"/>
+      <point x="363" y="1084"/>
+      <point x="438" y="1084" type="curve" smooth="yes"/>
+      <point x="636" y="1084"/>
+      <point x="738" y="924"/>
+      <point x="752" y="637" type="curve"/>
+      <point x="340" y="616"/>
+      <point x="153" y="394"/>
+      <point x="153" y="213" type="curve" smooth="yes"/>
+      <point x="153" y="86"/>
+      <point x="246" y="-22"/>
+    </contour>
+    <contour>
+      <point x="431" y="52" type="curve" smooth="yes"/>
+      <point x="299" y="52"/>
+      <point x="235" y="125"/>
+      <point x="235" y="214" type="curve" smooth="yes"/>
+      <point x="235" y="365"/>
+      <point x="410" y="565"/>
+      <point x="756" y="566" type="curve"/>
+      <point x="757" y="547"/>
+      <point x="757" y="528"/>
+      <point x="757" y="510" type="curve" smooth="yes"/>
+      <point x="752" y="264"/>
+      <point x="673" y="52"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>partialdiff</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>907</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="1400"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="D"/>
+<<<<<<< HEAD
+    <component base="hyphen" xOffset="-95" yOffset="179"/>
+=======
+    <component base="hyphen" xOffset="-93" yOffset="151"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1434</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

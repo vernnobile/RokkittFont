@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi" format="1">
+  <advance width="1258"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="646" y="0" type="line"/>
+      <point x="646" y="176" type="line"/>
+      <point x="470" y="176" type="line"/>
+      <point x="470" y="630" type="line"/>
+      <point x="879" y="630" type="line"/>
+      <point x="879" y="176" type="line"/>
+      <point x="756" y="176" type="line"/>
+      <point x="756" y="0" type="line"/>
+      <point x="1254" y="0" type="line"/>
+      <point x="1254" y="176" type="line"/>
+      <point x="1142" y="176" type="line"/>
+      <point x="1142" y="804" type="line"/>
+      <point x="470" y="804" type="line"/>
+      <point x="470" y="883" type="line" smooth="yes"/>
+      <point x="470" y="1160"/>
+      <point x="532" y="1236"/>
+      <point x="663" y="1236" type="curve" smooth="yes"/>
+      <point x="746" y="1236"/>
+      <point x="830" y="1205"/>
+      <point x="882" y="1170" type="curve"/>
+      <point x="870" y="1151"/>
+      <point x="863" y="1130"/>
+      <point x="863" y="1108" type="curve" smooth="yes"/>
+      <point x="863" y="1036"/>
+      <point x="931" y="971"/>
+      <point x="1001" y="971" type="curve" smooth="yes"/>
+      <point x="1084" y="971"/>
+      <point x="1158" y="1036"/>
+      <point x="1158" y="1108" type="curve" smooth="yes"/>
+      <point x="1158" y="1254"/>
+      <point x="926" y="1356"/>
+      <point x="684" y="1356" type="curve" smooth="yes"/>
+      <point x="417" y="1356"/>
+      <point x="202" y="1230"/>
+      <point x="202" y="893" type="curve" smooth="yes"/>
+      <point x="202" y="804" type="line"/>
+      <point x="70" y="804" type="line"/>
+      <point x="70" y="630" type="line"/>
+      <point x="202" y="630" type="line"/>
+      <point x="202" y="176" type="line"/>
+      <point x="97" y="176" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1149</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_descender_stem" format="1">
+  <advance width="1192"/>
+  <outline>
+    <contour>
+      <point x="93" y="-334" type="line"/>
+      <point x="441" y="-334" type="line"/>
+      <point x="441" y="-300" type="line"/>
+      <point x="287" y="-300" type="line"/>
+      <point x="288" y="682" type="line"/>
+      <point x="287" y="804" type="line"/>
+      <point x="119" y="804" type="line"/>
+      <point x="119" y="770" type="line"/>
+      <point x="243" y="770" type="line"/>
+      <point x="243" y="-300" type="line"/>
+      <point x="93" y="-300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>lc_descender_stem</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1192</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

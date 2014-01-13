@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uc_main_stem" format="1">
+  <advance width="928"/>
+  <outline>
+    <contour>
+      <point x="157" y="0" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="755" y="166" type="line"/>
+      <point x="594" y="166" type="line"/>
+      <point x="594" y="986" type="line"/>
+      <point x="755" y="986" type="line"/>
+      <point x="755" y="1152" type="line"/>
+      <point x="157" y="1152" type="line"/>
+      <point x="157" y="986" type="line"/>
+      <point x="318" y="986" type="line"/>
+      <point x="318" y="166" type="line"/>
+      <point x="157" y="166" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uc_main_stem</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>657</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

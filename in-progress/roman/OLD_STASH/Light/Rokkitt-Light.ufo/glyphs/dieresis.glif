@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="374"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="258" y="1026" type="line"/>
+      <point x="258" y="920" type="line"/>
+      <point x="358" y="920" type="line"/>
+      <point x="358" y="1026" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="1026" type="line"/>
+      <point x="16" y="920" type="line"/>
+      <point x="116" y="920" type="line"/>
+      <point x="116" y="1026" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="805" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="190" y="805" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>dieresis</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>374</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="747"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="653" y="300" type="line"/>
+      <point x="87" y="300" type="line"/>
+      <point x="87" y="436"/>
+      <point x="144" y="551"/>
+      <point x="258" y="644" type="curve" smooth="yes"/>
+      <point x="355" y="723"/>
+      <point x="533" y="800"/>
+      <point x="533" y="936" type="curve" smooth="yes"/>
+      <point x="533" y="1025"/>
+      <point x="480" y="1070"/>
+      <point x="375" y="1070" type="curve" smooth="yes"/>
+      <point x="245" y="1070"/>
+      <point x="216" y="994"/>
+      <point x="216" y="854" type="curve"/>
+      <point x="109" y="854" type="line"/>
+      <point x="109" y="1065"/>
+      <point x="197" y="1171"/>
+      <point x="374" y="1171" type="curve" smooth="yes"/>
+      <point x="540" y="1171"/>
+      <point x="657" y="1088"/>
+      <point x="657" y="939" type="curve" smooth="yes"/>
+      <point x="657" y="682"/>
+      <point x="253" y="617"/>
+      <point x="208" y="401" type="curve"/>
+      <point x="559" y="401" type="line"/>
+      <point x="559" y="581" type="line"/>
+      <point x="653" y="581" type="line"/>
+    </contour>
+  </outline>
+</glyph>

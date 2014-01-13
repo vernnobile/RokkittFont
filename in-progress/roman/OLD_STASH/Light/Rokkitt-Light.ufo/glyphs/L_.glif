@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="1040.655"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="314" y="58" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="987" y="0" type="line"/>
+      <point x="987" y="385" type="line"/>
+      <point x="916" y="385" type="line"/>
+      <point x="916" y="58" type="line"/>
+    </contour>
+    <component base="uc_main_stem"/>
+    <contour>
+<<<<<<< HEAD
+      <point x="692" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="606" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="683" y="675" type="move" name="mid"/>
+=======
+      <point x="680" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="613" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="684" y="805" type="move" name="mid"/>
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1040.655</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

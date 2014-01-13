@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi" format="1">
+  <advance width="1195"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="579" y="141" type="line"/>
+      <point x="411" y="141" type="line"/>
+      <point x="411" y="664" type="line"/>
+      <point x="837" y="664" type="line"/>
+      <point x="837" y="141" type="line"/>
+      <point x="692" y="141" type="line"/>
+      <point x="692" y="0" type="line"/>
+      <point x="1163" y="0" type="line"/>
+      <point x="1163" y="141" type="line"/>
+      <point x="1033" y="141" type="line"/>
+      <point x="1033" y="804" type="line"/>
+      <point x="411" y="804" type="line"/>
+      <point x="411" y="898" type="line" smooth="yes"/>
+      <point x="411" y="1112"/>
+      <point x="504" y="1181"/>
+      <point x="639" y="1181" type="curve" smooth="yes"/>
+      <point x="718" y="1181"/>
+      <point x="794" y="1157"/>
+      <point x="837" y="1124" type="curve"/>
+      <point x="827" y="1108"/>
+      <point x="821" y="1089"/>
+      <point x="821" y="1069" type="curve" smooth="yes"/>
+      <point x="821" y="1008"/>
+      <point x="871" y="961"/>
+      <point x="934" y="961" type="curve" smooth="yes"/>
+      <point x="999" y="961"/>
+      <point x="1049" y="1008"/>
+      <point x="1049" y="1069" type="curve" smooth="yes"/>
+      <point x="1049" y="1204"/>
+      <point x="848" y="1294"/>
+      <point x="638" y="1294" type="curve" smooth="yes"/>
+      <point x="406" y="1294"/>
+      <point x="213" y="1184"/>
+      <point x="213" y="901" type="curve" smooth="yes"/>
+      <point x="213" y="804" type="line"/>
+      <point x="83" y="804" type="line"/>
+      <point x="83" y="664" type="line"/>
+      <point x="213" y="664" type="line"/>
+      <point x="213" y="141" type="line"/>
+      <point x="87" y="141" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>fi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1149</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="1098"/>
+  <unicode hex="0064"/>
+  <outline>
+    <component base="lc_bowl_left" xOffset="-45"/>
+    <component base="lc_ascender_stem_2" xOffset="576"/>
+<<<<<<< HEAD
+    <contour>
+      <point x="438" y="985" type="move" name="top"/>
+    </contour>
+=======
+>>>>>>> e418cd6857c3097da4918e3f0e7b8b65afb45c0e
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>d</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1098</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

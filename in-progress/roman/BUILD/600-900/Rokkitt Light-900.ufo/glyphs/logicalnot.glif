@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="1215"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="940" y="274" type="line"/>
+      <point x="1057" y="274" type="line"/>
+      <point x="1057" y="804" type="line"/>
+      <point x="120" y="804" type="line"/>
+      <point x="120" y="640" type="line"/>
+      <point x="940" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>logicalnot</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1215</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

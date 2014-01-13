@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="1">
+  <advance width="1009"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="476" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="812" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="504" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="420" y="-16" type="curve" smooth="yes"/>
+      <point x="527" y="-16"/>
+      <point x="608" y="22"/>
+      <point x="709" y="100" type="curve"/>
+      <point x="715" y="0" type="line"/>
+      <point x="976" y="0" type="line"/>
+      <point x="976" y="94" type="line"/>
+      <point x="828" y="94" type="line"/>
+      <point x="828" y="804" type="line"/>
+      <point x="558" y="804" type="line"/>
+      <point x="558" y="710" type="line"/>
+      <point x="707" y="710" type="line"/>
+      <point x="707" y="219" type="line"/>
+      <point x="624" y="137"/>
+      <point x="544" y="86"/>
+      <point x="440" y="86" type="curve" smooth="yes"/>
+      <point x="328" y="86"/>
+      <point x="282" y="150"/>
+      <point x="282" y="254" type="curve" smooth="yes"/>
+      <point x="282" y="804" type="line"/>
+      <point x="19" y="804" type="line"/>
+      <point x="19" y="710" type="line"/>
+      <point x="161" y="710" type="line"/>
+      <point x="161" y="244" type="line" smooth="yes"/>
+      <point x="161" y="88"/>
+      <point x="243" y="-16"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>u</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1022</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
