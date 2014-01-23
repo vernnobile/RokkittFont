@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcaron" format="1">
-  <advance width="1052"/>
+  <advance width="1011"/>
   <unicode hex="010F"/>
   <outline>
-    <component base="comma" xOffset="891" yOffset="1062"/>
     <component base="d"/>
+    <component base="caron.alt" xOffset="618"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1068</integer>
+          <integer>1011</integer>
         </dict>
       </dict>
     </dict>

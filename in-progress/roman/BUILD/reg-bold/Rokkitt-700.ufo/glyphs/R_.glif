@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="1241"/>
+  <advance width="1254"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
@@ -30,7 +30,7 @@
     </contour>
     <component base="uc_main_stem" xOffset="-70"/>
     <contour>
-      <point x="689" y="0" type="move" name="bot"/>
+      <point x="639" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="572" y="1152" type="move" name="top"/>
@@ -43,11 +43,9 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
           <array>
             <dict>
@@ -356,13 +354,11 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>R</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1373</integer>
         </dict>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="868"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="380" y="217" type="line"/>
+      <point x="488" y="217" type="line"/>
+      <point x="488" y="596" type="line"/>
+      <point x="848" y="596" type="line"/>
+      <point x="848" y="705" type="line"/>
+      <point x="488" y="705" type="line"/>
+      <point x="488" y="1078" type="line"/>
+      <point x="380" y="1078" type="line"/>
+      <point x="380" y="705" type="line"/>
+      <point x="21" y="705" type="line"/>
+      <point x="21" y="596" type="line"/>
+      <point x="380" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="847" y="0" type="line"/>
+      <point x="847" y="108" type="line"/>
+      <point x="20" y="108" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>659</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="474"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="124" y="-130" type="line"/>
+      <point x="302" y="-128"/>
+      <point x="350" y="-38"/>
+      <point x="350" y="120" type="curve"/>
+      <point x="350" y="332" type="line"/>
+      <point x="130" y="331" type="line"/>
+      <point x="130" y="119" type="line"/>
+      <point x="241" y="119" type="line"/>
+      <point x="241" y="15"/>
+      <point x="221" y="-30"/>
+      <point x="124" y="-42" type="curve"/>
+    </contour>
+    <contour>
+      <point x="129" y="643" type="line"/>
+      <point x="347" y="643" type="line"/>
+      <point x="347" y="855" type="line"/>
+      <point x="129" y="855" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>semicolon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>294</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

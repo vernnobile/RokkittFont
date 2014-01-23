@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01c8" format="1">
-  <advance width="1456"/>
+  <advance width="1453"/>
   <unicode hex="01C8"/>
   <outline>
-    <component base="j"/>
-    <component base="L" xOffset="401"/>
+    <component base="L"/>
+    <component base="j" xOffset="1055"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1363</integer>
+          <integer>1453</integer>
         </dict>
       </dict>
     </dict>

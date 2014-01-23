@@ -4,6 +4,7 @@
   <unicode hex="0219"/>
   <outline>
     <component base="s"/>
+    <component base="commaaccent" xOffset="221"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>842</integer>
+          <integer>919</integer>
         </dict>
       </dict>
     </dict>

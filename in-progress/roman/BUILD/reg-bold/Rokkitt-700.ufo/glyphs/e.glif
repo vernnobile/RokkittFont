@@ -1,44 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e" format="1">
-  <advance width="933"/>
+  <advance width="930"/>
   <unicode hex="0065"/>
   <outline>
     <contour>
       <point x="497" y="-19" type="curve" smooth="yes"/>
-      <point x="663" y="-19"/>
-      <point x="808" y="50"/>
+      <point x="659" y="-19"/>
+      <point x="802" y="52"/>
       <point x="867" y="129" type="curve"/>
       <point x="794" y="245" type="line"/>
-      <point x="694" y="161"/>
-      <point x="596" y="132"/>
+      <point x="715" y="179"/>
+      <point x="625" y="132"/>
       <point x="505" y="132" type="curve" smooth="yes"/>
-      <point x="358" y="132"/>
+      <point x="366" y="132"/>
       <point x="262" y="228"/>
       <point x="253" y="363" type="curve"/>
       <point x="878" y="363" type="line"/>
       <point x="878" y="634"/>
-      <point x="736" y="826"/>
+      <point x="714" y="826"/>
       <point x="482" y="826" type="curve" smooth="yes"/>
-      <point x="220" y="826"/>
+      <point x="227" y="826"/>
       <point x="46" y="650"/>
       <point x="46" y="400" type="curve" smooth="yes"/>
       <point x="46" y="155"/>
-      <point x="230" y="-19"/>
+      <point x="233" y="-19"/>
     </contour>
     <contour>
       <point x="256" y="481" type="line"/>
       <point x="274" y="598"/>
-      <point x="356" y="681"/>
+      <point x="367" y="681"/>
       <point x="481" y="681" type="curve" smooth="yes"/>
-      <point x="607" y="681"/>
+      <point x="587" y="681"/>
       <point x="669" y="598"/>
       <point x="680" y="481" type="curve"/>
     </contour>
     <contour>
-      <point x="620" y="0" type="move" name="ogonek"/>
+      <point x="540" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="515" y="804" type="move" name="top"/>
+      <point x="477" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="478" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -48,11 +51,9 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
           <array>
             <dict>
@@ -147,7 +148,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <real>726.768316889</real>
+                  <real>726.76831688899995</real>
                   <key>y</key>
                   <integer>819</integer>
                 </dict>
@@ -305,13 +306,11 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>e</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1054</integer>
         </dict>

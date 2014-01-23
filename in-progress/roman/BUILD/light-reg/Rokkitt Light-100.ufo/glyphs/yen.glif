@@ -4,16 +4,16 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="308" y="390" type="line"/>
-      <point x="308" y="359" type="line"/>
-      <point x="942" y="359" type="line"/>
-      <point x="942" y="390" type="line"/>
-    </contour>
-    <contour>
-      <point x="308" y="237" type="line"/>
       <point x="308" y="206" type="line"/>
       <point x="942" y="206" type="line"/>
       <point x="942" y="237" type="line"/>
+      <point x="308" y="237" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="359" type="line"/>
+      <point x="942" y="359" type="line"/>
+      <point x="942" y="390" type="line"/>
+      <point x="308" y="390" type="line"/>
     </contour>
     <component base="Y"/>
   </outline>
@@ -36,7 +36,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1378</integer>
+          <integer>1477</integer>
         </dict>
       </dict>
     </dict>

@@ -6,7 +6,7 @@
     <component base="lc_descender_stem" xOffset="-39"/>
     <component base="lc_bowl_right" xOffset="-43"/>
     <contour>
-      <point x="632" y="849" type="move" name="top"/>
+      <point x="571" y="804" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -16,22 +16,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>p</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1097</integer>
         </dict>

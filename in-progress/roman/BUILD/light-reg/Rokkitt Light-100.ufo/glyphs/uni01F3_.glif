@@ -3,8 +3,8 @@
   <advance width="1966"/>
   <unicode hex="01F3"/>
   <outline>
-    <component base="z"/>
-    <component base="d" xOffset="955"/>
+    <component base="d"/>
+    <component base="z" xOffset="1011"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1905</integer>
+          <integer>1966</integer>
         </dict>
       </dict>
     </dict>

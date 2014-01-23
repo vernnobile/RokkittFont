@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="1">
-  <advance width="595"/>
+  <advance width="829"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="241" y="-227" type="curve"/>
-      <point x="335" y="-227" type="line"/>
-      <point x="335" y="241"/>
-      <point x="418" y="228"/>
-      <point x="424" y="27" type="curve"/>
-      <point x="335" y="96" type="line"/>
-      <point x="508" y="80" type="line"/>
-      <point x="508" y="328" type="line"/>
-      <point x="335" y="309" type="line"/>
-      <point x="418" y="336" type="line"/>
-      <point x="164" y="336" type="line"/>
-      <point x="241" y="309" type="line"/>
-      <point x="72" y="328" type="line"/>
-      <point x="72" y="80" type="line"/>
-      <point x="241" y="96" type="line"/>
-      <point x="241" y="96"/>
-      <point x="156" y="27"/>
-      <point x="156" y="27" type="curve"/>
-      <point x="159" y="228"/>
-      <point x="241" y="237"/>
+      <point x="370" y="-227" type="curve"/>
+      <point x="458" y="-227" type="line"/>
+      <point x="458" y="157"/>
+      <point x="499" y="399"/>
+      <point x="539" y="576" type="curve"/>
+      <point x="458" y="765" type="line"/>
+      <point x="757" y="718" type="line"/>
+      <point x="757" y="913" type="line"/>
+      <point x="458" y="869" type="line"/>
+      <point x="522" y="1235" type="line"/>
+      <point x="310" y="1235" type="line"/>
+      <point x="370" y="869" type="line"/>
+      <point x="72" y="913" type="line"/>
+      <point x="72" y="718" type="line"/>
+      <point x="370" y="765" type="line"/>
+      <point x="293" y="576" type="line"/>
+      <point x="330" y="396"/>
+      <point x="370" y="153"/>
     </contour>
   </outline>
   <lib>

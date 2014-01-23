@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1699"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="845" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="516" y="120" type="line"/>
+      <point x="367" y="120" type="line"/>
+      <point x="367" y="1009" type="line"/>
+      <point x="803" y="53" type="line"/>
+      <point x="864" y="53" type="line"/>
+      <point x="1296" y="1010" type="line"/>
+      <point x="1296" y="120" type="line"/>
+      <point x="1146" y="120" type="line"/>
+      <point x="1146" y="0" type="line"/>
+      <point x="1628" y="0" type="line"/>
+      <point x="1628" y="120" type="line"/>
+      <point x="1472" y="120" type="line"/>
+      <point x="1472" y="1033" type="line"/>
+      <point x="1627" y="1033" type="line"/>
+      <point x="1627" y="1152" type="line"/>
+      <point x="1202" y="1152" type="line"/>
+      <point x="855" y="367" type="line"/>
+      <point x="494" y="1152" type="line"/>
+      <point x="76" y="1152" type="line"/>
+      <point x="76" y="1033" type="line"/>
+      <point x="232" y="1033" type="line"/>
+      <point x="232" y="120" type="line"/>
+      <point x="76" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1606</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

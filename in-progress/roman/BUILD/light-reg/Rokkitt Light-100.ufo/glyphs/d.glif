@@ -6,7 +6,13 @@
     <component base="lc_ascender_stem_2" xOffset="562"/>
     <component base="lc_bowl_left" xOffset="-74"/>
     <contour>
-      <point x="817" y="969" type="move" name="mid"/>
+      <point x="806" y="969" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="479" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="816" y="804" type="move" name="caron.alt"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +34,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1098</integer>
+          <integer>1011</integer>
         </dict>
       </dict>
     </dict>

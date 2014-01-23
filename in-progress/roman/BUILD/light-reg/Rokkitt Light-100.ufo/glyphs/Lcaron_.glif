@@ -3,8 +3,8 @@
   <advance width="1055"/>
   <unicode hex="013D"/>
   <outline>
-    <component base="comma" xOffset="532" yOffset="1079"/>
     <component base="L"/>
+    <component base="caron.alt" xOffset="312"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>978</integer>
+          <integer>1055</integer>
         </dict>
       </dict>
     </dict>

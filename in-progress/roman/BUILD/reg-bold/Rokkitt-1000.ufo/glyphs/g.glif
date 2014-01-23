@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g" format="1">
-  <advance width="1223"/>
+  <advance width="1147"/>
   <unicode hex="0067"/>
   <outline>
     <contour>
-      <point x="551" y="-476" type="curve" smooth="yes"/>
-      <point x="852" y="-476"/>
-      <point x="1136" y="-358"/>
-      <point x="1136" y="31" type="curve" smooth="yes"/>
-      <point x="1136" y="597" type="line"/>
-      <point x="1226" y="597" type="line"/>
-      <point x="1226" y="804" type="line"/>
-      <point x="798" y="804" type="line"/>
-      <point x="801" y="64" type="line" smooth="yes"/>
-      <point x="801" y="-157"/>
-      <point x="706" y="-222"/>
-      <point x="550" y="-222" type="curve" smooth="yes"/>
-      <point x="463" y="-222"/>
-      <point x="358" y="-200"/>
-      <point x="238" y="-175" type="curve"/>
-      <point x="181" y="-424" type="line"/>
-      <point x="291" y="-454"/>
-      <point x="422" y="-476"/>
+      <point x="481" y="-401" type="curve" smooth="yes"/>
+      <point x="754" y="-401"/>
+      <point x="986" y="-308"/>
+      <point x="986" y="73" type="curve" smooth="yes"/>
+      <point x="986" y="598" type="line"/>
+      <point x="1097" y="598" type="line"/>
+      <point x="1097" y="804" type="line"/>
+      <point x="738" y="804" type="line"/>
+      <point x="649" y="636" type="line"/>
+      <point x="651" y="64" type="line" smooth="yes"/>
+      <point x="652" y="-115"/>
+      <point x="606" y="-180"/>
+      <point x="478" y="-180" type="curve" smooth="yes"/>
+      <point x="391" y="-180"/>
+      <point x="315" y="-168"/>
+      <point x="199" y="-133" type="curve"/>
+      <point x="149" y="-344" type="line"/>
+      <point x="255" y="-376"/>
+      <point x="352" y="-401"/>
     </contour>
-    <component base="lc_bowl_left" xOffset="-208" yOffset="15" yScale="0.98"/>
+    <component base="lc_bowl_left" xOffset="-178" yOffset="15" yScale="0.98"/>
     <contour>
-      <point x="511" y="801" type="move" name="top"/>
+      <point x="571" y="804" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

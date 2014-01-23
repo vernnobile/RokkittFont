@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="100119_1225" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="34.0" />
+<data name="previewtext" value="Anno Beta Chocolate Debut Echo Flour Ghana Hightop India Juice Karton Lima Mandolin" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1000.0" minimum="0.0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="reg-bold/Rokkitt-700.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="0.0" />
+</location>
+<!-- color for reg-bold/Rokkitt-700.ufo -->
+<color a="1.000000" b="0.000000" g="1.000000" r="1.000000" />
+</master>
+<master filename="reg-bold/Rokkitt-1000.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000.0" />
+</location>
+<!-- color for reg-bold/Rokkitt-1000.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Rokkitt" sequence="" stylename="800">
+<location>
+<dimension name="new_axis_1" xvalue="840.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="500">
+<location>
+<dimension name="new_axis_1" xvalue="0.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="700">
+<location>
+<dimension name="new_axis_1" xvalue="440.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="600">
+<location>
+<dimension name="new_axis_1" xvalue="200.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="900">
+<location>
+<dimension name="new_axis_1" xvalue="1200.0" />
+</location>
+</instance>
+</designspace>

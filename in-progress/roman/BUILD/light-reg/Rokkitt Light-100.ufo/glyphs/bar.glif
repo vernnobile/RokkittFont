@@ -4,10 +4,10 @@
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="159" y="1180" type="line"/>
       <point x="159" y="6" type="line"/>
       <point x="200" y="6" type="line"/>
       <point x="200" y="1180" type="line"/>
+      <point x="159" y="1180" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <real>363.71499999999997</real>
+          <integer>348</integer>
         </dict>
       </dict>
     </dict>

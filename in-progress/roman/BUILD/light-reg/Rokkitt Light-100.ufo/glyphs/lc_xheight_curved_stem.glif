@@ -3,16 +3,6 @@
   <advance width="1142"/>
   <outline>
     <contour>
-      <point x="311" y="694" type="curve"/>
-      <point x="311" y="661" type="line"/>
-      <point x="463" y="743"/>
-      <point x="606" y="790"/>
-      <point x="683" y="790" type="curve" smooth="yes"/>
-      <point x="808" y="790"/>
-      <point x="887" y="719"/>
-      <point x="887" y="605" type="curve" smooth="yes"/>
-      <point x="887" y="34" type="line"/>
-      <point x="707" y="34" type="line"/>
       <point x="707" y="0" type="line"/>
       <point x="1085" y="0" type="line"/>
       <point x="1085" y="34" type="line"/>
@@ -23,6 +13,16 @@
       <point x="688" y="826" type="curve" smooth="yes"/>
       <point x="590" y="826"/>
       <point x="444" y="775"/>
+      <point x="311" y="694" type="curve"/>
+      <point x="311" y="661" type="line"/>
+      <point x="463" y="743"/>
+      <point x="606" y="790"/>
+      <point x="683" y="790" type="curve" smooth="yes"/>
+      <point x="808" y="790"/>
+      <point x="887" y="719"/>
+      <point x="887" y="605" type="curve" smooth="yes"/>
+      <point x="887" y="34" type="line"/>
+      <point x="707" y="34" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -236,7 +236,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1124</integer>
+          <integer>1142</integer>
         </dict>
       </dict>
     </dict>

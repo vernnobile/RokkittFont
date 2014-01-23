@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1679"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="845" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="847" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="424" y="473" type="line"/>
+      <point x="1264" y="473" type="line"/>
+      <point x="1267" y="684" type="line"/>
+      <point x="426" y="684" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="659"/>
+    <component base="uc_main_stem" xOffset="-174"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>H</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1513</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

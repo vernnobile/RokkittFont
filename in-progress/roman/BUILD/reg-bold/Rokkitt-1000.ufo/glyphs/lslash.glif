@@ -4,11 +4,12 @@
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="43" y="221" type="line"/>
-      <point x="657" y="551" type="line"/>
-      <point x="657" y="801" type="line"/>
-      <point x="43" y="464" type="line"/>
+      <point x="13" y="371" type="line"/>
+      <point x="627" y="701" type="line"/>
+      <point x="627" y="951" type="line"/>
+      <point x="13" y="614" type="line"/>
     </contour>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>

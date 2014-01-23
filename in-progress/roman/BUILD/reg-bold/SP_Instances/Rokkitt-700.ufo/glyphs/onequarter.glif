@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="2167"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="1544" y="0" type="line"/>
+      <point x="1954" y="0" type="line"/>
+      <point x="1954" y="122" type="line"/>
+      <point x="1846" y="122" type="line"/>
+      <point x="1846" y="254" type="line"/>
+      <point x="1968" y="254" type="line"/>
+      <point x="1968" y="363" type="line"/>
+      <point x="1846" y="363" type="line"/>
+      <point x="1846" y="818" type="line"/>
+      <point x="1666" y="818" type="line"/>
+      <point x="1316" y="367" type="line"/>
+      <point x="1333" y="254" type="line"/>
+      <point x="1671" y="254" type="line"/>
+      <point x="1671" y="122" type="line"/>
+      <point x="1544" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="335" type="line"/>
+      <point x="663" y="335" type="line"/>
+      <point x="663" y="457" type="line"/>
+      <point x="534" y="457" type="line"/>
+      <point x="534" y="1152" type="line"/>
+      <point x="200" y="1113" type="line"/>
+      <point x="200" y="993" type="line"/>
+      <point x="341" y="1013" type="line"/>
+      <point x="341" y="457" type="line"/>
+      <point x="205" y="457" type="line"/>
+    </contour>
+    <contour>
+      <point x="607" y="-66" type="line"/>
+      <point x="751" y="-66" type="line"/>
+      <point x="1556" y="1234" type="line"/>
+      <point x="1416" y="1234" type="line"/>
+    </contour>
+    <contour>
+      <point x="1455" y="363" type="line"/>
+      <point x="1671" y="649" type="line"/>
+      <point x="1671" y="363" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onequarter</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1825</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

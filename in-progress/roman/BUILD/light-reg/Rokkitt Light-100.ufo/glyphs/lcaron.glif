@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="563"/>
+  <advance width="445"/>
   <unicode hex="013E"/>
   <outline>
     <component base="l"/>
+    <component base="caron.alt"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>466</integer>
+          <integer>563</integer>
         </dict>
       </dict>
     </dict>

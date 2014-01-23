@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1966"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="1241" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="612" y="199" type="line"/>
+      <point x="517" y="199" type="line"/>
+      <point x="629" y="413" type="line"/>
+      <point x="947" y="413" type="line"/>
+      <point x="947" y="199" type="line"/>
+      <point x="808" y="199" type="line"/>
+      <point x="808" y="0" type="line"/>
+      <point x="1910" y="0" type="line"/>
+      <point x="1910" y="380" type="line"/>
+      <point x="1719" y="380" type="line"/>
+      <point x="1719" y="199" type="line"/>
+      <point x="1304" y="199" type="line"/>
+      <point x="1304" y="524" type="line"/>
+      <point x="1489" y="524" type="line"/>
+      <point x="1489" y="386" type="line"/>
+      <point x="1616" y="386" type="line"/>
+      <point x="1616" y="789" type="line"/>
+      <point x="1489" y="789" type="line"/>
+      <point x="1489" y="639" type="line"/>
+      <point x="1303" y="639" type="line"/>
+      <point x="1303" y="953" type="line"/>
+      <point x="1717" y="953" type="line"/>
+      <point x="1717" y="779" type="line"/>
+      <point x="1908" y="779" type="line"/>
+      <point x="1908" y="1152" type="line"/>
+      <point x="505" y="1152" type="line"/>
+      <point x="505" y="953" type="line"/>
+      <point x="623" y="953" type="line"/>
+      <point x="186" y="199" type="line"/>
+      <point x="23" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="695" y="544" type="line"/>
+      <point x="923" y="953" type="line"/>
+      <point x="947" y="953" type="line"/>
+      <point x="947" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1877</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

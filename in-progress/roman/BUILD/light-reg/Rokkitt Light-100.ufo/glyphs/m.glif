@@ -6,6 +6,9 @@
     <component base="lc_xheight_curved_stem" xOffset="480"/>
     <component base="lc_xheight_curved_stem" xOffset="-98"/>
     <component base="lc_xheight_stem" xOffset="-59"/>
+    <contour>
+      <point x="803" y="804" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -26,7 +29,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1646</integer>
+          <integer>1571</integer>
         </dict>
       </dict>
     </dict>

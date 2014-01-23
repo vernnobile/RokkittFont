@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="31" y="914" type="line"/>
-      <point x="206" y="914" type="line"/>
+      <point x="176" y="914" type="line"/>
       <point x="307" y="1166" type="line"/>
-      <point x="408" y="914" type="line"/>
+      <point x="438" y="914" type="line"/>
       <point x="588" y="914" type="line"/>
-      <point x="448" y="1243" type="line"/>
-      <point x="165" y="1243" type="line"/>
+      <point x="418" y="1243" type="line"/>
+      <point x="195" y="1243" type="line"/>
     </contour>
     <contour>
       <point x="312" y="804" type="move" name="_top"/>
@@ -23,22 +23,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>circumflex</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>618</integer>
         </dict>

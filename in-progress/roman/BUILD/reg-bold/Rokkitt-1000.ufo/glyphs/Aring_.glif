@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="1661"/>
+  <advance width="1644"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="A"/>
-    <component base="ring" xOffset="663" yOffset="373"/>
+    <component base="ring" xOffset="499" yOffset="348"/>
   </outline>
   <lib>
     <dict>

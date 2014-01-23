@@ -4,7 +4,7 @@
   <unicode hex="00E0"/>
   <outline>
     <component base="a"/>
-    <component base="grave" xOffset="401"/>
+    <component base="grave" xOffset="342" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>868</integer>
+          <integer>951</integer>
         </dict>
       </dict>
     </dict>

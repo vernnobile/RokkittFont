@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="696"/>
+  <advance width="673"/>
   <unicode hex="006C"/>
   <outline>
-    <component base="lc_ascender_stem" xOffset="-196"/>
+    <component base="lc_ascender_stem" xOffset="-212"/>
     <contour>
-      <point x="347" y="1152" type="move" name="top"/>
+      <point x="462" y="914" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="365" y="0" type="move" name="bot"/>
+      <point x="331" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="359" y="803" type="move" name="mid"/>
+      <point x="343" y="658" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="349" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>

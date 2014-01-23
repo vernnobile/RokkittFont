@@ -6,7 +6,7 @@
     <component base="lc_xheight_curved_stem" xOffset="-81"/>
     <component base="lc_xheight_stem" xOffset="-59"/>
     <contour>
-      <point x="596" y="805" type="move" name="top"/>
+      <point x="596" y="804" type="move" name="top"/>
     </contour>
     <contour>
       <point x="544" y="0" type="move" name="bot"/>
@@ -31,7 +31,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1107</integer>
+          <integer>1010</integer>
         </dict>
       </dict>
     </dict>

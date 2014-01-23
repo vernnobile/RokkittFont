@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="878"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="842" y="0" type="line"/>
+      <point x="842" y="72" type="line"/>
+      <point x="229" y="72" type="line"/>
+      <point x="648" y="569" type="line"/>
+      <point x="244" y="1082" type="line"/>
+      <point x="808" y="1082" type="line"/>
+      <point x="808" y="1152" type="line"/>
+      <point x="123" y="1152" type="line"/>
+      <point x="123" y="1103" type="line"/>
+      <point x="533" y="569" type="line"/>
+      <point x="106" y="52" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

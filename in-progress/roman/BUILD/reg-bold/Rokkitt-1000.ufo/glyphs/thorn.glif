@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="1451"/>
+  <advance width="1226"/>
   <unicode hex="00FE"/>
   <outline>
     <contour>
@@ -13,7 +13,7 @@
       <point x="191" y="-206" type="line"/>
       <point x="51" y="-206" type="line"/>
     </contour>
-    <component base="lc_bowl_right" xOffset="219" yOffset="21"/>
+    <component base="lc_bowl_right" xOffset="-1" yOffset="21"/>
   </outline>
   <lib>
     <dict>

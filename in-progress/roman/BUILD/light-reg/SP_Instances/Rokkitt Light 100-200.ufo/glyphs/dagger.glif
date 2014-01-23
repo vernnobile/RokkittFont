@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="505"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="231" y="-2" type="curve"/>
+      <point x="273" y="-2" type="line"/>
+      <point x="273" y="234"/>
+      <point x="304" y="389"/>
+      <point x="301" y="538" type="curve"/>
+      <point x="301" y="629"/>
+      <point x="293" y="715"/>
+      <point x="273" y="818" type="curve"/>
+      <point x="489" y="795" type="line"/>
+      <point x="489" y="882" type="line"/>
+      <point x="273" y="866" type="line"/>
+      <point x="309" y="1121" type="line"/>
+      <point x="197" y="1121" type="line"/>
+      <point x="231" y="866" type="line"/>
+      <point x="13" y="882" type="line"/>
+      <point x="13" y="795" type="line"/>
+      <point x="231" y="818" type="line"/>
+      <point x="212" y="713"/>
+      <point x="204" y="627"/>
+      <point x="204" y="535" type="curve"/>
+      <point x="201" y="387"/>
+      <point x="231" y="236"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dagger</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>364</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

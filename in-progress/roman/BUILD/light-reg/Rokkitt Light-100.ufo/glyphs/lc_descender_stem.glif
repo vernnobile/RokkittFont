@@ -3,17 +3,17 @@
   <advance width="1192"/>
   <outline>
     <contour>
-      <point x="119" y="804" type="line"/>
-      <point x="119" y="770" type="line"/>
-      <point x="243" y="770" type="line"/>
-      <point x="243" y="-282" type="line"/>
-      <point x="103" y="-282" type="line"/>
       <point x="103" y="-316" type="line"/>
       <point x="421" y="-316" type="line"/>
       <point x="421" y="-282" type="line"/>
       <point x="287" y="-282" type="line"/>
       <point x="288" y="682" type="line"/>
       <point x="287" y="804" type="line"/>
+      <point x="119" y="804" type="line"/>
+      <point x="119" y="770" type="line"/>
+      <point x="243" y="770" type="line"/>
+      <point x="243" y="-282" type="line"/>
+      <point x="103" y="-282" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <real>1155.8399999999999</real>
+          <integer>1192</integer>
         </dict>
       </dict>
     </dict>

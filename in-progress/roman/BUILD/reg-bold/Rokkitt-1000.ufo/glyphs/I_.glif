@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="896"/>
+  <advance width="808"/>
   <unicode hex="0049"/>
   <outline>
-    <component base="uc_main_stem" xOffset="-115"/>
+    <component base="uc_main_stem" xOffset="-159"/>
     <contour>
-      <point x="442" y="1149" type="move" name="top"/>
+      <point x="398" y="1149" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="418" y="0" type="move" name="ogonek"/>
+      <point x="374" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>

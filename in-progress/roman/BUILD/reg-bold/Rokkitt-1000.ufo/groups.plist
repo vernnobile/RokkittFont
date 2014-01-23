@@ -64,13 +64,6 @@
 		<string>uni0210</string>
 		<string>uni0212</string>
 	</array>
-	<key>@MMK_L_S_Left</key>
-	<array>
-		<string>S</string>
-		<string>Sacute</string>
-		<string>Scedilla</string>
-		<string>Scaron</string>
-	</array>
 	<key>@MMK_L_T_Left</key>
 	<array>
 		<string>T</string>
@@ -92,7 +85,6 @@
 		<string>Uogonek</string>
 		<string>uni0214</string>
 		<string>uni0216</string>
-		<string>U.001</string>
 	</array>
 	<key>@MMK_L_V_Left</key>
 	<array>
@@ -101,10 +93,6 @@
 	<key>@MMK_L_W_Left</key>
 	<array>
 		<string>W</string>
-	</array>
-	<key>@MMK_L_X_Left</key>
-	<array>
-		<string>X</string>
 	</array>
 	<key>@MMK_L_Y_Left</key>
 	<array>
@@ -117,18 +105,6 @@
 		<string>k</string>
 		<string>kcommaaccent</string>
 		<string>kgreenlandic</string>
-	</array>
-	<key>@MMK_L_n_Left</key>
-	<array>
-		<string>h</string>
-		<string>hcircumflex</string>
-		<string>m</string>
-		<string>n</string>
-		<string>ntilde</string>
-		<string>nacute</string>
-		<string>ncommaaccent</string>
-		<string>ncaron</string>
-		<string>hbar</string>
 	</array>
 	<key>@MMK_L_o_Left</key>
 	<array>
@@ -156,12 +132,6 @@
 		<string>rcaron</string>
 		<string>uni0211</string>
 		<string>uni0213</string>
-	</array>
-	<key>@MMK_L_t_Left</key>
-	<array>
-		<string>t</string>
-		<string>tcaron</string>
-		<string>uni021B</string>
 	</array>
 	<key>@MMK_L_v_Left</key>
 	<array>
@@ -192,46 +162,6 @@
 		<string>uni0200</string>
 		<string>uni0202</string>
 	</array>
-	<key>@MMK_R_H_Right</key>
-	<array>
-		<string>D</string>
-		<string>Dcaron</string>
-		<string>E</string>
-		<string>Egrave</string>
-		<string>Eacute</string>
-		<string>Ecircumflex</string>
-		<string>Edieresis</string>
-		<string>Emacron</string>
-		<string>Edotaccent</string>
-		<string>Eogonek</string>
-		<string>Ecaron</string>
-		<string>uni0204</string>
-		<string>uni0206</string>
-		<string>F</string>
-		<string>H</string>
-		<string>Hcircumflex</string>
-		<string>K</string>
-		<string>Kcommaaccent</string>
-		<string>L</string>
-		<string>Lacute</string>
-		<string>Lcommaaccent</string>
-		<string>Lcaron</string>
-		<string>M</string>
-		<string>N</string>
-		<string>Ntilde</string>
-		<string>Nacute</string>
-		<string>Ncommaaccent</string>
-		<string>Ncaron</string>
-		<string>P</string>
-		<string>R</string>
-		<string>Racute</string>
-		<string>Rcommaaccent</string>
-		<string>Rcaron</string>
-		<string>uni0210</string>
-		<string>uni0212</string>
-		<string>Thorn</string>
-		<string>uni01F1</string>
-	</array>
 	<key>@MMK_R_O_Right</key>
 	<array>
 		<string>C</string>
@@ -261,13 +191,6 @@
 		<string>Oslash</string>
 		<string>OE</string>
 	</array>
-	<key>@MMK_R_S_Right</key>
-	<array>
-		<string>S</string>
-		<string>Sacute</string>
-		<string>Scedilla</string>
-		<string>Scaron</string>
-	</array>
 	<key>@MMK_R_T_Right</key>
 	<array>
 		<string>T</string>
@@ -289,7 +212,6 @@
 		<string>Uogonek</string>
 		<string>uni0214</string>
 		<string>uni0216</string>
-		<string>U.001</string>
 	</array>
 	<key>@MMK_R_V_Right</key>
 	<array>
@@ -319,6 +241,7 @@
 		<string>aogonek</string>
 		<string>uni0201</string>
 		<string>uni0203</string>
+		<string>ae</string>
 	</array>
 	<key>@MMK_R_n_Right</key>
 	<array>
@@ -364,6 +287,7 @@
 		<string>q</string>
 		<string>eth</string>
 		<string>oslash</string>
+		<string>oe</string>
 	</array>
 	<key>@MMK_R_u_Left</key>
 	<array>

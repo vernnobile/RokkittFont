@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="927"/>
+  <advance width="972"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="522" y="804" type="line"/>
-      <point x="522" y="770" type="line"/>
-      <point x="671" y="770" type="line"/>
+      <point x="723" y="0" type="line"/>
+      <point x="926" y="0" type="line"/>
+      <point x="926" y="34" type="line"/>
+      <point x="742" y="34" type="line"/>
+      <point x="314" y="419" type="line"/>
+      <point x="767" y="770" type="line"/>
+      <point x="921" y="770" type="line"/>
+      <point x="921" y="804" type="line"/>
+      <point x="545" y="804" type="line"/>
+      <point x="545" y="770" type="line"/>
+      <point x="713" y="770" type="line"/>
       <point x="256" y="423" type="line"/>
-      <point x="681" y="0" type="line"/>
-      <point x="879" y="0" type="line"/>
-      <point x="879" y="34" type="line"/>
-      <point x="706" y="34" type="line"/>
-      <point x="318" y="422" type="line"/>
-      <point x="731" y="770" type="line"/>
-      <point x="874" y="770" type="line"/>
-      <point x="874" y="804" type="line"/>
     </contour>
     <component base="lc_ascender_stem" xOffset="-20"/>
     <contour>
-      <point x="480" y="0" type="move" name="bot"/>
+      <point x="531" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="551" y="1004" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -56,7 +59,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <real>1050.8800000000001</real>
+          <integer>927</integer>
         </dict>
       </dict>
     </dict>

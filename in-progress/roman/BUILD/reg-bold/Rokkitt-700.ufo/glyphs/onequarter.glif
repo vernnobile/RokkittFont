@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="1825"/>
+  <advance width="2092"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="1353" y="0" type="line"/>
-      <point x="1724" y="0" type="line"/>
-      <point x="1724" y="76" type="line"/>
-      <point x="1607" y="76" type="line"/>
-      <point x="1607" y="215" type="line"/>
-      <point x="1731" y="215" type="line"/>
-      <point x="1731" y="318" type="line"/>
-      <point x="1607" y="318" type="line"/>
-      <point x="1607" y="804" type="line"/>
-      <point x="1470" y="804" type="line"/>
-      <point x="1115" y="336" type="line"/>
-      <point x="1115" y="215" type="line"/>
-      <point x="1481" y="215" type="line"/>
-      <point x="1481" y="76" type="line"/>
-      <point x="1353" y="76" type="line"/>
+      <point x="1502" y="0" type="line"/>
+      <point x="1837" y="0" type="line"/>
+      <point x="1837" y="100" type="line"/>
+      <point x="1741" y="100" type="line"/>
+      <point x="1741" y="237" type="line"/>
+      <point x="1866" y="237" type="line"/>
+      <point x="1866" y="334" type="line"/>
+      <point x="1741" y="334" type="line"/>
+      <point x="1741" y="818" type="line"/>
+      <point x="1615" y="818" type="line"/>
+      <point x="1264" y="354" type="line"/>
+      <point x="1278" y="237" type="line"/>
+      <point x="1612" y="237" type="line"/>
+      <point x="1612" y="100" type="line"/>
+      <point x="1502" y="100" type="line"/>
     </contour>
     <contour>
-      <point x="153" y="348" type="line"/>
-      <point x="581" y="348" type="line"/>
-      <point x="581" y="451" type="line"/>
-      <point x="438" y="451" type="line"/>
-      <point x="438" y="1152" type="line"/>
-      <point x="155" y="1152" type="line"/>
-      <point x="155" y="1049" type="line"/>
-      <point x="307" y="1049" type="line"/>
-      <point x="307" y="451" type="line" smooth="yes"/>
-      <point x="153" y="451" type="line"/>
+      <point x="231" y="334" type="line"/>
+      <point x="608" y="334" type="line"/>
+      <point x="608" y="434" type="line"/>
+      <point x="493" y="434" type="line"/>
+      <point x="493" y="1152" type="line"/>
+      <point x="222" y="1116" type="line"/>
+      <point x="222" y="1017" type="line"/>
+      <point x="353" y="1031" type="line"/>
+      <point x="353" y="434" type="line"/>
+      <point x="231" y="434" type="line"/>
     </contour>
     <contour>
-      <point x="505" y="0" type="line"/>
-      <point x="636" y="0" type="line"/>
-      <point x="1420" y="1152" type="line"/>
-      <point x="1292" y="1152" type="line"/>
+      <point x="574" y="-50" type="line"/>
+      <point x="705" y="-50" type="line"/>
+      <point x="1529" y="1252" type="line"/>
+      <point x="1401" y="1252" type="line"/>
     </contour>
     <contour>
-      <point x="1228" y="318" type="line"/>
-      <point x="1481" y="664" type="line"/>
-      <point x="1481" y="318" type="line"/>
+      <point x="1377" y="334" type="line"/>
+      <point x="1612" y="649" type="line"/>
+      <point x="1612" y="334" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,22 +51,17 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>onequarter</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1825</integer>
         </dict>

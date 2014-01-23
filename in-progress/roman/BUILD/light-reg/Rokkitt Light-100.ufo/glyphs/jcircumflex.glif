@@ -3,8 +3,8 @@
   <advance width="398"/>
   <unicode hex="0135"/>
   <outline>
-    <component base="uni0237"/>
-    <component base="circumflex" xOffset="50" yOffset="1"/>
+    <component base="dotlessj"/>
+    <component base="circumflex" xOffset="52" yOffset="1"/>
   </outline>
   <lib>
     <dict>
@@ -25,7 +25,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>333</integer>
+          <integer>398</integer>
         </dict>
       </dict>
     </dict>

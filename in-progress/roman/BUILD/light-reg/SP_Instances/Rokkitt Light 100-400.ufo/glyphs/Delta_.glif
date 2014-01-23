@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="1167"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="1083" y="0" type="line"/>
+      <point x="1083" y="72" type="line"/>
+      <point x="658" y="1152" type="line"/>
+      <point x="503" y="1152" type="line"/>
+      <point x="84" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="123" type="line"/>
+      <point x="557" y="973" type="line"/>
+      <point x="872" y="123" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

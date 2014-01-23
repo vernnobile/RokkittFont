@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="564"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="285" y="804" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="145" y="917" type="line"/>
+      <point x="280" y="1172" type="line"/>
+      <point x="414" y="917" type="line"/>
+      <point x="541" y="917" type="line"/>
+      <point x="371" y="1242" type="line"/>
+      <point x="188" y="1242" type="line"/>
+      <point x="21" y="917" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>347</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -4,10 +4,6 @@
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="799" y="804" type="line"/>
-      <point x="793" y="684" type="line"/>
-      <point x="793" y="-296" type="line"/>
-      <point x="658" y="-296" type="line"/>
       <point x="658" y="-330" type="line"/>
       <point x="975" y="-330" type="line"/>
       <point x="975" y="-296" type="line"/>
@@ -15,6 +11,10 @@
       <point x="837" y="770" type="line"/>
       <point x="966" y="770" type="line"/>
       <point x="966" y="804" type="line"/>
+      <point x="799" y="804" type="line"/>
+      <point x="793" y="684" type="line"/>
+      <point x="793" y="-296" type="line"/>
+      <point x="658" y="-296" type="line"/>
     </contour>
     <component base="lc_bowl_left" xOffset="-74"/>
   </outline>
@@ -37,7 +37,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <real>1102.72</real>
+          <integer>1049</integer>
         </dict>
       </dict>
     </dict>

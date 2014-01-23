@@ -5,6 +5,9 @@
   <outline>
     <component base="lc_ascender_stem_1" xOffset="-28"/>
     <component base="lc_bowl_right" xOffset="-51"/>
+    <contour>
+      <point x="599" y="804" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -25,7 +28,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <real>1108.0236221299999</real>
+          <integer>1037</integer>
         </dict>
       </dict>
     </dict>

@@ -6,10 +6,12 @@
 	<integer>1152</integer>
 	<key>capHeight</key>
 	<integer>1152</integer>
+	<key>copyright</key>
+	<string>Copyright © 2011-2013 by Vernon Adams. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-410</integer>
 	<key>familyName</key>
-	<string>Rokkitt Light 100</string>
+	<string>Rokkitt 100</string>
 	<key>openTypeHeadCreated</key>
 	<string>2013/12/19 07:18:11</string>
 	<key>openTypeHeadLowestRecPPEM</key>
@@ -20,8 +22,16 @@
 	<integer>1</integer>
 	<key>openTypeHheaCaretSlopeRun</key>
 	<integer>0</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>newtypography.co.uk</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Vernon Adams</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>newtypography.co.uk</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Rokkitt Light</string>
+	<string>Rokkitt</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>100</string>
 	<key>openTypeOS2Panose</key>
@@ -88,9 +98,9 @@
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>804</integer>
 </dict>

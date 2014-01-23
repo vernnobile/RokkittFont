@@ -4,20 +4,20 @@
   <unicode hex="00BB"/>
   <outline>
     <contour>
-      <point x="387" y="1059" type="line"/>
-      <point x="601" y="686" type="line"/>
-      <point x="387" y="309" type="line"/>
-      <point x="416" y="309" type="line"/>
-      <point x="681" y="686" type="line"/>
-      <point x="416" y="1059" type="line"/>
-    </contour>
-    <contour>
-      <point x="155" y="1059" type="line"/>
-      <point x="368" y="686" type="line"/>
       <point x="155" y="309" type="line"/>
       <point x="184" y="309" type="line"/>
       <point x="448" y="686" type="line"/>
       <point x="184" y="1059" type="line"/>
+      <point x="155" y="1059" type="line"/>
+      <point x="368" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="309" type="line"/>
+      <point x="416" y="309" type="line"/>
+      <point x="681" y="686" type="line"/>
+      <point x="416" y="1059" type="line"/>
+      <point x="387" y="1059" type="line"/>
+      <point x="601" y="686" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>779</integer>
+          <integer>744</integer>
         </dict>
       </dict>
     </dict>

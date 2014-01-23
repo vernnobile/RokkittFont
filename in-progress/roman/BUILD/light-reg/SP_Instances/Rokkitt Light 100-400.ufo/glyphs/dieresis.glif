@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="588"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="295" y="804" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="90" y="934" type="curve" smooth="yes"/>
+      <point x="151" y="934"/>
+      <point x="190" y="972"/>
+      <point x="190" y="1030" type="curve"/>
+      <point x="190" y="1088"/>
+      <point x="150" y="1125"/>
+      <point x="90" y="1125" type="curve" smooth="yes"/>
+      <point x="30" y="1125"/>
+      <point x="-10" y="1088"/>
+      <point x="-10" y="1030" type="curve" smooth="yes"/>
+      <point x="-10" y="972"/>
+      <point x="30" y="934"/>
+    </contour>
+    <contour>
+      <point x="496" y="934" type="curve" smooth="yes"/>
+      <point x="557" y="934"/>
+      <point x="596" y="972"/>
+      <point x="596" y="1030" type="curve"/>
+      <point x="596" y="1087"/>
+      <point x="556" y="1125"/>
+      <point x="496" y="1125" type="curve" smooth="yes"/>
+      <point x="436" y="1125"/>
+      <point x="397" y="1087"/>
+      <point x="397" y="1030" type="curve" smooth="yes"/>
+      <point x="397" y="972"/>
+      <point x="436" y="934"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>295</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

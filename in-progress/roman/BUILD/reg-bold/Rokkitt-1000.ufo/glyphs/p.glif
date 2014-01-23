@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p" format="1">
-  <advance width="979"/>
+  <advance width="1157"/>
   <unicode hex="0070"/>
   <outline>
-    <component base="lc_bowl_right" xOffset="-208"/>
-    <component base="lc_descender_stem" xOffset="-210"/>
+    <component base="lc_bowl_right" xOffset="-68"/>
+    <component base="lc_descender_stem" xOffset="-93"/>
     <contour>
-      <point x="626" y="972" type="move" name="top"/>
+      <point x="573" y="804" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

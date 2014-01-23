@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="1">
-  <advance width="1125"/>
+  <advance width="1151"/>
   <unicode hex="0111"/>
   <outline>
-    <component base="macron" xOffset="841" yOffset="155"/>
     <component base="d"/>
+    <component base="macron" xOffset="489" yOffset="-165"/>
   </outline>
   <lib>
     <dict>

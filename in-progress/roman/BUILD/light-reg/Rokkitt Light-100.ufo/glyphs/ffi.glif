@@ -3,16 +3,6 @@
   <advance width="1699"/>
   <outline>
     <contour>
-      <point x="663" y="1208" type="curve" smooth="yes"/>
-      <point x="477" y="1208"/>
-      <point x="361" y="1130"/>
-      <point x="361" y="1005" type="curve" smooth="yes"/>
-      <point x="361" y="804" type="line"/>
-      <point x="202" y="804" type="line"/>
-      <point x="202" y="770" type="line"/>
-      <point x="361" y="770" type="line"/>
-      <point x="361" y="34" type="line"/>
-      <point x="207" y="34" type="line"/>
       <point x="207" y="0" type="line"/>
       <point x="598" y="0" type="line"/>
       <point x="598" y="34" type="line"/>
@@ -31,6 +21,16 @@
       <point x="1026" y="1092" type="line"/>
       <point x="914" y="1163"/>
       <point x="774" y="1208"/>
+      <point x="663" y="1208" type="curve" smooth="yes"/>
+      <point x="477" y="1208"/>
+      <point x="361" y="1130"/>
+      <point x="361" y="1005" type="curve" smooth="yes"/>
+      <point x="361" y="804" type="line"/>
+      <point x="202" y="804" type="line"/>
+      <point x="202" y="770" type="line"/>
+      <point x="361" y="770" type="line"/>
+      <point x="361" y="34" type="line"/>
+      <point x="207" y="34" type="line"/>
     </contour>
     <component base="fi" xOffset="671"/>
   </outline>
@@ -53,7 +53,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1364</integer>
+          <integer>1699</integer>
         </dict>
       </dict>
     </dict>

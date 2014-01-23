@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2206" format="1">
+  <advance width="1460"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="1362" y="0" type="line"/>
+      <point x="1362" y="180" type="line"/>
+      <point x="902" y="1155" type="line"/>
+      <point x="600" y="1155" type="line"/>
+      <point x="97" y="178" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="232" type="line"/>
+      <point x="372" y="232"/>
+      <point x="693" y="912"/>
+      <point x="696" y="925" type="curve"/>
+      <point x="698" y="912"/>
+      <point x="962" y="232"/>
+      <point x="962" y="232" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni2206</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1158</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

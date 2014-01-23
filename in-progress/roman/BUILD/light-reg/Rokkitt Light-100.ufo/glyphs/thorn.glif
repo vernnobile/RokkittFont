@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="1069"/>
+  <advance width="1026.115"/>
   <unicode hex="00FE"/>
   <outline>
     <contour>
-      <point x="26" y="1152" type="line"/>
-      <point x="26" y="1114" type="line"/>
-      <point x="178" y="1114" type="line"/>
-      <point x="178" y="-348" type="line"/>
-      <point x="4" y="-348" type="line"/>
-      <point x="4" y="-383" type="line"/>
-      <point x="224" y="-383" type="line"/>
-      <point x="228" y="1152" type="line"/>
+      <point x="21" y="-383" type="line"/>
+      <point x="239" y="-383" type="line"/>
+      <point x="243" y="1152" type="line"/>
+      <point x="43" y="1152" type="line"/>
+      <point x="43" y="1114" type="line"/>
+      <point x="195" y="1114" type="line"/>
+      <point x="195" y="-348" type="line"/>
+      <point x="21" y="-348" type="line"/>
     </contour>
-    <component base="lc_bowl_right" xOffset="-38" yOffset="21"/>
+    <component base="lc_bowl_right" xOffset="-62" yOffset="21"/>
   </outline>
   <lib>
     <dict>
@@ -34,7 +34,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>1083</integer>
+          <integer>1069</integer>
         </dict>
       </dict>
     </dict>

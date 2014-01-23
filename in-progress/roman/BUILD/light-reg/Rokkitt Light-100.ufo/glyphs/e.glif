@@ -4,9 +4,6 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
-      <point x="63" y="403" type="curve" smooth="yes"/>
-      <point x="63" y="133"/>
-      <point x="269" y="-22"/>
       <point x="485" y="-22" type="curve" smooth="yes"/>
       <point x="604" y="-22"/>
       <point x="735" y="25"/>
@@ -24,18 +21,21 @@
       <point x="466" y="826" type="curve" smooth="yes"/>
       <point x="269" y="826"/>
       <point x="63" y="687"/>
+      <point x="63" y="403" type="curve" smooth="yes"/>
+      <point x="63" y="133"/>
+      <point x="269" y="-22"/>
     </contour>
     <contour>
-      <point x="820" y="424" type="curve"/>
       <point x="106" y="424" type="line"/>
       <point x="113" y="649"/>
       <point x="273" y="792"/>
       <point x="466" y="792" type="curve" smooth="yes"/>
       <point x="638" y="792"/>
       <point x="796" y="678"/>
+      <point x="820" y="424" type="curve"/>
     </contour>
     <contour>
-      <point x="459" y="805" type="move" name="top"/>
+      <point x="502" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="555" y="0" type="move" name="ogonek"/>
@@ -309,7 +309,7 @@
           <key>unicodes</key>
           <array/>
           <key>width</key>
-          <integer>992</integer>
+          <integer>975</integer>
         </dict>
       </dict>
     </dict>
