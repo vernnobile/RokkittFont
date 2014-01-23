@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1073"/>
+  <advance width="1053"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
-      <point x="649" y="804" type="move" name="top"/>
+      <point x="621" y="804" type="move" name="top"/>
     </contour>
-    <component base="lc_ascender_stem_1" xOffset="-62"/>
-    <component base="lc_bowl_right" xOffset="-17"/>
+    <component base="lc_ascender_stem_1" xOffset="-43"/>
+    <component base="lc_bowl_right" xOffset="-36"/>
   </outline>
   <lib>
     <dict>

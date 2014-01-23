@@ -9,7 +9,7 @@
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
 <data name="previewTypeSize" value="34.0" />
-<data name="previewtext" value="Anno Beta Chocolate Debut Echo Flour Ghana Hightop India Juice Karton Lima Mandolin" />
+<data name="previewtext" value="Nanburgher /Ccaron olan /Acircumflex nton /uni0204 kou Quon Plon Ron Yokan funkadelica Juicejunkiea Blend Chino Dénim Echobelly" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -32,29 +32,19 @@
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Rokkitt" sequence="" stylename="800">
+<instance familyname="Rokkitt" sequence="" stylename="Extra-Bold">
 <location>
-<dimension name="new_axis_1" xvalue="840.0" />
+<dimension name="new_axis_1" xvalue="600.0" />
 </location>
 </instance>
-<instance familyname="Rokkitt" sequence="" stylename="500">
-<location>
-<dimension name="new_axis_1" xvalue="0.0" />
-</location>
-</instance>
-<instance familyname="Rokkitt" sequence="" stylename="700">
-<location>
-<dimension name="new_axis_1" xvalue="440.0" />
-</location>
-</instance>
-<instance familyname="Rokkitt" sequence="" stylename="600">
-<location>
-<dimension name="new_axis_1" xvalue="200.0" />
-</location>
-</instance>
-<instance familyname="Rokkitt" sequence="" stylename="900">
+<instance familyname="Rokkitt" sequence="" stylename="Black">
 <location>
 <dimension name="new_axis_1" xvalue="1200.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="Bold">
+<location>
+<dimension name="new_axis_1" xvalue="160.0" />
 </location>
 </instance>
 </designspace>

@@ -4,6 +4,9 @@
   <unicode hex="0311"/>
   <outline>
     <contour>
+      <point x="488" y="804" type="move" name="_top"/>
+    </contour>
+    <contour>
       <point x="352" y="934" type="curve"/>
       <point x="382" y="934" type="line"/>
       <point x="400" y="996"/>
@@ -19,9 +22,6 @@
       <point x="415" y="1060"/>
       <point x="371" y="1019"/>
     </contour>
-    <contour>
-      <point x="488" y="804" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -30,23 +30,29 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>uni0311</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>962</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

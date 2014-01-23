@@ -32,24 +32,34 @@
 </master>
 
 <!-- instance definitions -->
-<instance familyname="Rokkitt Light 100" sequence="" stylename="100">
+<instance familyname="Rokkitt" sequence="" stylename="Thin">
 <location>
 <dimension name="new_axis_1" xvalue="0.0" />
 </location>
 </instance>
-<instance familyname="Rokkitt Light 100" sequence="" stylename="200">
+<instance familyname="Rokkitt" sequence="" stylename="Extra-Light">
 <location>
-<dimension name="new_axis_1" xvalue="300.0" />
+<dimension name="new_axis_1" xvalue="100.0" />
 </location>
 </instance>
-<instance familyname="Rokkitt Light 100" sequence="" stylename="300">
+<instance familyname="Rokkitt" sequence="" stylename="Light">
 <location>
-<dimension name="new_axis_1" xvalue="650.0" />
+<dimension name="new_axis_1" xvalue="200.0" />
 </location>
 </instance>
-<instance familyname="Rokkitt Light 100" sequence="" stylename="400">
+<instance familyname="Rokkitt" sequence="" stylename="Regular">
 <location>
-<dimension name="new_axis_1" xvalue="800.0" />
+<dimension name="new_axis_1" xvalue="350.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="Medium">
+<location>
+<dimension name="new_axis_1" xvalue="560.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="Semi-Bold">
+<location>
+<dimension name="new_axis_1" xvalue="740.0" />
 </location>
 </instance>
 </designspace>

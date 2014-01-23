@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_descender_stem" format="1">
+  <advance width="1193"/>
+  <outline>
+    <contour>
+      <point x="99" y="-316" type="line"/>
+      <point x="437" y="-316" type="line"/>
+      <point x="437" y="-272" type="line"/>
+      <point x="299" y="-272" type="line"/>
+      <point x="300" y="673" type="line"/>
+      <point x="298" y="804" type="line"/>
+      <point x="114" y="804" type="line"/>
+      <point x="114" y="759" type="line"/>
+      <point x="240" y="759" type="line"/>
+      <point x="240" y="-272" type="line"/>
+      <point x="99" y="-272" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lc_descender_stem</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1192</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m" format="1">
-  <advance width="1618"/>
+  <advance width="1592"/>
   <unicode hex="006D"/>
   <outline>
     <contour>
-      <point x="860" y="804" type="move" name="top"/>
+      <point x="828" y="804" type="move" name="top"/>
     </contour>
-    <component base="lc_xheight_curved_stem" xOffset="458"/>
+    <component base="lc_xheight_curved_stem" xOffset="471"/>
     <component base="lc_xheight_curved_stem" xOffset="-98"/>
-    <component base="lc_xheight_stem" xOffset="-79"/>
+    <component base="lc_xheight_stem" xOffset="-68"/>
   </outline>
   <lib>
     <dict>

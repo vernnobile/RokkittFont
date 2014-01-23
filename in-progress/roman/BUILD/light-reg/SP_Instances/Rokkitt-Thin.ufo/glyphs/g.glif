@@ -4,6 +4,9 @@
   <unicode hex="0067"/>
   <outline>
     <contour>
+      <point x="486" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="477" y="-374" type="curve" smooth="yes"/>
       <point x="710" y="-374"/>
       <point x="848" y="-261"/>
@@ -24,10 +27,7 @@
       <point x="298" y="-355"/>
       <point x="394" y="-374"/>
     </contour>
-    <component base="lc_bowl_left" xOffset="-74" yOffset="15" yScale="0.98"/>
-    <contour>
-      <point x="486" y="804" type="move" name="top"/>
-    </contour>
+    <component base="lc_bowl_left" yScale="0.98" xOffset="-74" yOffset="15"/>
   </outline>
   <lib>
     <dict>
@@ -36,9 +36,11 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
           <array>
             <dict>
@@ -238,17 +240,20 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>g</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
           <integer>1013</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

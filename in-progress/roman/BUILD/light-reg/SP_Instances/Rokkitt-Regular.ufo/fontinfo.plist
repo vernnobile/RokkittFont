@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-410</integer>
 	<key>familyName</key>
-	<string>Rokkitt Light 100</string>
+	<string>Rokkitt</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>3</integer>
 	<key>openTypeHheaCaretOffset</key>
@@ -52,7 +52,7 @@
 	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>1228</integer>
 	<key>openTypeOS2WeightClass</key>
-	<integer>620</integer>
+	<integer>440</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>postscriptBlueShift</key>
@@ -74,9 +74,9 @@
 	<array>
 	</array>
 	<key>postscriptWeightName</key>
-	<string>Semi-bold</string>
+	<string>Normal</string>
 	<key>styleName</key>
-	<string>400</string>
+	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="2005"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="793" y="0" type="curve" smooth="yes"/>
+      <point x="1886" y="0" type="line"/>
+      <point x="1886" y="365" type="line"/>
+      <point x="1775" y="365" type="line"/>
+      <point x="1775" y="94" type="line"/>
+      <point x="1185" y="94" type="line"/>
+      <point x="1185" y="533" type="line"/>
+      <point x="1573" y="533" type="line"/>
+      <point x="1573" y="384" type="line"/>
+      <point x="1647" y="384" type="line"/>
+      <point x="1647" y="771" type="line"/>
+      <point x="1573" y="771" type="line"/>
+      <point x="1573" y="630" type="line"/>
+      <point x="1185" y="630" type="line"/>
+      <point x="1185" y="1058" type="line"/>
+      <point x="1761" y="1058" type="line"/>
+      <point x="1761" y="802" type="line"/>
+      <point x="1871" y="802" type="line"/>
+      <point x="1871" y="1152" type="line"/>
+      <point x="793" y="1152" type="line"/>
+      <point x="394" y="1152"/>
+      <point x="149" y="934"/>
+      <point x="148" y="577" type="curve" smooth="yes"/>
+      <point x="149" y="219"/>
+      <point x="395" y="0"/>
+    </contour>
+    <contour>
+      <point x="803" y="94" type="line"/>
+      <point x="492" y="94"/>
+      <point x="300" y="278"/>
+      <point x="300" y="577" type="curve"/>
+      <point x="300" y="877"/>
+      <point x="494" y="1058"/>
+      <point x="801" y="1058" type="curve" smooth="yes"/>
+      <point x="1044" y="1058" type="line"/>
+      <point x="1044" y="94" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>OE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1953</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

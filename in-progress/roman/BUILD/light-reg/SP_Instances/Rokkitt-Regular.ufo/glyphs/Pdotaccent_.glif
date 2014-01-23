@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pdotaccent" format="1">
-  <advance width="1141"/>
+  <advance width="1189"/>
   <unicode hex="1E56"/>
   <outline>
     <component base="P"/>
-    <component base="dotaccent" xOffset="400" yOffset="348"/>
+    <component base="dotaccent" xOffset="416" yOffset="348"/>
   </outline>
   <lib>
     <dict>

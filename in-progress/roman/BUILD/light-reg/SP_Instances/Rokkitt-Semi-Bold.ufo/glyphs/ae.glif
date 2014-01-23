@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae" format="1">
+  <advance width="1511"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <contour>
+      <point x="772" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="379" y="-22" type="curve" smooth="yes"/>
+      <point x="487" y="-22"/>
+      <point x="604" y="-1"/>
+      <point x="744" y="98" type="curve"/>
+      <point x="822" y="20"/>
+      <point x="932" y="-20"/>
+      <point x="1062" y="-20" type="curve" smooth="yes"/>
+      <point x="1230" y="-20"/>
+      <point x="1350" y="44"/>
+      <point x="1427" y="132" type="curve"/>
+      <point x="1369" y="226" type="line"/>
+      <point x="1270" y="137"/>
+      <point x="1169" y="101"/>
+      <point x="1068" y="101" type="curve" smooth="yes"/>
+      <point x="897" y="101"/>
+      <point x="799" y="205"/>
+      <point x="793" y="371" type="curve"/>
+      <point x="1433" y="371" type="line"/>
+      <point x="1433" y="647"/>
+      <point x="1289" y="826"/>
+      <point x="1053" y="826" type="curve" smooth="yes"/>
+      <point x="914" y="826"/>
+      <point x="784" y="766"/>
+      <point x="732" y="657" type="curve"/>
+      <point x="698" y="767"/>
+      <point x="587" y="826"/>
+      <point x="440" y="826" type="curve" smooth="yes"/>
+      <point x="320" y="826"/>
+      <point x="185" y="788"/>
+      <point x="101" y="720" type="curve"/>
+      <point x="151" y="622" type="line"/>
+      <point x="232" y="678"/>
+      <point x="347" y="708"/>
+      <point x="434" y="708" type="curve" smooth="yes"/>
+      <point x="557" y="708"/>
+      <point x="631" y="654"/>
+      <point x="631" y="525" type="curve"/>
+      <point x="631" y="447" type="line"/>
+      <point x="582" y="456"/>
+      <point x="482" y="462"/>
+      <point x="436" y="462" type="curve" smooth="yes"/>
+      <point x="237" y="462"/>
+      <point x="78" y="401"/>
+      <point x="78" y="216" type="curve" smooth="yes"/>
+      <point x="78" y="32"/>
+      <point x="255" y="-22"/>
+    </contour>
+    <contour>
+      <point x="401" y="80" type="curve" smooth="yes"/>
+      <point x="310" y="80"/>
+      <point x="226" y="112"/>
+      <point x="226" y="222" type="curve" smooth="yes"/>
+      <point x="226" y="340"/>
+      <point x="321" y="367"/>
+      <point x="444" y="367" type="curve" smooth="yes"/>
+      <point x="484" y="367"/>
+      <point x="593" y="360"/>
+      <point x="632" y="356" type="curve"/>
+      <point x="637" y="300"/>
+      <point x="652" y="234"/>
+      <point x="679" y="183" type="curve"/>
+      <point x="613" y="125"/>
+      <point x="527" y="80"/>
+    </contour>
+    <contour>
+      <point x="1277" y="467" type="curve"/>
+      <point x="795" y="467" type="line"/>
+      <point x="810" y="602"/>
+      <point x="899" y="710"/>
+      <point x="1052" y="710" type="curve" smooth="yes"/>
+      <point x="1191" y="710"/>
+      <point x="1269" y="613"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ae</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1657</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

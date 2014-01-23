@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1382"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="692" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1112" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="517" y="113" type="line"/>
+      <point x="361" y="113" type="line"/>
+      <point x="475" y="442" type="line"/>
+      <point x="888" y="442" type="line"/>
+      <point x="1003" y="113" type="line"/>
+      <point x="849" y="113" type="line"/>
+      <point x="849" y="0" type="line"/>
+      <point x="1325" y="0" type="line"/>
+      <point x="1325" y="113" type="line"/>
+      <point x="1186" y="113" type="line"/>
+      <point x="846" y="1040" type="line"/>
+      <point x="977" y="1040" type="line"/>
+      <point x="977" y="1152" type="line"/>
+      <point x="404" y="1152" type="line"/>
+      <point x="404" y="1040" type="line"/>
+      <point x="533" y="1040" type="line"/>
+      <point x="201" y="113" type="line"/>
+      <point x="56" y="113" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="555" type="line"/>
+      <point x="676" y="1038" type="line"/>
+      <point x="689" y="1038" type="line"/>
+      <point x="855" y="555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>A</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1383</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

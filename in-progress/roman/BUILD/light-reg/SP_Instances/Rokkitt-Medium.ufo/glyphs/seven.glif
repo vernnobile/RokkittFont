@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="982"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="359" y="0" type="curve"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="0"/>
+      <point x="663" y="591"/>
+      <point x="894" y="1062" type="curve"/>
+      <point x="894" y="1152" type="line"/>
+      <point x="122" y="1152" type="line"/>
+      <point x="122" y="835" type="line"/>
+      <point x="246" y="835" type="line"/>
+      <point x="246" y="1054" type="line"/>
+      <point x="744" y="1054" type="line"/>
+      <point x="499" y="515"/>
+      <point x="359" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>964</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

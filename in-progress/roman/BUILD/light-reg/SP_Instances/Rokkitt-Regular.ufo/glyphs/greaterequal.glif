@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="1">
-  <advance width="947"/>
+  <advance width="749"/>
   <unicode hex="2265"/>
   <outline>
     <contour>
-      <point x="102" y="207" type="line"/>
-      <point x="928" y="651" type="line"/>
-      <point x="928" y="723" type="line"/>
-      <point x="102" y="1170" type="line"/>
-      <point x="102" y="1032" type="line"/>
-      <point x="738" y="686" type="line"/>
-      <point x="102" y="344" type="line"/>
+      <point x="44" y="193" type="line"/>
+      <point x="749" y="564" type="line"/>
+      <point x="749" y="608" type="line"/>
+      <point x="44" y="982" type="line"/>
+      <point x="44" y="898" type="line"/>
+      <point x="626" y="585" type="line"/>
+      <point x="44" y="276" type="line"/>
     </contour>
     <contour>
-      <point x="102" y="0" type="line"/>
-      <point x="928" y="0" type="line"/>
-      <point x="928" y="123" type="line"/>
-      <point x="102" y="123" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="749" y="72" type="line"/>
+      <point x="44" y="72" type="line"/>
     </contour>
   </outline>
   <lib>

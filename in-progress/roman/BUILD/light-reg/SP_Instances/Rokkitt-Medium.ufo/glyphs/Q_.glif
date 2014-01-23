@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="1445"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="1186" y="-241" type="curve"/>
+      <point x="1181" y="-147" type="line"/>
+      <point x="963" y="-205"/>
+      <point x="881" y="-102"/>
+      <point x="775" y="28" type="curve"/>
+      <point x="651" y="29" type="line"/>
+      <point x="793" y="-184"/>
+      <point x="945" y="-304"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Q</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1438</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
