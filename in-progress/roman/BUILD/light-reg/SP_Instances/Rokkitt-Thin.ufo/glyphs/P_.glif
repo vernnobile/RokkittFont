@@ -4,9 +4,6 @@
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="680" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="448" y="500" type="line"/>
       <point x="766" y="500" type="line" smooth="yes"/>
       <point x="960" y="500"/>
@@ -27,6 +24,9 @@
       <point x="449" y="534" type="line"/>
     </contour>
     <component base="uc_main_stem" xOffset="16"/>
+    <contour>
+      <point x="680" y="1152" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

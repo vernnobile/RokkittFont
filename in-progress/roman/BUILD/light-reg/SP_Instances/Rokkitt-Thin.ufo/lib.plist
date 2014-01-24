@@ -42,7 +42,7 @@
 		<integer>1</integer>
 		<real>0.75</real>
 		<integer>0</integer>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
 	<integer>1</integer>
@@ -55,15 +55,15 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/vern/Github/RokkittFont/in-progress/roman/Light/Rokkitt-Light.otf</string>
+	<string>/Users/vern/gitHub/RokkittFont/in-progress/roman/BUILD/light-reg/SP_Instances/Rokkitt-Thin.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
 		<integer>0</integer>
 		<real>0.5</real>
-		<real>0.69999999999999996</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -350,7 +350,6 @@
 				<string>uni01cb</string>
 				<string>uni01F2</string>
 				<string>uni0307</string>
-				<string>uni030F</string>
 				<string>uni0311</string>
 				<string>zero</string>
 				<string>one</string>
@@ -606,7 +605,6 @@
 				<string>mu</string>
 				<string>uni022E</string>
 				<string>uni022F</string>
-				<string>softhyphen</string>
 				<string>uni000D</string>
 				<string>.notdef</string>
 				<string>emptyset</string>
@@ -614,7 +612,6 @@
 				<string>breveinvertedcomb</string>
 				<string>commaturnedabovecomb</string>
 				<string>dotaboverightcomb</string>
-				<string>uni0326</string>
 				<string>apostrophemod</string>
 				<string>dblgravecmb</string>
 				<string>dotaccentcmb</string>

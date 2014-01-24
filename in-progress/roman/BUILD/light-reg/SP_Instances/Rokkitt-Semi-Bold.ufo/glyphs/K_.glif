@@ -7,25 +7,25 @@
       <point x="650" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="647" y="0" type="move" name="bot"/>
+      <point x="649" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="741" y="0" type="line"/>
-      <point x="1241" y="0" type="line"/>
-      <point x="1241" y="113" type="line"/>
-      <point x="1087" y="113" type="line"/>
-      <point x="586" y="581" type="line"/>
-      <point x="1082" y="1040" type="line"/>
-      <point x="1231" y="1040" type="line"/>
-      <point x="1231" y="1152" type="line"/>
-      <point x="748" y="1152" type="line"/>
-      <point x="748" y="1040" type="line"/>
-      <point x="879" y="1040" type="line"/>
-      <point x="378" y="575" type="line"/>
-      <point x="873" y="113" type="line"/>
-      <point x="741" y="113" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="1240" y="0" type="line"/>
+      <point x="1240" y="109" type="line"/>
+      <point x="1085" y="109" type="line"/>
+      <point x="577" y="582" type="line"/>
+      <point x="1078" y="1044" type="line"/>
+      <point x="1228" y="1044" type="line"/>
+      <point x="1228" y="1152" type="line"/>
+      <point x="751" y="1152" type="line"/>
+      <point x="751" y="1044" type="line"/>
+      <point x="883" y="1044" type="line"/>
+      <point x="377" y="576" type="line"/>
+      <point x="880" y="109" type="line"/>
+      <point x="746" y="109" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-48"/>
+    <component base="uc_main_stem" xOffset="-44"/>
   </outline>
   <lib>
     <dict>

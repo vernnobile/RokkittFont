@@ -3,14 +3,14 @@
   <advance width="1010"/>
   <unicode hex="006E"/>
   <outline>
+    <component base="lc_xheight_curved_stem" xOffset="-81"/>
+    <component base="lc_xheight_stem" xOffset="-59"/>
     <contour>
       <point x="596" y="804" type="move" name="top"/>
     </contour>
     <contour>
       <point x="544" y="0" type="move" name="bot"/>
     </contour>
-    <component base="lc_xheight_curved_stem" xOffset="-81"/>
-    <component base="lc_xheight_stem" xOffset="-59"/>
   </outline>
   <lib>
     <dict>

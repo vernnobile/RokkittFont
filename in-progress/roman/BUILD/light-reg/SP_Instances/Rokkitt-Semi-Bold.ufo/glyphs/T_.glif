@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1143"/>
+  <advance width="1144"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
       <point x="570" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="576" y="0" type="move" name="bot"/>
+      <point x="575" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="571" y="620" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="52" y="750" type="line"/>
-      <point x="181" y="750" type="line"/>
-      <point x="181" y="1040" type="line"/>
-      <point x="962" y="1040" type="line"/>
-      <point x="962" y="750" type="line"/>
-      <point x="1092" y="750" type="line"/>
+      <point x="52" y="752" type="line"/>
+      <point x="176" y="752" type="line"/>
+      <point x="176" y="1044" type="line"/>
+      <point x="967" y="1044" type="line"/>
+      <point x="967" y="752" type="line"/>
+      <point x="1092" y="752" type="line"/>
       <point x="1092" y="1152" type="line"/>
       <point x="52" y="1152" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="204"/>
+    <component base="uc_main_stem" xOffset="207"/>
   </outline>
   <lib>
     <dict>

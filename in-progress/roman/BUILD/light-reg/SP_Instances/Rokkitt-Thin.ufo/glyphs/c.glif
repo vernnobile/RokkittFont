@@ -4,12 +4,6 @@
   <unicode hex="0063"/>
   <outline>
     <contour>
-      <point x="482" y="805" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="438" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="475" y="-22" type="curve" smooth="yes"/>
       <point x="615" y="-22"/>
       <point x="715" y="19"/>
@@ -39,6 +33,12 @@
       <point x="63" y="405" type="curve" smooth="yes"/>
       <point x="63" y="155"/>
       <point x="234" y="-22"/>
+    </contour>
+    <contour>
+      <point x="482" y="805" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="438" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -268,7 +268,7 @@
                   <key>smooth</key>
                   <integer>0</integer>
                   <key>x</key>
-                  <real>268.96812951340218</real>
+                  <real>268.9681295134022</real>
                   <key>y</key>
                   <integer>819</integer>
                 </dict>

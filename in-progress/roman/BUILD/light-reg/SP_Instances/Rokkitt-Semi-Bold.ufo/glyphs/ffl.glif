@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ffl" format="1">
-  <advance width="1779"/>
+  <advance width="1780"/>
   <outline>
     <contour>
       <point x="100" y="0" type="line"/>
-      <point x="536" y="0" type="line"/>
-      <point x="536" y="112" type="line"/>
-      <point x="391" y="112" type="line"/>
-      <point x="391" y="692" type="line"/>
-      <point x="750" y="692" type="line"/>
-      <point x="750" y="804" type="line"/>
-      <point x="391" y="804" type="line"/>
-      <point x="391" y="956" type="line" smooth="yes"/>
-      <point x="391" y="1070"/>
-      <point x="489" y="1121"/>
-      <point x="611" y="1121" type="curve" smooth="yes"/>
-      <point x="707" y="1121"/>
-      <point x="818" y="1084"/>
-      <point x="888" y="1024" type="curve"/>
-      <point x="935" y="1111" type="line"/>
-      <point x="848" y="1189"/>
-      <point x="716" y="1232"/>
-      <point x="592" y="1232" type="curve" smooth="yes"/>
-      <point x="402" y="1232"/>
-      <point x="233" y="1143"/>
-      <point x="233" y="965" type="curve" smooth="yes"/>
-      <point x="233" y="804" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="534" y="108" type="line"/>
+      <point x="386" y="108" type="line"/>
+      <point x="386" y="696" type="line"/>
+      <point x="749" y="696" type="line"/>
+      <point x="749" y="804" type="line"/>
+      <point x="386" y="804" type="line"/>
+      <point x="386" y="959" type="line" smooth="yes"/>
+      <point x="386" y="1072"/>
+      <point x="484" y="1124"/>
+      <point x="608" y="1124" type="curve" smooth="yes"/>
+      <point x="704" y="1124"/>
+      <point x="816" y="1087"/>
+      <point x="888" y="1026" type="curve"/>
+      <point x="934" y="1110" type="line"/>
+      <point x="846" y="1188"/>
+      <point x="713" y="1230"/>
+      <point x="590" y="1230" type="curve" smooth="yes"/>
+      <point x="400" y="1230"/>
+      <point x="234" y="1142"/>
+      <point x="234" y="967" type="curve" smooth="yes"/>
+      <point x="234" y="804" type="line"/>
       <point x="96" y="804" type="line"/>
-      <point x="96" y="692" type="line"/>
-      <point x="233" y="692" type="line"/>
-      <point x="233" y="112" type="line"/>
-      <point x="100" y="112" type="line"/>
+      <point x="96" y="696" type="line"/>
+      <point x="234" y="696" type="line"/>
+      <point x="234" y="108" type="line"/>
+      <point x="100" y="108" type="line"/>
     </contour>
-    <component base="fl" xOffset="518"/>
+    <component base="fl" xOffset="521"/>
   </outline>
   <lib>
     <dict>

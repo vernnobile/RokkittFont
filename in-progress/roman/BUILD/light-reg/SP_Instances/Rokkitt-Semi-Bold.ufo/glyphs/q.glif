@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="1">
-  <advance width="1088"/>
+  <advance width="1086"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="586" y="-330" type="line"/>
-      <point x="1047" y="-330" type="line"/>
-      <point x="1047" y="-211" type="line"/>
-      <point x="902" y="-211" type="line"/>
-      <point x="902" y="692" type="line"/>
-      <point x="1044" y="692" type="line"/>
-      <point x="1044" y="804" type="line"/>
-      <point x="747" y="804" type="line"/>
-      <point x="744" y="697" type="line"/>
-      <point x="744" y="-211" type="line"/>
-      <point x="586" y="-211" type="line"/>
+      <point x="590" y="-330" type="line"/>
+      <point x="1043" y="-330" type="line"/>
+      <point x="1043" y="-216" type="line"/>
+      <point x="899" y="-216" type="line"/>
+      <point x="899" y="696" type="line"/>
+      <point x="1040" y="696" type="line"/>
+      <point x="1040" y="804" type="line"/>
+      <point x="750" y="804" type="line"/>
+      <point x="747" y="696" type="line"/>
+      <point x="747" y="-216" type="line"/>
+      <point x="590" y="-216" type="line"/>
     </contour>
-    <component base="lc_bowl_left" xOffset="-95"/>
+    <component base="lc_bowl_left" xOffset="-94"/>
   </outline>
   <lib>
     <dict>

@@ -4,12 +4,6 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="503" y="805" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="332" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="347" y="467" type="line"/>
       <point x="347" y="670"/>
       <point x="447" y="791"/>
@@ -26,6 +20,12 @@
       <point x="323" y="549" type="curve"/>
     </contour>
     <component base="lc_xheight_stem" xOffset="27"/>
+    <contour>
+      <point x="503" y="805" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="332" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>

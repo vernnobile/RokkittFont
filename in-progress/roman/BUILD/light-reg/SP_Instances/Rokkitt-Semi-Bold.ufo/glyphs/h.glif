@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="1">
-  <advance width="1071"/>
+  <advance width="1065"/>
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="623" y="1064" type="move" name="top"/>
+      <point x="617" y="1061" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="270" y="934" type="move" name="mid"/>
+      <point x="266" y="936" type="move" name="mid"/>
     </contour>
-    <component base="lc_xheight_curved_stem" xOffset="-84"/>
+    <component base="lc_xheight_curved_stem" xOffset="-86"/>
     <component base="lc_ascender_stem" xOffset="-64"/>
   </outline>
   <lib>

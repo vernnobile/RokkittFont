@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="1">
-  <advance width="484"/>
+  <advance width="480"/>
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="175" y="836" type="line"/>
-      <point x="310" y="838"/>
-      <point x="354" y="920"/>
-      <point x="354" y="1049" type="curve" smooth="yes"/>
-      <point x="354" y="1228" type="line"/>
-      <point x="181" y="1228" type="line"/>
-      <point x="181" y="1048" type="line"/>
-      <point x="262" y="1048" type="line"/>
-      <point x="259" y="961"/>
-      <point x="243" y="931"/>
-      <point x="175" y="915" type="curve"/>
+      <point x="175" y="847" type="line"/>
+      <point x="307" y="848"/>
+      <point x="350" y="930"/>
+      <point x="350" y="1056" type="curve" smooth="yes"/>
+      <point x="350" y="1230" type="line"/>
+      <point x="181" y="1230" type="line"/>
+      <point x="181" y="1055" type="line"/>
+      <point x="260" y="1055" type="line"/>
+      <point x="258" y="969"/>
+      <point x="242" y="939"/>
+      <point x="175" y="923" type="curve"/>
     </contour>
   </outline>
   <lib>
