@@ -3,7 +3,6 @@
   <advance width="1709"/>
   <unicode hex="FB03"/>
   <outline>
-    <component base="fi" xOffset="643"/>
     <contour>
       <point x="178" y="0" type="line"/>
       <point x="178" y="55" type="line"/>
@@ -34,37 +33,32 @@
       <point x="582" y="55" type="line"/>
       <point x="582" y="0" type="line"/>
     </contour>
+    <component base="fi" xOffset="643"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>ffi</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1699</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>ffi</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1699</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>
