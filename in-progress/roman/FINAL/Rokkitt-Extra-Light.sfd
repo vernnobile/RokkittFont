@@ -1,10 +1,7 @@
 SplineFontDB: 3.0
 FontName: Rokkitt-ExtraLight
-FullName: Rokkitt-ExtraLight
 FamilyName: Rokkitt
-Weight: Regular
 Copyright: Digitized data Copyright (c) 2011-2013, vernon adams.
-Version: 
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -19,8 +16,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1390527985
-ModificationTime: 1390528350
+CreationTime: 1390537969
+ModificationTime: 1390541080
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -40,6 +37,7 @@ HheadAOffset: 0
 HheadDescent: -410
 HheadDOffset: 0
 OS2Vendor: 'NeWT'
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0"  {"'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
@@ -51,83 +49,83 @@ I1
 sS'com.typemytype.robofont.compileSettings.autohint'
 p3
 I0
-sS'com.schriftgestaltung.useNiceNames'
-p4
-I00
 sS'com.typemytype.robofont.foreground.layerStrokeColor'
-p5
+p4
 (F0.5
 I0
 F0.5
 F0.69999999999999996
-tp6
+tp5
 sS'com.schriftgestaltung.fontMasterID'
-p7
+p6
 S'98C086B7-81AA-4491-8494-0C6A76849168'
-p8
+p7
 sS'com.typemytype.robofont.compileSettings.decompose'
-p9
+p8
 I1
 sS'GSDimensionPlugin.Dimensions'
-p10
-(dp11
+p9
+(dp10
 S'1F09728C-766D-4240-AE17-E499EF32E23D'
-p12
-(dp13
+p11
+(dp12
 sS'98C086B7-81AA-4491-8494-0C6A76849168'
-p14
-(dp15
+p13
+(dp14
 sS'EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE'
-p16
-(dp17
+p15
+(dp16
 ssS'com.superpolator.editor.generateInfo'
-p18
+p17
 S'Generated with LTR Superpolator version 131028_2106_developer_'
-p19
+p18
 sS'com.typemytype.robofont.compileSettings.checkOutlines'
-p20
+p19
 I1
 sS'com.typemytype.robofont.compileSettings.path'
-p21
+p20
 S'/Users/vern/Github/RokkittFont/in-progress/roman/Light/Rokkitt-Light.otf'
+p21
+sS'com.schriftgestaltung.useNiceNames'
 p22
-sS'com.petr.ptt'
+I00
+sS'com.typemytype.robofont.layerOrder'
 p23
-(dp24
-S'originals'
+(S'b'
+tp24
+sS'com.typemytype.robofont.segmentType'
 p25
-(dp26
-S'maxp'
+S'curve'
+p26
+sS'com.petr.ptt'
 p27
 (dp28
-S'tableTag'
+S'originals'
 p29
+(dp30
 S'maxp'
-p30
-sS'numGlyphs'
 p31
+(dp32
+S'tableTag'
+p33
+S'maxp'
+p34
+sS'numGlyphs'
+p35
 I423
 sS'tableVersion'
-p32
-I20480
-ssssS'com.typemytype.robofont.layerOrder'
-p33
-(S'b'
-tp34
-sS'com.typemytype.robofont.segmentType'
-p35
-S'curve'
 p36
-sS'com.typemytype.robofont.italicSlantOffset'
+I20480
+ssssS'com.typemytype.robofont.b.layerStrokeColor'
 p37
-I0
-sS'com.typemytype.robofont.b.layerStrokeColor'
-p38
 (I1
 F0.75
 I0
 F0.69999999999999996
-tp39
+tp38
+sS'com.typemytype.robofont.italicSlantOffset'
+p39
+I0
 sS'com.typemytype.robofont.compileSettings.releaseMode'
 p40
 I0
@@ -1507,12 +1505,12 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 30 11
+WinInfo: 0 26 9
 BeginPrivate: 2
 BlueShift 1 0
 BlueValues 25 [-22 0 804 826 1152 1174]
 EndPrivate
-AnchorClass2: "caron.alt" "top" 
+AnchorClass2: "caron.alt" 
 BeginChars: 65562 521
 
 StartChar: A
@@ -1547,7 +1545,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 692 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1613,7 +1610,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 1247 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2408,7 +2404,6 @@ p81
 (tsS'anchors'
 p82
 (tsss."
-AnchorPoint: "top" 584 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2487,7 +2482,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 721 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2771,7 +2765,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 648 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2956,7 +2949,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 670 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3751,7 +3743,6 @@ p83
 (tsS'anchors'
 p84
 (tsss."
-AnchorPoint: "top" 644 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3830,7 +3821,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 709 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4073,7 +4063,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 746 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4225,7 +4214,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 321 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4247,7 +4235,7 @@ EndChar
 
 StartChar: IJ
 Encoding: 306 306 55
-Width: 1203
+Width: 1204
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -4667,7 +4655,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 353 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4775,7 +4762,6 @@ p19
 (tsS'anchors'
 p20
 (tsss."
-AnchorPoint: "top" 661 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4882,7 +4868,6 @@ p13
 p14
 (tsss."
 AnchorPoint: "caron.alt" 533 804 basechar 0
-AnchorPoint: "top" 716 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5154,7 +5139,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 801 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5235,7 +5219,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 721 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5467,7 +5450,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 726 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6236,7 +6218,6 @@ p65
 (tsS'anchors'
 p66
 (tsss."
-AnchorPoint: "top" 668 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6652,7 +6633,6 @@ p75
 (tsS'anchors'
 p76
 (tsss."
-AnchorPoint: "top" 649 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7232,7 +7212,6 @@ p92
 (tsS'anchors'
 p93
 (tsss."
-AnchorPoint: "top" 580 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7501,7 +7480,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 567 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7707,7 +7685,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 750 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8209,7 +8186,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 974 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8401,7 +8377,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 636 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8572,7 +8547,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 645 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9126,7 +9100,6 @@ p90
 (tsS'anchors'
 p91
 (tsss."
-AnchorPoint: "top" 471 805 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9305,7 +9278,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 29 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9389,7 +9361,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 873 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9652,7 +9623,6 @@ S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "top" 67 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10037,7 +10007,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 605 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10405,7 +10374,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 139 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10454,7 +10422,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 468 809 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10845,7 +10812,6 @@ p64
 (tsS'anchors'
 p65
 (tsss."
-AnchorPoint: "top" 485 805 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10940,7 +10906,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 187 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11243,7 +11208,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 190 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11413,7 +11377,6 @@ S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "top" 279 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11589,7 +11552,6 @@ p13
 p14
 (tsss."
 AnchorPoint: "caron.alt" 840 804 basechar 0
-AnchorPoint: "top" 463 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11769,7 +11731,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 335 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11962,7 +11923,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 174 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12078,7 +12038,6 @@ S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "top" 243 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12123,7 +12082,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 290 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12174,7 +12132,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 235 805 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13361,7 +13318,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 380 1082 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13442,29 +13398,46 @@ p15
 LayerCount: 2
 Fore
 SplineSet
-672 0 m 257
- 1073 0 l 257
- 1073 45 l 257
- 882 45 l 257
- 882 760 l 257
- 1114 760 l 257
- 1114 805 l 257
- 882 805 l 257
- 882 1030 l 258
- 882 1106 935 1147 982 1147 c 256
- 1032 1147 1087 1133 1098 1040 c 257
- 1141 1058 l 257
- 1130 1167 1052 1195 981 1195 c 256
- 905 1195 823 1137 823 1025 c 258
- 823 805 l 257
- 510 805 l 257
- 510 760 l 257
- 823 760 l 257
- 823 45 l 257
- 672 45 l 257
- 672 0 l 257
+672 0 m 1
+ 1073 0 l 1
+ 1073 45 l 1
+ 882 45 l 1
+ 882 760 l 1
+ 1114 760 l 1
+ 1114 805 l 1
+ 882 805 l 1
+ 882 1030 l 2
+ 882 1106 935 1147 982 1147 c 0
+ 1032 1147 1087 1133 1098 1040 c 1
+ 1141 1058 l 1
+ 1130 1167 1052 1195 981 1195 c 0
+ 905 1195 823 1137 823 1025 c 2
+ 823 805 l 1
+ 324 804 l 1
+ 324 1027 l 2
+ 324 1107 369 1149 434 1149 c 0
+ 499 1149 537 1113 546 1040 c 1
+ 591 1058 l 1
+ 583 1147 523 1195 431 1195 c 0
+ 325 1195 261 1133 261 1028 c 2
+ 261 804 l 1
+ 106 804 l 1
+ 106 759 l 1
+ 261 759 l 1
+ 261 45 l 1
+ 110 45 l 1
+ 110 0 l 1
+ 518 0 l 1
+ 518 45 l 1
+ 324 45 l 1
+ 324 759 l 1
+ 823 760 l 1
+ 823 45 l 1
+ 672 45 l 1
+ 672 0 l 1
 EndSplineSet
-Refer: 234 102 N 1 0 0 1 0 0 2
+LCarets2: 1 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f
 EndChar
 
 StartChar: ffi
@@ -13503,29 +13476,55 @@ p15
 LayerCount: 2
 Fore
 SplineSet
-193 0 m 257
- 590 0 l 257
- 590 45 l 257
- 403 45 l 257
- 403 759 l 257
- 835 759 l 257
- 835 804 l 257
- 403 804 l 257
- 403 1004 l 258
- 403 1105 504 1166 660 1166 c 256
- 759 1166 886 1126 986 1061 c 257
- 1014 1095 l 257
- 905 1167 766 1211 654 1211 c 256
- 467 1211 344 1132 344 1000 c 258
- 344 804 l 257
- 188 804 l 257
- 188 759 l 257
- 344 759 l 257
- 344 45 l 257
- 193 45 l 257
- 193 0 l 257
+933 804 m 1
+ 403 804 l 1
+ 403 1004 l 2
+ 403 1105 504 1166 660 1166 c 0
+ 753.161700442 1166 871.118306303 1130.57870654 968.037762997 1072.23577088 c 1
+ 945.231280579 1036.09628788 933 993.460353601 933 945 c 2
+ 933 804 l 1
+193 0 m 1
+ 590 0 l 1
+ 590 45 l 1
+ 403 45 l 1
+ 403 759 l 1
+ 933 759 l 1
+ 933 45 l 1
+ 770 45 l 1
+ 770 0 l 1
+ 1191 0 l 1
+ 1191 45 l 1
+ 993 45 l 1
+ 993 759 l 1
+ 1494 759 l 1
+ 1494 45 l 1
+ 1341 45 l 1
+ 1341 0 l 1
+ 1707 0 l 1
+ 1707 45 l 1
+ 1553 45 l 1
+ 1553 804 l 1
+ 993 804 l 1
+ 993 947 l 2
+ 993 1086 1113 1168 1302 1168 c 0
+ 1367 1168 1467 1153 1490 1103 c 1
+ 1464 1097 1453 1075 1453 1054 c 0
+ 1453 1024 1480 1004 1517 1004 c 0
+ 1553 1004 1574 1029 1574 1065 c 0
+ 1574 1155 1466 1211 1305 1211 c 0
+ 1167.11014615 1211 1058.51533863 1174.19340334 995.09733162 1107.02497985 c 1
+ 889.256571981 1171.8685618 759.622049269 1211 654 1211 c 0
+ 467 1211 344 1132 344 1000 c 2
+ 344 804 l 1
+ 188 804 l 1
+ 188 759 l 1
+ 344 759 l 1
+ 344 45 l 1
+ 193 45 l 1
+ 193 0 l 1
 EndSplineSet
-Refer: 239 64257 N 1 0 0 1 657 0 2
+LCarets2: 2 0 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f i
 EndChar
 
 StartChar: ffl
@@ -13564,29 +13563,52 @@ p15
 LayerCount: 2
 Fore
 SplineSet
-100 0 m 257
- 497 0 l 257
- 497 45 l 257
- 311 45 l 257
- 311 759 l 257
- 742 759 l 257
- 742 804 l 257
- 311 804 l 257
- 311 1004 l 258
- 311 1105 411 1166 567 1166 c 256
- 666 1166 793 1126 893 1061 c 257
- 921 1095 l 257
- 813 1167 674 1211 561 1211 c 256
- 374 1211 251 1132 251 1000 c 258
- 251 804 l 257
- 95 804 l 257
- 95 759 l 257
- 251 759 l 257
- 251 45 l 257
- 100 45 l 257
- 100 0 l 257
+846 804 m 1
+ 311 804 l 1
+ 311 1004 l 2
+ 311 1105 411 1166 567 1166 c 0
+ 659.172051659 1166 775.615018427 1131.32726413 871.941994724 1074.08731209 c 1
+ 855.034769598 1039.68460536 846 1000.49765621 846 957 c 2
+ 846 804 l 1
+100 0 m 1
+ 497 0 l 1
+ 497 45 l 1
+ 311 45 l 1
+ 311 759 l 1
+ 846 759 l 1
+ 846 45 l 1
+ 683 45 l 1
+ 683 0 l 1
+ 1104 0 l 1
+ 1104 45 l 1
+ 906 45 l 1
+ 906 759 l 1
+ 1119 759 l 1
+ 1119 804 l 1
+ 906 804 l 1
+ 906 965 l 2
+ 906 1107 1033 1194 1223 1194 c 0
+ 1358 1194 1444 1165 1444 1119 c 2
+ 1444 45 l 2
+ 1444 38 1450 0 1457 0 c 2
+ 1705 0 l 1
+ 1705 45 l 1
+ 1503 45 l 1
+ 1503 1118 l 2
+ 1503 1195 1393 1242 1224 1242 c 0
+ 1074.65709452 1242 957.034442787 1195.30073754 894.818019092 1111.55205398 c 1
+ 791.172951966 1173.6854782 665.061730905 1211 561 1211 c 0
+ 374 1211 251 1132 251 1000 c 2
+ 251 804 l 1
+ 95 804 l 1
+ 95 759 l 1
+ 251 759 l 1
+ 251 45 l 1
+ 100 45 l 1
+ 100 0 l 1
 EndSplineSet
-Refer: 242 64258 N 1 0 0 1 570 0 2
+LCarets2: 2 0 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f f l
 EndChar
 
 StartChar: fi
@@ -13655,6 +13677,8 @@ SplineSet
  113 45 l 257
  113 0 l 257
 EndSplineSet
+LCarets2: 1 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f i
 EndChar
 
 StartChar: five
@@ -13759,6 +13783,8 @@ SplineSet
  636 -206 l 257
  636 -250 l 257
 EndSplineSet
+LCarets2: 1 0 
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f j
 EndChar
 
 StartChar: fl
@@ -13824,6 +13850,7 @@ SplineSet
  113 45 l 257
  113 0 l 257
 EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" f l
 EndChar
 
 StartChar: florin
@@ -14319,7 +14346,6 @@ p65
 (tsS'anchors'
 p66
 (tsss."
-AnchorPoint: "top" 489 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14629,7 +14655,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 145 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14970,7 +14995,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 516 1013 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15111,7 +15135,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 150 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15809,7 +15832,6 @@ p19
 (tsS'anchors'
 p20
 (tsss."
-AnchorPoint: "top" 572 998 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15974,7 +15996,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 235 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16437,7 +16458,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 810 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16512,7 +16532,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 168 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16597,13 +16616,28 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-193 -308 m 257
- 253 -308 l 257
- 253 381 l 257
- 193 381 l 257
- 193 -308 l 257
+193 -308 m 1
+ 253 -308 l 1
+ 253 48.2019154121 l 1
+ 290.675146881 7.77852539558 349.942279479 -22 441 -22 c 0
+ 565 -22 674 29 776 101 c 1
+ 782 0 l 1
+ 984 0 l 1
+ 984 43 l 1
+ 833 43 l 1
+ 833 804 l 1
+ 623 804 l 1
+ 623 759 l 1
+ 773 759 l 1
+ 773 145 l 1
+ 671 75 577 25 445 25 c 0
+ 310 25 253 116 253 213 c 0
+ 253 804 l 1
+ 37 804 l 1
+ 37 759 l 1
+ 193 759 l 1
+ 193 -308 l 1
 EndSplineSet
-Refer: 392 117 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: multiply
@@ -16690,7 +16724,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 595 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17126,7 +17159,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 488 805 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17992,7 +18024,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 564 805 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19316,7 +19347,6 @@ p39
 (tsS'anchors'
 p40
 (tsss."
-AnchorPoint: "top" 497 805 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19615,7 +19645,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 164 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19664,7 +19693,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 455 805 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20337,7 +20365,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 222 1000 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20683,7 +20710,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 231 791 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20927,7 +20953,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 488 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21451,9 +21476,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
+Refer: 144 381 N 1 0 0 1 1429 0 2
 Refer: 22 68 N 1 0 0 1 0 0 2
-Refer: 142 90 N 1 0 0 1 1429 0 2
-Refer: 181 711 N 1 0 0 1 1887 348 2
 EndChar
 
 StartChar: uni01C5
@@ -21491,14 +21515,13 @@ p15
 (tsss."
 LayerCount: 2
 Fore
+Refer: 518 382 N 1 0 0 1 1429 0 2
 Refer: 22 68 N 1 0 0 1 0 0 2
-Refer: 516 122 N 1 0 0 1 1429 0 2
-Refer: 181 711 N 1 0 0 1 1723 0 2
 EndChar
 
 StartChar: uni01C6
 Encoding: 454 454 410
-Width: 1963
+Width: 1964
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -21531,14 +21554,13 @@ p15
 (tsss."
 LayerCount: 2
 Fore
+Refer: 518 382 N 1 0 0 1 1017 0 2
 Refer: 196 100 N 1 0 0 1 0 0 2
-Refer: 516 122 N 1 0 0 1 1017 0 2
-Refer: 181 711 N 1 0 0 1 1310 0 2
 EndChar
 
 StartChar: uni01C9
 Encoding: 457 457 411
-Width: 871
+Width: 872
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -21571,8 +21593,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 285 108 N 1 0 0 1 0 0 2
 Refer: 280 106 N 1 0 0 1 458 0 2
+Refer: 285 108 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CC
@@ -21610,8 +21632,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 302 110 N 1 0 0 1 0 0 2
 Refer: 280 106 N 1 0 0 1 1017 0 2
+Refer: 302 110 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01CD
@@ -21857,8 +21879,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 22 68 N 1 0 0 1 0 0 2
 Refer: 142 90 N 1 0 0 1 1429 0 2
+Refer: 22 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F2
@@ -21896,13 +21918,13 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 22 68 N 1 0 0 1 0 0 2
 Refer: 516 122 N 1 0 0 1 1429 0 2
+Refer: 22 68 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F3
 Encoding: 499 499 428
-Width: 1963
+Width: 1964
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -21935,8 +21957,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 196 100 N 1 0 0 1 0 0 2
 Refer: 516 122 N 1 0 0 1 1017 0 2
+Refer: 196 100 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01F4
@@ -22084,8 +22106,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 69 76 N 1 0 0 1 0 0 2
 Refer: 65 74 N 1 0 0 1 1058 0 2
+Refer: 69 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01c8
@@ -22123,13 +22145,13 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 69 76 N 1 0 0 1 0 0 2
 Refer: 280 106 N 1 0 0 1 1058 0 2
+Refer: 69 76 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01ca
 Encoding: 458 458 435
-Width: 2011
+Width: 2012
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -22162,8 +22184,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 78 78 N 1 0 0 1 0 0 2
 Refer: 65 74 N 1 0 0 1 1444 0 2
+Refer: 78 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni01cb
@@ -22201,8 +22223,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 78 78 N 1 0 0 1 0 0 2
 Refer: 280 106 N 1 0 0 1 1444 0 2
+Refer: 78 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0200
@@ -23381,7 +23403,7 @@ EndChar
 
 StartChar: uni0237
 Encoding: 567 567 473
-Width: 398
+Width: 414
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -23412,23 +23434,22 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 228 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-23 -240 m 257
- 95 -240 l 258
- 250.204081633 -240 266.04123282 -151.9454394 266.04123282 -82.2231893174 c 0
- 266.04123282 -64.3456892961 265 -47.6734693878 265 -34 c 258
- 265 804 l 257
- 48 804 l 257
- 48 770 l 257
- 221 770 l 257
- 221 -39 l 258
- 221 -49.076433121 221.055661487 -58.6996227027 221.055661487 -67.8702778087 c 0
- 221.055661487 -161.541969248 215.248407643 -208 85 -208 c 258
- 23 -208 l 257
- 23 -240 l 257
+21 -250 m 1
+ 96 -250 l 2
+ 270.451612903 -250 284.520291363 -150.815816857 284.520291363 -69.8528414622 c 0
+ 284.520291363 -54.2830385016 284 -39.3870967742 284 -26 c 2
+ 284 805 l 1
+ 64 805 l 1
+ 64 763 l 1
+ 222 763 l 1
+ 222 -36 l 2
+ 222 -42.2040816327 222.011846916 -48.2363829886 222.011846916 -54.0972264328 c 0
+ 222.011846916 -155.929381276 218.43537415 -206 87 -206 c 2
+ 21 -206 l 1
+ 21 -250 l 1
 EndSplineSet
 EndChar
 
@@ -23486,7 +23507,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 182 805 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -23531,7 +23551,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 488 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -24179,7 +24198,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 777 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -24375,7 +24393,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 566 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -24596,7 +24613,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 481 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
