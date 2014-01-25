@@ -38,7 +38,7 @@
 	<string>Copyright (c) 2013, vernon adams.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
+This license is available with a FAQ at:
 http://scripts.sil.org/OFL
 </string>
 	<key>openTypeNameLicenseURL</key>
@@ -75,22 +75,6 @@ http://scripts.sil.org/OFL
 	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
-	<integer>0</integer>
-	<key>postscriptBlueValues</key>
-	<array>
-		<integer>-22</integer>
-		<integer>0</integer>
-		<integer>804</integer>
-		<integer>826</integer>
-		<integer>1152</integer>
-		<integer>1174</integer>
-	</array>
-	<key>postscriptOtherBlues</key>
-	<array>
-		<integer>-330</integer>
-		<integer>-316</integer>
-	</array>
-	<key>postscriptBlueShift</key>
 	<integer>0</integer>
     </dict>
 </plist>
