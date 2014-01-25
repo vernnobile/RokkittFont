@@ -15,13 +15,14 @@ UFODescent: -410
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1390513424
-ModificationTime: 1390527680
-PfmFamily: 0
-TTFWeight: 300
+CreationTime: 1390527681
+ModificationTime: 1390610879
+PfmFamily: 17
+TTFWeight: 900
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
@@ -49,14 +50,14 @@ OS2SupXOff: 0
 OS2SupYOff: 716
 OS2StrikeYSize: 0
 OS2StrikeYPos: 501
-OS2Vendor: 'PfEd'
+OS2Vendor: 'NeWT'
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 PickledData: "(dp1
-S'com.typemytype.robofont.compileSettings.generateFormat'
+S'com.typemytype.robofont.shouldAddPointsInSplineConversion'
 p2
-I0
+I1
 sS'com.petr.ptt'
 p3
 (dp4
@@ -66,13 +67,13 @@ p5
 S'maxp'
 p7
 (dp8
-S'numGlyphs'
+S'tableTag'
 p9
-I423
-sS'tableTag'
-p10
 S'maxp'
+p10
+sS'numGlyphs'
 p11
+I423
 sS'tableVersion'
 p12
 I20480
@@ -101,9 +102,9 @@ I1
 sS'com.typemytype.robofont.compileSettings.MacRomanFirst'
 p25
 I1
-sS'com.typemytype.robofont.shouldAddPointsInSplineConversion'
+sS'com.typemytype.robofont.compileSettings.generateFormat'
 p26
-I1
+I0
 sS'com.typemytype.robofont.compileSettings.decompose'
 p27
 I1
@@ -762,11 +763,11 @@ I1
 I0
 F0.25
 tp67
-sS'@MMK_R_Y_Right'
+sS'@MMK_R_y_Left'
 p68
-(I1
-I0
-F0.5
+(I0
+I1
+I1
 F0.25
 tp69
 sS'@MMK_L_A_Left'
@@ -797,11 +798,11 @@ I1
 I0
 F0.25
 tp77
-sS'@MMK_L_k_Left'
+sS'@MMK_R_a_Right'
 p78
 (I1
 I0
-F0.5
+I0
 F0.25
 tp79
 sS'@MMK_R_O_Right'
@@ -867,11 +868,11 @@ I1
 I1
 F0.25
 tp97
-sS'@MMK_R_y_Left'
+sS'@MMK_R_Y_Right'
 p98
-(I0
-I1
-I1
+(I1
+I0
+F0.5
 F0.25
 tp99
 sS'@MMK_L_Y_Left'
@@ -923,11 +924,11 @@ F0.5
 I0
 F0.25
 tp113
-sS'@MMK_R_a_Right'
+sS'@MMK_L_k_Left'
 p114
 (I1
 I0
-I0
+F0.5
 F0.25
 tp115
 sS'@MMK_R_U_Right'
@@ -983,7 +984,7 @@ BeginPrivate: 2
 BlueShift 1 0
 BlueValues 25 [-22 0 804 826 1152 1174]
 EndPrivate
-AnchorClass2: "caron.alt" "bot" "top" 
+AnchorClass2: "caron.alt" "top" 
 BeginChars: 65562 518
 
 StartChar: A
@@ -1959,7 +1960,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 754 0 basechar 0
 AnchorPoint: "top" 760 1152 basechar 0
 LayerCount: 2
 Fore
@@ -2429,7 +2429,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 619 0 basechar 0
 AnchorPoint: "top" 700 1152 basechar 0
 LayerCount: 2
 Fore
@@ -3309,7 +3308,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 818 0 basechar 0
 AnchorPoint: "top" 833 1152 basechar 0
 LayerCount: 2
 Fore
@@ -3564,7 +3562,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 847 0 basechar 0
 AnchorPoint: "top" 845 1152 basechar 0
 LayerCount: 2
 Fore
@@ -4267,7 +4264,6 @@ p19
 (tsS'anchors'
 p20
 (tsss."
-AnchorPoint: "bot" 874 0 basechar 0
 AnchorPoint: "top" 871 1152 basechar 0
 LayerCount: 2
 Fore
@@ -4384,7 +4380,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 690 0 basechar 0
 AnchorPoint: "caron.alt" 724 936 basechar 0
 AnchorPoint: "top" 372 1152 basechar 0
 LayerCount: 2
@@ -4749,7 +4744,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 978 0 basechar 0
 AnchorPoint: "top" 921 1152 basechar 0
 LayerCount: 2
 Fore
@@ -6178,7 +6172,6 @@ p75
 (tsS'anchors'
 p76
 (tsss."
-AnchorPoint: "bot" 783 0 basechar 0
 AnchorPoint: "top" 609 1152 basechar 0
 LayerCount: 2
 Fore
@@ -6769,7 +6762,6 @@ p92
 (tsS'anchors'
 p93
 (tsss."
-AnchorPoint: "bot" 667 0 basechar 0
 AnchorPoint: "top" 583 1148 basechar 0
 LayerCount: 2
 Fore
@@ -7050,7 +7042,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 737 0 basechar 0
 AnchorPoint: "top" 712 1152 basechar 0
 LayerCount: 2
 Fore
@@ -9401,15 +9392,15 @@ p15
 LayerCount: 2
 Fore
 SplineSet
-840 461 m 256
- 936 461 1017 508 1085 588 c 257
+840 411 m 256
+ 936 411 1017 458 1085 538 c 257
  1058 731 l 257
  993 666 925 630 847 630 c 256
  710 630 559 757 386 757 c 256
  284 757 202 714 132 627 c 257
- 155 489 l 257
- 227 562 289 597 370 597 c 256
- 523 597 674 461 840 461 c 256
+ 155 439 l 257
+ 227 512 289 547 370 547 c 256
+ 523 547 674 411 840 411 c 256
 EndSplineSet
 EndChar
 
@@ -10413,7 +10404,6 @@ p64
 (tsS'anchors'
 p65
 (tsss."
-AnchorPoint: "bot" 560 0 basechar 0
 AnchorPoint: "top" 585 804 basechar 0
 LayerCount: 2
 Fore
@@ -10738,7 +10728,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "bot" 336 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12077,7 +12066,6 @@ p62
 (tsS'anchors'
 p63
 (tsss."
-AnchorPoint: "bot" 515 0 basechar 0
 AnchorPoint: "top" 489 804 basechar 0
 LayerCount: 2
 Fore
@@ -12882,7 +12870,7 @@ EndChar
 
 StartChar: exclamdown
 Encoding: 161 161 232
-Width: 762
+Width: 647
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -12915,7 +12903,7 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 231 33 N 1.4 0 0 -1 -40 945 2
+Refer: 231 33 N 1 0 0 -1 0 949 2
 EndChar
 
 StartChar: f
@@ -15449,7 +15437,6 @@ p19
 (tsS'anchors'
 p20
 (tsss."
-AnchorPoint: "bot" 680 0 basechar 0
 AnchorPoint: "top" 881 1015 basechar 0
 LayerCount: 2
 Fore
@@ -15627,7 +15614,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 360 0 basechar 0
 AnchorPoint: "caron.alt" 447 936 basechar 0
 AnchorPoint: "top" 337 1152 basechar 0
 LayerCount: 2
@@ -16358,7 +16344,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 674 0 basechar 0
 AnchorPoint: "top" 650 804 basechar 0
 LayerCount: 2
 Fore
@@ -19071,7 +19056,6 @@ p39
 (tsS'anchors'
 p40
 (tsss."
-AnchorPoint: "bot" 329 0 basechar 0
 AnchorPoint: "top" 465 804 basechar 0
 LayerCount: 2
 Fore
@@ -19428,7 +19412,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 558 0 basechar 0
 AnchorPoint: "top" 415 804 basechar 0
 LayerCount: 2
 Fore
@@ -19961,7 +19944,7 @@ EndChar
 
 StartChar: softhyphen
 Encoding: 173 173 375
-Width: 479
+Width: 696
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -19993,6 +19976,14 @@ p14
 p15
 (tsss."
 LayerCount: 2
+Fore
+SplineSet
+45 418 m 257
+ 651 418 l 257
+ 651 628 l 257
+ 45 628 l 257
+ 45 418 l 257
+EndSplineSet
 EndChar
 
 StartChar: space
@@ -20195,7 +20186,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "bot" 439 0 basechar 0
 AnchorPoint: "caron.alt" 379 1107 basechar 0
 AnchorPoint: "top" 326 1061 basechar 0
 LayerCount: 2

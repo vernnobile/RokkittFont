@@ -2,18 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-      <integer>1</integer>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+      <integer>0</integer>
     <key>com.petr.ptt</key>
       <dict>
     <key>originals</key>
       <dict>
     <key>maxp</key>
       <dict>
-    <key>tableTag</key>
-      <string>maxp</string>
     <key>numGlyphs</key>
       <integer>423</integer>
+    <key>tableTag</key>
+      <string>maxp</string>
     <key>tableVersion</key>
       <integer>20480</integer>
       </dict>
@@ -39,8 +39,8 @@
       <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
       <integer>1</integer>
-    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
-      <integer>0</integer>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+      <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.decompose</key>
       <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.path</key>
@@ -51,13 +51,6 @@
       </array>
     <key>com.typemytype.robofont.segmentType</key>
       <string>curve</string>
-    <key>com.typemytype.robofont.foreground.layerStrokeColor</key>
-      <array>
-        <real>0.5</real>
-        <integer>0</integer>
-        <real>0.5</real>
-        <real>0.7</real>
-      </array>
     <key>public.glyphOrder</key>
       <array>
         <string>space</string>
@@ -602,6 +595,13 @@
         <string>uni0009</string>
         <string>uni000A</string>
       </array>
+    <key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+      <array>
+        <real>0.5</real>
+        <integer>0</integer>
+        <real>0.5</real>
+        <real>0.7</real>
+      </array>
     <key>com.schriftgestaltung.fontMasterID</key>
       <string>98C086B7-81AA-4491-8494-0C6A76849168</string>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
@@ -684,11 +684,11 @@
         <integer>0</integer>
         <real>0.25</real>
       </array>
-    <key>@MMK_R_y_Left</key>
+    <key>@MMK_R_Y_Right</key>
       <array>
+        <integer>1</integer>
         <integer>0</integer>
-        <integer>1</integer>
-        <integer>1</integer>
+        <real>0.5</real>
         <real>0.25</real>
       </array>
     <key>@MMK_L_A_Left</key>
@@ -719,11 +719,11 @@
         <integer>0</integer>
         <real>0.25</real>
       </array>
-    <key>@MMK_R_a_Right</key>
+    <key>@MMK_L_k_Left</key>
       <array>
         <integer>1</integer>
         <integer>0</integer>
-        <integer>0</integer>
+        <real>0.5</real>
         <real>0.25</real>
       </array>
     <key>@MMK_R_O_Right</key>
@@ -789,11 +789,11 @@
         <integer>1</integer>
         <real>0.25</real>
       </array>
-    <key>@MMK_R_Y_Right</key>
+    <key>@MMK_R_y_Left</key>
       <array>
-        <integer>1</integer>
         <integer>0</integer>
-        <real>0.5</real>
+        <integer>1</integer>
+        <integer>1</integer>
         <real>0.25</real>
       </array>
     <key>@MMK_L_Y_Left</key>
@@ -845,11 +845,11 @@
         <integer>0</integer>
         <real>0.25</real>
       </array>
-    <key>@MMK_L_k_Left</key>
+    <key>@MMK_R_a_Right</key>
       <array>
         <integer>1</integer>
         <integer>0</integer>
-        <real>0.5</real>
+        <integer>0</integer>
         <real>0.25</real>
       </array>
     <key>@MMK_R_U_Right</key>

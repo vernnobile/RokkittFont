@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecmb" format="1">
+  <advance width="655"/>
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="366" y="804" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="201" y="983" type="line"/>
+      <point x="260" y="983" type="line"/>
+      <point x="148" y="1287" type="line"/>
+      <point x="42" y="1287" type="line"/>
+    </contour>
+    <contour>
+      <point x="430" y="983" type="line"/>
+      <point x="489" y="983" type="line"/>
+      <point x="377" y="1287" type="line"/>
+      <point x="271" y="1287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>983</integer>
+	    <key>width</key>	    <integer>304</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>uni030F</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>643</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

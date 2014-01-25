@@ -25,7 +25,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/01/24 04:32:49</string>
+	<string>2014/01/24 05:42:55</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -43,6 +43,8 @@ http://scripts.sil.org/OFL
 </string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 2</string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -67,12 +69,28 @@ http://scripts.sil.org/OFL
 	<key>postscriptFontName</key>
 	<string>Rokkitt-ExtraLight</string>
 	<key>postscriptFullName</key>
-	<string></string>
+	<string>Rokkitt ExtraLight</string>
 	<key>postscriptWeightName</key>
-	<string></string>
+	<string>Regular</string>
 	<key>postscriptUnderlineThickness</key>
 	<integer>0</integer>
 	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-22</integer>
+		<integer>0</integer>
+		<integer>804</integer>
+		<integer>826</integer>
+		<integer>1152</integer>
+		<integer>1174</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-330</integer>
+		<integer>-316</integer>
+	</array>
+	<key>postscriptBlueShift</key>
 	<integer>0</integer>
     </dict>
 </plist>

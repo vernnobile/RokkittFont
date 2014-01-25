@@ -2,7 +2,7 @@ SplineFontDB: 3.0
 FontName: Rokkitt-Medium
 FullName: Rokkitt Medium
 FamilyName: Rokkitt
-Weight: Regular
+Weight: Medium
 Copyright: 
 Version: 2
 ItalicAngle: 0
@@ -19,8 +19,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1390537051
-ModificationTime: 1390541843
+CreationTime: 1390542175
+ModificationTime: 1390609945
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -46,9 +46,9 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
 PickledData: "(dp1
-S'com.typemytype.robofont.shouldAddPointsInSplineConversion'
+S'com.typemytype.robofont.compileSettings.generateFormat'
 p2
-I1
+I0
 sS'com.petr.ptt'
 p3
 (dp4
@@ -58,13 +58,13 @@ p5
 S'maxp'
 p7
 (dp8
-S'tableTag'
+S'numGlyphs'
 p9
-S'maxp'
-p10
-sS'numGlyphs'
-p11
 I423
+sS'tableTag'
+p10
+S'maxp'
+p11
 sS'tableVersion'
 p12
 I20480
@@ -93,9 +93,9 @@ I1
 sS'com.typemytype.robofont.compileSettings.MacRomanFirst'
 p25
 I1
-sS'com.typemytype.robofont.compileSettings.generateFormat'
+sS'com.typemytype.robofont.shouldAddPointsInSplineConversion'
 p26
-I0
+I1
 sS'com.typemytype.robofont.compileSettings.decompose'
 p27
 I1
@@ -111,1398 +111,2379 @@ sS'com.typemytype.robofont.segmentType'
 p32
 S'curve'
 p33
-sS'com.typemytype.robofont.foreground.layerStrokeColor'
-p34
-(F0.5
-I0
-F0.5
-F0.69999999999999996
-tp35
 sS'public.glyphOrder'
-p36
+p34
 (S'space'
+p35
 S'A'
 S'Agrave'
+p36
 S'Aacute'
+p37
 S'Acircumflex'
+p38
 S'Atilde'
+p39
 S'Adieresis'
+p40
 S'Aring'
+p41
 S'Amacron'
+p42
 S'Abreve'
+p43
 S'Aogonek'
+p44
 S'uni0200'
+p45
 S'uni0202'
+p46
 S'B'
 S'C'
 S'Ccedilla'
+p47
 S'Cacute'
+p48
 S'Ccircumflex'
+p49
 S'Cdotaccent'
+p50
 S'Ccaron'
+p51
 S'D'
 S'Dcaron'
+p52
 S'E'
 S'Egrave'
+p53
 S'Eacute'
+p54
 S'Ecircumflex'
+p55
 S'Edieresis'
+p56
 S'Emacron'
+p57
 S'Edotaccent'
+p58
 S'Eogonek'
+p59
 S'Ecaron'
+p60
 S'uni0204'
+p61
 S'uni0206'
+p62
 S'F'
 S'G'
 S'Gcircumflex'
+p63
 S'Gbreve'
+p64
 S'Gdotaccent'
+p65
 S'Gcommaaccent'
+p66
 S'uni01F4'
+p67
 S'H'
 S'Hcircumflex'
+p68
 S'I'
 S'Igrave'
+p69
 S'Iacute'
+p70
 S'Icircumflex'
+p71
 S'Idieresis'
+p72
 S'Itilde'
+p73
 S'Imacron'
+p74
 S'Ibreve'
+p75
 S'Iogonek'
+p76
 S'Idotaccent'
+p77
 S'uni0208'
+p78
 S'uni020A'
+p79
 S'J'
 S'Jcircumflex'
+p80
 S'K'
 S'Kcommaaccent'
+p81
 S'L'
 S'Lacute'
+p82
 S'Lcommaaccent'
+p83
 S'Lcaron'
+p84
 S'M'
 S'N'
 S'Ntilde'
+p85
 S'Nacute'
+p86
 S'Ncommaaccent'
+p87
 S'Ncaron'
+p88
 S'O'
 S'Ograve'
+p89
 S'Oacute'
+p90
 S'Ocircumflex'
+p91
 S'Otilde'
+p92
 S'Odieresis'
+p93
 S'Omacron'
+p94
 S'Obreve'
+p95
 S'Ohungarumlaut'
+p96
 S'uni020C'
+p97
 S'uni020E'
+p98
 S'P'
 S'Q'
 S'R'
 S'Racute'
+p99
 S'Rcommaaccent'
+p100
 S'Rcaron'
+p101
 S'uni0210'
+p102
 S'uni0212'
+p103
 S'S'
 S'Sacute'
+p104
 S'Scedilla'
+p105
 S'Scaron'
+p106
 S'T'
 S'Tcaron'
+p107
 S'uni021A'
+p108
 S'U'
 S'Ugrave'
+p109
 S'Uacute'
+p110
 S'Ucircumflex'
+p111
 S'Udieresis'
+p112
 S'Utilde'
+p113
 S'Umacron'
+p114
 S'Ubreve'
+p115
 S'Uring'
+p116
 S'Uhungarumlaut'
+p117
 S'Uogonek'
+p118
 S'uni0214'
+p119
 S'uni0216'
+p120
 S'V'
 S'W'
 S'X'
 S'Y'
 S'Yacute'
+p121
 S'Ydieresis'
+p122
 S'Z'
 S'Zacute'
+p123
 S'Zdotaccent'
+p124
 S'Zcaron'
+p125
 S'AE'
+p126
 S'Eth'
+p127
 S'Oslash'
+p128
 S'Thorn'
+p129
 S'Hbar'
+p130
 S'IJ'
+p131
 S'Ldot'
+p132
 S'Lslash'
+p133
 S'OE'
+p134
 S'uni01C4'
+p135
 S'uni01c7'
+p136
 S'uni01ca'
+p137
 S'uni01F1'
+p138
 S'a'
 S'agrave'
+p139
 S'aacute'
+p140
 S'acircumflex'
+p141
 S'atilde'
+p142
 S'adieresis'
+p143
 S'aring'
+p144
 S'amacron'
+p145
 S'abreve'
+p146
 S'aogonek'
+p147
 S'uni0201'
+p148
 S'uni0203'
+p149
 S'b'
 S'c'
 S'ccedilla'
+p150
 S'cacute'
+p151
 S'ccircumflex'
+p152
 S'cdotaccent'
+p153
 S'ccaron'
+p154
 S'd'
 S'dcaron'
+p155
 S'e'
 S'egrave'
+p156
 S'eacute'
+p157
 S'ecircumflex'
+p158
 S'edieresis'
+p159
 S'emacron'
+p160
 S'edotaccent'
+p161
 S'eogonek'
+p162
 S'ecaron'
+p163
 S'uni0205'
+p164
 S'uni0207'
+p165
 S'f'
 S'g'
 S'gcircumflex'
+p166
 S'gbreve'
+p167
 S'gdotaccent'
+p168
 S'uni01F5'
+p169
 S'h'
 S'hcircumflex'
+p170
 S'i'
 S'igrave'
+p171
 S'iacute'
+p172
 S'icircumflex'
+p173
 S'idieresis'
+p174
 S'itilde'
+p175
 S'imacron'
+p176
 S'ibreve'
+p177
 S'iogonek'
+p178
 S'uni020B'
+p179
 S'j'
 S'jcircumflex'
+p180
 S'k'
 S'kcommaaccent'
+p181
 S'l'
 S'lacute'
+p182
 S'lcommaaccent'
+p183
 S'lcaron'
+p184
 S'm'
 S'n'
 S'ntilde'
+p185
 S'nacute'
+p186
 S'ncommaaccent'
+p187
 S'ncaron'
+p188
 S'o'
 S'ograve'
+p189
 S'oacute'
+p190
 S'ocircumflex'
+p191
 S'otilde'
+p192
 S'odieresis'
+p193
 S'omacron'
+p194
 S'obreve'
+p195
 S'ohungarumlaut'
+p196
 S'uni020D'
+p197
 S'uni020F'
+p198
 S'p'
 S'q'
 S'r'
 S'racute'
+p199
 S'rcommaaccent'
+p200
 S'rcaron'
+p201
 S'uni0211'
+p202
 S'uni0213'
+p203
 S's'
 S'sacute'
+p204
 S'scircumflex'
+p205
 S'scedilla'
+p206
 S'scaron'
+p207
 S'scommaaccent'
+p208
 S't'
 S'tcaron'
+p209
 S'uni021B'
+p210
 S'u'
 S'ugrave'
+p211
 S'uacute'
+p212
 S'ucircumflex'
+p213
 S'udieresis'
+p214
 S'utilde'
+p215
 S'umacron'
+p216
 S'ubreve'
+p217
 S'uring'
+p218
 S'uhungarumlaut'
+p219
 S'uogonek'
+p220
 S'uni0215'
+p221
 S'uni0217'
+p222
 S'v'
 S'w'
 S'x'
 S'y'
 S'yacute'
+p223
 S'ydieresis'
+p224
 S'z'
 S'zacute'
+p225
 S'zdotaccent'
+p226
 S'zcaron'
+p227
 S'ordfeminine'
+p228
 S'ordmasculine'
+p229
 S'germandbls'
+p230
 S'ae'
+p231
 S'eth'
+p232
 S'oslash'
+p233
 S'thorn'
+p234
 S'dcroat'
+p235
 S'hbar'
+p236
 S'dotlessi'
+p237
 S'ij'
+p238
 S'kgreenlandic'
+p239
 S'ldot'
+p240
 S'lslash'
+p241
 S'oe'
+p242
 S'uni01C6'
+p243
 S'uni01C9'
+p244
 S'uni01CC'
+p245
 S'uni01F3'
+p246
 S'uni0237'
+p247
 S'uni01C5'
+p248
 S'uni01c8'
+p249
 S'uni01cb'
+p250
 S'uni01F2'
+p251
 S'uni0307'
+p252
 S'uni0311'
+p253
 S'zero'
+p254
 S'one'
+p255
 S'two'
+p256
 S'three'
+p257
 S'four'
+p258
 S'five'
+p259
 S'six'
+p260
 S'seven'
+p261
 S'eight'
+p262
 S'nine'
+p263
 S'onequarter'
+p264
 S'underscore'
+p265
 S'hyphen'
+p266
 S'endash'
+p267
 S'emdash'
+p268
 S'parenleft'
+p269
 S'parenright'
+p270
 S'bracketleft'
+p271
 S'bracketright'
+p272
 S'braceleft'
+p273
 S'braceright'
+p274
 S'numbersign'
+p275
 S'percent'
+p276
 S'quotesingle'
+p277
 S'quotedbl'
+p278
 S'quoteleft'
+p279
 S'quoteright'
+p280
 S'quotedblleft'
+p281
 S'quotedblright'
+p282
 S'quotesinglbase'
+p283
 S'quotedblbase'
+p284
 S'guilsinglleft'
+p285
 S'guilsinglright'
+p286
 S'guillemotleft'
+p287
 S'guillemotright'
+p288
 S'asterisk'
+p289
 S'dagger'
+p290
 S'daggerdbl'
+p291
 S'period'
+p292
 S'comma'
+p293
 S'colon'
+p294
 S'semicolon'
+p295
 S'ellipsis'
+p296
 S'exclam'
+p297
 S'exclamdown'
+p298
 S'question'
+p299
 S'questiondown'
+p300
 S'slash'
+p301
 S'backslash'
+p302
 S'fraction'
+p303
 S'bar'
+p304
 S'brokenbar'
+p305
 S'at'
+p306
 S'ampersand'
+p307
 S'paragraph'
+p308
 S'periodcentered'
+p309
 S'bullet'
+p310
 S'plus'
+p311
 S'minus'
+p312
 S'plusminus'
+p313
 S'divide'
+p314
 S'multiply'
+p315
 S'equal'
+p316
 S'less'
+p317
 S'greater'
+p318
 S'lessequal'
+p319
 S'greaterequal'
+p320
 S'notequal'
+p321
 S'logicalnot'
+p322
 S'uni2206'
+p323
 S'product'
+p324
 S'summation'
+p325
 S'uni00B5'
+p326
 S'radical'
+p327
 S'infinity'
+p328
 S'cent'
+p329
 S'currency'
+p330
 S'yen'
+p331
 S'Euro'
+p332
 S'asciicircum'
+p333
 S'asciitilde'
+p334
 S'acute'
+p335
 S'grave'
+p336
 S'hungarumlaut'
+p337
 S'circumflex'
+p338
 S'caron'
+p339
 S'breve'
+p340
 S'tilde'
+p341
 S'macron'
+p342
 S'dieresis'
+p343
 S'ring'
+p344
 S'ogonek'
+p345
 S'copyright'
+p346
 S'registered'
+p347
 S'trademark'
+p348
 S'degree'
+p349
 S'lozenge'
+p350
 S'CR'
+p351
 S'uni00AD'
+p352
 S'NULL'
+p353
 S'Tcommaaccent'
+p354
 S'foundryicon'
+p355
 S'tcommaaccent'
+p356
 S'fi'
+p357
 S'fl'
+p358
 S'ff'
+p359
 S'ffi'
+p360
 S'ffl'
+p361
 S'lc_ascender_stem'
+p362
 S'lc_bowl_left'
+p363
 S'lc_bowl_right'
+p364
 S'lc_descender_stem'
+p365
 S'lc_xheight_curved_stem'
+p366
 S'lc_xheight_stem'
+p367
 S'uc_main_stem'
+p368
 S'lc_ascender_stem_1'
+p369
 S'lc_ascender_stem_2'
+p370
 S'Dcroat'
+p371
 S'Scommaaccent'
+p372
 S'gcommaaccent'
+p373
 S'onesuperior'
+p374
 S'twosuperior'
+p375
 S'foursuperior'
+p376
 S'uni00A0'
+p377
 S'perthousand'
+p378
 S'uni2126'
+p379
 S'uni2215'
+p380
 S'uni2219'
+p381
 S'uni2113'
+p382
 S'uni02C9'
+p383
 S'pi'
+p384
 S'onehalf'
+p385
 S'threequarters'
+p386
 S'threesuperior'
+p387
 S'florin'
+p388
 S'dollar'
+p389
 S'sterling'
+p390
 S'approxequal'
+p391
 S'integral'
+p392
 S'partialdiff'
+p393
 S'estimated'
+p394
 S'section'
+p395
 S'cedilla'
+p396
 S'dotaccent'
+p397
 S'commaaccent'
+p398
 S'AEacute'
+p399
 S'AEmacron'
+p400
 S'Bdotaccent'
+p401
 S'Ddotaccent'
+p402
 S'Dz'
+p403
 S'Dzcaron'
+p404
 S'Ebreve'
+p405
 S'Fdotaccent'
+p406
 S'Gacute'
+p407
 S'Gcaron'
+p408
 S'Lj'
+p409
 S'Mdotaccent'
+p410
 S'Eng'
+p411
 S'Nj'
+p412
 S'Oslashacute'
+p413
 S'Pdotaccent'
+p414
 S'Scircumflex'
+p415
 S'Sdotaccent'
+p416
 S'Schwa'
+p417
 S'Tbar'
+p418
 S'Tcedilla'
+p419
 S'Tdotaccent'
+p420
 S'Wacute'
+p421
 S'Wcircumflex'
+p422
 S'Wdieresis'
+p423
 S'Wgrave'
+p424
 S'Ycircumflex'
+p425
 S'Ygrave'
+p426
 S'uni01CD'
+p427
 S'uni01CF'
+p428
 S'uni01D1'
+p429
 S'uni01D3'
+p430
 S'uni01E8'
+p431
 S'uni01EA'
+p432
 S'uni01F8'
+p433
 S'uni021E'
+p434
 S'uni0226'
+p435
 S'uni0228'
+p436
 S'uni0232'
+p437
 S'uni1E02'
+p438
 S'uni1E0A'
+p439
 S'uni1E1E'
+p440
 S'uni1E40'
+p441
 S'uni1E56'
+p442
 S'uni1E60'
+p443
 S'uni1E6A'
+p444
 S'uni1EBC'
+p445
 S'uni1EF8'
+p446
 S'aeacute'
+p447
 S'aemacron'
+p448
 S'bdotaccent'
+p449
 S'ddotaccent'
+p450
 S'dz'
+p451
 S'dzcaron'
+p452
 S'ebreve'
+p453
 S'fdotaccent'
+p454
 S'gacute'
+p455
 S'gcaron'
+p456
 S'idotaccent'
+p457
 S'dotlessj'
+p458
 S'lj'
+p459
 S'mdotaccent'
+p460
 S'napostrophe'
+p461
 S'eng'
+p462
 S'nj'
+p463
 S'oslashacute'
+p464
 S'pdotaccent'
+p465
 S'sdotaccent'
+p466
 S'schwa'
+p467
 S'tbar'
+p468
 S'tcedilla'
+p469
 S'tdotaccent'
+p470
 S'uni01CE'
+p471
 S'uni01D0'
+p472
 S'uni01D2'
+p473
 S'uni01D4'
+p474
 S'uni01E9'
+p475
 S'uni01EB'
+p476
 S'uni01F0'
+p477
 S'uni01F9'
+p478
 S'uni0209'
+p479
 S'uni021F'
+p480
 S'uni0227'
+p481
 S'uni0229'
+p482
 S'uni0233'
+p483
 S'uni1E03'
+p484
 S'uni1E0B'
+p485
 S'uni1E1F'
+p486
 S'uni1E41'
+p487
 S'uni1E57'
+p488
 S'uni1E61'
+p489
 S'uni1E6B'
+p490
 S'uni1EBD'
+p491
 S'uni1EF9'
+p492
 S'wacute'
+p493
 S'wcircumflex'
+p494
 S'wdieresis'
+p495
 S'wgrave'
+p496
 S'ycircumflex'
+p497
 S'ygrave'
+p498
 S'uniFB00'
+p499
 S'uniFB03'
+p500
 S'uniFB04'
+p501
 S'Delta'
+p502
 S'Sigma'
+p503
 S'Omega'
+p504
 S'mu'
+p505
 S'uni022E'
+p506
 S'uni022F'
+p507
 S'uni000D'
+p508
 S'.notdef'
+p509
 S'emptyset'
+p510
 S'caron.alt'
+p511
 S'breveinvertedcomb'
+p512
 S'commaturnedabovecomb'
+p513
 S'dotaboverightcomb'
+p514
 S'apostrophemod'
+p515
 S'dblgravecmb'
+p516
 S'dotaccentcmb'
+p517
 S'fj'
+p518
 S'middot'
+p519
 S'slashbar'
+p520
 S'uni0002'
+p521
 S'uni0009'
+p522
 S'uni000A'
-tp37
+p523
+tp524
+sS'com.typemytype.robofont.foreground.layerStrokeColor'
+p525
+(F0.5
+I0
+F0.5
+F0.69999999999999996
+tp526
 sS'com.schriftgestaltung.fontMasterID'
-p38
+p527
 S'98C086B7-81AA-4491-8494-0C6A76849168'
-p39
+p528
 sS'com.typemytype.robofont.compileSettings.releaseMode'
-p40
+p529
 I0
 sS'com.superpolator.editor.generateInfo'
-p41
+p530
 S'Generated with LTR Superpolator version 131028_2106_developer_'
-p42
+p531
 sS'com.typemytype.robofont.b.layerStrokeColor'
-p43
+p532
 (I1
 F0.75
 I0
 F0.69999999999999996
-tp44
+tp533
 sS'com.schriftgestaltung.useNiceNames'
-p45
+p534
 I00
 sS'com.typemytype.robofont.italicSlantOffset'
-p46
+p535
 I0
 sS'com.typesupply.MetricsMachine4.groupColors'
-p47
-(dp48
+p536
+(dp537
 S'@MMK_L_U_Left'
-p49
+p538
 (I0
 F0.5
 I1
 F0.25
-tp50
+tp539
 sS'@MMK_L_X_Left'
-p51
+p540
 (I1
 I1
 I0
 F0.25
-tp52
+tp541
 sS'@MMK_L_V_Left'
-p53
+p542
 (I0
 I0
 I1
 F0.25
-tp54
+tp543
 sS'@MMK_L_t_Left'
-p55
+p544
 (I0
 F0.5
 I1
 F0.25
-tp56
+tp545
 sS'@MMK_R_n_Right'
-p57
+p546
 (I0
 I1
 I0
 F0.25
-tp58
+tp547
 sS'@MMK_R_w_Left'
-p59
+p548
 (I0
 I1
 I0
 F0.25
-tp60
+tp549
 sS'@MMK_R_v_Left'
-p61
+p550
 (I1
 I1
 I0
 F0.25
-tp62
+tp551
 sS'@MMK_R_A_Right'
-p63
+p552
 (I0
 I1
 I1
 F0.25
-tp64
+tp553
 sS'@MMK_R_o_Right'
-p65
+p554
 (I1
 I1
 I0
 F0.25
-tp66
-sS'@MMK_R_y_Left'
-p67
-(I0
-I1
-I1
-F0.25
-tp68
-sS'@MMK_L_A_Left'
-p69
-(I1
-I0
-I1
-F0.25
-tp70
-sS'@MMK_L_T_Left'
-p71
-(I0
-I1
-I1
-F0.25
-tp72
-sS'@MMK_L_w_Left'
-p73
-(F0.5
-I0
-I1
-F0.25
-tp74
-sS'@MMK_L_B_Left'
-p75
-(I0
-I1
-I0
-F0.25
-tp76
-sS'@MMK_R_a_Right'
-p77
-(I1
-I0
-I0
-F0.25
-tp78
-sS'@MMK_R_O_Right'
-p79
-(I1
-F0.5
-I0
-F0.25
-tp80
-sS'@MMK_L_S_Left'
-p81
-(I1
-I0
-I0
-F0.25
-tp82
-sS'@MMK_L_n_Left'
-p83
-(I0
-I1
-I0
-F0.25
-tp84
-sS'@MMK_L_y_Left'
-p85
-(I1
-I0
-I1
-F0.25
-tp86
-sS'@MMK_L_W_Left'
-p87
-(F0.5
-I0
-I1
-F0.25
-tp88
-sS'@MMK_R_T_Right'
-p89
-(I0
-I0
-I1
-F0.25
-tp90
-sS'@MMK_R_W_Right'
-p91
-(I1
-I0
-I1
-F0.25
-tp92
-sS'@MMK_R_H_Right'
-p93
-(I1
-I0
-I0
-F0.25
-tp94
-sS'@MMK_L_r_Left'
-p95
-(I0
-I1
-I1
-F0.25
-tp96
+tp555
 sS'@MMK_R_Y_Right'
-p97
+p556
 (I1
 I0
 F0.5
 F0.25
-tp98
-sS'@MMK_L_Y_Left'
-p99
+tp557
+sS'@MMK_L_A_Left'
+p558
 (I1
-F0.5
 I0
-F0.25
-tp100
-sS'@MMK_L_o_Left'
-p101
-(I1
 I1
-I0
 F0.25
-tp102
-sS'@MMK_R_V_Right'
-p103
+tp559
+sS'@MMK_L_T_Left'
+p560
+(I0
+I1
+I1
+F0.25
+tp561
+sS'@MMK_L_w_Left'
+p562
 (F0.5
 I0
 I1
 F0.25
-tp104
-sS'@MMK_L_v_Left'
-p105
+tp563
+sS'@MMK_L_B_Left'
+p564
 (I0
-I0
 I1
-F0.25
-tp106
-sS'@MMK_R_S_Right'
-p107
-(I0
-F0.5
-I1
-F0.25
-tp108
-sS'@MMK_R_u_Left'
-p109
-(I1
-F0.5
 I0
 F0.25
-tp110
-sS'@MMK_L_H_Left'
-p111
-(I1
-F0.5
-I0
-F0.25
-tp112
+tp565
 sS'@MMK_L_k_Left'
-p113
+p566
 (I1
 I0
 F0.5
 F0.25
-tp114
-sS'@MMK_R_U_Right'
-p115
+tp567
+sS'@MMK_R_O_Right'
+p568
+(I1
+F0.5
+I0
+F0.25
+tp569
+sS'@MMK_L_S_Left'
+p570
+(I1
+I0
+I0
+F0.25
+tp571
+sS'@MMK_L_n_Left'
+p572
+(I0
+I1
+I0
+F0.25
+tp573
+sS'@MMK_L_y_Left'
+p574
+(I1
+I0
+I1
+F0.25
+tp575
+sS'@MMK_L_W_Left'
+p576
+(F0.5
+I0
+I1
+F0.25
+tp577
+sS'@MMK_R_T_Right'
+p578
+(I0
+I0
+I1
+F0.25
+tp579
+sS'@MMK_R_W_Right'
+p580
+(I1
+I0
+I1
+F0.25
+tp581
+sS'@MMK_R_H_Right'
+p582
+(I1
+I0
+I0
+F0.25
+tp583
+sS'@MMK_L_r_Left'
+p584
+(I0
+I1
+I1
+F0.25
+tp585
+sS'@MMK_R_y_Left'
+p586
+(I0
+I1
+I1
+F0.25
+tp587
+sS'@MMK_L_Y_Left'
+p588
+(I1
+F0.5
+I0
+F0.25
+tp589
+sS'@MMK_L_o_Left'
+p590
+(I1
+I1
+I0
+F0.25
+tp591
+sS'@MMK_R_V_Right'
+p592
+(F0.5
+I0
+I1
+F0.25
+tp593
+sS'@MMK_L_v_Left'
+p594
+(I0
+I0
+I1
+F0.25
+tp595
+sS'@MMK_R_S_Right'
+p596
 (I0
 F0.5
 I1
 F0.25
-tp116
-sS'@MMK_L_R_Left'
-p117
+tp597
+sS'@MMK_R_u_Left'
+p598
+(I1
+F0.5
+I0
+F0.25
+tp599
+sS'@MMK_L_H_Left'
+p600
+(I1
+F0.5
+I0
+F0.25
+tp601
+sS'@MMK_R_a_Right'
+p602
 (I1
 I0
 I0
 F0.25
-tp118
+tp603
+sS'@MMK_R_U_Right'
+p604
+(I0
+F0.5
+I1
+F0.25
+tp605
+sS'@MMK_L_R_Left'
+p606
+(I1
+I0
+I0
+F0.25
+tp607
 sS'@MMK_L_P_Left'
-p119
+p608
 (I1
 I0
 F0.5
 F0.25
-tp120
+tp609
 sS'@MMK_L_O_Left'
-p121
+p610
 (I1
 I0
 I0
 F0.25
-tp122
+tp611
 ssS'com.typemytype.robofont.sort'
-p123
-((dp124
+p612
+((dp613
 S'type'
-p125
+p614
 S'glyphList'
-p126
+p615
 sS'ascending'
-p127
+p616
 (S'space'
+p617
 S'A'
 S'Agrave'
+p618
 S'Aacute'
+p619
 S'Acircumflex'
+p620
 S'Atilde'
+p621
 S'Adieresis'
+p622
 S'Aring'
+p623
 S'Amacron'
+p624
 S'Abreve'
+p625
 S'Aogonek'
+p626
 S'uni0200'
+p627
 S'uni0202'
+p628
 S'B'
 S'C'
 S'Ccedilla'
+p629
 S'Cacute'
+p630
 S'Ccircumflex'
+p631
 S'Cdotaccent'
+p632
 S'Ccaron'
+p633
 S'D'
 S'Dcaron'
+p634
 S'E'
 S'Egrave'
+p635
 S'Eacute'
+p636
 S'Ecircumflex'
+p637
 S'Edieresis'
+p638
 S'Emacron'
+p639
 S'Edotaccent'
+p640
 S'Eogonek'
+p641
 S'Ecaron'
+p642
 S'uni0204'
+p643
 S'uni0206'
+p644
 S'F'
 S'G'
 S'Gcircumflex'
+p645
 S'Gbreve'
+p646
 S'Gdotaccent'
+p647
 S'Gcommaaccent'
+p648
 S'uni01F4'
+p649
 S'H'
 S'Hcircumflex'
+p650
 S'I'
 S'Igrave'
+p651
 S'Iacute'
+p652
 S'Icircumflex'
+p653
 S'Idieresis'
+p654
 S'Itilde'
+p655
 S'Imacron'
+p656
 S'Ibreve'
+p657
 S'Iogonek'
+p658
 S'Idotaccent'
+p659
 S'uni0208'
+p660
 S'uni020A'
+p661
 S'J'
 S'Jcircumflex'
+p662
 S'K'
 S'Kcommaaccent'
+p663
 S'L'
 S'Lacute'
+p664
 S'Lcommaaccent'
+p665
 S'Lcaron'
+p666
 S'M'
 S'N'
 S'Ntilde'
+p667
 S'Nacute'
+p668
 S'Ncommaaccent'
+p669
 S'Ncaron'
+p670
 S'O'
 S'Ograve'
+p671
 S'Oacute'
+p672
 S'Ocircumflex'
+p673
 S'Otilde'
+p674
 S'Odieresis'
+p675
 S'Omacron'
+p676
 S'Obreve'
+p677
 S'Ohungarumlaut'
+p678
 S'uni020C'
+p679
 S'uni020E'
+p680
 S'P'
 S'Q'
 S'R'
 S'Racute'
+p681
 S'Rcommaaccent'
+p682
 S'Rcaron'
+p683
 S'uni0210'
+p684
 S'uni0212'
+p685
 S'S'
 S'Sacute'
+p686
 S'Scedilla'
+p687
 S'Scaron'
+p688
 S'T'
 S'Tcaron'
+p689
 S'uni021A'
+p690
 S'U'
 S'Ugrave'
+p691
 S'Uacute'
+p692
 S'Ucircumflex'
+p693
 S'Udieresis'
+p694
 S'Utilde'
+p695
 S'Umacron'
+p696
 S'Ubreve'
+p697
 S'Uring'
+p698
 S'Uhungarumlaut'
+p699
 S'Uogonek'
+p700
 S'uni0214'
+p701
 S'uni0216'
+p702
 S'V'
 S'W'
 S'X'
 S'Y'
 S'Yacute'
+p703
 S'Ydieresis'
+p704
 S'Z'
 S'Zacute'
+p705
 S'Zdotaccent'
+p706
 S'Zcaron'
+p707
 S'AE'
+p708
 S'Eth'
+p709
 S'Oslash'
+p710
 S'Thorn'
+p711
 S'Hbar'
+p712
 S'IJ'
+p713
 S'Ldot'
+p714
 S'Lslash'
+p715
 S'OE'
+p716
 S'uni01C4'
+p717
 S'uni01c7'
+p718
 S'uni01ca'
+p719
 S'uni01F1'
+p720
 S'a'
 S'agrave'
+p721
 S'aacute'
+p722
 S'acircumflex'
+p723
 S'atilde'
+p724
 S'adieresis'
+p725
 S'aring'
+p726
 S'amacron'
+p727
 S'abreve'
+p728
 S'aogonek'
+p729
 S'uni0201'
+p730
 S'uni0203'
+p731
 S'b'
 S'c'
 S'ccedilla'
+p732
 S'cacute'
+p733
 S'ccircumflex'
+p734
 S'cdotaccent'
+p735
 S'ccaron'
+p736
 S'd'
 S'dcaron'
+p737
 S'e'
 S'egrave'
+p738
 S'eacute'
+p739
 S'ecircumflex'
+p740
 S'edieresis'
+p741
 S'emacron'
+p742
 S'edotaccent'
+p743
 S'eogonek'
+p744
 S'ecaron'
+p745
 S'uni0205'
+p746
 S'uni0207'
+p747
 S'f'
 S'g'
 S'gcircumflex'
+p748
 S'gbreve'
+p749
 S'gdotaccent'
+p750
 S'uni01F5'
+p751
 S'h'
 S'hcircumflex'
+p752
 S'i'
 S'igrave'
+p753
 S'iacute'
+p754
 S'icircumflex'
+p755
 S'idieresis'
+p756
 S'itilde'
+p757
 S'imacron'
+p758
 S'ibreve'
+p759
 S'iogonek'
+p760
 S'uni020B'
+p761
 S'j'
 S'jcircumflex'
+p762
 S'k'
 S'kcommaaccent'
+p763
 S'l'
 S'lacute'
+p764
 S'lcommaaccent'
+p765
 S'lcaron'
+p766
 S'm'
 S'n'
 S'ntilde'
+p767
 S'nacute'
+p768
 S'ncommaaccent'
+p769
 S'ncaron'
+p770
 S'o'
 S'ograve'
+p771
 S'oacute'
+p772
 S'ocircumflex'
+p773
 S'otilde'
+p774
 S'odieresis'
+p775
 S'omacron'
+p776
 S'obreve'
+p777
 S'ohungarumlaut'
+p778
 S'uni020D'
+p779
 S'uni020F'
+p780
 S'p'
 S'q'
 S'r'
 S'racute'
+p781
 S'rcommaaccent'
+p782
 S'rcaron'
+p783
 S'uni0211'
+p784
 S'uni0213'
+p785
 S's'
 S'sacute'
+p786
 S'scircumflex'
+p787
 S'scedilla'
+p788
 S'scaron'
+p789
 S'scommaaccent'
+p790
 S't'
 S'tcaron'
+p791
 S'uni021B'
+p792
 S'u'
 S'ugrave'
+p793
 S'uacute'
+p794
 S'ucircumflex'
+p795
 S'udieresis'
+p796
 S'utilde'
+p797
 S'umacron'
+p798
 S'ubreve'
+p799
 S'uring'
+p800
 S'uhungarumlaut'
+p801
 S'uogonek'
+p802
 S'uni0215'
+p803
 S'uni0217'
+p804
 S'v'
 S'w'
 S'x'
 S'y'
 S'yacute'
+p805
 S'ydieresis'
+p806
 S'z'
 S'zacute'
+p807
 S'zdotaccent'
+p808
 S'zcaron'
+p809
 S'ordfeminine'
+p810
 S'ordmasculine'
+p811
 S'germandbls'
+p812
 S'ae'
+p813
 S'eth'
+p814
 S'oslash'
+p815
 S'thorn'
+p816
 S'dcroat'
+p817
 S'hbar'
+p818
 S'dotlessi'
+p819
 S'ij'
+p820
 S'kgreenlandic'
+p821
 S'ldot'
+p822
 S'lslash'
+p823
 S'oe'
+p824
 S'uni01C6'
+p825
 S'uni01C9'
+p826
 S'uni01CC'
+p827
 S'uni01F3'
+p828
 S'uni0237'
+p829
 S'uni01C5'
+p830
 S'uni01c8'
+p831
 S'uni01cb'
+p832
 S'uni01F2'
+p833
 S'uni0307'
+p834
 S'uni030F'
+p835
 S'uni0311'
+p836
 S'zero'
+p837
 S'one'
+p838
 S'two'
+p839
 S'three'
+p840
 S'four'
+p841
 S'five'
+p842
 S'six'
+p843
 S'seven'
+p844
 S'eight'
+p845
 S'nine'
+p846
 S'onequarter'
+p847
 S'underscore'
+p848
 S'hyphen'
+p849
 S'endash'
+p850
 S'emdash'
+p851
 S'parenleft'
+p852
 S'parenright'
+p853
 S'bracketleft'
+p854
 S'bracketright'
+p855
 S'braceleft'
+p856
 S'braceright'
+p857
 S'numbersign'
+p858
 S'percent'
+p859
 S'quotesingle'
+p860
 S'quotedbl'
+p861
 S'quoteleft'
+p862
 S'quoteright'
+p863
 S'quotedblleft'
+p864
 S'quotedblright'
+p865
 S'quotesinglbase'
+p866
 S'quotedblbase'
+p867
 S'guilsinglleft'
+p868
 S'guilsinglright'
+p869
 S'guillemotleft'
+p870
 S'guillemotright'
+p871
 S'asterisk'
+p872
 S'dagger'
+p873
 S'daggerdbl'
+p874
 S'period'
+p875
 S'comma'
+p876
 S'colon'
+p877
 S'semicolon'
+p878
 S'ellipsis'
+p879
 S'exclam'
+p880
 S'exclamdown'
+p881
 S'question'
+p882
 S'questiondown'
+p883
 S'slash'
+p884
 S'backslash'
+p885
 S'fraction'
+p886
 S'bar'
+p887
 S'brokenbar'
+p888
 S'at'
+p889
 S'ampersand'
+p890
 S'paragraph'
+p891
 S'periodcentered'
+p892
 S'bullet'
+p893
 S'plus'
+p894
 S'minus'
+p895
 S'plusminus'
+p896
 S'divide'
+p897
 S'multiply'
+p898
 S'equal'
+p899
 S'less'
+p900
 S'greater'
+p901
 S'lessequal'
+p902
 S'greaterequal'
+p903
 S'notequal'
+p904
 S'logicalnot'
+p905
 S'uni2206'
+p906
 S'product'
+p907
 S'summation'
+p908
 S'uni00B5'
+p909
 S'radical'
+p910
 S'infinity'
+p911
 S'cent'
+p912
 S'currency'
+p913
 S'yen'
+p914
 S'Euro'
+p915
 S'asciicircum'
+p916
 S'asciitilde'
+p917
 S'acute'
+p918
 S'grave'
+p919
 S'hungarumlaut'
+p920
 S'circumflex'
+p921
 S'caron'
+p922
 S'breve'
+p923
 S'tilde'
+p924
 S'macron'
+p925
 S'dieresis'
+p926
 S'ring'
+p927
 S'ogonek'
+p928
 S'copyright'
+p929
 S'registered'
+p930
 S'trademark'
+p931
 S'degree'
+p932
 S'lozenge'
+p933
 S'CR'
+p934
 S'uni00AD'
+p935
 S'NULL'
+p936
 S'Tcommaaccent'
+p937
 S'foundryicon'
+p938
 S'tcommaaccent'
+p939
 S'fi'
+p940
 S'fl'
+p941
 S'ff'
+p942
 S'ffi'
+p943
 S'ffl'
+p944
 S'lc_ascender_stem'
+p945
 S'lc_bowl_left'
+p946
 S'lc_bowl_right'
+p947
 S'lc_descender_stem'
+p948
 S'lc_xheight_curved_stem'
+p949
 S'lc_xheight_stem'
+p950
 S'uc_main_stem'
+p951
 S'lc_ascender_stem_1'
+p952
 S'lc_ascender_stem_2'
+p953
 S'Dcroat'
+p954
 S'Scommaaccent'
+p955
 S'gcommaaccent'
+p956
 S'onesuperior'
+p957
 S'twosuperior'
+p958
 S'foursuperior'
+p959
 S'uni00A0'
+p960
 S'perthousand'
+p961
 S'uni2126'
+p962
 S'uni2215'
+p963
 S'uni2219'
+p964
 S'uni2113'
+p965
 S'uni02C9'
+p966
 S'pi'
+p967
 S'onehalf'
+p968
 S'threequarters'
+p969
 S'threesuperior'
+p970
 S'florin'
+p971
 S'dollar'
+p972
 S'sterling'
+p973
 S'approxequal'
+p974
 S'integral'
+p975
 S'partialdiff'
+p976
 S'estimated'
+p977
 S'section'
+p978
 S'cedilla'
+p979
 S'dotaccent'
+p980
 S'commaaccent'
+p981
 S'AEacute'
+p982
 S'AEmacron'
+p983
 S'Bdotaccent'
+p984
 S'Ddotaccent'
+p985
 S'Dz'
+p986
 S'Dzcaron'
+p987
 S'Ebreve'
+p988
 S'Fdotaccent'
+p989
 S'Gacute'
+p990
 S'Gcaron'
+p991
 S'Lj'
+p992
 S'Mdotaccent'
+p993
 S'Eng'
+p994
 S'Nj'
+p995
 S'Oslashacute'
+p996
 S'Pdotaccent'
+p997
 S'Scircumflex'
+p998
 S'Sdotaccent'
+p999
 S'Schwa'
+p1000
 S'Tbar'
+p1001
 S'Tcedilla'
+p1002
 S'Tdotaccent'
+p1003
 S'Wacute'
+p1004
 S'Wcircumflex'
+p1005
 S'Wdieresis'
+p1006
 S'Wgrave'
+p1007
 S'Ycircumflex'
+p1008
 S'Ygrave'
+p1009
 S'uni01CD'
+p1010
 S'uni01CF'
+p1011
 S'uni01D1'
+p1012
 S'uni01D3'
+p1013
 S'uni01E8'
+p1014
 S'uni01EA'
+p1015
 S'uni01F8'
+p1016
 S'uni021E'
+p1017
 S'uni0226'
+p1018
 S'uni0228'
+p1019
 S'uni0232'
+p1020
 S'uni1E02'
+p1021
 S'uni1E0A'
+p1022
 S'uni1E1E'
+p1023
 S'uni1E40'
+p1024
 S'uni1E56'
+p1025
 S'uni1E60'
+p1026
 S'uni1E6A'
+p1027
 S'uni1EBC'
+p1028
 S'uni1EF8'
+p1029
 S'aeacute'
+p1030
 S'aemacron'
+p1031
 S'bdotaccent'
+p1032
 S'ddotaccent'
+p1033
 S'dz'
+p1034
 S'dzcaron'
+p1035
 S'ebreve'
+p1036
 S'fdotaccent'
+p1037
 S'gacute'
+p1038
 S'gcaron'
+p1039
 S'idotaccent'
+p1040
 S'dotlessj'
+p1041
 S'lj'
+p1042
 S'mdotaccent'
+p1043
 S'napostrophe'
+p1044
 S'eng'
+p1045
 S'nj'
+p1046
 S'oslashacute'
+p1047
 S'pdotaccent'
+p1048
 S'sdotaccent'
+p1049
 S'schwa'
+p1050
 S'tbar'
+p1051
 S'tcedilla'
+p1052
 S'tdotaccent'
+p1053
 S'uni01CE'
+p1054
 S'uni01D0'
+p1055
 S'uni01D2'
+p1056
 S'uni01D4'
+p1057
 S'uni01E9'
+p1058
 S'uni01EB'
+p1059
 S'uni01F0'
+p1060
 S'uni01F9'
+p1061
 S'uni0209'
+p1062
 S'uni021F'
+p1063
 S'uni0227'
+p1064
 S'uni0229'
+p1065
 S'uni0233'
+p1066
 S'uni1E03'
+p1067
 S'uni1E0B'
+p1068
 S'uni1E1F'
+p1069
 S'uni1E41'
+p1070
 S'uni1E57'
+p1071
 S'uni1E61'
+p1072
 S'uni1E6B'
+p1073
 S'uni1EBD'
+p1074
 S'uni1EF9'
+p1075
 S'wacute'
+p1076
 S'wcircumflex'
+p1077
 S'wdieresis'
+p1078
 S'wgrave'
+p1079
 S'ycircumflex'
+p1080
 S'ygrave'
+p1081
 S'uniFB00'
+p1082
 S'uniFB03'
+p1083
 S'uniFB04'
+p1084
 S'Delta'
+p1085
 S'Sigma'
+p1086
 S'Omega'
+p1087
 S'mu'
+p1088
 S'uni022E'
+p1089
 S'uni022F'
+p1090
 S'softhyphen'
+p1091
 S'uni000D'
+p1092
 S'.notdef'
+p1093
 S'emptyset'
+p1094
 S'caron.alt'
+p1095
 S'breveinvertedcomb'
+p1096
 S'commaturnedabovecomb'
+p1097
 S'dotaboverightcomb'
+p1098
 S'uni0326'
+p1099
 S'apostrophemod'
+p1100
 S'dblgravecmb'
+p1101
 S'dotaccentcmb'
+p1102
 S'fj'
+p1103
 S'middot'
+p1104
 S'slashbar'
+p1105
 S'uni0002'
+p1106
 S'uni0009'
+p1107
 S'uni000A'
-tp128
-stp129
+p1108
+tp1109
+stp1110
 s."
 Encoding: UnicodeBmp
 Compacted: 1
@@ -1511,10 +2492,14 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 330 22 8
+WinInfo: 0 27 11
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "caron.alt" "top" 
+Grid
+-2048 804 m 4
+ 4096 804 l 1028
+EndSplineSet
+AnchorClass2: "caron.alt" 
 BeginChars: 65562 521
 
 StartChar: A
@@ -1549,7 +2534,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 692 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1615,7 +2599,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 1202 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2410,7 +3393,6 @@ p81
 (tsS'anchors'
 p82
 (tsss."
-AnchorPoint: "top" 537 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2489,7 +3471,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 716 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2773,7 +3754,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 611 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2960,7 +3940,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 642 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3755,7 +4734,6 @@ p83
 (tsS'anchors'
 p84
 (tsss."
-AnchorPoint: "top" 620 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3834,7 +4812,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 717 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4077,7 +5054,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 726 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4229,7 +5205,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 342 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4671,7 +5646,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 382 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4779,7 +5753,6 @@ p19
 (tsS'anchors'
 p20
 (tsss."
-AnchorPoint: "top" 653 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -4886,7 +5859,6 @@ p13
 p14
 (tsss."
 AnchorPoint: "caron.alt" 637 804 basechar 0
-AnchorPoint: "top" 736 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5158,7 +6130,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 830 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5239,7 +6210,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 719 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5435,7 +6405,7 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 388 732 N 1 0 0 1 441 355 2
+Refer: 388 732 S 1 0 0 1 441 355 2
 Refer: 78 78 N 1 0 0 1 0 0 2
 EndChar
 
@@ -5471,7 +6441,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 724 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6239,7 +7208,6 @@ p65
 (tsS'anchors'
 p66
 (tsss."
-AnchorPoint: "top" 612 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6655,7 +7623,6 @@ p75
 (tsS'anchors'
 p76
 (tsss."
-AnchorPoint: "top" 610 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7235,7 +8202,6 @@ p92
 (tsS'anchors'
 p93
 (tsss."
-AnchorPoint: "top" 564 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7504,7 +8470,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 569 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7710,7 +8675,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 715 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8212,7 +9176,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 961 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8404,7 +9367,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 654 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -8575,7 +9537,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 629 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9129,7 +10090,6 @@ p90
 (tsS'anchors'
 p91
 (tsss."
-AnchorPoint: "top" 451 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9308,15 +10268,14 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 141 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
-141 1086 m 257
- 175 979 l 257
- 306 1158 l 257
- 226 1266 l 257
- 141 1086 l 257
+141 980 m 257
+ 216 980 l 261
+ 356 1267 l 257
+ 226 1267 l 257
+ 141 980 l 257
 EndSplineSet
 EndChar
 
@@ -9392,7 +10351,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 801 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9655,7 +10613,6 @@ S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "top" 108 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -9828,21 +10785,34 @@ p14
 p15
 (tsss."
 LayerCount: 2
+Back
+SplineSet
+753 626 m 261
+ 744.489208633 624.784172662 735.847212877 624.233114228 727.076466915 624.233114228 c 4
+ 642.067698359 624.233114228 544.964028777 676 438 676 c 260
+ 404.507462687 676 372.847850301 677.186010247 342.56092006 677.186010247 c 4
+ 280.610380931 677.186010247 224.402985075 672.223880597 170 642 c 261
+ 149 643 144 563 115 545 c 261
+ 155 586 190 586 235 586 c 261
+ 245.712852261 587.487896147 256.406025989 588.159133182 267.091233029 588.159133182 c 4
+ 364.12732488 588.159133182 460.506396873 532.801613847 565 531 c 260
+ 597.022461989 529.607719044 627.469936392 527.730826523 657.438835819 527.730826523 c 4
+ 713.570085351 527.730826523 768.022461989 534.315090517 828 563 c 261
+ 854 563 853 649 871 663 c 261
+ 835 626 797 626 753 626 c 261
+EndSplineSet
 Fore
 SplineSet
-753 626 m 257
- 744.489208633 624.784172662 735.847212877 624.233114228 727.076466915 624.233114228 c 0
- 642.067698359 624.233114228 544.964028777 676 438 676 c 256
- 404.507462687 676 372.847850301 677.186010247 342.56092006 677.186010247 c 0
- 280.610380931 677.186010247 224.402985075 672.223880597 170 642 c 257
- 149 643 144 563 115 545 c 257
- 155 586 190 586 235 586 c 257
- 245.712852261 587.487896147 256.406025989 588.159133182 267.091233029 588.159133182 c 0
- 364.12732488 588.159133182 460.506396873 532.801613847 565 531 c 256
- 597.022461989 529.607719044 627.469936392 527.730826523 657.438835819 527.730826523 c 0
- 713.570085351 527.730826523 768.022461989 534.315090517 828 563 c 257
- 854 563 853 649 871 663 c 257
- 835 626 797 626 753 626 c 257
+684 510 m 256
+ 684.602577839 510 685.203125 509.990234375 685.80078125 509.990234375 c 0
+ 773.458984375 509.990234375 807.060546875 582.657226562 816 679 c 257
+ 762 679 l 257
+ 749 621 728 606 690 606 c 256
+ 598 606 456 684 329 684 c 256
+ 252 684 202 630 191 515 c 257
+ 247 515 l 257
+ 258 569 276 587 311 587 c 256
+ 419 587 522 510 684 510 c 256
 EndSplineSet
 EndChar
 
@@ -10039,7 +11009,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 634 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10405,7 +11374,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 216 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10452,7 +11420,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 375 829 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10843,7 +11810,6 @@ p64
 (tsS'anchors'
 p65
 (tsss."
-AnchorPoint: "top" 497 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10937,7 +11903,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 240 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11238,7 +12203,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 252 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11407,7 +12371,6 @@ S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "top" 212 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11584,7 +12547,6 @@ p13
 p14
 (tsss."
 AnchorPoint: "caron.alt" 950 804 basechar 0
-AnchorPoint: "top" 390 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11764,7 +12726,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 391 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11957,7 +12918,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 253 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12073,7 +13033,6 @@ S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "top" 203 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12089,7 +13048,7 @@ StartChar: dotlessi
 Encoding: 305 305 209
 Width: 608
 VWidth: 0
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12118,7 +13077,7 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 323 804 basechar 0
+VStem: 117 440
 LayerCount: 2
 Fore
 SplineSet
@@ -12169,7 +13128,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 264 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -13288,7 +14246,7 @@ EndChar
 
 StartChar: exclamdown
 Encoding: 161 161 233
-Width: 378
+Width: 347
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -13321,7 +14279,7 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 232 33 N -0.12 0 0 -1 289 893 2
+Refer: 232 33 N 1 0 0 -1 0 878 2
 EndChar
 
 StartChar: f
@@ -13356,7 +14314,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 387 1118 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14379,7 +15336,6 @@ p65
 (tsS'anchors'
 p66
 (tsss."
-AnchorPoint: "top" 500 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -14689,7 +15645,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 201 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15030,7 +15985,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 593 1050 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15171,7 +16125,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 221 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15869,7 +16822,6 @@ p19
 (tsS'anchors'
 p20
 (tsss."
-AnchorPoint: "top" 669 970 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16034,7 +16986,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 269 1152 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16497,7 +17448,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 843 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16572,7 +17522,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 188 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16750,7 +17699,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 592 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -17186,7 +18134,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 486 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18052,7 +18999,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 567 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19371,7 +20317,6 @@ p39
 (tsS'anchors'
 p40
 (tsss."
-AnchorPoint: "top" 471 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19669,7 +20614,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 208 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19718,7 +20662,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 441 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20390,7 +21333,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 247 1052 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20736,20 +21678,19 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 279 797 mark 0
 LayerCount: 2
 Fore
 SplineSet
-403 923 m 256
- 403.602730352 922.993227749 404.202938217 922.989849388 404.800632915 922.989849388 c 0
- 492.459366493 922.989849388 526.06095026 995.656908361 535 1092 c 257
- 481 1092 l 257
- 468 1034 447 1019 409 1019 c 256
- 347 1019 235 1097 158 1097 c 256
- 81 1097 31 1043 20 928 c 257
- 76 928 l 257
- 87 982 105 1000 140 1000 c 256
- 208 1000 311 923 403 923 c 256
+403 923 m 260
+ 403.602730352 922.993227749 404.202938217 922.989849388 404.800632915 922.989849388 c 4
+ 492.459366493 922.989849388 526.06095026 995.656908361 535 1092 c 261
+ 481 1092 l 261
+ 468 1034 447 1019 409 1019 c 260
+ 347 1019 235 1097 158 1097 c 260
+ 81 1097 31 1043 20 928 c 261
+ 76 928 l 261
+ 87 982 105 1000 140 1000 c 260
+ 208 1000 311 923 403 923 c 260
 EndSplineSet
 EndChar
 
@@ -20981,7 +21922,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 490 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -22645,8 +23585,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 199 783 N 1 0 0 1 -69 0 2
-Refer: 268 105 N 1 0 0 1 0 0 2
+Refer: 199 783 N 1 0 0 1 -30.5 -31 2
+Refer: 209 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020A
@@ -22723,8 +23663,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 176 785 N 1 0 0 1 -53 -25 2
-Refer: 268 105 N 1 0 0 1 0 0 2
+Refer: 176 785 N 1 0 0 1 -36 -1 2
+Refer: 209 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni020C
@@ -23435,7 +24375,7 @@ EndChar
 
 StartChar: uni0237
 Encoding: 567 567 473
-Width: 398
+Width: 487
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -23466,23 +24406,20 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 228 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-23 -240 m 257
- 95 -240 l 258
- 250.204081633 -240 266.04123282 -151.9454394 266.04123282 -82.2231893174 c 0
- 266.04123282 -64.3456892961 265 -47.6734693878 265 -34 c 258
- 265 804 l 257
- 48 804 l 257
- 48 770 l 257
- 221 770 l 257
- 221 -39 l 258
- 221 -49.076433121 221.055661487 -58.6996227027 221.055661487 -67.8702778087 c 0
- 221.055661487 -161.541969248 215.248407643 -208 85 -208 c 258
- 23 -208 l 257
- 23 -240 l 257
+12 -297 m 1
+ 98 -297 l 2
+ 355 -297 359 -147 359 11 c 2
+ 359 804 l 1
+ 65 804 l 1
+ 65 712 l 1
+ 228 712 l 1
+ 228 -24 l 2
+ 228 -142 215 -196 93 -196 c 2
+ 12 -196 l 1
+ 12 -297 l 1
 EndSplineSet
 EndChar
 
@@ -23540,7 +24477,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 227 805 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -23585,7 +24521,6 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 488 804 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -24233,7 +25168,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 748 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -24429,7 +25363,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 552 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -24650,7 +25583,6 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 478 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet

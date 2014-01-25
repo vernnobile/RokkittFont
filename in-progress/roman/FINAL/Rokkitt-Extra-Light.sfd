@@ -1,7 +1,10 @@
 SplineFontDB: 3.0
 FontName: Rokkitt-ExtraLight
+FullName: Rokkitt ExtraLight
 FamilyName: Rokkitt
+Weight: Regular
 Copyright: Digitized data Copyright (c) 2011-2013, vernon adams.
+Version: 2
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
@@ -16,8 +19,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1390537969
-ModificationTime: 1390541080
+CreationTime: 1390542175
+ModificationTime: 1390607517
 PfmFamily: 17
 TTFWeight: 100
 TTFWidth: 5
@@ -86,58 +89,54 @@ sS'com.typemytype.robofont.compileSettings.path'
 p20
 S'/Users/vern/Github/RokkittFont/in-progress/roman/Light/Rokkitt-Light.otf'
 p21
-sS'com.schriftgestaltung.useNiceNames'
+sS'com.typemytype.robofont.compileSettings.MacRomanFirst'
 p22
+I1
+sS'com.schriftgestaltung.useNiceNames'
+p23
 I00
 sS'com.typemytype.robofont.layerOrder'
-p23
+p24
 (S'b'
-tp24
+tp25
 sS'com.typemytype.robofont.segmentType'
-p25
-S'curve'
 p26
-sS'com.petr.ptt'
+S'curve'
 p27
-(dp28
-S'originals'
+sS'com.typemytype.robofont.italicSlantOffset'
+p28
+I0
+sS'com.petr.ptt'
 p29
 (dp30
-S'maxp'
+S'originals'
 p31
 (dp32
-S'tableTag'
-p33
 S'maxp'
-p34
-sS'numGlyphs'
+p33
+(dp34
+S'numGlyphs'
 p35
 I423
-sS'tableVersion'
+sS'tableTag'
 p36
-I20480
-ssssS'com.typemytype.robofont.b.layerStrokeColor'
+S'maxp'
 p37
-(I1
-F0.75
-I0
-F0.69999999999999996
-tp38
-sS'com.typemytype.robofont.italicSlantOffset'
+sS'tableVersion'
+p38
+I20480
+ssssS'com.typemytype.robofont.compileSettings.releaseMode'
 p39
 I0
-sS'com.typemytype.robofont.compileSettings.releaseMode'
-p40
-I0
 sS'com.typemytype.robofont.sort'
-p41
-((dp42
+p40
+((dp41
 S'type'
-p43
+p42
 S'glyphList'
-p44
+p43
 sS'ascending'
-p45
+p44
 (S'space'
 S'A'
 S'Agrave'
@@ -682,10 +681,10 @@ S'slashbar'
 S'uni0002'
 S'uni0009'
 S'uni000A'
-tp46
-stp47
+tp45
+stp46
 sS'public.glyphOrder'
-p48
+p47
 (S'space'
 S'A'
 S'Agrave'
@@ -1227,14 +1226,18 @@ S'slashbar'
 S'uni0002'
 S'uni0009'
 S'uni000A'
-tp49
+tp48
 sS'com.schriftgestaltung.weight'
-p50
+p49
 S'Light'
+p50
+sS'com.typemytype.robofont.b.layerStrokeColor'
 p51
-sS'com.typemytype.robofont.compileSettings.MacRomanFirst'
-p52
-I1
+(I1
+F0.75
+I0
+F0.69999999999999996
+tp52
 sS'com.typesupply.MetricsMachine4.groupColors'
 p53
 (dp54
@@ -1301,11 +1304,11 @@ I1
 I0
 F0.25
 tp72
-sS'@MMK_R_y_Left'
+sS'@MMK_R_Y_Right'
 p73
-(I0
-I1
-I1
+(I1
+I0
+F0.5
 F0.25
 tp74
 sS'@MMK_L_A_Left'
@@ -1336,11 +1339,11 @@ I1
 I0
 F0.25
 tp82
-sS'@MMK_R_a_Right'
+sS'@MMK_L_k_Left'
 p83
 (I1
 I0
-I0
+F0.5
 F0.25
 tp84
 sS'@MMK_R_O_Right'
@@ -1406,11 +1409,11 @@ I1
 I1
 F0.25
 tp102
-sS'@MMK_R_Y_Right'
+sS'@MMK_R_y_Left'
 p103
-(I1
-I0
-F0.5
+(I0
+I1
+I1
 F0.25
 tp104
 sS'@MMK_L_Y_Left'
@@ -1462,11 +1465,11 @@ F0.5
 I0
 F0.25
 tp118
-sS'@MMK_L_k_Left'
+sS'@MMK_R_a_Right'
 p119
 (I1
 I0
-F0.5
+I0
 F0.25
 tp120
 sS'@MMK_R_U_Right'
@@ -1506,10 +1509,17 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 0 26 9
-BeginPrivate: 2
+BeginPrivate: 3
 BlueShift 1 0
 BlueValues 25 [-22 0 804 826 1152 1174]
+OtherBlues 11 [-330 -316]
 EndPrivate
+Grid
+-2048 26 m 4
+ 4096 26 l 1028
+-2048 1126 m 0
+ 4096 1126 l 1024
+EndSplineSet
 AnchorClass2: "caron.alt" 
 BeginChars: 65562 521
 
@@ -2041,7 +2051,7 @@ StartChar: B
 Encoding: 66 66 13
 Width: 1297
 VWidth: 0
-Flags: HW
+Flags: HWO
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2420,7 +2430,7 @@ SplineSet
  1047 631 1112 733 1112 872 c 0
  1112 1059 993 1152 775 1152 c 2
 358 1107 m 1
- 494.666666667 1107 631.333333333 1107 768 1107 c 0
+ 768 1107 l 2
  955 1107 1055 1036 1055 871 c 0
  1055 732 992 629 832 629 c 2
  358 629 l 1
@@ -2428,8 +2438,8 @@ SplineSet
 358 583 m 1
  835 583 l 2
  1034 583 1122 466 1122 317 c 0
- 1122 153 1023 45 864 45 c 0
- 695.333333333 45 526.666666667 45 358 45 c 1
+ 1122 153 1023 45 864 45 c 2
+ 358 45 l 1
  358 583 l 1
 EndSplineSet
 EndChar
@@ -2490,14 +2500,14 @@ SplineSet
  1202 283 l 1
  1090 87 896 26 715 26 c 0
  454 26 181 207 181 580 c 0
- 181 864 373 1124 715 1124 c 0
- 966 1124 1093 1024 1196 817 c 1
+ 181 864 373 1126 715 1126 c 0
+ 966 1126 1093 1024 1196 817 c 1
  1240 832 l 1
  1240 1152 l 1
  1183 1152 l 1
  1183 917 l 1
- 1094 1075 967 1172 714 1172 c 0
- 358 1172 119 910 119 581 c 0
+ 1094 1075 967 1174 714 1174 c 0
+ 358 1174 119 910 119 581 c 0
  119 164 434 -22 713 -22 c 0
 EndSplineSet
 EndChar
@@ -2768,22 +2778,22 @@ p14
 LayerCount: 2
 Fore
 SplineSet
-809 1152 m 2
- 123 1152 l 1
- 123 1107 l 1
- 297 1107 l 1
- 297 45 l 1
- 123 45 l 1
- 123 0 l 1
- 815 0 l 2
+809 1152 m 6
+ 123 1152 l 5
+ 123 1107 l 5
+ 297 1107 l 5
+ 297 45 l 5
+ 123 45 l 5
+ 123 0 l 5
+ 815 0 l 6
  1142 0 1305 311 1305 573 c 0
- 1305 830 1150 1152 809 1152 c 2
-359 1107 m 1
- 509.333333333 1107 659.666666667 1107 810 1107 c 0
+ 1305 830 1150 1152 809 1152 c 6
+359 1107 m 5
+ 810 1107 l 6
  1099 1107 1245 822 1245 572 c 0
- 1245 319 1100 45 804 45 c 0
- 655.666666667 45 507.333333333 45 359 45 c 1
- 359 1107 l 1
+ 1245 319 1100 45 804 45 c 6
+ 359 45 l 5
+ 359 1107 l 5
 EndSplineSet
 EndChar
 
@@ -2952,31 +2962,31 @@ p14
 LayerCount: 2
 Fore
 SplineSet
-1010 824 m 1
- 1063 824 l 1
- 1063 1152 l 1
- 122 1152 l 1
- 122 1107 l 1
- 296 1107 l 1
- 296 45 l 1
- 122 45 l 1
- 122 0 l 1
- 1088 0 l 1
- 1088 334 l 1
- 1035 334 l 1
- 1035 45 l 1
- 809.333333333 45 583.666666667 45 358 45 c 1
- 358 565 l 1
- 780 565 l 1
- 780 383 l 1
- 825 383 l 1
- 825 781 l 1
- 779 781 l 1
- 779 610 l 1
- 358 610 l 1
- 358 1107 l 1
- 575.333333333 1107 792.666666667 1107 1010 1107 c 1
- 1010 824 l 1
+1010 824 m 5
+ 1063 824 l 5
+ 1063 1152 l 5
+ 122 1152 l 5
+ 122 1107 l 5
+ 296 1107 l 5
+ 296 45 l 5
+ 122 45 l 5
+ 122 0 l 5
+ 1088 0 l 5
+ 1088 334 l 5
+ 1035 334 l 5
+ 1035 45 l 5
+ 358 45 l 5
+ 358 565 l 5
+ 780 565 l 5
+ 780 383 l 5
+ 825 383 l 5
+ 825 781 l 5
+ 779 781 l 5
+ 779 610 l 5
+ 358 610 l 5
+ 358 1107 l 5
+ 1010 1107 l 5
+ 1010 824 l 5
 EndSplineSet
 EndChar
 
@@ -3746,29 +3756,29 @@ p84
 LayerCount: 2
 Fore
 SplineSet
-1024 797 m 1
- 1074 797 l 1
- 1074 1152 l 1
- 122 1152 l 1
- 122 1107 l 1
- 296 1107 l 1
- 296 45 l 1
- 122 45 l 1
- 122 0 l 1
- 532 0 l 1
- 532 45 l 1
- 358 45 l 1
- 358 570 l 1
- 837 570 l 1
- 837 392 l 1
- 880 392 l 1
- 880 772 l 1
- 837 772 l 1
- 837 616 l 1
- 358 616 l 1
- 358 1107 l 1
- 580 1107 802 1107 1024 1107 c 1
- 1024 797 l 1
+1024 797 m 5
+ 1074 797 l 5
+ 1074 1152 l 5
+ 122 1152 l 5
+ 122 1107 l 5
+ 296 1107 l 5
+ 296 45 l 5
+ 122 45 l 5
+ 122 0 l 5
+ 532 0 l 5
+ 532 45 l 5
+ 358 45 l 5
+ 358 570 l 5
+ 837 570 l 5
+ 837 392 l 5
+ 880 392 l 5
+ 880 772 l 5
+ 837 772 l 5
+ 837 616 l 5
+ 358 616 l 5
+ 358 1107 l 5
+ 1024 1107 l 5
+ 1024 797 l 5
 EndSplineSet
 Kerns2: 248 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
@@ -3829,8 +3839,8 @@ SplineSet
  941 549 l 1
  941 503 l 1
  1195 503 l 1
- 1189 125 895 27 711 27 c 0
- 384 27 178 241 178 583 c 0
+ 1189 125 895 26 711 26 c 4
+ 384 26 178 241 178 583 c 0
  178 917 384 1126 711 1126 c 0
  913 1126 1087 1024 1164 843 c 1
  1208 843 l 1
@@ -4871,21 +4881,21 @@ AnchorPoint: "caron.alt" 533 804 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-358 45 m 1
- 358 1107 l 1
- 532 1107 l 1
- 532 1152 l 1
- 122 1152 l 1
- 122 1107 l 1
- 296 1107 l 1
- 296 45 l 1
- 122 45 l 1
- 122 0 l 1
- 1005 0 l 1
- 1005 373 l 1
- 955 373 l 1
- 955 45 l 1
- 756 45 557 45 358 45 c 1
+358 45 m 5
+ 358 1107 l 5
+ 532 1107 l 5
+ 532 1152 l 5
+ 122 1152 l 5
+ 122 1107 l 5
+ 296 1107 l 5
+ 296 45 l 5
+ 122 45 l 5
+ 122 0 l 5
+ 1005 0 l 5
+ 1005 373 l 5
+ 955 373 l 5
+ 955 45 l 5
+ 358 45 l 5
 EndSplineSet
 Kerns2: 353 -252 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  351 -328 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
@@ -5453,12 +5463,11 @@ p14
 LayerCount: 2
 Fore
 SplineSet
-728 -22 m 0
- 1141 -22 1331 283 1331 572 c 0
+1331 572 m 0
  1331 858 1138 1174 728 1174 c 0
  318 1174 124 859 124 572 c 0
  124 285.464803254 313.385079401 -22.0024285844 725.990314189 -22.0024285844 c 0
- 726.659622036 -22.0024285844 727.329517258 -22.0016195235 728 -22 c 0
+ 1140.29862962 -22.0024285844 1331 281.740935752 1331 572 c 0
 728 26 m 0
  353 26 186 302 186 572 c 0
  186 831 357 1126 728 1126 c 0
@@ -6235,7 +6244,7 @@ SplineSet
  532 45 l 1
  358 45 l 1
  358 1107 l 1
- 485.666666667 1107 613.333333333 1107 741 1107 c 0
+ 741 1107 l 2
  912 1107 1013 1012 1014 847 c 0
  1014 655 917 541 748 541 c 2
  454 541 l 1
@@ -6642,18 +6651,18 @@ SplineSet
  1031 45 l 1
  721 540 l 1
  996 545 1078 697 1078 846 c 0
- 1078 997 985 1152 749 1152 c 2
- 122 1152 l 1
- 122 1107 l 1
- 296 1107 l 1
+ 1078 997 985 1152 749 1152 c 6
+ 122 1152 l 5
+ 122 1107 l 5
+ 296 1107 l 5
  296 45 l 1
  122 45 l 1
  122 0 l 1
  532 0 l 1
  532 45 l 1
  358 45 l 1
- 358 1107 l 1
- 489.666666667 1107 621.333333333 1107 753 1107 c 0
+ 358 1107 l 5
+ 753 1107 l 6
  953 1107 1018 971 1018 846 c 0
  1018 730 961 583 696 583 c 2
  426 583 l 1
@@ -7483,23 +7492,23 @@ p14
 LayerCount: 2
 Fore
 SplineSet
-52 773 m 1
- 104 773 l 1
- 104 1107 l 1
- 247.666666667 1107 391.333333333 1107 535 1107 c 1
+52 773 m 5
+ 104 773 l 5
+ 104 1107 l 5
+ 535 1107 l 5
  535 45 l 1
  361 45 l 1
  361 0 l 1
  771 0 l 1
  771 45 l 1
  597 45 l 1
- 597 1107 l 1
- 745 1107 893 1107 1041 1107 c 1
- 1041 773 l 1
- 1096 773 l 1
- 1096 1152 l 1
- 52 1152 l 1
- 52 773 l 1
+ 597 1107 l 5
+ 1041 1107 l 5
+ 1041 773 l 5
+ 1096 773 l 5
+ 1096 1152 l 5
+ 52 1152 l 5
+ 52 773 l 5
 EndSplineSet
 EndChar
 
@@ -7697,8 +7706,8 @@ SplineSet
  1058 1107 l 1
  1209 1107 l 1
  1209 372 l 2
- 1209 165 1017 27 738 27 c 0
- 477 27 300 167 300 375 c 2
+ 1209 165 1017 26 738 26 c 0
+ 477 26 300 167 300 375 c 2
  300 1107 l 1
  452 1107 l 1
  452 1152 l 1
@@ -21362,7 +21371,7 @@ EndChar
 
 StartChar: uni00AD
 Encoding: 173 173 406
-Width: -130
+Width: 886
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -21394,6 +21403,14 @@ p14
 p15
 (tsss."
 LayerCount: 2
+Fore
+SplineSet
+183 429 m 257
+ 701 429 l 257
+ 701 475 l 257
+ 183 475 l 257
+ 183 429 l 257
+EndSplineSet
 EndChar
 
 StartChar: uni00B5

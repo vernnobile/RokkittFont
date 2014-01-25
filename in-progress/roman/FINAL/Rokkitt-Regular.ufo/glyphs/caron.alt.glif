@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.alt" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="180" y="804" type="move" name="_caron.alt"/>
+    </contour>
+    <contour>
+      <point x="243" y="853" type="line"/>
+      <point x="358" y="853"/>
+      <point x="392" y="932"/>
+      <point x="391" y="1034" type="curve"/>
+      <point x="391" y="1174" type="line"/>
+      <point x="253" y="1174" type="line"/>
+      <point x="253" y="1043" type="line"/>
+      <point x="332" y="1043" type="line"/>
+      <point x="332" y="961"/>
+      <point x="316" y="905"/>
+      <point x="243" y="896" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>853</integer>
+	    <key>width</key>	    <integer>43</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>332</integer>
+	    <key>width</key>
+	    <integer>59</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

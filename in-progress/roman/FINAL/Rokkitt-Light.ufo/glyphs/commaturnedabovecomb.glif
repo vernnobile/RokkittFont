@@ -16,14 +16,12 @@
       <point x="263" y="1047" type="curve"/>
       <point x="330" y="1047" type="line"/>
     </contour>
-    <contour>
-      <point x="265" y="804" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

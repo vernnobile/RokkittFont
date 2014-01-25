@@ -35,6 +35,8 @@
       <integer>1</integer>
     <key>com.typemytype.robofont.compileSettings.path</key>
       <string>/Users/vern/Github/RokkittFont/in-progress/roman/Light/Rokkitt-Light.otf</string>
+    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
+      <integer>1</integer>
     <key>com.schriftgestaltung.useNiceNames</key>
       <false/>
     <key>com.typemytype.robofont.layerOrder</key>
@@ -43,30 +45,23 @@
       </array>
     <key>com.typemytype.robofont.segmentType</key>
       <string>curve</string>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+      <integer>0</integer>
     <key>com.petr.ptt</key>
       <dict>
     <key>originals</key>
       <dict>
     <key>maxp</key>
       <dict>
-    <key>tableTag</key>
-      <string>maxp</string>
     <key>numGlyphs</key>
       <integer>423</integer>
+    <key>tableTag</key>
+      <string>maxp</string>
     <key>tableVersion</key>
       <integer>20480</integer>
       </dict>
       </dict>
       </dict>
-    <key>com.typemytype.robofont.b.layerStrokeColor</key>
-      <array>
-        <integer>1</integer>
-        <real>0.75</real>
-        <integer>0</integer>
-        <real>0.7</real>
-      </array>
-    <key>com.typemytype.robofont.italicSlantOffset</key>
-      <integer>0</integer>
     <key>com.typemytype.robofont.compileSettings.releaseMode</key>
       <integer>0</integer>
     <key>com.typemytype.robofont.sort</key>
@@ -1169,8 +1164,13 @@
       </array>
     <key>com.schriftgestaltung.weight</key>
       <string>Light</string>
-    <key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
-      <integer>1</integer>
+    <key>com.typemytype.robofont.b.layerStrokeColor</key>
+      <array>
+        <integer>1</integer>
+        <real>0.75</real>
+        <integer>0</integer>
+        <real>0.7</real>
+      </array>
     <key>com.typesupply.MetricsMachine4.groupColors</key>
       <dict>
     <key>@MMK_L_U_Left</key>
@@ -1236,11 +1236,11 @@
         <integer>0</integer>
         <real>0.25</real>
       </array>
-    <key>@MMK_R_y_Left</key>
+    <key>@MMK_R_Y_Right</key>
       <array>
+        <integer>1</integer>
         <integer>0</integer>
-        <integer>1</integer>
-        <integer>1</integer>
+        <real>0.5</real>
         <real>0.25</real>
       </array>
     <key>@MMK_L_A_Left</key>
@@ -1271,11 +1271,11 @@
         <integer>0</integer>
         <real>0.25</real>
       </array>
-    <key>@MMK_R_a_Right</key>
+    <key>@MMK_L_k_Left</key>
       <array>
         <integer>1</integer>
         <integer>0</integer>
-        <integer>0</integer>
+        <real>0.5</real>
         <real>0.25</real>
       </array>
     <key>@MMK_R_O_Right</key>
@@ -1341,11 +1341,11 @@
         <integer>1</integer>
         <real>0.25</real>
       </array>
-    <key>@MMK_R_Y_Right</key>
+    <key>@MMK_R_y_Left</key>
       <array>
-        <integer>1</integer>
         <integer>0</integer>
-        <real>0.5</real>
+        <integer>1</integer>
+        <integer>1</integer>
         <real>0.25</real>
       </array>
     <key>@MMK_L_Y_Left</key>
@@ -1397,11 +1397,11 @@
         <integer>0</integer>
         <real>0.25</real>
       </array>
-    <key>@MMK_L_k_Left</key>
+    <key>@MMK_R_a_Right</key>
       <array>
         <integer>1</integer>
         <integer>0</integer>
-        <real>0.5</real>
+        <integer>0</integer>
         <real>0.25</real>
       </array>
     <key>@MMK_R_U_Right</key>

@@ -17,14 +17,12 @@
       <point x="299" y="1033"/>
       <point x="272" y="1008"/>
     </contour>
-    <contour>
-      <point x="234" y="804" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
