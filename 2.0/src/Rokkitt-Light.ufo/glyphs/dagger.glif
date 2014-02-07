@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="458"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="191" y="574" type="curve" smooth="yes"/>
+      <point x="191" y="656"/>
+      <point x="192" y="723"/>
+      <point x="212" y="825" type="curve"/>
+      <point x="5" y="806" type="line"/>
+      <point x="5" y="878" type="line"/>
+      <point x="212" y="866" type="line"/>
+      <point x="180" y="1105" type="line"/>
+      <point x="278" y="1105" type="line"/>
+      <point x="247" y="866" type="line"/>
+      <point x="451" y="878" type="line"/>
+      <point x="451" y="806" type="line"/>
+      <point x="247" y="825" type="line"/>
+      <point x="266" y="725"/>
+      <point x="267" y="659"/>
+      <point x="267" y="578" type="curve" smooth="yes"/>
+      <point x="267" y="532" type="line"/>
+      <point x="268" y="513"/>
+      <point x="269" y="494"/>
+      <point x="269" y="474" type="curve" smooth="yes"/>
+      <point x="269" y="348"/>
+      <point x="247" y="216"/>
+      <point x="247" y="30" type="curve"/>
+      <point x="212" y="30" type="line"/>
+      <point x="212" y="221"/>
+      <point x="190" y="351"/>
+      <point x="190" y="477" type="curve" smooth="yes"/>
+      <point x="190" y="508"/>
+      <point x="191" y="542"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>dagger</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>364</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="1664"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="871" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="896" y="0" type="line"/>
+      <point x="1624" y="0" type="line"/>
+      <point x="1624" y="224" type="line"/>
+      <point x="1513" y="224" type="line"/>
+      <point x="1074" y="665" type="line"/>
+      <point x="1406" y="928" type="line"/>
+      <point x="1605" y="928" type="line"/>
+      <point x="1605" y="1152" type="line"/>
+      <point x="898" y="1152" type="line"/>
+      <point x="898" y="928" type="line"/>
+      <point x="1074" y="928" type="line"/>
+      <point x="629" y="610.851" type="line"/>
+      <point x="629" y="928" type="line"/>
+      <point x="803" y="928" type="line"/>
+      <point x="803" y="1152" type="line"/>
+      <point x="44" y="1152" type="line"/>
+      <point x="44" y="928" type="line"/>
+      <point x="217" y="928" type="line"/>
+      <point x="217" y="224" type="line"/>
+      <point x="44" y="224" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="803" y="0" type="line"/>
+      <point x="803" y="224" type="line"/>
+      <point x="629" y="224" type="line"/>
+      <point x="629" y="603.792" type="line"/>
+      <point x="990" y="224" type="line"/>
+      <point x="896" y="224" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+    <key>y</key>
+      <integer>593</integer>
+    <key>x</key>
+      <integer>467</integer>
+    <key>magnetic</key>
+      <integer>5</integer>
+    <key>angle</key>
+      <integer>0</integer>
+    <key>isGlobal</key>
+      <integer>0</integer>
+      </dict>
+      </array>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>K</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1384</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

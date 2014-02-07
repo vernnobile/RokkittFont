@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="492"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="379" y="-61" type="curve" smooth="yes"/>
+      <point x="444" y="-61" type="line"/>
+      <point x="444" y="7" type="line"/>
+      <point x="301" y="7"/>
+      <point x="277" y="33"/>
+      <point x="277" y="205" type="curve" smooth="yes"/>
+      <point x="277" y="437"/>
+      <point x="261" y="553"/>
+      <point x="146" y="573" type="curve"/>
+      <point x="265" y="593"/>
+      <point x="278" y="710"/>
+      <point x="278" y="956" type="curve" smooth="yes"/>
+      <point x="278" y="1114"/>
+      <point x="309" y="1137"/>
+      <point x="444" y="1137" type="curve"/>
+      <point x="444" y="1206" type="line"/>
+      <point x="379" y="1206" type="line" smooth="yes"/>
+      <point x="183" y="1206"/>
+      <point x="180" y="1074"/>
+      <point x="180" y="861" type="curve" smooth="yes"/>
+      <point x="180" y="686"/>
+      <point x="174" y="619"/>
+      <point x="36" y="619" type="curve"/>
+      <point x="36" y="526" type="line"/>
+      <point x="169" y="526"/>
+      <point x="180" y="464"/>
+      <point x="180" y="298" type="curve" smooth="yes"/>
+      <point x="180" y="70"/>
+      <point x="183" y="-61"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-61</integer>
+	    <key>width</key>	    <integer>68</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>526</integer>
+	    <key>width</key>	    <integer>93</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1137</integer>
+	    <key>width</key>	    <integer>69</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>180</integer>
+	    <key>width</key>
+	    <integer>97</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>braceleft</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>404</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

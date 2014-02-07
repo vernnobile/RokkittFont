@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="985"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="488" y="808" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="492" y="143" type="curve" smooth="yes"/>
+      <point x="491.403" y="142.995"/>
+      <point x="490.807" y="142.993"/>
+      <point x="490.211" y="142.993" type="curve" smooth="yes"/>
+      <point x="361.166" y="142.993"/>
+      <point x="271" y="250.712"/>
+      <point x="271" y="405" type="curve" smooth="yes"/>
+      <point x="271" y="555"/>
+      <point x="362" y="661"/>
+      <point x="491" y="661" type="curve" smooth="yes"/>
+      <point x="622" y="661"/>
+      <point x="713" y="556"/>
+      <point x="713" y="406" type="curve" smooth="yes"/>
+      <point x="713" y="251.705"/>
+      <point x="622.826" y="142.993"/>
+      <point x="493.773" y="142.993" type="curve" smooth="yes"/>
+      <point x="493.183" y="142.993"/>
+      <point x="492.592" y="142.995"/>
+    </contour>
+    <contour>
+      <point x="491" y="-22" type="curve" smooth="yes"/>
+      <point x="755" y="-22"/>
+      <point x="940" y="154"/>
+      <point x="940" y="406" type="curve" smooth="yes"/>
+      <point x="940" y="653"/>
+      <point x="756" y="826"/>
+      <point x="493" y="826" type="curve" smooth="yes"/>
+      <point x="230" y="826"/>
+      <point x="46" y="653"/>
+      <point x="46" y="406" type="curve" smooth="yes"/>
+      <point x="46" y="154"/>
+      <point x="229" y="-22"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>o</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1004</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

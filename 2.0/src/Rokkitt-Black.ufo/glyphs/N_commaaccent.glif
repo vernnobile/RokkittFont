@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="1741"/>
+  <unicode hex="0145"/>
+  <outline>
+    <component base="N"/>
+    <contour>
+      <point x="769" y="-695" type="line"/>
+      <point x="1038" y="-695"/>
+      <point x="1149" y="-607"/>
+      <point x="1149" y="-441" type="curve" smooth="yes"/>
+      <point x="1149" y="-129" type="line"/>
+      <point x="769" y="-129" type="line"/>
+      <point x="769" y="-364" type="line"/>
+      <point x="886" y="-364" type="line"/>
+      <point x="886" y="-465.731"/>
+      <point x="880.368" y="-511.14"/>
+      <point x="779.064" y="-511.14" type="curve" smooth="yes"/>
+      <point x="775.809" y="-511.14"/>
+      <point x="772.455" y="-511.093"/>
+      <point x="769" y="-511" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>Ncommaaccent</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1571</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

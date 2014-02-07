@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="1091"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="295" y="90" type="line"/>
+      <point x="544" y="333" type="line"/>
+      <point x="790" y="93" type="line"/>
+      <point x="947" y="251" type="line"/>
+      <point x="704" y="491" type="line"/>
+      <point x="952" y="736" type="line"/>
+      <point x="798" y="891" type="line"/>
+      <point x="547" y="647" type="line"/>
+      <point x="302" y="888" type="line"/>
+      <point x="143" y="730" type="line"/>
+      <point x="388" y="488" type="line"/>
+      <point x="138" y="244" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>multiply</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>929</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
