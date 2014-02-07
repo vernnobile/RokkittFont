@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="515"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="269" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="268" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="534" y="645" type="move" name="mid"/>
+    </contour>
+    <component base="lc_ascender_stem" xOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>l</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>563</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
