@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udblgrave" format="1">
+  <advance width="1045"/>
+  <unicode hex="0215"/>
+  <outline>
+    <component base="u"/>
+    <component base="dblgravecomb" xOffset="82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C" format="1">
+  <advance width="1387"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="718" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="706" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="709" y="-22" type="curve" smooth="yes"/>
+      <point x="938" y="-21"/>
+      <point x="1132" y="57"/>
+      <point x="1243" y="278" type="curve"/>
+      <point x="1169" y="320" type="line"/>
+      <point x="1074" y="123"/>
+      <point x="892" y="57"/>
+      <point x="715" y="57" type="curve" smooth="yes"/>
+      <point x="456" y="57"/>
+      <point x="217" y="240"/>
+      <point x="217" y="580" type="curve" smooth="yes"/>
+      <point x="217" y="855"/>
+      <point x="402" y="1093"/>
+      <point x="715" y="1093" type="curve" smooth="yes"/>
+      <point x="937" y="1093"/>
+      <point x="1064" y="1005"/>
+      <point x="1160" y="810" type="curve"/>
+      <point x="1232" y="820" type="line"/>
+      <point x="1232" y="1153" type="line"/>
+      <point x="1148" y="1153" type="line"/>
+      <point x="1148" y="950" type="line"/>
+      <point x="1059" y="1087"/>
+      <point x="934" y="1173"/>
+      <point x="710" y="1173" type="curve" smooth="yes"/>
+      <point x="349" y="1173"/>
+      <point x="111" y="915"/>
+      <point x="111" y="580" type="curve" smooth="yes"/>
+      <point x="111" y="188"/>
+      <point x="397" y="-21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1411</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

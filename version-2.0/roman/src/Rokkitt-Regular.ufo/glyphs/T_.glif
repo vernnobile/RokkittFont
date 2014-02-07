@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="1145"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="568" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="569" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="569" y="616" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="52" y="764" type="line"/>
+      <point x="134" y="764" type="line"/>
+      <point x="134" y="1081" type="line"/>
+      <point x="1010" y="1081" type="line"/>
+      <point x="1010" y="764" type="line"/>
+      <point x="1095" y="764" type="line"/>
+      <point x="1095" y="1152" type="line"/>
+      <point x="52" y="1152" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>T</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1147</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
