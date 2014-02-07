@@ -5,20 +5,20 @@
   <outline>
     <component base="O"/>
     <contour>
-      <point x="1154" y="-174" type="curve"/>
-      <point x="1143" y="-146" type="line"/>
-      <point x="1099.33" y="-160.475"/>
-      <point x="1063" y="-167.151"/>
-      <point x="1030.74" y="-167.151" type="curve" smooth="yes"/>
-      <point x="929.292" y="-167.151"/>
-      <point x="868.158" y="-101.119"/>
-      <point x="746" y="-4" type="curve"/>
-      <point x="697" y="-6" type="line"/>
-      <point x="846.03" y="-120.054"/>
-      <point x="913.542" y="-198.841"/>
-      <point x="1027.9" y="-198.841" type="curve" smooth="yes"/>
-      <point x="1063.94" y="-198.841"/>
+      <point x="1154" y="-174" type="line"/>
       <point x="1104.63" y="-191.015"/>
+      <point x="1063.94" y="-198.841"/>
+      <point x="1027.9" y="-198.841" type="curve" smooth="yes"/>
+      <point x="913.542" y="-198.841"/>
+      <point x="846.03" y="-120.054"/>
+      <point x="697" y="-6" type="curve"/>
+      <point x="746" y="-4" type="line"/>
+      <point x="868.158" y="-101.119"/>
+      <point x="929.292" y="-167.151"/>
+      <point x="1030.74" y="-167.151" type="curve" smooth="yes"/>
+      <point x="1063" y="-167.151"/>
+      <point x="1099.33" y="-160.475"/>
+      <point x="1143" y="-146" type="curve"/>
     </contour>
   </outline>
   <lib>

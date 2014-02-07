@@ -6,15 +6,15 @@
     <component base="C"/>
     <contour>
       <point x="-25" y="636" type="line"/>
-      <point x="602" y="636" type="line"/>
-      <point x="628" y="669" type="line"/>
       <point x="1" y="669" type="line"/>
+      <point x="628" y="669" type="line"/>
+      <point x="602" y="636" type="line"/>
     </contour>
     <contour>
       <point x="-25" y="446" type="line"/>
-      <point x="602" y="446" type="line"/>
-      <point x="628" y="479" type="line"/>
       <point x="1" y="479" type="line"/>
+      <point x="628" y="479" type="line"/>
+      <point x="602" y="446" type="line"/>
     </contour>
   </outline>
   <lib>
