@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="1080"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="1043" y="804" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="317" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="694" y="182.689" type="line"/>
+      <point x="634.057" y="153.346"/>
+      <point x="572.026" y="138"/>
+      <point x="516" y="138" type="curve" smooth="yes"/>
+      <point x="387" y="138"/>
+      <point x="282" y="221"/>
+      <point x="282" y="392" type="curve" smooth="yes"/>
+      <point x="282" y="579"/>
+      <point x="378" y="666"/>
+      <point x="508" y="666" type="curve" smooth="yes"/>
+      <point x="566.135" y="666"/>
+      <point x="630.503" y="648.031"/>
+      <point x="694" y="614.536" type="curve"/>
+    </contour>
+    <contour>
+      <point x="694" y="0" type="line"/>
+      <point x="1031" y="0" type="line"/>
+      <point x="1031" y="151" type="line"/>
+      <point x="913" y="151" type="line"/>
+      <point x="913" y="1174" type="line"/>
+      <point x="546" y="1174" type="line"/>
+      <point x="546" y="1023" type="line"/>
+      <point x="694" y="1023" type="line"/>
+      <point x="694" y="750.244" type="line"/>
+      <point x="618.981" y="797.637"/>
+      <point x="533.404" y="825"/>
+      <point x="449" y="825" type="curve" smooth="yes"/>
+      <point x="237" y="825"/>
+      <point x="53" y="680"/>
+      <point x="53" y="400" type="curve" smooth="yes"/>
+      <point x="53" y="130"/>
+      <point x="247" y="-22"/>
+      <point x="466" y="-22" type="curve" smooth="yes"/>
+      <point x="546.733" y="-22"/>
+      <point x="624.149" y="1.9502"/>
+      <point x="694" y="45.8247" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>d</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1089</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

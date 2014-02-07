@@ -10,18 +10,29 @@ UnderlinePosition: 0
 UnderlineWidth: 0
 Ascent: 1638
 Descent: 410
+<<<<<<< HEAD
 sfntRevision: 0x00000000
+=======
+>>>>>>> 293d9febf88108a14b4ff86024e09b655dadaac3
 UFOAscent: 1152
 UFODescent: -410
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+<<<<<<< HEAD
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1391750078
 ModificationTime: 1391750078
+=======
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1391786713
+ModificationTime: 1391786749
+>>>>>>> 293d9febf88108a14b4ff86024e09b655dadaac3
 PfmFamily: 0
 TTFWeight: 400
 TTFWidth: 5
@@ -1504,6 +1515,7 @@ tp128
 stp129
 s."
 Encoding: UnicodeBmp
+<<<<<<< HEAD
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
@@ -1512,6 +1524,17 @@ FitToEm: 1
 WinInfo: 60 10 4
 AnchorClass2: "caron.alt" "top" 
 BeginChars: 65539 521
+=======
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 306 17 7
+AnchorClass2: "caron.alt" "top" 
+BeginChars: 65539 523
+>>>>>>> 293d9febf88108a14b4ff86024e09b655dadaac3
 
 StartChar: A
 Encoding: 65 65 0
@@ -38099,5 +38122,30 @@ SplineSet
  127 187 273 -22 546 -22 c 256
 EndSplineSet
 EndChar
+<<<<<<< HEAD
+=======
+
+StartChar: Aringacute
+Encoding: 506 506 521
+Width: 1382
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 150 180 N 1 0 0 1 582 631 2
+Refer: 11 197 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: aringacute
+Encoding: 507 507 522
+Width: 943
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 150 180 N 1 0 0 1 350 284 2
+Refer: 161 229 N 1 0 0 1 0 0 3
+EndChar
+>>>>>>> 293d9febf88108a14b4ff86024e09b655dadaac3
 EndChars
 EndSplineFont
