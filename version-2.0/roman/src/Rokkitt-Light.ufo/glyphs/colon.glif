@@ -5,46 +5,46 @@
   <outline>
     <contour>
       <point x="186" y="234" type="line"/>
-      <point x="186" y="349" type="line"/>
-      <point x="295" y="349" type="line"/>
       <point x="295" y="234" type="line"/>
+      <point x="295" y="349" type="line"/>
+      <point x="186" y="349" type="line"/>
     </contour>
     <contour>
       <point x="186" y="707" type="line"/>
-      <point x="186" y="824" type="line"/>
-      <point x="295" y="824" type="line"/>
       <point x="295" y="707" type="line"/>
+      <point x="295" y="824" type="line"/>
+      <point x="186" y="824" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>colon</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>453</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>colon</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>453</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

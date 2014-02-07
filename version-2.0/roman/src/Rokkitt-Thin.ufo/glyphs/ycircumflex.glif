@@ -3,22 +3,12 @@
   <advance width="1072"/>
   <unicode hex="0177"/>
   <outline>
-    <component base="circumflex" xOffset="393"/>
     <component base="y"/>
+    <component base="circumflex" xOffset="393"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-237</integer>
-	    <key>width</key>	    <integer>43</integer>
-	  </dict>
-	</array>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

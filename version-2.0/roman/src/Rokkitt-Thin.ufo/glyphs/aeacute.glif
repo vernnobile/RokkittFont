@@ -3,55 +3,12 @@
   <advance width="1657"/>
   <unicode hex="01FD"/>
   <outline>
-    <component base="acute" xOffset="885"/>
     <component base="ae"/>
+    <component base="acute" xOffset="885"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>34</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>394</integer>
-	    <key>width</key>	    <integer>34</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>792</integer>
-	    <key>width</key>	    <integer>34</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>991</integer>
-	    <key>width</key>	    <integer>245</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>154</integer>
-	    <key>width</key>
-	    <integer>42</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>767</integer>
-	    <key>width</key>
-	    <integer>39</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1475</integer>
-	    <key>width</key>
-	    <integer>36</integer>
-	  </dict>
-	</array>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

@@ -24,11 +24,8 @@
       <point x="700" y="75"/>
       <point x="611" y="132"/>
       <point x="547" y="200" type="curve"/>
-      <point x="565.676" y="251.358"/>
-      <point x="576.286" y="302.063"/>
-      <point x="576.286" y="356.185" type="curve" smooth="yes"/>
-      <point x="576.286" y="417.981"/>
-      <point x="562.453" y="484.233"/>
+      <point x="587" y="310"/>
+      <point x="590" y="417"/>
       <point x="531" y="561" type="curve"/>
       <point x="891" y="561" type="line"/>
       <point x="891" y="630" type="line"/>
@@ -55,11 +52,8 @@
       <point x="179" y="630" type="line"/>
       <point x="179" y="561" type="line"/>
       <point x="435" y="561" type="line"/>
-      <point x="483.3" y="471.017"/>
-      <point x="497.891" y="389.789"/>
-      <point x="497.891" y="325.716" type="curve" smooth="yes"/>
-      <point x="497.891" y="292.95"/>
-      <point x="494.075" y="264.67"/>
+      <point x="508" y="425"/>
+      <point x="504" y="309"/>
       <point x="489" y="242" type="curve"/>
       <point x="442" y="297"/>
       <point x="357" y="342"/>
@@ -87,62 +81,7 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-21</integer>
-	    <key>width</key>	    <integer>62</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-9</integer>
-	    <key>width</key>	    <integer>84</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>275</integer>
-	    <key>width</key>	    <integer>67</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1170</integer>
-	    <key>width</key>	    <integer>77</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>63</integer>
-	    <key>width</key>
-	    <integer>74</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>292</integer>
-	    <key>width</key>
-	    <integer>91</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>498</integer>
-	    <key>width</key>
-	    <integer>78</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>881</integer>
-	    <key>width</key>
-	    <integer>86</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>954</integer>
-	    <key>width</key>
-	    <integer>67</integer>
-	  </dict>
-	</array>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

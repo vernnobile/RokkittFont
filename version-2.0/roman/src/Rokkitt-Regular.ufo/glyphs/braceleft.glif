@@ -20,7 +20,7 @@
       <point x="309" y="1137"/>
       <point x="444" y="1137" type="curve"/>
       <point x="444" y="1206" type="line"/>
-      <point x="379" y="1206" type="line" smooth="yes"/>
+      <point x="379" y="1206" type="line"/>
       <point x="183" y="1206"/>
       <point x="180" y="1074"/>
       <point x="180" y="861" type="curve" smooth="yes"/>
@@ -37,60 +37,33 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-61</integer>
-	    <key>width</key>	    <integer>68</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>526</integer>
-	    <key>width</key>	    <integer>93</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1137</integer>
-	    <key>width</key>	    <integer>69</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>180</integer>
-	    <key>width</key>
-	    <integer>97</integer>
-	  </dict>
-	</array>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>braceleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>404</integer>
+        </dict>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>braceleft</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>404</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

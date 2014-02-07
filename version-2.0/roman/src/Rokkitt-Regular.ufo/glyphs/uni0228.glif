@@ -8,30 +8,7 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-317</integer>
-	    <key>width</key>	    <integer>57</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-152</integer>
-	    <key>width</key>	    <integer>40</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>670</integer>
-	    <key>width</key>
-	    <integer>90</integer>
-	  </dict>
-	</array>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

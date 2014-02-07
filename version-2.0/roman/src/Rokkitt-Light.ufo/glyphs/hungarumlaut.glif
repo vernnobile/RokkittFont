@@ -4,47 +4,50 @@
   <unicode hex="02DD"/>
   <outline>
     <contour>
+      <point x="165" y="804" type="move" name="_top"/>
+    </contour>
+    <contour>
       <point x="376" y="1287" type="line"/>
-      <point x="455" y="1287" type="line"/>
-      <point x="309" y="987" type="line"/>
       <point x="267" y="987" type="line"/>
+      <point x="309" y="987" type="line"/>
+      <point x="455" y="1287" type="line"/>
     </contour>
     <contour>
       <point x="168" y="1287" type="line"/>
-      <point x="247" y="1287" type="line"/>
-      <point x="101" y="987" type="line"/>
       <point x="59" y="987" type="line"/>
+      <point x="101" y="987" type="line"/>
+      <point x="247" y="1287" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>356</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>hungarumlaut</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>356</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

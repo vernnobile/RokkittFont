@@ -3,8 +3,6 @@
   <advance width="1011"/>
   <unicode hex="0064"/>
   <outline>
-    <component base="lc_ascender_stem_2" xOffset="562"/>
-    <component base="lc_bowl_left" xOffset="-74"/>
     <contour>
       <point x="806" y="969" type="move" name="mid"/>
     </contour>
@@ -14,6 +12,8 @@
     <contour>
       <point x="816" y="804" type="move" name="caron.alt"/>
     </contour>
+    <component base="lc_ascender_stem_2" xOffset="562"/>
+    <component base="lc_bowl_left" xOffset="-74"/>
   </outline>
   <lib>
     <dict>

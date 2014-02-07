@@ -4,93 +4,43 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="34" y="0" type="line"/>
-      <point x="34" y="34" type="line"/>
-      <point x="215" y="34" type="line"/>
-      <point x="215" y="770" type="line"/>
-      <point x="37" y="770" type="line"/>
-      <point x="37" y="804" type="line"/>
-      <point x="259" y="804" type="line"/>
-      <point x="259" y="711.074" type="line"/>
-      <point x="383.841" y="782.101"/>
-      <point x="516.078" y="826"/>
-      <point x="607" y="826" type="curve" smooth="yes"/>
-      <point x="756" y="826"/>
-      <point x="850" y="732"/>
-      <point x="850" y="582" type="curve" smooth="yes"/>
-      <point x="850" y="34" type="line"/>
-      <point x="1004" y="34" type="line"/>
-      <point x="1004" y="0" type="line"/>
-      <point x="626" y="0" type="line"/>
-      <point x="626" y="34" type="line"/>
-      <point x="806" y="34" type="line"/>
-      <point x="806" y="605" type="line" smooth="yes"/>
-      <point x="806" y="719"/>
-      <point x="727" y="790"/>
-      <point x="602" y="790" type="curve" smooth="yes"/>
-      <point x="529.918" y="790"/>
-      <point x="399.998" y="748.812"/>
-      <point x="259" y="676.281" type="curve"/>
-      <point x="259" y="646" type="line"/>
-      <point x="259" y="34" type="line"/>
-      <point x="435" y="34" type="line"/>
-      <point x="435" y="0" type="line"/>
+      <point x="596" y="804" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="544" y="0" type="move" name="bot"/>
+    </contour>
+    <component base="lc_xheight_curved_stem" xOffset="-81"/>
+    <component base="lc_xheight_stem" xOffset="-59"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>790</integer>
-	    <key>width</key>	    <integer>36</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>34</integer>
-	    <key>width</key>
-	    <integer>401</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>806</integer>
-	    <key>width</key>
-	    <integer>44</integer>
-	  </dict>
-	</array>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>n</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1010</integer>
+        </dict>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>n</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1010</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

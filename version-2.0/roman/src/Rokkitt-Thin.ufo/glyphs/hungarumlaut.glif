@@ -4,57 +4,50 @@
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="157" y="1286" type="line"/>
-      <point x="199" y="1286" type="line"/>
-      <point x="71" y="991" type="line"/>
-      <point x="50" y="991" type="line"/>
+      <point x="134" y="804" type="move" name="_top"/>
     </contour>
     <contour>
       <point x="337" y="1286" type="line"/>
-      <point x="379" y="1286" type="line"/>
-      <point x="251" y="991" type="line"/>
       <point x="230" y="991" type="line"/>
+      <point x="251" y="991" type="line"/>
+      <point x="379" y="1286" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="1286" type="line"/>
+      <point x="50" y="991" type="line"/>
+      <point x="71" y="991" type="line"/>
+      <point x="199" y="1286" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>991</integer>
-	    <key>width</key>	    <integer>295</integer>
-	  </dict>
-	</array>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>356</integer>
+        </dict>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>hungarumlaut</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>356</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

@@ -4,47 +4,45 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="55" y="0" type="line"/>
-      <point x="471" y="0" type="line"/>
-      <point x="471" y="93" type="line"/>
-      <point x="336" y="93" type="line"/>
-      <point x="336" y="1174" type="line"/>
-      <point x="60" y="1174" type="line"/>
-      <point x="60" y="1081" type="line"/>
-      <point x="206" y="1081" type="line"/>
-      <point x="206" y="93" type="line"/>
-      <point x="55" y="93" type="line"/>
+      <point x="269" y="1152" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="268" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="534" y="645" type="move" name="mid"/>
+    </contour>
+    <component base="lc_ascender_stem" xOffset="-46"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>l</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>563</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>l</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>563</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

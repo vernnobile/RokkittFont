@@ -30,69 +30,44 @@
       <point x="222" y="997"/>
       <point x="328" y="1093"/>
       <point x="494" y="1093" type="curve" smooth="yes"/>
-      <point x="664.488" y="1093"/>
-      <point x="754.032" y="989.991"/>
-      <point x="754.032" y="841.642" type="curve" smooth="yes"/>
-      <point x="754.032" y="736.528"/>
-      <point x="661.428" y="620.418"/>
+      <point x="664" y="1093"/>
+      <point x="752" y="991"/>
+      <point x="754" y="845" type="curve" smooth="yes"/>
+      <point x="756" y="739"/>
+      <point x="663" y="622"/>
       <point x="514" y="472" type="curve" smooth="yes"/>
       <point x="124" y="79" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1093</integer>
-	    <key>width</key>	    <integer>81</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>131</integer>
-	    <key>width</key>
-	    <integer>91</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>754</integer>
-	    <key>width</key>
-	    <integer>98</integer>
-	  </dict>
-	</array>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>two</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>964</integer>
+        </dict>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>two</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>964</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

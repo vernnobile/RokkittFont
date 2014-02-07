@@ -4,59 +4,42 @@
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="117" y="0" type="line"/>
-      <point x="557" y="0" type="line"/>
-      <point x="557" y="93" type="line"/>
-      <point x="407" y="93" type="line"/>
-      <point x="407" y="804" type="line"/>
-      <point x="118" y="804" type="line"/>
-      <point x="118" y="711" type="line"/>
-      <point x="278" y="711" type="line"/>
-      <point x="278" y="93" type="line"/>
-      <point x="117" y="93" type="line"/>
+      <point x="323" y="804" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="348" y="0" type="move" name="ogonek"/>
+    </contour>
+    <component base="lc_xheight_stem" xOffset="1"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>117</integer>
-	    <key>width</key>
-	    <integer>440</integer>
-	  </dict>
-	</array>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotlessi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>513</integer>
+        </dict>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>dotlessi</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>513</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

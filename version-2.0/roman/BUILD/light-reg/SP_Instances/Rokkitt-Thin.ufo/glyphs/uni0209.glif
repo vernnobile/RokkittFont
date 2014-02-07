@@ -4,7 +4,7 @@
   <unicode hex="0209"/>
   <outline>
     <component base="i"/>
-    <component base="dblgravecmb" xOffset="-40"/>
+    <component base="dblgravecomb" xOffset="-40"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>537</integer>
+          <integer>513</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>

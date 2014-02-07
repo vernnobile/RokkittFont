@@ -3,11 +3,11 @@
   <advance width="537"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dotaccent" xOffset="32"/>
     <contour>
       <point x="284" y="0" type="move" name="ogonek"/>
     </contour>
+    <component base="dotlessi"/>
+    <component base="dotaccent" xOffset="32"/>
   </outline>
   <lib>
     <dict>
@@ -33,7 +33,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>537</integer>
+          <integer>531</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>

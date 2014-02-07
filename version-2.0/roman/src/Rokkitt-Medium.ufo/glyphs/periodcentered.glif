@@ -4,13 +4,16 @@
   <unicode hex="00B7"/>
   <outline>
     <contour>
+      <point x="269" y="553" type="move" name="_mid"/>
+    </contour>
+    <contour>
       <point x="268" y="461" type="curve" smooth="yes"/>
       <point x="324" y="461"/>
       <point x="367" y="500"/>
       <point x="367" y="553" type="curve" smooth="yes"/>
       <point x="367" y="604"/>
       <point x="324" y="644"/>
-      <point x="268" y="644" type="curve" smooth="yes"/>
+      <point x="268" y="644" type="curve"/>
       <point x="214" y="644"/>
       <point x="172" y="604"/>
       <point x="172" y="553" type="curve" smooth="yes"/>
@@ -20,33 +23,33 @@
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>periodcentered</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>453</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>periodcentered</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>453</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

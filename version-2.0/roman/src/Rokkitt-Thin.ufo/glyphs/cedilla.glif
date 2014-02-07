@@ -4,56 +4,36 @@
   <unicode hex="00B8"/>
   <outline>
     <contour>
+      <point x="292" y="0" type="move" name="_bot"/>
+    </contour>
+    <contour>
       <point x="279" y="-279" type="curve" smooth="yes"/>
-      <point x="245" y="-279"/>
-      <point x="210" y="-271"/>
-      <point x="181" y="-256" type="curve"/>
-      <point x="181" y="-230" type="line"/>
-      <point x="210" y="-239"/>
-      <point x="236" y="-243"/>
-      <point x="258" y="-243" type="curve" smooth="yes"/>
-      <point x="305" y="-243"/>
-      <point x="333" y="-225"/>
-      <point x="333" y="-192" type="curve" smooth="yes"/>
-      <point x="333" y="-166"/>
-      <point x="305" y="-144"/>
-      <point x="212" y="-144" type="curve"/>
-      <point x="270" y="6" type="line"/>
-      <point x="298" y="6" type="line"/>
-      <point x="259" y="-108" type="line"/>
-      <point x="354" y="-108"/>
-      <point x="385" y="-150"/>
-      <point x="385" y="-197" type="curve" smooth="yes"/>
-      <point x="385" y="-255"/>
       <point x="335" y="-279"/>
+      <point x="385" y="-255"/>
+      <point x="385" y="-197" type="curve" smooth="yes"/>
+      <point x="385" y="-150"/>
+      <point x="354" y="-108"/>
+      <point x="259" y="-108" type="curve"/>
+      <point x="298" y="6" type="line"/>
+      <point x="270" y="6" type="line"/>
+      <point x="212" y="-144" type="line"/>
+      <point x="305" y="-144"/>
+      <point x="333" y="-166"/>
+      <point x="333" y="-192" type="curve" smooth="yes"/>
+      <point x="333" y="-225"/>
+      <point x="305" y="-243"/>
+      <point x="258" y="-243" type="curve" smooth="yes"/>
+      <point x="236" y="-243"/>
+      <point x="210" y="-239"/>
+      <point x="181" y="-230" type="curve"/>
+      <point x="181" y="-256" type="line"/>
+      <point x="210" y="-271"/>
+      <point x="245" y="-279"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-279</integer>
-	    <key>width</key>	    <integer>36</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-144</integer>
-	    <key>width</key>	    <integer>36</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>333</integer>
-	    <key>width</key>
-	    <integer>52</integer>
-	  </dict>
-	</array>
-      </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

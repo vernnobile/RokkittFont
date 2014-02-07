@@ -4,53 +4,55 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
+      <point x="569" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="573" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="570" y="618" type="move" name="mid"/>
+    </contour>
+    <contour>
       <point x="52" y="757" type="line"/>
       <point x="159" y="757" type="line"/>
       <point x="159" y="1059" type="line"/>
-      <point x="502" y="1059" type="line"/>
-      <point x="502" y="93" type="line"/>
-      <point x="338" y="93" type="line"/>
-      <point x="338" y="0" type="line"/>
-      <point x="807" y="0" type="line"/>
-      <point x="807" y="93" type="line"/>
-      <point x="644" y="93" type="line"/>
-      <point x="644" y="1059" type="line"/>
       <point x="984" y="1059" type="line"/>
       <point x="984" y="757" type="line"/>
       <point x="1093" y="757" type="line"/>
       <point x="1093" y="1152" type="line"/>
       <point x="52" y="1152" type="line"/>
     </contour>
+    <component base="uc_main_stem" xOffset="216"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>T</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1147</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>T</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1147</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

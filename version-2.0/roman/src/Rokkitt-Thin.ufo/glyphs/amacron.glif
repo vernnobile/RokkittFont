@@ -8,82 +8,33 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-22</integer>
-	    <key>width</key>	    <integer>34</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>416</integer>
-	    <key>width</key>	    <integer>34</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>792</integer>
-	    <key>width</key>	    <integer>34</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>919</integer>
-	    <key>width</key>	    <integer>32</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>133</integer>
-	    <key>width</key>
-	    <integer>42</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>289</integer>
-	    <key>width</key>
-	    <integer>369</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>719</integer>
-	    <key>width</key>
-	    <integer>44</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>735</integer>
-	    <key>width</key>
-	    <integer>28</integer>
-	  </dict>
-	</array>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>amacron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>951</integer>
+        </dict>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>amacron</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>951</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>
