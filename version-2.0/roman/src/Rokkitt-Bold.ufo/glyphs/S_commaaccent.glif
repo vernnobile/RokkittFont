@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scommaaccent" format="1">
+  <advance width="1060"/>
+  <unicode hex="0218"/>
+  <outline>
+    <component base="S"/>
+    <contour>
+      <point x="472" y="-550" type="line"/>
+      <point x="645" y="-550"/>
+      <point x="735" y="-473"/>
+      <point x="734" y="-331" type="curve"/>
+      <point x="734" y="-99" type="line"/>
+      <point x="472" y="-99" type="line"/>
+      <point x="472" y="-321" type="line"/>
+      <point x="607" y="-321" type="line"/>
+      <point x="607" y="-401"/>
+      <point x="562" y="-435"/>
+      <point x="472" y="-450" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+  <advance width="1210"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="911" y="-19" type="curve" smooth="yes"/>
+      <point x="974" y="-19"/>
+      <point x="1038" y="1"/>
+      <point x="1084" y="33" type="curve"/>
+      <point x="1084" y="138" type="line"/>
+      <point x="1044" y="126"/>
+      <point x="1007" y="118"/>
+      <point x="976" y="118" type="curve" smooth="yes"/>
+      <point x="914" y="118"/>
+      <point x="870" y="146"/>
+      <point x="870" y="231" type="curve" smooth="yes"/>
+      <point x="870" y="313"/>
+      <point x="875" y="447"/>
+      <point x="888" y="597" type="curve"/>
+      <point x="1092" y="597" type="line"/>
+      <point x="1092" y="804" type="line"/>
+      <point x="390" y="804" type="line" smooth="yes"/>
+      <point x="202" y="804"/>
+      <point x="125" y="662"/>
+      <point x="126" y="497" type="curve"/>
+      <point x="227" y="497" type="line"/>
+      <point x="236" y="557"/>
+      <point x="269" y="597"/>
+      <point x="325" y="597" type="curve" smooth="yes"/>
+      <point x="397" y="597" type="line"/>
+      <point x="345" y="299" type="line" smooth="yes"/>
+      <point x="316" y="135"/>
+      <point x="227" y="91"/>
+      <point x="155" y="87" type="curve"/>
+      <point x="155" y="-1" type="line"/>
+      <point x="268" y="-1" type="line" smooth="yes"/>
+      <point x="431" y="-1"/>
+      <point x="514" y="79"/>
+      <point x="525" y="245" type="curve" smooth="yes"/>
+      <point x="548" y="597" type="line"/>
+      <point x="763" y="597" type="line"/>
+      <point x="719" y="446"/>
+      <point x="679" y="307"/>
+      <point x="679" y="196" type="curve" smooth="yes"/>
+      <point x="679" y="69"/>
+      <point x="735" y="-19"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>pi</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1187</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

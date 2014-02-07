@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="1">
+  <advance width="1068"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <component base="three" xOffset="56" yOffset="535" xScale="0.71" yScale="0.71"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni00B3</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>944</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

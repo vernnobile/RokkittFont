@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="1602"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="864" y="0" type="line"/>
+      <point x="1562" y="0" type="line"/>
+      <point x="1562" y="210" type="line"/>
+      <point x="1444" y="210" type="line"/>
+      <point x="1003" y="651" type="line"/>
+      <point x="1357" y="942" type="line"/>
+      <point x="1546" y="942" type="line"/>
+      <point x="1546" y="1152" type="line"/>
+      <point x="870" y="1152" type="line"/>
+      <point x="870" y="942" type="line"/>
+      <point x="1037" y="942" type="line"/>
+      <point x="586" y="602" type="line"/>
+      <point x="963" y="210" type="line"/>
+      <point x="864" y="210" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="-157"/>
+    <contour>
+      <point x="833" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="834" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>467</integer>
+          <key>y</key>
+          <integer>593</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>K</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1269.73</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight" format="1">
+  <advance width="1218"/>
+  <unicode hex="0038"/>
+  <outline>
+    <contour>
+      <point x="618" y="-22" type="curve"/>
+      <point x="919" y="-22"/>
+      <point x="1140" y="112"/>
+      <point x="1140" y="304" type="curve"/>
+      <point x="1140" y="449"/>
+      <point x="1036" y="580"/>
+      <point x="897" y="612" type="curve"/>
+      <point x="1004" y="634"/>
+      <point x="1088" y="742"/>
+      <point x="1088" y="862" type="curve"/>
+      <point x="1088" y="1046"/>
+      <point x="888" y="1176"/>
+      <point x="609" y="1174" type="curve"/>
+      <point x="328" y="1172"/>
+      <point x="127" y="1042"/>
+      <point x="127" y="863" type="curve"/>
+      <point x="127" y="733"/>
+      <point x="214" y="621"/>
+      <point x="326" y="603" type="curve"/>
+      <point x="185" y="582"/>
+      <point x="78" y="454"/>
+      <point x="78" y="304" type="curve"/>
+      <point x="78" y="111"/>
+      <point x="308" y="-22"/>
+    </contour>
+    <contour>
+      <point x="617" y="145" type="curve"/>
+      <point x="534" y="145"/>
+      <point x="474" y="211"/>
+      <point x="474" y="302" type="curve"/>
+      <point x="474" y="453"/>
+      <point x="506" y="546"/>
+      <point x="579" y="527" type="curve"/>
+      <point x="679" y="504"/>
+      <point x="749" y="400"/>
+      <point x="749" y="303" type="curve"/>
+      <point x="749" y="211"/>
+      <point x="693" y="145"/>
+    </contour>
+    <contour>
+      <point x="634" y="692" type="curve"/>
+      <point x="554" y="723"/>
+      <point x="501" y="802"/>
+      <point x="501" y="866" type="curve"/>
+      <point x="501" y="950"/>
+      <point x="549" y="1012"/>
+      <point x="609" y="1012" type="curve"/>
+      <point x="673" y="1012"/>
+      <point x="723" y="951"/>
+      <point x="723" y="866" type="curve"/>
+      <point x="723" y="740"/>
+      <point x="697" y="669"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eight</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1109</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

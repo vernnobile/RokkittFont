@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="519"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="278" y="-339" type="curve" smooth="yes"/>
+      <point x="354" y="-339"/>
+      <point x="416" y="-309"/>
+      <point x="416" y="-229" type="curve" smooth="yes"/>
+      <point x="416" y="-174"/>
+      <point x="375" y="-121"/>
+      <point x="274" y="-114" type="curve"/>
+      <point x="306" y="5" type="line"/>
+      <point x="246" y="5" type="line"/>
+      <point x="185" y="-156" type="line"/>
+      <point x="269" y="-160"/>
+      <point x="303" y="-183"/>
+      <point x="303" y="-217" type="curve" smooth="yes"/>
+      <point x="303" y="-254"/>
+      <point x="273" y="-270"/>
+      <point x="226" y="-270" type="curve" smooth="yes"/>
+      <point x="195" y="-270"/>
+      <point x="157" y="-263"/>
+      <point x="117" y="-251" type="curve"/>
+      <point x="117" y="-303" type="line"/>
+      <point x="168" y="-326"/>
+      <point x="226" y="-339"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

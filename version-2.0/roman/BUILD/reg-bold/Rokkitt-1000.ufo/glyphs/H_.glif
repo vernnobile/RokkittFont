@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1632"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="409" y="481" type="line"/>
+      <point x="1232" y="481" type="line"/>
+      <point x="1235" y="682" type="line"/>
+      <point x="411" y="682" type="line"/>
+    </contour>
+    <component base="uc_main_stem" xOffset="663"/>
+    <component base="uc_main_stem" xOffset="-157"/>
+    <contour>
+      <point x="822" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="821" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>H</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1445</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

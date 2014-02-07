@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h" format="1">
+  <advance width="965"/>
+  <unicode hex="0068"/>
+  <outline>
+    <component base="lc_ascender_stem" xOffset="-58"/>
+    <component base="lc_xheight_curved_stem" xOffset="-126"/>
+    <contour>
+      <point x="206" y="970" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="499" y="1005" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>h</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>965</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

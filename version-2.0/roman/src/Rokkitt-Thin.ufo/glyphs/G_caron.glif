@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcaron" format="1">
+  <advance width="1394"/>
+  <unicode hex="01E6"/>
+  <outline>
+    <component base="G"/>
+    <component base="caron" xOffset="531" yOffset="348"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-22</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1138</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>119</integer>
+	    <key>width</key>
+	    <integer>42</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1157</integer>
+	    <key>width</key>
+	    <integer>44</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1203</integer>
+	    <key>width</key>
+	    <integer>42</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

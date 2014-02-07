@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0206" format="1">
+  <advance width="1175"/>
+  <unicode hex="0206"/>
+  <outline>
+    <component base="E"/>
+    <component base="breveinvertedcomb" xOffset="329" yOffset="303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni0206</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1175</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

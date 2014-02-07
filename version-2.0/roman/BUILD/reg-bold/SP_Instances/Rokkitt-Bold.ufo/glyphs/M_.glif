@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1765"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="880" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="536" y="152" type="line"/>
+      <point x="388" y="152" type="line"/>
+      <point x="388" y="985" type="line"/>
+      <point x="806" y="38" type="line"/>
+      <point x="896" y="38" type="line"/>
+      <point x="1316" y="986" type="line"/>
+      <point x="1316" y="152" type="line"/>
+      <point x="1167" y="152" type="line"/>
+      <point x="1167" y="0" type="line"/>
+      <point x="1712" y="0" type="line"/>
+      <point x="1712" y="152" type="line"/>
+      <point x="1551" y="152" type="line"/>
+      <point x="1551" y="1001" type="line"/>
+      <point x="1711" y="1001" type="line"/>
+      <point x="1711" y="1152" type="line"/>
+      <point x="1200" y="1152" type="line"/>
+      <point x="885" y="427" type="line"/>
+      <point x="561" y="1152" type="line"/>
+      <point x="56" y="1152" type="line"/>
+      <point x="56" y="1001" type="line"/>
+      <point x="216" y="1001" type="line"/>
+      <point x="216" y="152" type="line"/>
+      <point x="56" y="152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1856</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E56" format="1">
+  <advance width="1226"/>
+  <unicode hex="1E56"/>
+  <outline>
+    <component base="P"/>
+    <component base="dotaccent" xOffset="429" yOffset="348"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>500</integer>
+	    <key>width</key>	    <integer>34</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1118</integer>
+	    <key>width</key>	    <integer>34</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1367</integer>
+	    <key>width</key>	    <integer>83</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>130</integer>
+	    <key>width</key>
+	    <integer>396</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>636</integer>
+	    <key>width</key>
+	    <integer>91</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1031</integer>
+	    <key>width</key>
+	    <integer>44</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

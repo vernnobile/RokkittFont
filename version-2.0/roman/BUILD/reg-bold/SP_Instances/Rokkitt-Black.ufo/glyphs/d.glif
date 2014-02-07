@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d" format="1">
+  <advance width="1168"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="301" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="961" y="804" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="870" y="882" type="move" name="mid"/>
+    </contour>
+    <component base="lc_ascender_stem_2" xOffset="283"/>
+    <component base="lc_bowl_left" xOffset="-198"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>d</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1089</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

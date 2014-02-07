@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb" format="1">
+  <advance width="600"/>
+  <unicode hex="0312"/>
+  <outline>
+    <contour>
+      <point x="279" y="804" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="330" y="929" type="line"/>
+      <point x="330" y="1038" type="line"/>
+      <point x="272" y="1038" type="line"/>
+      <point x="272" y="1147"/>
+      <point x="285" y="1169"/>
+      <point x="339" y="1176" type="curve"/>
+      <point x="339" y="1201" type="line"/>
+      <point x="249" y="1201"/>
+      <point x="232" y="1129"/>
+      <point x="232" y="1044" type="curve"/>
+      <point x="231" y="930" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

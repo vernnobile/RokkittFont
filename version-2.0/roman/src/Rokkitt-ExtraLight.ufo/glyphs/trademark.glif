@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1606"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="800" y="574" type="line"/>
+      <point x="990" y="574" type="line"/>
+      <point x="990" y="612" type="line"/>
+      <point x="914" y="612" type="line"/>
+      <point x="914" y="1037" type="line"/>
+      <point x="1126" y="624" type="line"/>
+      <point x="1132" y="624" type="line"/>
+      <point x="1333" y="1034" type="line"/>
+      <point x="1333" y="612" type="line"/>
+      <point x="1259" y="612" type="line"/>
+      <point x="1259" y="574" type="line"/>
+      <point x="1447" y="574" type="line"/>
+      <point x="1447" y="612" type="line"/>
+      <point x="1376" y="612" type="line"/>
+      <point x="1376" y="1114" type="line"/>
+      <point x="1447" y="1114" type="line"/>
+      <point x="1447" y="1152" type="line"/>
+      <point x="1344" y="1152" type="line"/>
+      <point x="1129" y="694" type="line"/>
+      <point x="903" y="1152" type="line"/>
+      <point x="800" y="1152" type="line"/>
+      <point x="800" y="1114" type="line"/>
+      <point x="871" y="1114" type="line"/>
+      <point x="871" y="612" type="line"/>
+      <point x="800" y="612" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="574" type="line"/>
+      <point x="483" y="574" type="line"/>
+      <point x="483" y="610" type="line"/>
+      <point x="408" y="610" type="line"/>
+      <point x="408" y="1110" type="line"/>
+      <point x="604" y="1110" type="line"/>
+      <point x="604" y="953" type="line"/>
+      <point x="648" y="953" type="line"/>
+      <point x="648" y="1152" type="line"/>
+      <point x="133" y="1152" type="line"/>
+      <point x="133" y="953" type="line"/>
+      <point x="177" y="953" type="line"/>
+      <point x="177" y="1110" type="line"/>
+      <point x="366" y="1110" type="line"/>
+      <point x="366" y="610" type="line"/>
+      <point x="292" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>trademark</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1581</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

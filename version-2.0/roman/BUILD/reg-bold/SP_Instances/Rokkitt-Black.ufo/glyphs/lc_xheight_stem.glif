@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lc_xheight_stem" format="1">
+  <advance width="906"/>
+  <outline>
+    <contour>
+      <point x="152" y="0" type="line"/>
+      <point x="715" y="0" type="line"/>
+      <point x="715" y="224" type="line"/>
+      <point x="618" y="224" type="line"/>
+      <point x="618" y="547" type="line"/>
+      <point x="618" y="804" type="line"/>
+      <point x="163" y="804" type="line"/>
+      <point x="163" y="580" type="line"/>
+      <point x="266" y="580" type="line"/>
+      <point x="266" y="224" type="line"/>
+      <point x="152" y="224" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lc_xheight_stem</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>688</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
