@@ -4,61 +4,40 @@
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="283" y="1019" type="curve" smooth="yes"/>
-      <point x="311" y="1019"/>
-      <point x="330" y="1036"/>
-      <point x="330" y="1061" type="curve" smooth="yes"/>
-      <point x="330" y="1085"/>
-      <point x="311" y="1102"/>
-      <point x="283" y="1102" type="curve" smooth="yes"/>
-      <point x="257" y="1102"/>
-      <point x="239" y="1085"/>
-      <point x="239" y="1061" type="curve" smooth="yes"/>
-      <point x="239" y="1036"/>
-      <point x="257" y="1019"/>
+      <point x="284" y="0" type="move" name="ogonek"/>
     </contour>
-    <contour>
-      <point x="96" y="0" type="line"/>
-      <point x="497" y="0" type="line"/>
-      <point x="497" y="34" type="line"/>
-      <point x="321" y="34" type="line"/>
-      <point x="321" y="804" type="line"/>
-      <point x="99" y="804" type="line"/>
-      <point x="99" y="770" type="line"/>
-      <point x="277" y="770" type="line"/>
-      <point x="277" y="34" type="line"/>
-      <point x="96" y="34" type="line"/>
-    </contour>
+    <component base="dotlessi"/>
+    <component base="dotaccent" xOffset="32"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>i</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>531</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>i</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>531</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

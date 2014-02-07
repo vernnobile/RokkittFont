@@ -2,12 +2,12 @@
 <glyph name="idotaccent" format="1">
   <advance width="537"/>
   <outline>
-    <component base="dotaccent" xOffset="32"/>
     <component base="dotlessi"/>
+    <component base="dotaccent" xOffset="32"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>
