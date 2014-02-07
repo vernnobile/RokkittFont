@@ -4,15 +4,6 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="658" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="719" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="1000" y="0" type="line"/>
-      <point x="1198" y="0" type="line"/>
-      <point x="1198" y="34" type="line"/>
       <point x="1029" y="34" type="line"/>
       <point x="711" y="539" type="line"/>
       <point x="996" y="539"/>
@@ -21,8 +12,16 @@
       <point x="1078" y="988"/>
       <point x="995" y="1152"/>
       <point x="759" y="1152" type="curve" smooth="yes"/>
-      <point x="327" y="1152" type="line"/>
-      <point x="327" y="1118" type="line"/>
+      <point x="130" y="1152" type="line"/>
+      <point x="130" y="1118" type="line"/>
+      <point x="306" y="1118" type="line"/>
+      <point x="306" y="34" type="line"/>
+      <point x="130" y="34" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="526" y="34" type="line"/>
+      <point x="350" y="34" type="line"/>
+      <point x="350" y="1118" type="line"/>
       <point x="764" y="1118" type="line" smooth="yes"/>
       <point x="971" y="1118"/>
       <point x="1036" y="973"/>
@@ -33,8 +32,16 @@
       <point x="419" y="573" type="line"/>
       <point x="419" y="539" type="line"/>
       <point x="661" y="539" type="line"/>
+      <point x="1000" y="0" type="line"/>
+      <point x="1198" y="0" type="line"/>
+      <point x="1198" y="34" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="16"/>
+    <contour>
+      <point x="658" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="719" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -43,11 +50,9 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
           <array>
             <dict>
@@ -356,20 +361,17 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>R</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1296</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

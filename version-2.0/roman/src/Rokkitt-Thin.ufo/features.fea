@@ -6,6 +6,13 @@ languagesystem latn CAT;
 languagesystem latn ROM;
 languagesystem latn MOL;
 
+feature aalt {
+# automatic
+feature locl;
+feature sups;
+feature frac;
+feature ordn;
+} aalt;
 feature locl {
 # automatic
 script latn;
@@ -13,15 +20,15 @@ language CAT;
 sub  l' periodcentered' l by ldot;
 sub  L' periodcentered' L by Ldot;
 language ROM;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
+sub Scedilla by uni0218;
+sub scedilla by uni0219;
+sub Tcedilla by uni021A;
+sub tcedilla by uni021B;
 language MOL;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
+sub Scedilla by uni0218;
+sub scedilla by uni0219;
+sub Tcedilla by uni021A;
+sub tcedilla by uni021B;
 language KAZ;
 sub i by idotaccent;
 language TAT;
@@ -51,21 +58,19 @@ feature ordn {
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 } ordn;
-feature liga {
-# automatic
-sub f f l by f_f_l;
-sub f f i by f_f_i;
-sub f i by fi;
-sub f f by f_f;
-sub f l by fl;
-} liga;
-feature cpsp {
-# automatic
-pos @Uppercase <5 0 10 0>;
-} cpsp;
 feature dlig {
-sub f f i by ffi;
-sub f f l by ffl;
-sub f f by ff;
+sub f f i by uniFB03;
+sub f f l by uniFB04;
+sub f f by uniFB00;
+sub f i by fi;
+sub f l by fl;
 sub f j by fj;
 } dlig;
+feature liga {
+# automatic
+sub f f l by uniFB04;
+sub f f i by uniFB03;
+sub f i by fi;
+sub f l by fl;
+} liga;
+

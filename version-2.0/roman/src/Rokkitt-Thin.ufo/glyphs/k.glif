@@ -4,12 +4,19 @@
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="531" y="0" type="move" name="bot"/>
+      <point x="63" y="34" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="406" y="34" type="line"/>
+      <point x="256" y="34" type="line"/>
+      <point x="256" y="1174" type="line"/>
+      <point x="71" y="1174" type="line"/>
+      <point x="71" y="1140" type="line"/>
+      <point x="212" y="1140" type="line"/>
+      <point x="212" y="34" type="line"/>
     </contour>
     <contour>
-      <point x="551" y="1004" type="move" name="top"/>
-    </contour>
-    <contour>
+      <point x="256" y="423" type="line"/>
       <point x="723" y="0" type="line"/>
       <point x="926" y="0" type="line"/>
       <point x="926" y="34" type="line"/>
@@ -21,9 +28,13 @@
       <point x="545" y="804" type="line"/>
       <point x="545" y="770" type="line"/>
       <point x="713" y="770" type="line"/>
-      <point x="256" y="423" type="line"/>
     </contour>
-    <component base="lc_ascender_stem" xOffset="-20"/>
+    <contour>
+      <point x="531" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="551" y="1004" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -47,29 +58,23 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>k</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
-          <integer>927</integer>
+          <integer>972</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

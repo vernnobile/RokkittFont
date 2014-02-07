@@ -4,9 +4,6 @@
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="134" y="804" type="move" name="_top"/>
-    </contour>
-    <contour>
       <point x="337" y="1286" type="line"/>
       <point x="230" y="991" type="line"/>
       <point x="251" y="991" type="line"/>
@@ -18,6 +15,9 @@
       <point x="71" y="991" type="line"/>
       <point x="199" y="1286" type="line"/>
     </contour>
+    <contour>
+      <point x="134" y="804" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -26,29 +26,23 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>hungarumlaut</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>356</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

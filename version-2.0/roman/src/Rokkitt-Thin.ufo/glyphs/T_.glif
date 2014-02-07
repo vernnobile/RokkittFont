@@ -4,6 +4,24 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
+      <point x="52" y="1152" type="line"/>
+      <point x="52" y="777" type="line"/>
+      <point x="92" y="777" type="line"/>
+      <point x="92" y="1118" type="line"/>
+      <point x="543" y="1118" type="line"/>
+      <point x="543" y="34" type="line"/>
+      <point x="367" y="34" type="line"/>
+      <point x="367" y="0" type="line"/>
+      <point x="763" y="0" type="line"/>
+      <point x="763" y="34" type="line"/>
+      <point x="587" y="34" type="line"/>
+      <point x="587" y="1118" type="line"/>
+      <point x="1053" y="1118" type="line"/>
+      <point x="1053" y="777" type="line"/>
+      <point x="1097" y="777" type="line"/>
+      <point x="1097" y="1152" type="line"/>
+    </contour>
+    <contour>
       <point x="566" y="1152" type="move" name="top"/>
     </contour>
     <contour>
@@ -12,17 +30,6 @@
     <contour>
       <point x="567" y="612" type="move" name="mid"/>
     </contour>
-    <contour>
-      <point x="52" y="777" type="line"/>
-      <point x="92" y="777" type="line"/>
-      <point x="92" y="1118" type="line"/>
-      <point x="1053" y="1118" type="line"/>
-      <point x="1053" y="777" type="line"/>
-      <point x="1097" y="777" type="line"/>
-      <point x="1097" y="1152" type="line"/>
-      <point x="52" y="1152" type="line"/>
-    </contour>
-    <component base="uc_main_stem" xOffset="253"/>
   </outline>
   <lib>
     <dict>
@@ -31,29 +38,23 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>T</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1147</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -6,13 +6,13 @@
 	<dict>
 		<key>1F09728C-766D-4240-AE17-E499EF32E23D</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>98C086B7-81AA-4491-8494-0C6A76849168</key>
 		<dict>
-		</dict>
+	</dict>
 		<key>EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE</key>
 		<dict>
-		</dict>
+	</dict>
 	</dict>
 	<key>com.petr.ptt</key>
 	<dict>
@@ -350,7 +350,6 @@
 				<string>uni01cb</string>
 				<string>uni01F2</string>
 				<string>uni0307</string>
-				<string>uni030F</string>
 				<string>uni0311</string>
 				<string>zero</string>
 				<string>one</string>
@@ -507,10 +506,8 @@
 				<string>Fdotaccent</string>
 				<string>Gacute</string>
 				<string>Gcaron</string>
-				<string>Lj</string>
 				<string>Mdotaccent</string>
 				<string>Eng</string>
-				<string>Nj</string>
 				<string>Oslashacute</string>
 				<string>Pdotaccent</string>
 				<string>Scircumflex</string>
@@ -606,7 +603,6 @@
 				<string>mu</string>
 				<string>uni022E</string>
 				<string>uni022F</string>
-				<string>softhyphen</string>
 				<string>uni000D</string>
 				<string>.notdef</string>
 				<string>emptyset</string>
@@ -614,9 +610,7 @@
 				<string>breveinvertedcomb</string>
 				<string>commaturnedabovecomb</string>
 				<string>dotaboverightcomb</string>
-				<string>uni0326</string>
 				<string>apostrophemod</string>
-				<string>dblgravecmb</string>
 				<string>dotaccentcmb</string>
 				<string>fj</string>
 				<string>middot</string>
@@ -624,6 +618,75 @@
 				<string>uni0002</string>
 				<string>uni0009</string>
 				<string>uni000A</string>
+				<string>Acaron</string>
+				<string>Adblgrave</string>
+				<string>Adotaccent</string>
+				<string>Ainvertedbreve</string>
+				<string>Aringacute</string>
+				<string>Ecedilla</string>
+				<string>Edblgrave</string>
+				<string>Einvertedbreve</string>
+				<string>Etilde</string>
+				<string>Hcaron</string>
+				<string>Icaron</string>
+				<string>Idblgrave</string>
+				<string>Iinvertedbreve</string>
+				<string>Kcaron</string>
+				<string>LJ</string>
+				<string>NJ</string>
+				<string>Ngrave</string>
+				<string>Ocaron</string>
+				<string>Odblgrave</string>
+				<string>Oinvertedbreve</string>
+				<string>Oogonek</string>
+				<string>Rdblgrave</string>
+				<string>Rinvertedbreve</string>
+				<string>Ucaron</string>
+				<string>Udblgrave</string>
+				<string>Uinvertedbreve</string>
+				<string>Ymacron</string>
+				<string>Ytilde</string>
+				<string>acaron</string>
+				<string>adblgrave</string>
+				<string>adotaccent</string>
+				<string>ainvertedbreve</string>
+				<string>aringacute</string>
+				<string>ecedilla</string>
+				<string>edblgrave</string>
+				<string>einvertedbreve</string>
+				<string>etilde</string>
+				<string>hcaron</string>
+				<string>icaron</string>
+				<string>idblgrave</string>
+				<string>iinvertedbreve</string>
+				<string>jcaron</string>
+				<string>kcaron</string>
+				<string>ngrave</string>
+				<string>ocaron</string>
+				<string>odblgrave</string>
+				<string>oinvertedbreve</string>
+				<string>oogonek</string>
+				<string>rdblgrave</string>
+				<string>rinvertedbreve</string>
+				<string>longs</string>
+				<string>ucaron</string>
+				<string>udblgrave</string>
+				<string>uinvertedbreve</string>
+				<string>ymacron</string>
+				<string>ytilde</string>
+				<string>f_f</string>
+				<string>f_f_i</string>
+				<string>f_f_l</string>
+				<string>Odotaccent</string>
+				<string>odotaccent</string>
+				<string>horizontalbar</string>
+				<string>softhyphen</string>
+				<string>guillemetleft</string>
+				<string>guillemetright</string>
+				<string>nbspace</string>
+				<string>DEL</string>
+				<string>dblgravecomb</string>
+				<string>dotaccentcomb</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

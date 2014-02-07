@@ -4,19 +4,41 @@
   <unicode hex="0048"/>
   <outline>
     <contour>
+      <point x="1375" y="1118" type="line"/>
+      <point x="1375" y="1152" type="line"/>
+      <point x="979" y="1152" type="line"/>
+      <point x="979" y="1118" type="line"/>
+      <point x="1155" y="1118" type="line"/>
+      <point x="1155" y="598" type="line"/>
+      <point x="350" y="598" type="line"/>
+      <point x="350" y="1118" type="line"/>
+      <point x="526" y="1118" type="line"/>
+      <point x="526" y="1152" type="line"/>
+      <point x="130" y="1152" type="line"/>
+      <point x="130" y="1118" type="line"/>
+      <point x="306" y="1118" type="line"/>
+      <point x="306" y="34" type="line"/>
+      <point x="130" y="34" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="526" y="34" type="line"/>
+      <point x="350" y="34" type="line"/>
+      <point x="350" y="564" type="line"/>
+      <point x="1155" y="564" type="line"/>
+      <point x="1155" y="34" type="line"/>
+      <point x="979" y="34" type="line"/>
+      <point x="979" y="0" type="line"/>
+      <point x="1375" y="0" type="line"/>
+      <point x="1375" y="34" type="line"/>
+      <point x="1199" y="34" type="line"/>
+      <point x="1199" y="1118" type="line"/>
+    </contour>
+    <contour>
       <point x="750" y="1152" type="move" name="top"/>
     </contour>
     <contour>
       <point x="752" y="0" type="move" name="bot"/>
     </contour>
-    <contour>
-      <point x="326" y="564" type="line"/>
-      <point x="1180" y="564" type="line"/>
-      <point x="1181" y="598" type="line"/>
-      <point x="327" y="598" type="line"/>
-    </contour>
-    <component base="uc_main_stem" xOffset="865"/>
-    <component base="uc_main_stem" xOffset="16"/>
   </outline>
   <lib>
     <dict>
@@ -25,29 +47,23 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>H</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1506</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -4,15 +4,8 @@
   <unicode hex="0065"/>
   <outline>
     <contour>
-      <point x="502" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="555" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="488" y="804" type="move" name="top"/>
-    </contour>
-    <contour>
+      <point x="63" y="133"/>
+      <point x="269" y="-22"/>
       <point x="485" y="-22" type="curve" smooth="yes"/>
       <point x="604" y="-22"/>
       <point x="735" y="25"/>
@@ -31,8 +24,6 @@
       <point x="269" y="826"/>
       <point x="63" y="687"/>
       <point x="63" y="403" type="curve" smooth="yes"/>
-      <point x="63" y="133"/>
-      <point x="269" y="-22"/>
     </contour>
     <contour>
       <point x="106" y="424" type="line"/>
@@ -43,6 +34,15 @@
       <point x="796" y="678"/>
       <point x="820" y="424" type="curve"/>
     </contour>
+    <contour>
+      <point x="502" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="555" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="488" y="804" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -51,11 +51,9 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
           <array>
             <dict>
@@ -308,20 +306,17 @@
             </dict>
           </array>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>e</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>975</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -4,12 +4,25 @@
   <unicode hex="0049"/>
   <outline>
     <contour>
+      <point x="114" y="34" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="510" y="34" type="line"/>
+      <point x="334" y="34" type="line"/>
+      <point x="334" y="1118" type="line"/>
+      <point x="510" y="1118" type="line"/>
+      <point x="510" y="1152" type="line"/>
+      <point x="114" y="1152" type="line"/>
+      <point x="114" y="1118" type="line"/>
+      <point x="290" y="1118" type="line"/>
+      <point x="290" y="34" type="line"/>
+    </contour>
+    <contour>
       <point x="316" y="1152" type="move" name="top"/>
     </contour>
     <contour>
       <point x="312" y="0" type="move" name="ogonek"/>
     </contour>
-    <component base="uc_main_stem"/>
   </outline>
   <lib>
     <dict>
@@ -18,29 +31,23 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>I</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>626</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -4,12 +4,7 @@
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="721" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="711" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
+      <point x="140" y="34" type="line"/>
       <point x="140" y="0" type="line"/>
       <point x="477" y="0" type="line"/>
       <point x="477" y="34" type="line"/>
@@ -29,7 +24,12 @@
       <point x="140" y="1118" type="line"/>
       <point x="284" y="1118" type="line"/>
       <point x="284" y="34" type="line"/>
-      <point x="140" y="34" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="711" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
@@ -39,29 +39,23 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array>
-          </array>
+          <array/>
           <key>components</key>
-          <array>
-          </array>
+          <array/>
           <key>contours</key>
-          <array>
-          </array>
+          <array/>
           <key>lib</key>
-          <dict>
-          </dict>
+          <dict/>
           <key>name</key>
           <string>N</string>
           <key>unicodes</key>
-          <array>
-          </array>
+          <array/>
           <key>width</key>
           <integer>1444</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
