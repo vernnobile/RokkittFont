@@ -8,7 +8,7 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="100.0" />
+<data name="previewTypeSize" value="64.0" />
 <data name="previewtext" value="/eacute/egrave/asciitilde HOUND/ecaron" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
@@ -34,32 +34,27 @@
 <!-- instance definitions -->
 <instance familyname="Rokkitt" sequence="" stylename="Thin">
 <location>
-<dimension name="new_axis_1" xvalue="0.0" />
+<dimension name="new_axis_1" xvalue="100.0" />
 </location>
 </instance>
 <instance familyname="Rokkitt" sequence="" stylename="Extra-Light">
 <location>
-<dimension name="new_axis_1" xvalue="100.0" />
+<dimension name="new_axis_1" xvalue="300.0" />
 </location>
 </instance>
 <instance familyname="Rokkitt" sequence="" stylename="Light">
 <location>
-<dimension name="new_axis_1" xvalue="200.0" />
+<dimension name="new_axis_1" xvalue="500.0" />
 </location>
 </instance>
 <instance familyname="Rokkitt" sequence="" stylename="Regular">
 <location>
-<dimension name="new_axis_1" xvalue="350.0" />
+<dimension name="new_axis_1" xvalue="750.0" />
 </location>
 </instance>
 <instance familyname="Rokkitt" sequence="" stylename="Medium">
 <location>
-<dimension name="new_axis_1" xvalue="560.0" />
-</location>
-</instance>
-<instance familyname="Rokkitt" sequence="" stylename="Semi-Bold">
-<location>
-<dimension name="new_axis_1" xvalue="700.0" />
+<dimension name="new_axis_1" xvalue="1000.0" />
 </location>
 </instance>
 </designspace>

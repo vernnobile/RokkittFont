@@ -8,8 +8,8 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="100.0" />
-<data name="previewtext" value="/eacute /egrave" />
+<data name="previewTypeSize" value="64.0" />
+<data name="previewtext" value="/eacute/egrave/asciitilde HOUND/ecaron" />
 <data name="verticalPreviewAxis" value="None" />
 <data name="projectionAngle" value="2.68561525327" />
 <!-- axis definitions -->
@@ -34,7 +34,7 @@
 <!-- instance definitions -->
 <instance familyname="Rokkitt" sequence="" stylename="Extra-Bold">
 <location>
-<dimension name="new_axis_1" xvalue="600.0" />
+<dimension name="new_axis_1" xvalue="800.0" />
 </location>
 </instance>
 <instance familyname="Rokkitt" sequence="" stylename="Black">
@@ -44,7 +44,12 @@
 </instance>
 <instance familyname="Rokkitt" sequence="" stylename="Bold">
 <location>
-<dimension name="new_axis_1" xvalue="160.0" />
+<dimension name="new_axis_1" xvalue="500.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="Semi-Bold">
+<location>
+<dimension name="new_axis_1" xvalue="200.0" />
 </location>
 </instance>
 </designspace>

@@ -1,0 +1,9844 @@
+SplineFontDB: 3.0
+FontName: Rokkitt 100-Regular
+FullName: Rokkitt Light
+FamilyName: Rokkitt 100
+Weight: Regular
+Copyright: Copyright © 2011-2013 by Vernon Adams. All rights reserved.
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 1638
+Descent: 410
+UFOAscent: 1152
+UFODescent: -410
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1391820057
+ModificationTime: 1391820095
+PfmFamily: 0
+TTFWeight: 300
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 5 3 5 0 0 2 0 3
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2SubXSize: 1331
+OS2SubYSize: 1228
+OS2SubXOff: 0
+OS2SubYOff: 153
+OS2SupXSize: 1331
+OS2SupYSize: 1228
+OS2SupXOff: 0
+OS2SupYOff: 716
+OS2StrikeYSize: 0
+OS2StrikeYPos: 501
+OS2Vendor: 'PfEd'
+Lookup: 6 0 0 "'locl' Localized Forms in Latin lookup 0"  {"'locl' Localized Forms in Latin lookup 0 contextual 0"  "'locl' Localized Forms in Latin lookup 0 contextual 1"  } ['locl' ('latn' <'CAT ' 'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 1"  {"Ligature Substitution lookup 1 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 2"  {"Ligature Substitution lookup 2 subtable"  } []
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 3"  {"'locl' Localized Forms in Latin lookup 3 subtable"  } ['locl' ('latn' <'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 4"  {"'locl' Localized Forms in Latin lookup 4 subtable"  } ['locl' ('latn' <'MOL ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 5"  {"'locl' Localized Forms in Latin lookup 5 subtable"  } ['locl' ('latn' <'KAZ ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 6"  {"'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'TAT ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7"  {"'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 8"  {"'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'CRT ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 9"  {"'locl' Localized Forms in Latin lookup 9 subtable"  } ['locl' ('latn' <'AZE ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 10"  {"'sups' Superscript lookup 10 subtable" ("superior" ) } ['sups' ('latn' <'dflt' 'CAT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'frac' Diagonal Fractions lookup 11"  {"'frac' Diagonal Fractions lookup 11 subtable"  } ['frac' ('latn' <'dflt' 'CAT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "'ordn' Ordinals lookup 12"  {"'ordn' Ordinals lookup 12 contextual 0"  "'ordn' Ordinals lookup 12 contextual 1"  } ['ordn' ('latn' <'dflt' 'CAT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 13"  {"Single Substitution lookup 13 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 14"  {"Single Substitution lookup 14 subtable"  } []
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 15"  {"'liga' Standard Ligatures lookup 15 subtable"  } ['liga' ('latn' <'dflt' 'CAT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'dlig' Discretionary Ligatures lookup 16"  {"'dlig' Discretionary Ligatures lookup 16 subtable"  } ['dlig' ('latn' <'dflt' 'CAT ' 'ROM ' 'MOL ' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
+DEI: 91125
+ChainSub2: coverage "'ordn' Ordinals lookup 12 contextual 1"  0 0 0 1
+ 1 1 0
+  Coverage: 3 O o
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 14" 
+EndFPST
+ChainSub2: coverage "'ordn' Ordinals lookup 12 contextual 0"  0 0 0 1
+ 1 1 0
+  Coverage: 3 A a
+  BCoverage: 49 zero one two three four five six seven eight nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 13" 
+EndFPST
+ChainSub2: glyph "'locl' Localized Forms in Latin lookup 0 contextual 1"  0 0 0 1
+ String: 16 L periodcentered
+ BString: 0 
+ FString: 1 L
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 2" 
+EndFPST
+ChainSub2: glyph "'locl' Localized Forms in Latin lookup 0 contextual 0"  0 0 0 1
+ String: 16 l periodcentered
+ BString: 0 
+ FString: 1 l
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 1" 
+EndFPST
+LangName: 1033 "" "" "" "" "" "" "" "" "Vernon Adams" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" 
+PickledData: "(dp1
+S'com.typemytype.robofont.shouldAddPointsInSplineConversion'
+p2
+I1
+sS'com.petr.ptt'
+p3
+(dp4
+S'originals'
+p5
+(dp6
+S'maxp'
+p7
+(dp8
+S'tableTag'
+p9
+S'maxp'
+p10
+sS'numGlyphs'
+p11
+I423
+sS'tableVersion'
+p12
+I20480
+ssssS'com.schriftgestaltung.weight'
+p13
+S'Light'
+p14
+sS'com.typemytype.robofont.compileSettings.autohint'
+p15
+I0
+sS'GSDimensionPlugin.Dimensions'
+p16
+(dp17
+S'1F09728C-766D-4240-AE17-E499EF32E23D'
+p18
+(dp19
+sS'98C086B7-81AA-4491-8494-0C6A76849168'
+p20
+(dp21
+sS'EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE'
+p22
+(dp23
+ssS'com.typemytype.robofont.compileSettings.checkOutlines'
+p24
+I1
+sS'com.typemytype.robofont.compileSettings.MacRomanFirst'
+p25
+I1
+sS'com.typemytype.robofont.compileSettings.generateFormat'
+p26
+I0
+sS'com.typemytype.robofont.compileSettings.decompose'
+p27
+I1
+sS'com.typemytype.robofont.compileSettings.path'
+p28
+S'/Users/vern/Github/RokkittFont/in-progress/roman/Light/Rokkitt-Light.otf'
+p29
+sS'com.typemytype.robofont.layerOrder'
+p30
+(S'b'
+tp31
+sS'com.typemytype.robofont.segmentType'
+p32
+S'curve'
+p33
+sS'public.glyphOrder'
+p34
+(S'space'
+S'A'
+S'Agrave'
+S'Aacute'
+S'Acircumflex'
+S'Atilde'
+S'Adieresis'
+S'Aring'
+S'Amacron'
+S'Abreve'
+S'Aogonek'
+S'uni0200'
+S'uni0202'
+S'B'
+S'C'
+S'Ccedilla'
+S'Cacute'
+S'Ccircumflex'
+S'Cdotaccent'
+S'Ccaron'
+S'D'
+S'Dcaron'
+S'E'
+S'Egrave'
+S'Eacute'
+S'Ecircumflex'
+S'Edieresis'
+S'Emacron'
+S'Edotaccent'
+S'Eogonek'
+S'Ecaron'
+S'uni0204'
+S'uni0206'
+S'F'
+S'G'
+S'Gcircumflex'
+S'Gbreve'
+S'Gdotaccent'
+S'Gcommaaccent'
+S'uni01F4'
+S'H'
+S'Hcircumflex'
+S'I'
+S'Igrave'
+S'Iacute'
+S'Icircumflex'
+S'Idieresis'
+S'Itilde'
+S'Imacron'
+S'Ibreve'
+S'Iogonek'
+S'Idotaccent'
+S'uni0208'
+S'uni020A'
+S'J'
+S'Jcircumflex'
+S'K'
+S'Kcommaaccent'
+S'L'
+S'Lacute'
+S'Lcommaaccent'
+S'Lcaron'
+S'M'
+S'N'
+S'Ntilde'
+S'Nacute'
+S'Ncommaaccent'
+S'Ncaron'
+S'O'
+S'Ograve'
+S'Oacute'
+S'Ocircumflex'
+S'Otilde'
+S'Odieresis'
+S'Omacron'
+S'Obreve'
+S'Ohungarumlaut'
+S'uni020C'
+S'uni020E'
+S'P'
+S'Q'
+S'R'
+S'Racute'
+S'Rcommaaccent'
+S'Rcaron'
+S'uni0210'
+S'uni0212'
+S'S'
+S'Sacute'
+S'Scedilla'
+S'Scaron'
+S'T'
+S'Tcaron'
+S'uni021A'
+S'U'
+S'Ugrave'
+S'Uacute'
+S'Ucircumflex'
+S'Udieresis'
+S'Utilde'
+S'Umacron'
+S'Ubreve'
+S'Uring'
+S'Uhungarumlaut'
+S'Uogonek'
+S'uni0214'
+S'uni0216'
+S'V'
+S'W'
+S'X'
+S'Y'
+S'Yacute'
+S'Ydieresis'
+S'Z'
+S'Zacute'
+S'Zdotaccent'
+S'Zcaron'
+S'AE'
+S'Eth'
+S'Oslash'
+S'Thorn'
+S'Hbar'
+S'IJ'
+S'Ldot'
+S'Lslash'
+S'OE'
+S'uni01C4'
+S'uni01c7'
+S'uni01ca'
+S'uni01F1'
+S'a'
+S'agrave'
+S'aacute'
+S'acircumflex'
+S'atilde'
+S'adieresis'
+S'aring'
+S'amacron'
+S'abreve'
+S'aogonek'
+S'uni0201'
+S'uni0203'
+S'b'
+S'c'
+S'ccedilla'
+S'cacute'
+S'ccircumflex'
+S'cdotaccent'
+S'ccaron'
+S'd'
+S'dcaron'
+S'e'
+S'egrave'
+S'eacute'
+S'ecircumflex'
+S'edieresis'
+S'emacron'
+S'edotaccent'
+S'eogonek'
+S'ecaron'
+S'uni0205'
+S'uni0207'
+S'f'
+S'g'
+S'gcircumflex'
+S'gbreve'
+S'gdotaccent'
+S'uni01F5'
+S'h'
+S'hcircumflex'
+S'i'
+S'igrave'
+S'iacute'
+S'icircumflex'
+S'idieresis'
+S'itilde'
+S'imacron'
+S'ibreve'
+S'iogonek'
+S'uni020B'
+S'j'
+S'jcircumflex'
+S'k'
+S'kcommaaccent'
+S'l'
+S'lacute'
+S'lcommaaccent'
+S'lcaron'
+S'm'
+S'n'
+S'ntilde'
+S'nacute'
+S'ncommaaccent'
+S'ncaron'
+S'o'
+S'ograve'
+S'oacute'
+S'ocircumflex'
+S'otilde'
+S'odieresis'
+S'omacron'
+S'obreve'
+S'ohungarumlaut'
+S'uni020D'
+S'uni020F'
+S'p'
+S'q'
+S'r'
+S'racute'
+S'rcommaaccent'
+S'rcaron'
+S'uni0211'
+S'uni0213'
+S's'
+S'sacute'
+S'scircumflex'
+S'scedilla'
+S'scaron'
+S'scommaaccent'
+S't'
+S'tcaron'
+S'uni021B'
+S'u'
+S'ugrave'
+S'uacute'
+S'ucircumflex'
+S'udieresis'
+S'utilde'
+S'umacron'
+S'ubreve'
+S'uring'
+S'uhungarumlaut'
+S'uogonek'
+S'uni0215'
+S'uni0217'
+S'v'
+S'w'
+S'x'
+S'y'
+S'yacute'
+S'ydieresis'
+S'z'
+S'zacute'
+S'zdotaccent'
+S'zcaron'
+S'ordfeminine'
+S'ordmasculine'
+S'germandbls'
+S'ae'
+S'eth'
+S'oslash'
+S'thorn'
+S'dcroat'
+S'hbar'
+S'dotlessi'
+S'ij'
+S'kgreenlandic'
+S'ldot'
+S'lslash'
+S'oe'
+S'uni01C6'
+S'uni01C9'
+S'uni01CC'
+S'uni01F3'
+S'uni0237'
+S'uni01C5'
+S'uni01c8'
+S'uni01cb'
+S'uni01F2'
+S'uni0307'
+S'uni0311'
+S'zero'
+S'one'
+S'two'
+S'three'
+S'four'
+S'five'
+S'six'
+S'seven'
+S'eight'
+S'nine'
+S'onequarter'
+S'underscore'
+S'hyphen'
+S'endash'
+S'emdash'
+S'parenleft'
+S'parenright'
+S'bracketleft'
+S'bracketright'
+S'braceleft'
+S'braceright'
+S'numbersign'
+S'percent'
+S'quotesingle'
+S'quotedbl'
+S'quoteleft'
+S'quoteright'
+S'quotedblleft'
+S'quotedblright'
+S'quotesinglbase'
+S'quotedblbase'
+S'guilsinglleft'
+S'guilsinglright'
+S'guillemotleft'
+S'guillemotright'
+S'asterisk'
+S'dagger'
+S'daggerdbl'
+S'period'
+S'comma'
+S'colon'
+S'semicolon'
+S'ellipsis'
+S'exclam'
+S'exclamdown'
+S'question'
+S'questiondown'
+S'slash'
+S'backslash'
+S'fraction'
+S'bar'
+S'brokenbar'
+S'at'
+S'ampersand'
+S'paragraph'
+S'periodcentered'
+S'bullet'
+S'plus'
+S'minus'
+S'plusminus'
+S'divide'
+S'multiply'
+S'equal'
+S'less'
+S'greater'
+S'lessequal'
+S'greaterequal'
+S'notequal'
+S'logicalnot'
+S'uni2206'
+S'product'
+S'summation'
+S'uni00B5'
+S'radical'
+S'infinity'
+S'cent'
+S'currency'
+S'yen'
+S'Euro'
+S'asciicircum'
+S'asciitilde'
+S'acute'
+S'grave'
+S'hungarumlaut'
+S'circumflex'
+S'caron'
+S'breve'
+S'tilde'
+S'macron'
+S'dieresis'
+S'ring'
+S'ogonek'
+S'copyright'
+S'registered'
+S'trademark'
+S'degree'
+S'lozenge'
+S'CR'
+S'uni00AD'
+S'NULL'
+S'Tcommaaccent'
+S'foundryicon'
+S'tcommaaccent'
+S'fi'
+S'fl'
+S'ff'
+S'ffi'
+S'ffl'
+S'lc_ascender_stem'
+S'lc_bowl_left'
+S'lc_bowl_right'
+S'lc_descender_stem'
+S'lc_xheight_curved_stem'
+S'lc_xheight_stem'
+S'uc_main_stem'
+S'lc_ascender_stem_1'
+S'lc_ascender_stem_2'
+S'Dcroat'
+S'Scommaaccent'
+S'gcommaaccent'
+S'onesuperior'
+S'twosuperior'
+S'foursuperior'
+S'uni00A0'
+S'perthousand'
+S'uni2126'
+S'uni2215'
+S'uni2219'
+S'uni2113'
+S'uni02C9'
+S'pi'
+S'onehalf'
+S'threequarters'
+S'threesuperior'
+S'florin'
+S'dollar'
+S'sterling'
+S'approxequal'
+S'integral'
+S'partialdiff'
+S'estimated'
+S'section'
+S'cedilla'
+S'dotaccent'
+S'commaaccent'
+S'AEacute'
+S'AEmacron'
+S'Bdotaccent'
+S'Ddotaccent'
+S'Dz'
+S'Dzcaron'
+S'Ebreve'
+S'Fdotaccent'
+S'Gacute'
+S'Gcaron'
+S'Mdotaccent'
+S'Eng'
+S'Oslashacute'
+S'Pdotaccent'
+S'Scircumflex'
+S'Sdotaccent'
+S'Schwa'
+S'Tbar'
+S'Tcedilla'
+S'Tdotaccent'
+S'Wacute'
+S'Wcircumflex'
+S'Wdieresis'
+S'Wgrave'
+S'Ycircumflex'
+S'Ygrave'
+S'uni01CD'
+S'uni01CF'
+S'uni01D1'
+S'uni01D3'
+S'uni01E8'
+S'uni01EA'
+S'uni01F8'
+S'uni021E'
+S'uni0226'
+S'uni0228'
+S'uni0232'
+S'uni1E02'
+S'uni1E0A'
+S'uni1E1E'
+S'uni1E40'
+S'uni1E56'
+S'uni1E60'
+S'uni1E6A'
+S'uni1EBC'
+S'uni1EF8'
+S'aeacute'
+S'aemacron'
+S'bdotaccent'
+S'ddotaccent'
+S'dz'
+S'dzcaron'
+S'ebreve'
+S'fdotaccent'
+S'gacute'
+S'gcaron'
+S'idotaccent'
+S'dotlessj'
+S'lj'
+S'mdotaccent'
+S'napostrophe'
+S'eng'
+S'nj'
+S'oslashacute'
+S'pdotaccent'
+S'sdotaccent'
+S'schwa'
+S'tbar'
+S'tcedilla'
+S'tdotaccent'
+S'uni01CE'
+S'uni01D0'
+S'uni01D2'
+S'uni01D4'
+S'uni01E9'
+S'uni01EB'
+S'uni01F0'
+S'uni01F9'
+S'uni0209'
+S'uni021F'
+S'uni0227'
+S'uni0229'
+S'uni0233'
+S'uni1E03'
+S'uni1E0B'
+S'uni1E1F'
+S'uni1E41'
+S'uni1E57'
+S'uni1E61'
+S'uni1E6B'
+S'uni1EBD'
+S'uni1EF9'
+S'wacute'
+S'wcircumflex'
+S'wdieresis'
+S'wgrave'
+S'ycircumflex'
+S'ygrave'
+S'uniFB00'
+S'uniFB03'
+S'uniFB04'
+S'Delta'
+S'Sigma'
+S'Omega'
+S'mu'
+S'uni022E'
+S'uni022F'
+S'uni000D'
+S'.notdef'
+S'emptyset'
+S'caron.alt'
+S'breveinvertedcomb'
+S'commaturnedabovecomb'
+S'dotaboverightcomb'
+S'apostrophemod'
+S'dotaccentcmb'
+S'fj'
+S'middot'
+S'slashbar'
+S'uni0002'
+S'uni0009'
+S'uni000A'
+S'Acaron'
+S'Adblgrave'
+S'Adotaccent'
+S'Ainvertedbreve'
+S'Aringacute'
+S'Ecedilla'
+S'Edblgrave'
+S'Einvertedbreve'
+S'Etilde'
+S'Hcaron'
+S'Icaron'
+S'Idblgrave'
+S'Iinvertedbreve'
+S'Kcaron'
+S'LJ'
+S'NJ'
+S'Ngrave'
+S'Ocaron'
+S'Odblgrave'
+S'Oinvertedbreve'
+S'Oogonek'
+S'Rdblgrave'
+S'Rinvertedbreve'
+S'Ucaron'
+S'Udblgrave'
+S'Uinvertedbreve'
+S'Ymacron'
+S'Ytilde'
+S'acaron'
+S'adblgrave'
+S'adotaccent'
+S'ainvertedbreve'
+S'aringacute'
+S'ecedilla'
+S'edblgrave'
+S'einvertedbreve'
+S'etilde'
+S'hcaron'
+S'icaron'
+S'idblgrave'
+S'iinvertedbreve'
+S'jcaron'
+S'kcaron'
+S'ngrave'
+S'ocaron'
+S'odblgrave'
+S'oinvertedbreve'
+S'oogonek'
+S'rdblgrave'
+S'rinvertedbreve'
+S'longs'
+S'ucaron'
+S'udblgrave'
+S'uinvertedbreve'
+S'ymacron'
+S'ytilde'
+S'f_f'
+S'f_f_i'
+S'f_f_l'
+S'Odotaccent'
+S'odotaccent'
+S'horizontalbar'
+S'softhyphen'
+S'guillemetleft'
+S'guillemetright'
+S'nbspace'
+S'DEL'
+S'dblgravecomb'
+S'dotaccentcomb'
+tp35
+sS'com.typemytype.robofont.foreground.layerStrokeColor'
+p36
+(F0.5
+I0
+F0.5
+F0.69999999999999996
+tp37
+sS'com.schriftgestaltung.fontMasterID'
+p38
+S'98C086B7-81AA-4491-8494-0C6A76849168'
+p39
+sS'com.typemytype.robofont.compileSettings.releaseMode'
+p40
+I0
+sS'com.superpolator.editor.generateInfo'
+p41
+S'Generated with LTR Superpolator version 131028_2106_developer_'
+p42
+sS'com.typemytype.robofont.b.layerStrokeColor'
+p43
+(I1
+F0.75
+I0
+F0.69999999999999996
+tp44
+sS'com.schriftgestaltung.useNiceNames'
+p45
+I00
+sS'com.typemytype.robofont.italicSlantOffset'
+p46
+I0
+sS'com.typesupply.MetricsMachine4.groupColors'
+p47
+(dp48
+S'@MMK_L_U_Left'
+p49
+(I0
+F0.5
+I1
+F0.25
+tp50
+sS'@MMK_L_X_Left'
+p51
+(I1
+I1
+I0
+F0.25
+tp52
+sS'@MMK_L_V_Left'
+p53
+(I0
+I0
+I1
+F0.25
+tp54
+sS'@MMK_L_t_Left'
+p55
+(I0
+F0.5
+I1
+F0.25
+tp56
+sS'@MMK_R_n_Right'
+p57
+(I0
+I1
+I0
+F0.25
+tp58
+sS'@MMK_R_w_Left'
+p59
+(I0
+I1
+I0
+F0.25
+tp60
+sS'@MMK_R_v_Left'
+p61
+(I1
+I1
+I0
+F0.25
+tp62
+sS'@MMK_R_A_Right'
+p63
+(I0
+I1
+I1
+F0.25
+tp64
+sS'@MMK_R_o_Right'
+p65
+(I1
+I1
+I0
+F0.25
+tp66
+sS'@MMK_R_y_Left'
+p67
+(I0
+I1
+I1
+F0.25
+tp68
+sS'@MMK_L_A_Left'
+p69
+(I1
+I0
+I1
+F0.25
+tp70
+sS'@MMK_L_T_Left'
+p71
+(I0
+I1
+I1
+F0.25
+tp72
+sS'@MMK_L_w_Left'
+p73
+(F0.5
+I0
+I1
+F0.25
+tp74
+sS'@MMK_L_B_Left'
+p75
+(I0
+I1
+I0
+F0.25
+tp76
+sS'@MMK_R_a_Right'
+p77
+(I1
+I0
+I0
+F0.25
+tp78
+sS'@MMK_R_O_Right'
+p79
+(I1
+F0.5
+I0
+F0.25
+tp80
+sS'@MMK_L_S_Left'
+p81
+(I1
+I0
+I0
+F0.25
+tp82
+sS'@MMK_L_n_Left'
+p83
+(I0
+I1
+I0
+F0.25
+tp84
+sS'@MMK_L_y_Left'
+p85
+(I1
+I0
+I1
+F0.25
+tp86
+sS'@MMK_L_W_Left'
+p87
+(F0.5
+I0
+I1
+F0.25
+tp88
+sS'@MMK_R_T_Right'
+p89
+(I0
+I0
+I1
+F0.25
+tp90
+sS'@MMK_R_W_Right'
+p91
+(I1
+I0
+I1
+F0.25
+tp92
+sS'@MMK_R_H_Right'
+p93
+(I1
+I0
+I0
+F0.25
+tp94
+sS'@MMK_L_r_Left'
+p95
+(I0
+I1
+I1
+F0.25
+tp96
+sS'@MMK_R_Y_Right'
+p97
+(I1
+I0
+F0.5
+F0.25
+tp98
+sS'@MMK_L_Y_Left'
+p99
+(I1
+F0.5
+I0
+F0.25
+tp100
+sS'@MMK_L_o_Left'
+p101
+(I1
+I1
+I0
+F0.25
+tp102
+sS'@MMK_R_V_Right'
+p103
+(F0.5
+I0
+I1
+F0.25
+tp104
+sS'@MMK_L_v_Left'
+p105
+(I0
+I0
+I1
+F0.25
+tp106
+sS'@MMK_R_S_Right'
+p107
+(I0
+F0.5
+I1
+F0.25
+tp108
+sS'@MMK_R_u_Left'
+p109
+(I1
+F0.5
+I0
+F0.25
+tp110
+sS'@MMK_L_H_Left'
+p111
+(I1
+F0.5
+I0
+F0.25
+tp112
+sS'@MMK_L_k_Left'
+p113
+(I1
+I0
+F0.5
+F0.25
+tp114
+sS'@MMK_R_U_Right'
+p115
+(I0
+F0.5
+I1
+F0.25
+tp116
+sS'@MMK_L_R_Left'
+p117
+(I1
+I0
+I0
+F0.25
+tp118
+sS'@MMK_L_P_Left'
+p119
+(I1
+I0
+F0.5
+F0.25
+tp120
+sS'@MMK_L_O_Left'
+p121
+(I1
+I0
+I0
+F0.25
+tp122
+ssS'com.typemytype.robofont.sort'
+p123
+((dp124
+S'type'
+p125
+S'glyphList'
+p126
+sS'ascending'
+p127
+(S'space'
+S'A'
+S'Agrave'
+S'Aacute'
+S'Acircumflex'
+S'Atilde'
+S'Adieresis'
+S'Aring'
+S'Amacron'
+S'Abreve'
+S'Aogonek'
+S'uni0200'
+S'uni0202'
+S'B'
+S'C'
+S'Ccedilla'
+S'Cacute'
+S'Ccircumflex'
+S'Cdotaccent'
+S'Ccaron'
+S'D'
+S'Dcaron'
+S'E'
+S'Egrave'
+S'Eacute'
+S'Ecircumflex'
+S'Edieresis'
+S'Emacron'
+S'Edotaccent'
+S'Eogonek'
+S'Ecaron'
+S'uni0204'
+S'uni0206'
+S'F'
+S'G'
+S'Gcircumflex'
+S'Gbreve'
+S'Gdotaccent'
+S'Gcommaaccent'
+S'uni01F4'
+S'H'
+S'Hcircumflex'
+S'I'
+S'Igrave'
+S'Iacute'
+S'Icircumflex'
+S'Idieresis'
+S'Itilde'
+S'Imacron'
+S'Ibreve'
+S'Iogonek'
+S'Idotaccent'
+S'uni0208'
+S'uni020A'
+S'J'
+S'Jcircumflex'
+S'K'
+S'Kcommaaccent'
+S'L'
+S'Lacute'
+S'Lcommaaccent'
+S'Lcaron'
+S'M'
+S'N'
+S'Ntilde'
+S'Nacute'
+S'Ncommaaccent'
+S'Ncaron'
+S'O'
+S'Ograve'
+S'Oacute'
+S'Ocircumflex'
+S'Otilde'
+S'Odieresis'
+S'Omacron'
+S'Obreve'
+S'Ohungarumlaut'
+S'uni020C'
+S'uni020E'
+S'P'
+S'Q'
+S'R'
+S'Racute'
+S'Rcommaaccent'
+S'Rcaron'
+S'uni0210'
+S'uni0212'
+S'S'
+S'Sacute'
+S'Scedilla'
+S'Scaron'
+S'T'
+S'Tcaron'
+S'uni021A'
+S'U'
+S'Ugrave'
+S'Uacute'
+S'Ucircumflex'
+S'Udieresis'
+S'Utilde'
+S'Umacron'
+S'Ubreve'
+S'Uring'
+S'Uhungarumlaut'
+S'Uogonek'
+S'uni0214'
+S'uni0216'
+S'V'
+S'W'
+S'X'
+S'Y'
+S'Yacute'
+S'Ydieresis'
+S'Z'
+S'Zacute'
+S'Zdotaccent'
+S'Zcaron'
+S'AE'
+S'Eth'
+S'Oslash'
+S'Thorn'
+S'Hbar'
+S'IJ'
+S'Ldot'
+S'Lslash'
+S'OE'
+S'uni01C4'
+S'uni01c7'
+S'uni01ca'
+S'uni01F1'
+S'a'
+S'agrave'
+S'aacute'
+S'acircumflex'
+S'atilde'
+S'adieresis'
+S'aring'
+S'amacron'
+S'abreve'
+S'aogonek'
+S'uni0201'
+S'uni0203'
+S'b'
+S'c'
+S'ccedilla'
+S'cacute'
+S'ccircumflex'
+S'cdotaccent'
+S'ccaron'
+S'd'
+S'dcaron'
+S'e'
+S'egrave'
+S'eacute'
+S'ecircumflex'
+S'edieresis'
+S'emacron'
+S'edotaccent'
+S'eogonek'
+S'ecaron'
+S'uni0205'
+S'uni0207'
+S'f'
+S'g'
+S'gcircumflex'
+S'gbreve'
+S'gdotaccent'
+S'uni01F5'
+S'h'
+S'hcircumflex'
+S'i'
+S'igrave'
+S'iacute'
+S'icircumflex'
+S'idieresis'
+S'itilde'
+S'imacron'
+S'ibreve'
+S'iogonek'
+S'uni020B'
+S'j'
+S'jcircumflex'
+S'k'
+S'kcommaaccent'
+S'l'
+S'lacute'
+S'lcommaaccent'
+S'lcaron'
+S'm'
+S'n'
+S'ntilde'
+S'nacute'
+S'ncommaaccent'
+S'ncaron'
+S'o'
+S'ograve'
+S'oacute'
+S'ocircumflex'
+S'otilde'
+S'odieresis'
+S'omacron'
+S'obreve'
+S'ohungarumlaut'
+S'uni020D'
+S'uni020F'
+S'p'
+S'q'
+S'r'
+S'racute'
+S'rcommaaccent'
+S'rcaron'
+S'uni0211'
+S'uni0213'
+S's'
+S'sacute'
+S'scircumflex'
+S'scedilla'
+S'scaron'
+S'scommaaccent'
+S't'
+S'tcaron'
+S'uni021B'
+S'u'
+S'ugrave'
+S'uacute'
+S'ucircumflex'
+S'udieresis'
+S'utilde'
+S'umacron'
+S'ubreve'
+S'uring'
+S'uhungarumlaut'
+S'uogonek'
+S'uni0215'
+S'uni0217'
+S'v'
+S'w'
+S'x'
+S'y'
+S'yacute'
+S'ydieresis'
+S'z'
+S'zacute'
+S'zdotaccent'
+S'zcaron'
+S'ordfeminine'
+S'ordmasculine'
+S'germandbls'
+S'ae'
+S'eth'
+S'oslash'
+S'thorn'
+S'dcroat'
+S'hbar'
+S'dotlessi'
+S'ij'
+S'kgreenlandic'
+S'ldot'
+S'lslash'
+S'oe'
+S'uni01C6'
+S'uni01C9'
+S'uni01CC'
+S'uni01F3'
+S'uni0237'
+S'uni01C5'
+S'uni01c8'
+S'uni01cb'
+S'uni01F2'
+S'uni0307'
+S'uni030F'
+S'uni0311'
+S'zero'
+S'one'
+S'two'
+S'three'
+S'four'
+S'five'
+S'six'
+S'seven'
+S'eight'
+S'nine'
+S'onequarter'
+S'underscore'
+S'hyphen'
+S'endash'
+S'emdash'
+S'parenleft'
+S'parenright'
+S'bracketleft'
+S'bracketright'
+S'braceleft'
+S'braceright'
+S'numbersign'
+S'percent'
+S'quotesingle'
+S'quotedbl'
+S'quoteleft'
+S'quoteright'
+S'quotedblleft'
+S'quotedblright'
+S'quotesinglbase'
+S'quotedblbase'
+S'guilsinglleft'
+S'guilsinglright'
+S'guillemotleft'
+S'guillemotright'
+S'asterisk'
+S'dagger'
+S'daggerdbl'
+S'period'
+S'comma'
+S'colon'
+S'semicolon'
+S'ellipsis'
+S'exclam'
+S'exclamdown'
+S'question'
+S'questiondown'
+S'slash'
+S'backslash'
+S'fraction'
+S'bar'
+S'brokenbar'
+S'at'
+S'ampersand'
+S'paragraph'
+S'periodcentered'
+S'bullet'
+S'plus'
+S'minus'
+S'plusminus'
+S'divide'
+S'multiply'
+S'equal'
+S'less'
+S'greater'
+S'lessequal'
+S'greaterequal'
+S'notequal'
+S'logicalnot'
+S'uni2206'
+S'product'
+S'summation'
+S'uni00B5'
+S'radical'
+S'infinity'
+S'cent'
+S'currency'
+S'yen'
+S'Euro'
+S'asciicircum'
+S'asciitilde'
+S'acute'
+S'grave'
+S'hungarumlaut'
+S'circumflex'
+S'caron'
+S'breve'
+S'tilde'
+S'macron'
+S'dieresis'
+S'ring'
+S'ogonek'
+S'copyright'
+S'registered'
+S'trademark'
+S'degree'
+S'lozenge'
+S'CR'
+S'uni00AD'
+S'NULL'
+S'Tcommaaccent'
+S'foundryicon'
+S'tcommaaccent'
+S'fi'
+S'fl'
+S'ff'
+S'ffi'
+S'ffl'
+S'lc_ascender_stem'
+S'lc_bowl_left'
+S'lc_bowl_right'
+S'lc_descender_stem'
+S'lc_xheight_curved_stem'
+S'lc_xheight_stem'
+S'uc_main_stem'
+S'lc_ascender_stem_1'
+S'lc_ascender_stem_2'
+S'Dcroat'
+S'Scommaaccent'
+S'gcommaaccent'
+S'onesuperior'
+S'twosuperior'
+S'foursuperior'
+S'uni00A0'
+S'perthousand'
+S'uni2126'
+S'uni2215'
+S'uni2219'
+S'uni2113'
+S'uni02C9'
+S'pi'
+S'onehalf'
+S'threequarters'
+S'threesuperior'
+S'florin'
+S'dollar'
+S'sterling'
+S'approxequal'
+S'integral'
+S'partialdiff'
+S'estimated'
+S'section'
+S'cedilla'
+S'dotaccent'
+S'commaaccent'
+S'AEacute'
+S'AEmacron'
+S'Bdotaccent'
+S'Ddotaccent'
+S'Dz'
+S'Dzcaron'
+S'Ebreve'
+S'Fdotaccent'
+S'Gacute'
+S'Gcaron'
+S'Lj'
+S'Mdotaccent'
+S'Eng'
+S'Nj'
+S'Oslashacute'
+S'Pdotaccent'
+S'Scircumflex'
+S'Sdotaccent'
+S'Schwa'
+S'Tbar'
+S'Tcedilla'
+S'Tdotaccent'
+S'Wacute'
+S'Wcircumflex'
+S'Wdieresis'
+S'Wgrave'
+S'Ycircumflex'
+S'Ygrave'
+S'uni01CD'
+S'uni01CF'
+S'uni01D1'
+S'uni01D3'
+S'uni01E8'
+S'uni01EA'
+S'uni01F8'
+S'uni021E'
+S'uni0226'
+S'uni0228'
+S'uni0232'
+S'uni1E02'
+S'uni1E0A'
+S'uni1E1E'
+S'uni1E40'
+S'uni1E56'
+S'uni1E60'
+S'uni1E6A'
+S'uni1EBC'
+S'uni1EF8'
+S'aeacute'
+S'aemacron'
+S'bdotaccent'
+S'ddotaccent'
+S'dz'
+S'dzcaron'
+S'ebreve'
+S'fdotaccent'
+S'gacute'
+S'gcaron'
+S'idotaccent'
+S'dotlessj'
+S'lj'
+S'mdotaccent'
+S'napostrophe'
+S'eng'
+S'nj'
+S'oslashacute'
+S'pdotaccent'
+S'sdotaccent'
+S'schwa'
+S'tbar'
+S'tcedilla'
+S'tdotaccent'
+S'uni01CE'
+S'uni01D0'
+S'uni01D2'
+S'uni01D4'
+S'uni01E9'
+S'uni01EB'
+S'uni01F0'
+S'uni01F9'
+S'uni0209'
+S'uni021F'
+S'uni0227'
+S'uni0229'
+S'uni0233'
+S'uni1E03'
+S'uni1E0B'
+S'uni1E1F'
+S'uni1E41'
+S'uni1E57'
+S'uni1E61'
+S'uni1E6B'
+S'uni1EBD'
+S'uni1EF9'
+S'wacute'
+S'wcircumflex'
+S'wdieresis'
+S'wgrave'
+S'ycircumflex'
+S'ygrave'
+S'uniFB00'
+S'uniFB03'
+S'uniFB04'
+S'Delta'
+S'Sigma'
+S'Omega'
+S'mu'
+S'uni022E'
+S'uni022F'
+S'softhyphen'
+S'uni000D'
+S'.notdef'
+S'emptyset'
+S'caron.alt'
+S'breveinvertedcomb'
+S'commaturnedabovecomb'
+S'dotaboverightcomb'
+S'uni0326'
+S'apostrophemod'
+S'dblgravecmb'
+S'dotaccentcmb'
+S'fj'
+S'middot'
+S'slashbar'
+S'uni0002'
+S'uni0009'
+S'uni000A'
+tp128
+stp129
+s."
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -128
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 486 9 4
+BeginPrivate: 2
+BlueShift 1 0
+BlueValues 25 [-22 0 804 826 1152 1174]
+EndPrivate
+AnchorClass2: "caron.alt" "mid" "bot" "ogonek" "top" 
+BeginChars: 65565 595
+
+StartChar: .notdef
+Encoding: 65536 -1 0
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: A
+Encoding: 65 65 1
+Width: 1383
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'A'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1383
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "ogonek" 1145 0 basechar 0
+AnchorPoint: "top" 692 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+472 520 m 1
+ 690 1111 l 1
+ 693 1111 l 1
+ 912 520 l 1
+ 472 520 l 1
+92 0 m 1
+ 442 0 l 1
+ 442 34 l 1
+ 294 34 l 1
+ 462 488 l 1
+ 922 488 l 1
+ 1090 34 l 1
+ 941 34 l 1
+ 941 0 l 1
+ 1291 0 l 1
+ 1291 34 l 1
+ 1136 34 l 1
+ 732 1118 l 1
+ 883 1118 l 1
+ 883 1152 l 1
+ 505 1152 l 1
+ 505 1118 l 1
+ 652 1118 l 1
+ 247 34 l 1
+ 92 34 l 1
+ 92 0 l 1
+EndSplineSet
+Substitution2: "Single Substitution lookup 13 subtable" ordfeminine
+EndChar
+
+StartChar: AE
+Encoding: 198 198 2
+Width: 2243
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'AE'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I2243
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+AnchorPoint: "top" 1257 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+174 0 m 257
+ 555 0 l 257
+ 555 34 l 257
+ 407 34 l 257
+ 631 437 l 257
+ 1121 437 l 257
+ 1187 34 l 257
+ 1024 34 l 257
+ 1024 0 l 257
+ 2037 0 l 257
+ 1972 395 l 257
+ 1933 395 l 257
+ 1990 34 l 257
+ 1233 34 l 257
+ 1150 546 l 257
+ 1601 546 l 257
+ 1640 343 l 257
+ 1678 343 l 257
+ 1600 759 l 257
+ 1562 759 l 257
+ 1594 580 l 257
+ 1144 580 l 257
+ 1059 1118 l 257
+ 1757 1118 l 257
+ 1815 754 l 257
+ 1854 754 l 257
+ 1791 1152 l 257
+ 821 1152 l 257
+ 821 1118 l 257
+ 963 1118 l 257
+ 354 34 l 257
+ 174 34 l 257
+ 174 0 l 257
+651 471 m 257
+ 1006 1118 l 257
+ 1014 1118 l 257
+ 1117 471 l 257
+ 651 471 l 257
+EndSplineSet
+EndChar
+
+StartChar: AEacute
+Encoding: 508 508 3
+Width: 2243
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 1253 348 2
+Refer: 2 198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: AEmacron
+Encoding: 482 482 4
+Width: 2243
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 1093 348 2
+Refer: 2 198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 5
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Aacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 688 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Abreve
+Encoding: 258 258 6
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Abreve'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 211 728 N 1 0 0 1 570 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Acaron
+Encoding: 461 461 7
+Width: 1383
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 516 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 8
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Acircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 516 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Adblgrave
+Encoding: 512 512 9
+Width: 1383
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 235 783 N 1 0 0 1 369 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 10
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Adieresis'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 240 168 N 1 0 0 1 535 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Adotaccent
+Encoding: 550 550 11
+Width: 1383
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 441 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 12
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Agrave'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 559 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ainvertedbreve
+Encoding: 514 514 13
+Width: 1383
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 212 785 N 1 0 0 1 204 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Amacron
+Encoding: 256 256 14
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Amacron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 528 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aogonek
+Encoding: 260 260 15
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Aogonek'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 379 731 N 1 0 0 1 914 0 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 16
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Aring'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 426 730 N 1 0 0 1 537 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aringacute
+Encoding: 506 506 17
+Width: 1383
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 689 610 2
+Refer: 426 730 N 1 0 0 1 537 348 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 18
+Width: 1383
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Atilde'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1383
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 454 732 N 1 0 0 1 472 363 2
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: B
+Encoding: 66 66 19
+Width: 1315
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'B'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1354
+sS'contours'
+p10
+((dp11
+S'points'
+p12
+((dp13
+S'segmentType'
+p14
+S'line'
+p15
+sS'x'
+I353
+sS'smooth'
+p16
+I0
+sS'y'
+I1095
+s(dp17
+g14
+S'line'
+p18
+sS'x'
+I740
+sg16
+I1
+sS'y'
+I1095
+s(dp19
+S'y'
+I1095
+sS'x'
+I917
+sg16
+I0
+s(dp20
+S'y'
+I983
+sS'x'
+I1004
+sg16
+I0
+s(dp21
+g14
+S'curve'
+p22
+sS'x'
+I1004
+sg16
+I1
+sS'y'
+I868
+s(dp23
+S'y'
+I751
+sS'x'
+I1004
+sg16
+I0
+s(dp24
+S'y'
+I634
+sS'x'
+I928
+sg16
+I0
+s(dp25
+g14
+S'curve'
+p26
+sS'x'
+I784
+sg16
+I1
+sS'y'
+I634
+s(dp27
+g14
+S'line'
+p28
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I634
+stp29
+s(dp30
+g12
+((dp31
+g14
+S'line'
+p32
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I573
+s(dp33
+g14
+S'line'
+p34
+sS'x'
+I793
+sg16
+I1
+sS'y'
+I573
+s(dp35
+S'y'
+I573
+sS'x'
+I979
+sg16
+I0
+s(dp36
+S'y'
+I439
+sS'x'
+I1072
+sg16
+I0
+s(dp37
+g14
+S'curve'
+p38
+sS'x'
+I1072
+sg16
+I1
+sS'y'
+I320
+s(dp39
+S'y'
+I187
+sS'x'
+I1072
+sg16
+I0
+s(dp40
+S'y'
+I58
+sS'x'
+I985
+sg16
+I0
+s(dp41
+g14
+S'curve'
+p42
+sS'x'
+I807
+sg16
+I1
+sS'y'
+I58
+s(dp43
+g14
+S'line'
+p44
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I58
+stp45
+s(dp46
+g12
+((dp47
+g14
+S'line'
+p48
+sS'x'
+I807
+sg16
+I1
+sS'y'
+I0
+s(dp49
+S'y'
+I0
+sS'x'
+I1031
+sg16
+I0
+s(dp50
+S'y'
+I158
+sS'x'
+I1146
+sg16
+I0
+s(dp51
+g14
+S'curve'
+p52
+sS'x'
+I1146
+sg16
+I1
+sS'y'
+I316
+s(dp53
+S'y'
+I439
+sS'x'
+I1146
+sg16
+I0
+s(dp54
+S'y'
+I568
+sS'x'
+I1074
+sg16
+I0
+s(dp55
+g14
+S'curve'
+p56
+sS'x'
+I919
+sg16
+I0
+sS'y'
+I611
+s(dp57
+S'y'
+I669
+sS'x'
+I1029
+sg16
+I0
+s(dp58
+S'y'
+I769
+sS'x'
+I1079
+sg16
+I0
+s(dp59
+g14
+S'curve'
+p60
+sS'x'
+I1079
+sg16
+I1
+sS'y'
+I870
+s(dp61
+S'y'
+I1012
+sS'x'
+I1079
+sg16
+I0
+s(dp62
+S'y'
+I1154
+sS'x'
+I964
+sg16
+I0
+s(dp63
+g14
+S'curve'
+p64
+sS'x'
+I740
+sg16
+I1
+sS'y'
+I1154
+s(dp65
+g14
+S'line'
+p66
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I1154
+s(dp67
+g14
+S'line'
+p68
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I1095
+s(dp69
+g14
+S'line'
+p70
+sS'x'
+I278
+sg16
+I0
+sS'y'
+I1095
+s(dp71
+g14
+S'line'
+p72
+sS'x'
+I278
+sg16
+I0
+sS'y'
+I58
+s(dp73
+g14
+S'line'
+p74
+sS'x'
+I135
+sg16
+I0
+sS'y'
+I58
+s(dp75
+g14
+S'line'
+p76
+sS'x'
+I135
+sg16
+I0
+sS'y'
+I0
+stp77
+stp78
+sS'components'
+p79
+(tsS'anchors'
+p80
+(tsss."
+AnchorPoint: "top" 594 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+328 0 m 1
+ 897 0 l 2
+ 1074 0 1195 127 1195 314 c 0
+ 1195 442 1143 578 949 609 c 1
+ 1059 628 1123 732 1123 873 c 0
+ 1123 1060 1007 1152 795 1152 c 2
+ 329 1152 l 1
+ 329 1118 l 1
+ 795 1118 l 2
+ 981 1118 1084 1043 1084 873 c 0
+ 1084 731 1022 623 864 623 c 2
+ 331 623 l 1
+ 331 589 l 1
+ 864 589 l 2
+ 1065 589 1153 467 1153 314 c 0
+ 1153 146 1050 34 897 34 c 2
+ 328 34 l 1
+ 328 0 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+EndChar
+
+StartChar: Bdotaccent
+Encoding: 7682 7682 20
+Width: 1315
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 343 348 2
+Refer: 19 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: C
+Encoding: 67 67 21
+Width: 1411
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'C'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1411
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "bot" 721 0 basechar 0
+AnchorPoint: "top" 722 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+715 -22 m 0
+ 938 -22 1117 53 1241 245 c 1
+ 1215 268 l 1
+ 1096 72 897 14 715 14 c 0
+ 453 14 166 193 166 580 c 0
+ 166 867 362 1136 715 1136 c 0
+ 978 1136 1104 1032 1211 820 c 1
+ 1243 836 l 1
+ 1243 1152 l 1
+ 1197 1152 l 1
+ 1197 904 l 1
+ 1108 1070 980 1172 715 1172 c 0
+ 361 1172 122 908 122 582 c 0
+ 122 154 449 -22 715 -22 c 0
+EndSplineSet
+EndChar
+
+StartChar: CR
+Encoding: 13 13 22
+Width: 313
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'CR'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I313
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+EndChar
+
+StartChar: Cacute
+Encoding: 262 262 23
+Width: 1411
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Cacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1411
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 718 348 2
+Refer: 21 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccaron
+Encoding: 268 268 24
+Width: 1411
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ccaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1411
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 546 348 2
+Refer: 21 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 25
+Width: 1411
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ccedilla'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1411
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 223 184 N 1 0 0 1 429 0 2
+Refer: 21 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccircumflex
+Encoding: 264 264 26
+Width: 1411
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ccircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1411
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 546 348 2
+Refer: 21 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Cdotaccent
+Encoding: 266 266 27
+Width: 1411
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Cdotaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1411
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 471 348 2
+Refer: 21 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: D
+Encoding: 68 68 28
+Width: 1434
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'D'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1434
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "mid" 319 592 basechar 0
+AnchorPoint: "top" 656 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+328 0 m 1
+ 832 0 l 2
+ 1148 0 1306 321 1306 570 c 0
+ 1306 823 1156 1152 826 1152 c 2
+ 328 1152 l 1
+ 328 1118 l 1
+ 828 1118 l 2
+ 1116 1118 1264 823 1264 570 c 0
+ 1264 319 1116 34 822 34 c 2
+ 328 34 l 1
+ 328 0 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+EndChar
+
+StartChar: DEL
+Encoding: 127 127 29
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Dcaron
+Encoding: 270 270 30
+Width: 1434
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Dcaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1434
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 480 348 2
+Refer: 28 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Dcroat
+Encoding: 272 272 31
+Width: 1434
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 50 208 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ddotaccent
+Encoding: 7690 7690 32
+Width: 1434
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 405 348 2
+Refer: 28 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Delta
+Encoding: 916 916 33
+Width: 1167
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+84 0 m 257
+ 1083 0 l 257
+ 1083 26 l 257
+ 588 1152 l 257
+ 542 1152 l 257
+ 84 26 l 257
+ 84 0 l 257
+129 34 m 257
+ 563 1117 l 257
+ 1040 34 l 257
+ 129 34 l 257
+EndSplineSet
+EndChar
+
+StartChar: Dz
+Encoding: 498 498 34
+Width: 2389
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 590 122 N 1 0 0 1 1434 0 2
+Refer: 28 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Dzcaron
+Encoding: 453 453 35
+Width: 2389
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 1740 0 2
+Refer: 590 122 N 1 0 0 1 1434 0 2
+Refer: 28 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: E
+Encoding: 69 69 36
+Width: 1227
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'E'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1227
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "bot" 649 0 basechar 0
+AnchorPoint: "ogonek" 754 0 basechar 0
+AnchorPoint: "top" 676 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1019 826 m 1
+ 1059 826 l 1
+ 1059 1152 l 1
+ 323 1152 l 1
+ 323 1118 l 1
+ 1019 1118 l 1
+ 1019 826 l 1
+323 0 m 1
+ 1087 0 l 1
+ 1087 332 l 1
+ 1047 332 l 1
+ 1047 34 l 1
+ 323 34 l 1
+ 323 0 l 1
+782 380 m 1
+ 821 380 l 1
+ 821 780 l 1
+ 781 780 l 1
+ 781 603 l 1
+ 330 603 l 1
+ 329 569 l 1
+ 782 569 l 1
+ 782 380 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+EndChar
+
+StartChar: Eacute
+Encoding: 201 201 37
+Width: 1227
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Eacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1227
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 672 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ebreve
+Encoding: 276 276 38
+Width: 1227
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 211 728 N 1 0 0 1 554 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecaron
+Encoding: 282 282 39
+Width: 1227
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ecaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1227
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 500 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecedilla
+Encoding: 552 552 40
+Width: 1227
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 223 184 N 1 0 0 1 357 0 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecircumflex
+Encoding: 202 202 41
+Width: 1227
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ecircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1227
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 500 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edblgrave
+Encoding: 516 516 42
+Width: 1227
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 235 783 N 1 0 0 1 353 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 43
+Width: 1227
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Edieresis'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1227
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 240 168 N 1 0 0 1 519 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edotaccent
+Encoding: 278 278 44
+Width: 1227
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Edotaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1227
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 425 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Egrave
+Encoding: 200 200 45
+Width: 1227
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Egrave'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1227
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 543 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Einvertedbreve
+Encoding: 518 518 46
+Width: 1227
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 212 785 N 1 0 0 1 188 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Emacron
+Encoding: 274 274 47
+Width: 1227
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Emacron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1227
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 512 348 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eng
+Encoding: 330 330 48
+Width: 1444
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+867 -374 m 257
+ 1100 -374 1238 -261 1238 -17 c 258
+ 1238 252 l 257
+ 1194 252 l 257
+ 1194 -31 l 258
+ 1194 -220 1091 -340 870 -340 c 257
+ 867 -374 l 257
+EndSplineSet
+Refer: 94 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eogonek
+Encoding: 280 280 49
+Width: 1227
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Eogonek'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1227
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 379 731 N 1 0 0 1 523 0 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eth
+Encoding: 208 208 50
+Width: 1434
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Eth'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1434
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 28 68 N 1 0 0 1 0 0 2
+Refer: 316 45 N 1 0 0 1 -112 144 2
+EndChar
+
+StartChar: Etilde
+Encoding: 7868 7868 51
+Width: 1227
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 454 732 N 1 0 0 1 456 363 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Euro
+Encoding: 8364 8364 52
+Width: 1408
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-25 446 m 257
+ 602 446 l 257
+ 628 479 l 257
+ 1 479 l 257
+ -25 446 l 257
+-25 636 m 257
+ 602 636 l 257
+ 628 669 l 257
+ 1 669 l 257
+ -25 636 l 257
+EndSplineSet
+Refer: 21 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: F
+Encoding: 70 70 53
+Width: 1177
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'F'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1177
+sS'contours'
+p10
+((dp11
+S'points'
+p12
+((dp13
+S'segmentType'
+p14
+S'line'
+p15
+sS'x'
+I990
+sS'smooth'
+p16
+I0
+sS'y'
+I1086
+s(dp17
+g14
+S'line'
+p18
+sS'x'
+I990
+sg16
+I0
+sS'y'
+I802
+s(dp19
+g14
+S'line'
+p20
+sS'x'
+I1062
+sg16
+I0
+sS'y'
+I802
+s(dp21
+g14
+S'line'
+p22
+sS'x'
+I1062
+sg16
+I0
+sS'y'
+I1152
+s(dp23
+g14
+S'line'
+p24
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I1152
+s(dp25
+g14
+S'line'
+p26
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I1086
+s(dp27
+g14
+S'line'
+p28
+sS'x'
+I286
+sg16
+I0
+sS'y'
+I1086
+s(dp29
+g14
+S'line'
+p30
+sS'x'
+I286
+sg16
+I0
+sS'y'
+I1039
+s(dp31
+g14
+S'line'
+p32
+sS'x'
+I363
+sg16
+I0
+sS'y'
+I1039
+s(dp33
+g14
+S'line'
+p34
+sS'x'
+I363
+sg16
+I0
+sS'y'
+I1086
+stp35
+s(dp36
+g12
+((dp37
+g14
+S'line'
+p38
+sS'x'
+I286
+sg16
+I0
+sS'y'
+I1039
+s(dp39
+g14
+S'line'
+p40
+sS'x'
+I286
+sg16
+I0
+sS'y'
+I677
+s(dp41
+g14
+S'line'
+p42
+sS'x'
+I363
+sg16
+I0
+sS'y'
+I677
+s(dp43
+g14
+S'line'
+p44
+sS'x'
+I363
+sg16
+I0
+sS'y'
+I1039
+stp45
+s(dp46
+g12
+((dp47
+g14
+S'line'
+p48
+sS'x'
+I286
+sg16
+I0
+sS'y'
+I677
+s(dp49
+g14
+S'line'
+p50
+sS'x'
+I286
+sg16
+I0
+sS'y'
+I65
+s(dp51
+g14
+S'line'
+p52
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I65
+s(dp53
+g14
+S'line'
+p54
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I0
+s(dp55
+g14
+S'line'
+p56
+sS'x'
+I552
+sg16
+I0
+sS'y'
+I0
+s(dp57
+g14
+S'line'
+p58
+sS'x'
+I552
+sg16
+I0
+sS'y'
+I65
+s(dp59
+g14
+S'line'
+p60
+sS'x'
+I363
+sg16
+I0
+sS'y'
+I65
+s(dp61
+g14
+S'line'
+p62
+sS'x'
+I363
+sg16
+I0
+sS'y'
+I539
+s(dp63
+g14
+S'line'
+p64
+sS'x'
+I824
+sg16
+I0
+sS'y'
+I539
+s(dp65
+g14
+S'line'
+p66
+sS'x'
+I824
+sg16
+I0
+sS'y'
+I378
+s(dp67
+g14
+S'line'
+p68
+sS'x'
+I886
+sg16
+I0
+sS'y'
+I378
+s(dp69
+g14
+S'line'
+p70
+sS'x'
+I886
+sg16
+I0
+sS'y'
+I764
+s(dp71
+g14
+S'line'
+p72
+sS'x'
+I824
+sg16
+I0
+sS'y'
+I764
+s(dp73
+g14
+S'line'
+p74
+sS'x'
+I824
+sg16
+I0
+sS'y'
+I601
+s(dp75
+g14
+S'line'
+p76
+sS'x'
+I363
+sg16
+I0
+sS'y'
+I601
+s(dp77
+g14
+S'line'
+p78
+sS'x'
+I363
+sg16
+I0
+sS'y'
+I677
+stp79
+stp80
+sS'components'
+p81
+(tsS'anchors'
+p82
+(tsss."
+AnchorPoint: "top" 649 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1039 796 m 1
+ 1075 796 l 1
+ 1075 1152 l 1
+ 323 1152 l 1
+ 323 1118 l 1
+ 1039 1118 l 1
+ 1039 796 l 1
+851 390 m 1
+ 887 390 l 1
+ 887 770 l 1
+ 851 770 l 1
+ 851 609 l 1
+ 333 609 l 1
+ 333 575 l 1
+ 851 575 l 1
+ 851 390 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+EndChar
+
+StartChar: Fdotaccent
+Encoding: 7710 7710 54
+Width: 1177
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 398 348 2
+Refer: 53 70 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: G
+Encoding: 71 71 55
+Width: 1394
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'G'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1394
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "bot" 711 0 basechar 0
+AnchorPoint: "top" 707 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+707 -22 m 0
+ 897 -22 1245 59 1245 543 c 1
+ 948 543 l 1
+ 948 509 l 1
+ 1203 509 l 1
+ 1198 110 884 14 707 14 c 0
+ 372 14 161 233 161 582 c 0
+ 161 924 372 1138 707 1138 c 0
+ 913 1138 1091 1034 1169 851 c 1
+ 1201 851 l 1
+ 1201 1152 l 1
+ 1157 1152 l 1
+ 1157 945 l 1
+ 1066 1093 892 1174 707 1174 c 0
+ 346 1174 119 946 119 582 c 0
+ 119 211 346 -22 707 -22 c 0
+EndSplineSet
+EndChar
+
+StartChar: Gacute
+Encoding: 500 500 56
+Width: 1394
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 703 348 2
+Refer: 55 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gbreve
+Encoding: 286 286 57
+Width: 1394
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Gbreve'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1394
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 211 728 N 1 0 0 1 585 348 2
+Refer: 55 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcaron
+Encoding: 486 486 58
+Width: 1394
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 531 348 2
+Refer: 55 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcircumflex
+Encoding: 284 284 59
+Width: 1394
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Gcircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1394
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 531 348 2
+Refer: 55 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcommaaccent
+Encoding: 290 290 60
+Width: 1394
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Gcommaaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1394
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 228 806 N 1 0 0 1 462 0 2
+Refer: 55 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gdotaccent
+Encoding: 288 288 61
+Width: 1394
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Gdotaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1394
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 456 348 2
+Refer: 55 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: H
+Encoding: 72 72 62
+Width: 1506
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'H'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1506
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "bot" 752 0 basechar 0
+AnchorPoint: "top" 750 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+326 564 m 1
+ 1180 564 l 1
+ 1181 598 l 1
+ 327 598 l 1
+ 326 564 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+Refer: 0 0 N 1 0 0 1 865 0 2
+EndChar
+
+StartChar: Hbar
+Encoding: 294 294 63
+Width: 1471
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Hbar'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1471
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+151 839 m 257
+ 1316 839 l 257
+ 1316 877 l 257
+ 151 877 l 257
+ 151 839 l 257
+EndSplineSet
+Refer: 62 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Hcaron
+Encoding: 542 542 64
+Width: 1506
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 574 348 2
+Refer: 62 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Hcircumflex
+Encoding: 292 292 65
+Width: 1506
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Hcircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1506
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 574 348 2
+Refer: 62 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: I
+Encoding: 73 73 66
+Width: 626
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'I'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I626
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "ogonek" 312 0 basechar 0
+AnchorPoint: "top" 316 1152 basechar 0
+LayerCount: 2
+Fore
+Refer: 0 0 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: IJ
+Encoding: 306 306 67
+Width: 1177
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'IJ'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1177
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 80 74 N 1 0 0 1 626 0 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iacute
+Encoding: 205 205 68
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Iacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 312 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ibreve
+Encoding: 300 300 69
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ibreve'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 211 728 N 1 0 0 1 194 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Icaron
+Encoding: 463 463 70
+Width: 626
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 140 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Icircumflex
+Encoding: 206 206 71
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Icircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 140 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idblgrave
+Encoding: 520 520 72
+Width: 626
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 235 783 N 1 0 0 1 -7 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 73
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Idieresis'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 240 168 N 1 0 0 1 159 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idotaccent
+Encoding: 304 304 74
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Idotaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 65 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Igrave
+Encoding: 204 204 75
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Igrave'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 183 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iinvertedbreve
+Encoding: 522 522 76
+Width: 626
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 212 785 N 1 0 0 1 -172 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Imacron
+Encoding: 298 298 77
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Imacron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 152 348 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iogonek
+Encoding: 302 302 78
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Iogonek'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 379 731 N 1 0 0 1 81 0 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Itilde
+Encoding: 296 296 79
+Width: 626
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Itilde'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I626
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 454 732 N 1 0 0 1 96 363 2
+Refer: 66 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: J
+Encoding: 74 74 80
+Width: 551
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'J'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I551
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "top" 346 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+107 -40 m 1
+ 212 -40 l 1
+ 313 -39 362 -20 362 161 c 2
+ 362 1118 l 1
+ 483 1118 l 1
+ 483 1152 l 1
+ 189 1152 l 1
+ 189 1118 l 1
+ 318 1118 l 1
+ 318 173 l 2
+ 318 42 307 -6 229 -6 c 2
+ 107 -6 l 1
+ 107 -40 l 1
+EndSplineSet
+EndChar
+
+StartChar: Jcircumflex
+Encoding: 308 308 81
+Width: 551
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Jcircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I551
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 170 348 2
+Refer: 80 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: K
+Encoding: 75 75 82
+Width: 1304
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+((dp3
+S'y'
+I593
+sS'x'
+I467
+sS'magnetic'
+p4
+I5
+sS'angle'
+p5
+I0
+sS'isGlobal'
+p6
+I0
+stp7
+sS'com.typemytype.robofont.layerData'
+p8
+(dp9
+S'b'
+(dp10
+S'name'
+p11
+S'K'
+sS'lib'
+p12
+(dp13
+sS'unicodes'
+p14
+(tsS'width'
+p15
+I1304
+sS'contours'
+p16
+(tsS'components'
+p17
+(tsS'anchors'
+p18
+(tsss."
+AnchorPoint: "bot" 685 0 basechar 0
+AnchorPoint: "top" 663 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+840 0 m 1
+ 1215 0 l 1
+ 1215 34 l 1
+ 1052 34 l 1
+ 408 588 l 1
+ 1004 1118 l 1
+ 1179 1118 l 1
+ 1179 1152 l 1
+ 794 1152 l 1
+ 794 1118 l 1
+ 954 1118 l 1
+ 348 588 l 1
+ 997 34 l 1
+ 840 34 l 1
+ 840 0 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+EndChar
+
+StartChar: Kcaron
+Encoding: 488 488 83
+Width: 1304
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 487 348 2
+Refer: 82 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Kcommaaccent
+Encoding: 310 310 84
+Width: 1304
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Kcommaaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1304
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 228 806 N 1 0 0 1 436 0 2
+Refer: 82 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: L
+Encoding: 76 76 85
+Width: 1055
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'L'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1055
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "caron.alt" 510 804 basechar 0
+AnchorPoint: "bot" 652 0 basechar 0
+AnchorPoint: "top" 712 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+322 0 m 1
+ 1002 0 l 1
+ 1002 358 l 1
+ 966 358 l 1
+ 966 34 l 1
+ 322 34 l 1
+ 322 0 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+Kerns2: 416 -266 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  414 -350 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: LJ
+Encoding: 455 455 86
+Width: 1606
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 80 74 N 1 0 0 1 1055 0 2
+Refer: 85 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lacute
+Encoding: 313 313 87
+Width: 1055
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Lacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1055
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 708 348 2
+Refer: 85 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lcaron
+Encoding: 317 317 88
+Width: 1055
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Lcaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1055
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 218 -1 N 1 0 0 1 312 0 2
+Refer: 85 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lcommaaccent
+Encoding: 315 315 89
+Width: 1055
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Lcommaaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1055
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 228 806 N 1 0 0 1 403 0 2
+Refer: 85 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ldot
+Encoding: 319 319 90
+Width: 1055
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ldot'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1055
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 402 183 N 1 0 0 1 445 -1 2
+Refer: 85 76 N 1 0 0 1 0 0 2
+Ligature2: "Ligature Substitution lookup 2 subtable" L periodcentered
+EndChar
+
+StartChar: Lslash
+Encoding: 321 321 91
+Width: 1243
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Lslash'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1243
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+124 434 m 257
+ 524 691 l 257
+ 524 742 l 257
+ 124 481 l 257
+ 124 434 l 257
+EndSplineSet
+Refer: 85 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: M
+Encoding: 77 77 92
+Width: 1606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'M'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1606
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "top" 795 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+146 0 m 1
+ 499 0 l 1
+ 499 34 l 1
+ 343 34 l 1
+ 343 1058 l 1
+ 818 105 l 1
+ 822 105 l 1
+ 1270 1058 l 1
+ 1270 34 l 1
+ 1112 34 l 1
+ 1112 0 l 1
+ 1467 0 l 1
+ 1467 34 l 1
+ 1314 34 l 1
+ 1314 1118 l 1
+ 1467 1118 l 1
+ 1467 1152 l 1
+ 1267 1152 l 1
+ 819 190 l 1
+ 342 1152 l 1
+ 146 1152 l 1
+ 146 1118 l 1
+ 299 1118 l 1
+ 299 34 l 1
+ 146 34 l 1
+ 146 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Mdotaccent
+Encoding: 7744 7744 93
+Width: 1606
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 544 348 2
+Refer: 92 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: N
+Encoding: 78 78 94
+Width: 1444
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'N'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1444
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "bot" 711 0 basechar 0
+AnchorPoint: "top" 721 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+140 0 m 1
+ 477 0 l 1
+ 477 34 l 1
+ 328 34 l 1
+ 328 1073 l 1
+ 1194 0 l 1
+ 1238 0 l 1
+ 1238 1118 l 1
+ 1361 1118 l 1
+ 1361 1152 l 1
+ 1043 1152 l 1
+ 1043 1118 l 1
+ 1194 1118 l 1
+ 1194 63 l 1
+ 318 1152 l 1
+ 140 1152 l 1
+ 140 1118 l 1
+ 284 1118 l 1
+ 284 34 l 1
+ 140 34 l 1
+ 140 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: NJ
+Encoding: 458 458 95
+Width: 1995
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 80 74 N 1 0 0 1 1444 0 2
+Refer: 94 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: NULL
+Encoding: 65537 -1 96
+Width: -240
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'NULL'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I-240
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+EndChar
+
+StartChar: Nacute
+Encoding: 323 323 97
+Width: 1444
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Nacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1444
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 717 348 2
+Refer: 94 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ncaron
+Encoding: 327 327 98
+Width: 1444
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ncaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1444
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 545 348 2
+Refer: 94 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ncommaaccent
+Encoding: 325 325 99
+Width: 1444
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ncommaaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1444
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 228 806 N 1 0 0 1 462 0 2
+Refer: 94 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ngrave
+Encoding: 504 504 100
+Width: 1444
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 588 348 2
+Refer: 94 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ntilde
+Encoding: 209 209 101
+Width: 1444
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ntilde'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1444
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 454 732 N 1 0 0 1 501 363 2
+Refer: 94 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O
+Encoding: 79 79 102
+Width: 1456
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'O'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1456
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "ogonek" 792 0 basechar 0
+AnchorPoint: "top" 727 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+728 -22 m 0
+ 1147 -22 1328 289 1328 572 c 0
+ 1328 851 1144 1174 728 1174 c 0
+ 313 1174 128 852 128 572 c 0
+ 128 291.446423512 308.425348966 -22.002382346 726.00481129 -22.002382346 c 0
+ 726.669273645 -22.002382346 727.334336472 -22.0015886958 728 -22 c 0
+728 14 m 0
+ 337 14 170 300 170 572 c 0
+ 170 832 341 1138 728 1138 c 0
+ 1110 1138 1286 832 1286 572 c 0
+ 1286 310 1110 14 728 14 c 0
+EndSplineSet
+Substitution2: "Single Substitution lookup 14 subtable" ordmasculine
+EndChar
+
+StartChar: OE
+Encoding: 338 338 103
+Width: 1953
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'OE'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1953
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+783 0 m 258
+ 1813 0 l 257
+ 1813 395 l 257
+ 1773 395 l 257
+ 1773 40 l 257
+ 1041 40 l 257
+ 1041 542 l 257
+ 1530 542 l 257
+ 1530 343 l 257
+ 1570 343 l 257
+ 1570 759 l 257
+ 1530 759 l 257
+ 1530 580 l 257
+ 1042 580 l 257
+ 1042 1112 l 257
+ 1743 1112 l 257
+ 1743 782 l 257
+ 1783 782 l 257
+ 1783 1152 l 257
+ 783 1152 l 258
+ 375 1152 129 935 128 570 c 256
+ 129 212 375 0 783 0 c 258
+783 40 m 258
+ 403 40 170 240 170 570 c 256
+ 170 913 408 1112 783 1112 c 258
+ 998 1112 l 257
+ 998 40 l 257
+ 783 40 l 258
+EndSplineSet
+EndChar
+
+StartChar: Oacute
+Encoding: 211 211 104
+Width: 1456
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Oacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1456
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 723 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Obreve
+Encoding: 334 334 105
+Width: 1456
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Obreve'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1456
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 211 728 N 1 0 0 1 605 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ocaron
+Encoding: 465 465 106
+Width: 1456
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 551 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ocircumflex
+Encoding: 212 212 107
+Width: 1456
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ocircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1456
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 551 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Odblgrave
+Encoding: 524 524 108
+Width: 1456
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 235 783 N 1 0 0 1 404 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 109
+Width: 1456
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Odieresis'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1456
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 240 168 N 1 0 0 1 570 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Odotaccent
+Encoding: 558 558 110
+Width: 1456
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 476 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ograve
+Encoding: 210 210 111
+Width: 1456
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ograve'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1456
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 594 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ohungarumlaut
+Encoding: 336 336 112
+Width: 1456
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ohungarumlaut'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1456
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 315 733 N 1 0 0 1 593 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oinvertedbreve
+Encoding: 526 526 113
+Width: 1456
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 212 785 N 1 0 0 1 239 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omacron
+Encoding: 332 332 114
+Width: 1456
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Omacron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1456
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 563 348 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omega
+Encoding: 937 937 115
+Width: 1426
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+191 0 m 257
+ 548 0 l 257
+ 548 38 l 257
+ 324 177 213 420 213 636 c 256
+ 213 901 380 1139 713 1139 c 256
+ 1046 1139 1213 901 1213 636 c 256
+ 1213 420 1102 177 878 38 c 257
+ 878 0 l 257
+ 1235 0 l 257
+ 1235 34 l 257
+ 915 34 l 257
+ 1143 168 1254 409 1254 629 c 256
+ 1254 913 1070 1174 713 1174 c 256
+ 356 1174 172 913 172 629 c 256
+ 172 409 283 168 511 34 c 257
+ 191 34 l 257
+ 191 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Oogonek
+Encoding: 490 490 116
+Width: 1456
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 379 731 N 1 0 0 1 561 0 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 117
+Width: 1598
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Oslash'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1598
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+266 -71 m 257
+ 1239 1195 l 257
+ 1215 1213 l 257
+ 239 -51 l 257
+ 266 -71 l 257
+EndSplineSet
+Refer: 102 79 N 1 0 0 1 8 -10 2
+EndChar
+
+StartChar: Oslashacute
+Encoding: 510 510 118
+Width: 1598
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 731 338 2
+Refer: 117 216 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 119
+Width: 1456
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Otilde'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1456
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 454 732 N 1 0 0 1 507 363 2
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: P
+Encoding: 80 80 120
+Width: 1226
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'P'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1226
+sS'contours'
+p10
+((dp11
+S'points'
+p12
+((dp13
+S'segmentType'
+p14
+S'line'
+p15
+sS'x'
+I353
+sS'smooth'
+p16
+I0
+sS'y'
+I1095
+s(dp17
+g14
+S'line'
+p18
+sS'x'
+I759
+sg16
+I1
+sS'y'
+I1095
+s(dp19
+S'y'
+I1095
+sS'x'
+I936
+sg16
+I0
+s(dp20
+S'y'
+I960
+sS'x'
+I1024
+sg16
+I0
+s(dp21
+g14
+S'curve'
+p22
+sS'x'
+I1024
+sg16
+I1
+sS'y'
+I823
+s(dp23
+S'y'
+I683
+sS'x'
+I1024
+sg16
+I0
+s(dp24
+S'y'
+I544
+sS'x'
+I934
+sg16
+I0
+s(dp25
+g14
+S'curve'
+p26
+sS'x'
+I759
+sg16
+I1
+sS'y'
+I544
+s(dp27
+g14
+S'line'
+p28
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I544
+stp29
+s(dp30
+g12
+((dp31
+g14
+S'line'
+p32
+sS'x'
+I135
+sg16
+I0
+sS'y'
+I0
+s(dp33
+g14
+S'line'
+p34
+sS'x'
+I512
+sg16
+I0
+sS'y'
+I0
+s(dp35
+g14
+S'line'
+p36
+sS'x'
+I512
+sg16
+I0
+sS'y'
+I58
+s(dp37
+g14
+S'line'
+p38
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I58
+s(dp39
+g14
+S'line'
+p40
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I483
+s(dp41
+g14
+S'line'
+p42
+sS'x'
+I759
+sg16
+I1
+sS'y'
+I483
+s(dp43
+S'y'
+I483
+sS'x'
+I984
+sg16
+I0
+s(dp44
+S'y'
+I656
+sS'x'
+I1098
+sg16
+I0
+s(dp45
+g14
+S'curve'
+p46
+sS'x'
+I1098
+sg16
+I1
+sS'y'
+I826
+s(dp47
+S'y'
+I989
+sS'x'
+I1098
+sg16
+I0
+s(dp48
+S'y'
+I1154
+sS'x'
+I984
+sg16
+I0
+s(dp49
+g14
+S'curve'
+p50
+sS'x'
+I759
+sg16
+I1
+sS'y'
+I1154
+s(dp51
+g14
+S'line'
+p52
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I1154
+s(dp53
+g14
+S'line'
+p54
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I1095
+s(dp55
+g14
+S'line'
+p56
+sS'x'
+I278
+sg16
+I0
+sS'y'
+I1095
+s(dp57
+g14
+S'line'
+p58
+sS'x'
+I278
+sg16
+I0
+sS'y'
+I58
+s(dp59
+g14
+S'line'
+p60
+sS'x'
+I135
+sg16
+I0
+sS'y'
+I58
+stp61
+stp62
+sS'components'
+p63
+(tsS'anchors'
+p64
+(tsss."
+AnchorPoint: "top" 680 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+448 500 m 1
+ 766 500 l 2
+ 960 500 1075 631 1075 852 c 0
+ 1075 1041 956 1152 754 1152 c 2
+ 326 1152 l 1
+ 326 1118 l 1
+ 753 1118 l 2
+ 928.062172301 1118 1031.00757963 1018.07732689 1031.00757963 847.988750298 c 0
+ 1031.00757963 650.810181832 933.155919247 534 767 534 c 2
+ 449 534 l 1
+ 448 500 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+EndChar
+
+StartChar: Pdotaccent
+Encoding: 7766 7766 121
+Width: 1226
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 429 348 2
+Refer: 120 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Q
+Encoding: 81 81 122
+Width: 1438
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Q'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1438
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+1154 -174 m 1
+ 1143 -146 l 1
+ 1099.33286236 -160.475294246 1062.99941974 -167.15126204 1030.74193203 -167.15126204 c 0
+ 929.2923441 -167.15126204 868.157960439 -101.119372274 746 -4 c 1
+ 697 -6 l 1
+ 846.030196385 -120.053721724 913.542017086 -198.840628435 1027.89775277 -198.840628435 c 0
+ 1063.9392167 -198.840628435 1104.63377783 -191.014571718 1154 -174 c 1
+EndSplineSet
+Refer: 102 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: R
+Encoding: 82 82 123
+Width: 1296
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'R'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1296
+sS'contours'
+p10
+((dp11
+S'points'
+p12
+((dp13
+S'segmentType'
+p14
+S'line'
+p15
+sS'x'
+I135
+sS'smooth'
+p16
+I0
+sS'y'
+I0
+s(dp17
+g14
+S'line'
+p18
+sS'x'
+I512
+sg16
+I0
+sS'y'
+I0
+s(dp19
+g14
+S'line'
+p20
+sS'x'
+I512
+sg16
+I0
+sS'y'
+I58
+s(dp21
+g14
+S'line'
+p22
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I58
+s(dp23
+g14
+S'line'
+p24
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I539
+s(dp25
+g14
+S'line'
+p26
+sS'x'
+I641
+sg16
+I0
+sS'y'
+I539
+s(dp27
+g14
+S'line'
+p28
+sS'x'
+I961
+sg16
+I0
+sS'y'
+I0
+s(dp29
+g14
+S'line'
+p30
+sS'x'
+I1178
+sg16
+I0
+sS'y'
+I0
+s(dp31
+g14
+S'line'
+p32
+sS'x'
+I1178
+sg16
+I0
+sS'y'
+I58
+s(dp33
+g14
+S'line'
+p34
+sS'x'
+I1015
+sg16
+I0
+sS'y'
+I58
+s(dp35
+g14
+S'line'
+p36
+sS'x'
+I721
+sg16
+I0
+sS'y'
+I539
+s(dp37
+S'y'
+I539
+sS'x'
+I945
+sg16
+I0
+s(dp38
+S'y'
+I696
+sS'x'
+I1059
+sg16
+I0
+s(dp39
+g14
+S'curve'
+p40
+sS'x'
+I1059
+sg16
+I1
+sS'y'
+I848
+s(dp41
+S'y'
+I1000
+sS'x'
+I1059
+sg16
+I0
+s(dp42
+S'y'
+I1154
+sS'x'
+I945
+sg16
+I0
+s(dp43
+g14
+S'curve'
+p44
+sS'x'
+I721
+sg16
+I1
+sS'y'
+I1154
+s(dp45
+g14
+S'line'
+p46
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I1154
+s(dp47
+g14
+S'line'
+p48
+sS'x'
+I122
+sg16
+I0
+sS'y'
+I1095
+s(dp49
+g14
+S'line'
+p50
+sS'x'
+I278
+sg16
+I0
+sS'y'
+I1095
+s(dp51
+g14
+S'line'
+p52
+sS'x'
+I278
+sg16
+I0
+sS'y'
+I58
+s(dp53
+g14
+S'line'
+p54
+sS'x'
+I135
+sg16
+I0
+sS'y'
+I58
+stp55
+s(dp56
+g12
+((dp57
+g14
+S'line'
+p58
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I1095
+s(dp59
+g14
+S'line'
+p60
+sS'x'
+I721
+sg16
+I1
+sS'y'
+I1095
+s(dp61
+S'y'
+I1095
+sS'x'
+I898
+sg16
+I0
+s(dp62
+S'y'
+I971
+sS'x'
+I985
+sg16
+I0
+s(dp63
+g14
+S'curve'
+p64
+sS'x'
+I985
+sg16
+I1
+sS'y'
+I845
+s(dp65
+S'y'
+I723
+sS'x'
+I985
+sg16
+I0
+s(dp66
+S'y'
+I600
+sS'x'
+I896
+sg16
+I0
+s(dp67
+g14
+S'curve'
+p68
+sS'x'
+I721
+sg16
+I1
+sS'y'
+I600
+s(dp69
+g14
+S'line'
+p70
+sS'x'
+I353
+sg16
+I0
+sS'y'
+I600
+stp71
+stp72
+sS'components'
+p73
+(tsS'anchors'
+p74
+(tsss."
+AnchorPoint: "bot" 719 0 basechar 0
+AnchorPoint: "top" 658 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1000 0 m 1
+ 1198 0 l 1
+ 1198 34 l 1
+ 1029 34 l 1
+ 711 539 l 1
+ 996 539 1078 698 1078 845 c 0
+ 1078 988 995 1152 759 1152 c 2
+ 327 1152 l 1
+ 327 1118 l 1
+ 764 1118 l 2
+ 971 1118 1036 973 1036 845 c 0
+ 1036 727 978 573 702 573 c 2
+ 419 573 l 1
+ 419 539 l 1
+ 661 539 l 1
+ 1000 0 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+EndChar
+
+StartChar: Racute
+Encoding: 340 340 124
+Width: 1296
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Racute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1296
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 654 348 2
+Refer: 123 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rcaron
+Encoding: 344 344 125
+Width: 1296
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Rcaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1296
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 482 348 2
+Refer: 123 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rcommaaccent
+Encoding: 342 342 126
+Width: 1296
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Rcommaaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1296
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 228 806 N 1 0 0 1 470 0 2
+Refer: 123 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rdblgrave
+Encoding: 528 528 127
+Width: 1296
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 235 783 N 1 0 0 1 335 348 2
+Refer: 123 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rinvertedbreve
+Encoding: 530 530 128
+Width: 1296
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 212 785 N 1 0 0 1 170 348 2
+Refer: 123 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S
+Encoding: 83 83 129
+Width: 1143
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'S'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1143
+sS'contours'
+p10
+((dp11
+S'points'
+p12
+((dp13
+S'segmentType'
+p14
+S'curve'
+p15
+sS'x'
+I636
+sS'smooth'
+p16
+I1
+sS'y'
+S'-23'
+p17
+s(dp18
+S'y'
+S'-23'
+p19
+sS'x'
+I930
+sg16
+I0
+s(dp20
+S'y'
+I171
+sS'x'
+I1026
+sg16
+I0
+s(dp21
+g14
+S'curve'
+p22
+sS'x'
+I1026
+sg16
+I1
+sS'y'
+I295
+s(dp23
+S'y'
+I543
+sS'x'
+I1026
+sg16
+I0
+s(dp24
+S'y'
+I599
+sS'x'
+I829
+sg16
+I0
+s(dp25
+g14
+S'curve'
+p26
+sS'x'
+I606
+sg16
+I1
+sS'y'
+I622
+s(dp27
+S'y'
+I643
+sS'x'
+I405
+sg16
+I0
+s(dp28
+S'y'
+I667
+sS'x'
+I269
+sg16
+I0
+s(dp29
+g14
+S'curve'
+p30
+sS'x'
+I269
+sg16
+I1
+sS'y'
+I851
+s(dp31
+S'y'
+I998
+sS'x'
+I269
+sg16
+I0
+s(dp32
+S'y'
+I1104
+sS'x'
+I360
+sg16
+I0
+s(dp33
+g14
+S'curve'
+p34
+sS'x'
+I573
+sg16
+I1
+sS'y'
+I1104
+s(dp35
+S'y'
+I1104
+sS'x'
+I719
+sg16
+I0
+s(dp36
+S'y'
+I1024
+sS'x'
+I885
+sg16
+I0
+s(dp37
+g14
+S'curve'
+p38
+sS'x'
+I885
+sg16
+I1
+sS'y'
+I941
+s(dp39
+g14
+S'line'
+p40
+sS'x'
+I885
+sg16
+I0
+sS'y'
+I839
+s(dp41
+g14
+S'line'
+p42
+sS'x'
+I959
+sg16
+I0
+sS'y'
+I839
+s(dp43
+g14
+S'line'
+p44
+sS'x'
+I959
+sg16
+I0
+sS'y'
+I1152
+s(dp45
+g14
+S'line'
+p46
+sS'x'
+I885
+sg16
+I0
+sS'y'
+I1152
+s(dp47
+g14
+S'line'
+p48
+sS'x'
+I885
+sg16
+I0
+sS'y'
+I1049
+s(dp49
+S'y'
+I1131
+sS'x'
+I828
+sg16
+I0
+s(dp50
+S'y'
+I1172
+sS'x'
+I673
+sg16
+I0
+s(dp51
+g14
+S'curve'
+p52
+sS'x'
+I561
+sg16
+I1
+sS'y'
+I1172
+s(dp53
+S'y'
+I1172
+sS'x'
+I360
+sg16
+I0
+s(dp54
+S'y'
+I1066
+sS'x'
+I184
+sg16
+I0
+s(dp55
+g14
+S'curve'
+p56
+sS'x'
+I184
+sg16
+I1
+sS'y'
+I863
+s(dp57
+S'y'
+I635
+sS'x'
+I184
+sg16
+I0
+s(dp58
+S'y'
+I579
+sS'x'
+I332
+sg16
+I0
+s(dp59
+g14
+S'curve'
+p60
+sS'x'
+I584
+sg16
+I1
+sS'y'
+I553
+s(dp61
+S'y'
+I531
+sS'x'
+I805
+sg16
+I0
+s(dp62
+S'y'
+I488
+sS'x'
+I942
+sg16
+I0
+s(dp63
+g14
+S'curve'
+p64
+sS'x'
+I942
+sg16
+I1
+sS'y'
+I300
+s(dp65
+S'y'
+I169
+sS'x'
+I942
+sg16
+I0
+s(dp66
+S'y'
+I47
+sS'x'
+I831
+sg16
+I0
+s(dp67
+g14
+S'curve'
+p68
+sS'x'
+I644
+sg16
+I1
+sS'y'
+I47
+s(dp69
+S'y'
+I47
+sS'x'
+I448
+sg16
+I0
+s(dp70
+S'y'
+I118
+sS'x'
+I261
+sg16
+I0
+s(dp71
+g14
+S'curve'
+p72
+sS'x'
+I261
+sg16
+I1
+sS'y'
+I247
+s(dp73
+g14
+S'line'
+p74
+sS'x'
+I261
+sg16
+I0
+sS'y'
+I387
+s(dp75
+g14
+S'line'
+p76
+sS'x'
+I187
+sg16
+I0
+sS'y'
+I387
+s(dp77
+g14
+S'line'
+p78
+sS'x'
+I187
+sg16
+I0
+sS'y'
+S'-1'
+p79
+s(dp80
+g14
+S'line'
+p81
+sS'x'
+I261
+sg16
+I0
+sS'y'
+S'-1'
+p82
+s(dp83
+g14
+S'line'
+p84
+sS'x'
+I261
+sg16
+I0
+sS'y'
+I122
+s(dp85
+S'y'
+I22
+sS'x'
+I335
+sg16
+I0
+s(dp86
+S'y'
+S'-23'
+p87
+sS'x'
+I496
+sg16
+I0
+stp88
+stp89
+sS'components'
+p90
+(tsS'anchors'
+p91
+(tsss."
+AnchorPoint: "bot" 646 0 basechar 0
+AnchorPoint: "top" 584 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+641 -22 m 0
+ 985 -22 1030 197 1030 292 c 0
+ 1030 562 831 578 614 598 c 0
+ 410 617 222 638 222 856 c 0
+ 222 1011 325 1138 577 1138 c 0
+ 779 1138 918 1044 918 958 c 2
+ 917 847 l 1
+ 961 847 l 1
+ 961 1152 l 1
+ 917 1152 l 1
+ 917 1037 l 1
+ 868 1127 690 1174 573 1174 c 0
+ 357 1174 180 1074 180 859 c 0
+ 180 599 402 576 609 560 c 0
+ 836 542 988 512 988 300 c 0
+ 988 158 906 14 644 14 c 0
+ 390 14 266 80 225 231 c 1
+ 225 387 l 1
+ 181 387 l 1
+ 181 -1 l 1
+ 225 -1 l 1
+ 225 153 l 1
+ 276 24 434 -22 641 -22 c 0
+EndSplineSet
+EndChar
+
+StartChar: Sacute
+Encoding: 346 346 130
+Width: 1143
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Sacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1143
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 580 348 2
+Refer: 129 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scaron
+Encoding: 352 352 131
+Width: 1143
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Scaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1143
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 408 348 2
+Refer: 129 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scedilla
+Encoding: 350 350 132
+Width: 1143
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Scedilla'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1143
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 223 184 N 1 0 0 1 354 0 2
+Refer: 129 83 N 1 0 0 1 0 0 2
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" Scommaaccent
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" Scommaaccent
+EndChar
+
+StartChar: Schwa
+Encoding: 399 399 133
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Scircumflex
+Encoding: 348 348 134
+Width: 1143
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 408 348 2
+Refer: 129 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scommaaccent
+Encoding: 536 536 135
+Width: 1143
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 228 806 N 1 0 0 1 397 0 2
+Refer: 129 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Sdotaccent
+Encoding: 7776 7776 136
+Width: 1143
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 333 348 2
+Refer: 129 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Sigma
+Encoding: 931 931 137
+Width: 838
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+122 0 m 257
+ 811 0 l 257
+ 811 34 l 257
+ 177 34 l 257
+ 599 569 l 257
+ 193 1118 l 257
+ 777 1118 l 257
+ 777 1152 l 257
+ 139 1152 l 257
+ 139 1124 l 257
+ 549 569 l 257
+ 122 31 l 257
+ 122 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: T
+Encoding: 84 84 138
+Width: 1147
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'T'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1147
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "mid" 567 612 basechar 0
+AnchorPoint: "bot" 563 0 basechar 0
+AnchorPoint: "top" 566 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+52 777 m 1
+ 92 777 l 1
+ 92 1118 l 1
+ 1053 1118 l 1
+ 1053 777 l 1
+ 1097 777 l 1
+ 1097 1152 l 1
+ 52 1152 l 1
+ 52 777 l 1
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 253 0 2
+EndChar
+
+StartChar: Tbar
+Encoding: 358 358 139
+Width: 1147
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 405 -323 2
+Refer: 138 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Tcaron
+Encoding: 356 356 140
+Width: 1147
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Tcaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1147
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 390 348 2
+Refer: 138 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Tcedilla
+Encoding: 354 354 141
+Width: 1147
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 223 184 N 1 0 0 1 271 0 2
+Refer: 138 84 N 1 0 0 1 0 0 2
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" Tcommaaccent
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" Tcommaaccent
+EndChar
+
+StartChar: Tcommaaccent
+Encoding: 65538 -1 142
+Width: 1147
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Tcommaaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1147
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 228 806 N 1 0 0 1 314 0 2
+Refer: 138 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Tdotaccent
+Encoding: 7786 7786 143
+Width: 1147
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 315 348 2
+Refer: 138 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Thorn
+Encoding: 222 222 144
+Width: 1226
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Thorn'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1226
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+AnchorPoint: "top" 680 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+448 342 m 257
+ 743 342 l 258
+ 937 342 1052 458 1052 654 c 256
+ 1052 817 933 914 731 914 c 258
+ 326 914 l 257
+ 326 880 l 257
+ 730 880 l 258
+ 904 880 1007 796 1008 653 c 256
+ 1009 479 911 376 744 376 c 258
+ 449 376 l 257
+ 448 342 l 257
+EndSplineSet
+Refer: 0 0 N 1 0 0 1 16 0 2
+EndChar
+
+StartChar: U
+Encoding: 85 85 145
+Width: 1514
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'U'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1514
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "ogonek" 822 0 basechar 0
+AnchorPoint: "top" 758 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+745 -22 m 0
+ 1061 -22 1283 136 1283 368 c 2
+ 1283 1118 l 1
+ 1442 1118 l 1
+ 1442 1152 l 1
+ 1087 1152 l 1
+ 1087 1118 l 1
+ 1238 1118 l 1
+ 1238 368 l 2
+ 1238 157 1035 14 745 14 c 0
+ 474 14 288 159 288 372 c 2
+ 288 1118 l 1
+ 439 1118 l 1
+ 439 1152 l 1
+ 90 1152 l 1
+ 90 1118 l 1
+ 243 1118 l 1
+ 243 368 l 2
+ 243 136 452 -22 745 -22 c 0
+EndSplineSet
+EndChar
+
+StartChar: Uacute
+Encoding: 218 218 146
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Uacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 754 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ubreve
+Encoding: 364 364 147
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ubreve'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 211 728 N 1 0 0 1 636 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ucaron
+Encoding: 467 467 148
+Width: 1514
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 582 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ucircumflex
+Encoding: 219 219 149
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ucircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 582 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Udblgrave
+Encoding: 532 532 150
+Width: 1514
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 235 783 N 1 0 0 1 435 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 151
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Udieresis'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 240 168 N 1 0 0 1 601 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ugrave
+Encoding: 217 217 152
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ugrave'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 625 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uhungarumlaut
+Encoding: 368 368 153
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Uhungarumlaut'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 315 733 N 1 0 0 1 624 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uinvertedbreve
+Encoding: 534 534 154
+Width: 1514
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 212 785 N 1 0 0 1 270 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Umacron
+Encoding: 362 362 155
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Umacron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 594 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uogonek
+Encoding: 370 370 156
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Uogonek'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 379 731 N 1 0 0 1 591 0 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uring
+Encoding: 366 366 157
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Uring'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 426 730 N 1 0 0 1 603 348 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Utilde
+Encoding: 360 360 158
+Width: 1514
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Utilde'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1514
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 454 732 N 1 0 0 1 538 363 2
+Refer: 145 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: V
+Encoding: 86 86 159
+Width: 1228
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'V'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1228
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+591 0 m 1
+ 641 0 l 1
+ 1063 1118 l 1
+ 1184 1118 l 1
+ 1184 1152 l 1
+ 847 1152 l 1
+ 847 1118 l 1
+ 1004 1118 l 1
+ 615 58 l 1
+ 224 1118 l 1
+ 385 1118 l 1
+ 385 1152 l 1
+ 39 1152 l 1
+ 39 1118 l 1
+ 175 1118 l 1
+ 591 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: W
+Encoding: 87 87 160
+Width: 1962
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'W'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1962
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "top" 985 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+597 0 m 1
+ 650 0 l 1
+ 984 1003 l 1
+ 1314 0 l 1
+ 1365 0 l 1
+ 1741 1118 l 1
+ 1886 1118 l 1
+ 1886 1152 l 1
+ 1535 1152 l 1
+ 1535 1118 l 1
+ 1692 1118 l 1
+ 1339 55 l 1
+ 1001 1087 l 1
+ 966 1087 l 1
+ 623 55 l 1
+ 264 1118 l 1
+ 427 1118 l 1
+ 427 1152 l 1
+ 76 1152 l 1
+ 76 1118 l 1
+ 213 1118 l 1
+ 597 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Wacute
+Encoding: 7810 7810 161
+Width: 1962
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 981 348 2
+Refer: 160 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wcircumflex
+Encoding: 372 372 162
+Width: 1962
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 809 348 2
+Refer: 160 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wdieresis
+Encoding: 7812 7812 163
+Width: 1962
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 240 168 N 1 0 0 1 828 348 2
+Refer: 160 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wgrave
+Encoding: 7808 7808 164
+Width: 1962
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 852 348 2
+Refer: 160 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: X
+Encoding: 88 88 165
+Width: 1293
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'X'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1293
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+118 0 m 1
+ 458 0 l 1
+ 458 34 l 1
+ 299 34 l 1
+ 644 561 l 1
+ 998 34 l 1
+ 843 34 l 1
+ 843 0 l 1
+ 1180 0 l 1
+ 1180 34 l 1
+ 1033 34 l 1
+ 668 584 l 1
+ 1015 1118 l 1
+ 1161 1118 l 1
+ 1161 1152 l 1
+ 814 1152 l 1
+ 814 1118 l 1
+ 972 1118 l 1
+ 648 620 l 1
+ 315 1118 l 1
+ 469 1118 l 1
+ 469 1152 l 1
+ 130 1152 l 1
+ 130 1118 l 1
+ 278 1118 l 1
+ 626 595 l 1
+ 254 34 l 1
+ 118 34 l 1
+ 118 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Y
+Encoding: 89 89 166
+Width: 1254
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Y'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1254
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "top" 632 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+436 0 m 1
+ 816 0 l 1
+ 816 34 l 1
+ 648 34 l 1
+ 648 459 l 1
+ 1085 1118 l 1
+ 1237 1118 l 1
+ 1237 1152 l 1
+ 873 1152 l 1
+ 873 1118 l 1
+ 1035 1118 l 1
+ 626 501 l 1
+ 217 1118 l 1
+ 369 1118 l 1
+ 369 1152 l 1
+ 12 1152 l 1
+ 12 1118 l 1
+ 169 1118 l 1
+ 604 459 l 1
+ 604 34 l 1
+ 436 34 l 1
+ 436 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Yacute
+Encoding: 221 221 167
+Width: 1254
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Yacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1254
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 628 348 2
+Refer: 166 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ycircumflex
+Encoding: 374 374 168
+Width: 1254
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 456 348 2
+Refer: 166 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ydieresis
+Encoding: 376 376 169
+Width: 1254
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Ydieresis'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1254
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 240 168 N 1 0 0 1 475 348 2
+Refer: 166 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ygrave
+Encoding: 7922 7922 170
+Width: 1254
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 499 348 2
+Refer: 166 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ymacron
+Encoding: 562 562 171
+Width: 1254
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 468 348 2
+Refer: 166 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ytilde
+Encoding: 7928 7928 172
+Width: 1254
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 454 732 N 1 0 0 1 412 363 2
+Refer: 166 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z
+Encoding: 90 90 173
+Width: 1241
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Z'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I1241
+sS'contours'
+p10
+(tsS'components'
+p11
+(tsS'anchors'
+p12
+(tsss."
+AnchorPoint: "top" 648 1152 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+143 0 m 1
+ 1091 0 l 1
+ 1091 359 l 1
+ 1051 359 l 1
+ 1051 34 l 1
+ 191 34 l 1
+ 1062 1117 l 1
+ 1062 1152 l 1
+ 171 1152 l 1
+ 171 808 l 1
+ 211 808 l 1
+ 211 1118 l 1
+ 1014 1118 l 1
+ 143 36 l 1
+ 143 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Zacute
+Encoding: 377 377 174
+Width: 1241
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Zacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1241
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 644 348 2
+Refer: 173 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Zcaron
+Encoding: 381 381 175
+Width: 1241
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Zcaron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1241
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 472 348 2
+Refer: 173 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Zdotaccent
+Encoding: 379 379 176
+Width: 1241
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'Zdotaccent'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1241
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 397 348 2
+Refer: 173 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: a
+Encoding: 97 97 177
+Width: 951
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'a'
+sS'lib'
+p6
+(dp7
+sS'unicodes'
+p8
+(tsS'width'
+p9
+I951
+sS'contours'
+p10
+((dp11
+S'points'
+p12
+((dp13
+S'segmentType'
+p14
+S'curve'
+p15
+sS'x'
+I391
+sS'smooth'
+p16
+I1
+sS'y'
+S'-14'
+p17
+s(dp18
+S'y'
+S'-14'
+p19
+sS'x'
+I507
+sg16
+I0
+s(dp20
+S'y'
+I21
+sS'x'
+I593
+sg16
+I0
+s(dp21
+g14
+S'curve'
+p22
+sS'x'
+I687
+sg16
+I0
+sS'y'
+I91
+s(dp23
+g14
+S'line'
+p24
+sS'x'
+I703
+sg16
+I0
+sS'y'
+S'-1'
+p25
+s(dp26
+g14
+S'line'
+p27
+sS'x'
+I890
+sg16
+I0
+sS'y'
+S'-1'
+p28
+s(dp29
+g14
+S'line'
+p30
+sS'x'
+I890
+sg16
+I0
+sS'y'
+I57
+s(dp31
+g14
+S'line'
+p32
+sS'x'
+I764
+sg16
+I0
+sS'y'
+I57
+s(dp33
+g14
+S'line'
+p34
+sS'x'
+I764
+sg16
+I1
+sS'y'
+I569
+s(dp35
+S'y'
+I672
+sS'x'
+I764
+sg16
+I0
+s(dp36
+S'y'
+I819
+sS'x'
+I710
+sg16
+I0
+s(dp37
+g14
+S'curve'
+p38
+sS'x'
+I461
+sg16
+I1
+sS'y'
+I819
+s(dp39
+S'y'
+I819
+sS'x'
+I332
+sg16
+I0
+s(dp40
+S'y'
+I792
+sS'x'
+I226
+sg16
+I0
+s(dp41
+g14
+S'curve'
+p42
+sS'x'
+I155
+sg16
+I0
+sS'y'
+I724
+s(dp43
+g14
+S'line'
+p44
+sS'x'
+I190
+sg16
+I0
+sS'y'
+I668
+s(dp45
+S'y'
+I726
+sS'x'
+I247
+sg16
+I0
+s(dp46
+S'y'
+I755
+sS'x'
+I339
+sg16
+I0
+s(dp47
+g14
+S'curve'
+p48
+sS'x'
+I459
+sg16
+I1
+sS'y'
+I755
+s(dp49
+S'y'
+I755
+sS'x'
+I600
+sg16
+I0
+s(dp50
+S'y'
+I706
+sS'x'
+I687
+sg16
+I0
+s(dp51
+g14
+S'curve'
+p52
+sS'x'
+I687
+sg16
+I1
+sS'y'
+I551
+s(dp53
+g14
+S'line'
+p54
+sS'x'
+I687
+sg16
+I0
+sS'y'
+I428
+s(dp55
+S'y'
+I443
+sS'x'
+I609
+sg16
+I0
+s(dp56
+S'y'
+I455
+sS'x'
+I539
+sg16
+I0
+s(dp57
+g14
+S'curve'
+p58
+sS'x'
+I465
+sg16
+I1
+sS'y'
+I455
+s(dp59
+S'y'
+I455
+sS'x'
+I295
+sg16
+I0
+s(dp60
+S'y'
+I433
+sS'x'
+I117
+sg16
+I0
+s(dp61
+g14
+S'curve'
+p62
+sS'x'
+I117
+sg16
+I1
+sS'y'
+I222
+s(dp63
+S'y'
+I96
+sS'x'
+I117
+sg16
+I0
+s(dp64
+S'y'
+S'-14'
+p65
+sS'x'
+I206
+sg16
+I0
+stp66
+s(dp67
+g12
+((dp68
+g14
+S'curve'
+p69
+sS'x'
+I401
+sg16
+I1
+sS'y'
+I50
+s(dp70
+S'y'
+I50
+sS'x'
+I246
+sg16
+I0
+s(dp71
+S'y'
+I142
+sS'x'
+I195
+sg16
+I0
+s(dp72
+g14
+S'curve'
+p73
+sS'x'
+I195
+sg16
+I1
+sS'y'
+I220
+s(dp74
+S'y'
+I390
+sS'x'
+I195
+sg16
+I0
+s(dp75
+S'y'
+I393
+sS'x'
+I346
+sg16
+I0
+s(dp76
+g14
+S'curve'
+p77
+sS'x'
+I462
+sg16
+I1
+sS'y'
+I393
+s(dp78
+S'y'
+I393
+sS'x'
+I559
+sg16
+I0
+s(dp79
+S'y'
+I368
+sS'x'
+I687
+sg16
+I0
+s(dp80
+g14
+S'curve'
+p81
+sS'x'
+I687
+sg16
+I0
+sS'y'
+I368
+s(dp82
+g14
+S'line'
+p83
+sS'x'
+I687
+sg16
+I0
+sS'y'
+I151
+s(dp84
+S'y'
+I76
+sS'x'
+I606
+sg16
+I0
+s(dp85
+S'y'
+I50
+sS'x'
+I511
+sg16
+I0
+stp86
+stp87
+sS'components'
+p88
+(tsS'anchors'
+p89
+(tsss."
+AnchorPoint: "ogonek" 842 0 basechar 0
+AnchorPoint: "top" 475 805 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+400 12 m 0
+ 255 12 175 108 175 215 c 0
+ 175 364 283 416 407 416 c 0
+ 502 416 607 395 719 379 c 1
+ 719 118 l 1
+ 579 41 498 12 400 12 c 0
+402 -22 m 0
+ 493 -22 596 11 721 84 c 1
+ 721 84 735 -8 735 0 c 1
+ 886 0 l 1
+ 886 34 l 1
+ 763 34 l 1
+ 763 558 l 2
+ 763 669 714 826 468 826 c 0
+ 398 826 293 805 182 763 c 1
+ 195 726 l 1
+ 279 759 377 792 477 792 c 0
+ 618 792 719 714 719 540 c 2
+ 719 414 l 1
+ 617 432 506 450 406 450 c 0
+ 262 450 133 395 133 217 c 0
+ 133 73 240 -22 402 -22 c 0
+EndSplineSet
+Substitution2: "Single Substitution lookup 13 subtable" ordfeminine
+EndChar
+
+StartChar: aacute
+Encoding: 225 225 178
+Width: 951
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'aacute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I951
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 471 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: abreve
+Encoding: 259 259 179
+Width: 951
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'abreve'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I951
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 211 728 N 1 0 0 1 353 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: acaron
+Encoding: 462 462 180
+Width: 951
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 217 711 N 1 0 0 1 299 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: acircumflex
+Encoding: 226 226 181
+Width: 951
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'acircumflex'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I951
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 225 710 N 1 0 0 1 299 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: acute
+Encoding: 180 180 182
+Width: 129
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'acute'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I45
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+AnchorPoint: "top" 4 804 mark 0
+LayerCount: 2
+Fore
+SplineSet
+87 1236 m 257
+ 0 991 l 257
+ 21 991 l 257
+ 129 1236 l 257
+ 87 1236 l 257
+EndSplineSet
+EndChar
+
+StartChar: adblgrave
+Encoding: 513 513 183
+Width: 951
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 235 783 N 1 0 0 1 152 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: adieresis
+Encoding: 228 228 184
+Width: 951
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'adieresis'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I951
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 240 168 N 1 0 0 1 318 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: adotaccent
+Encoding: 551 551 185
+Width: 951
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 244 729 N 1 0 0 1 224 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ae
+Encoding: 230 230 186
+Width: 1657
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'ae'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1657
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+AnchorPoint: "top" 889 804 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+439 -22 m 256
+ 551 -22 706 -12 838 111 c 257
+ 913 13 1019 -22 1148 -22 c 256
+ 1322 -22 1394 25 1520 142 c 257
+ 1504 173 l 257
+ 1409 68 1279 12 1148 12 c 256
+ 907 12 804 140 806 394 c 257
+ 1511 394 l 257
+ 1511 685 1364 826 1154 826 c 256
+ 977 826 838 733 799 556 c 257
+ 793 738 719 826 504 826 c 256
+ 375 826 267 782 194 712 c 257
+ 217 682 l 257
+ 277 743 377 792 504 792 c 256
+ 680 792 767 729 767 535 c 258
+ 767 428 l 257
+ 563 428 l 258
+ 327 428 154 391 154 215 c 256
+ 154 62 243 -22 439 -22 c 256
+439 12 m 256
+ 269 12 196 86 196 215 c 256
+ 196 366 338 394 561 394 c 258
+ 767 394 l 257
+ 767 325 784 212 820 140 c 257
+ 725 44 602 12 439 12 c 256
+1475 427 m 257
+ 806 428 l 257
+ 813 613 923 792 1154 792 c 256
+ 1352 792 1475 655 1475 427 c 257
+EndSplineSet
+EndChar
+
+StartChar: aeacute
+Encoding: 509 509 187
+Width: 1657
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 885 0 2
+Refer: 186 230 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: aemacron
+Encoding: 483 483 188
+Width: 1657
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 725 0 2
+Refer: 186 230 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: agrave
+Encoding: 224 224 189
+Width: 951
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'agrave'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I951
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 301 96 N 1 0 0 1 342 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ainvertedbreve
+Encoding: 515 515 190
+Width: 951
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 212 785 N 1 0 0 1 -13 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: amacron
+Encoding: 257 257 191
+Width: 951
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'amacron'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I951
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 353 175 N 1 0 0 1 311 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 192
+Width: 1088
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'ampersand'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1088
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+476 -22 m 256
+ 617 -22 736 26 799 106 c 257
+ 882 0 l 257
+ 1042 0 l 257
+ 1042 34 l 257
+ 901 34 l 257
+ 823 132 l 257
+ 865 199 910 349 910 400 c 257
+ 1042 400 l 257
+ 1042 433 l 257
+ 877 433 l 257
+ 877 369 838 223 803 161 c 257
+ 429 628 l 257
+ 611 700 727 825 727 966 c 256
+ 727 1098 635 1172 470 1172 c 256
+ 302 1172 209 1099 209 967 c 256
+ 209 869 276 765 376 642 c 257
+ 202 587 120 470 120 303 c 256
+ 120 92 247 -22 476 -22 c 256
+476 14 m 256
+ 274 14 162 115 162 303 c 256
+ 162 458 238 565 397 610 c 257
+ 776 134 l 257
+ 712 56 602 14 476 14 c 256
+412 656 m 257
+ 324 767 245 867 245 967 c 256
+ 245 1073 332 1136 470 1136 c 256
+ 608 1136 685 1075 685 966 c 256
+ 685 832 578 717 412 656 c 257
+EndSplineSet
+EndChar
+
+StartChar: aogonek
+Encoding: 261 261 193
+Width: 951
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'aogonek'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I951
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 379 731 N 1 0 0 1 611 0 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: apostrophemod
+Encoding: 700 700 194
+Width: 600
+VWidth: 0
+Flags: W
+AnchorPoint: "top" 58 804 mark 0
+LayerCount: 2
+Fore
+SplineSet
+45 922 m 257
+ 127 922 137 994 137 1073 c 258
+ 138 1175 l 257
+ 55 1176 l 257
+ 55 1079 l 257
+ 104 1079 l 257
+ 104 967 95 946 45 940 c 257
+ 45 922 l 257
+EndSplineSet
+EndChar
+
+StartChar: approxequal
+Encoding: 8776 8776 195
+Width: 600
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+550 693 m 257
+ 496 666 462 651 421 651 c 256
+ 389 651 354 661 303 681 c 256
+ 243 704 193 721 145 721 c 256
+ 107 721 69 710 28 681 c 257
+ 28 627 l 257
+ 68 654 102 665 137 665 c 256
+ 180 665 223 649 278 629 c 256
+ 333 607 376 595 416 595 c 256
+ 459 595 500 609 550 640 c 257
+ 550 693 l 257
+550 493 m 257
+ 496 466 462 451 421 451 c 256
+ 389 451 354 461 303 481 c 256
+ 243 504 193 521 145 521 c 256
+ 107 521 69 510 28 481 c 257
+ 28 427 l 257
+ 68 454 102 465 137 465 c 256
+ 180 465 223 449 278 429 c 256
+ 333 407 376 395 416 395 c 256
+ 459 395 500 409 550 440 c 257
+ 550 493 l 257
+EndSplineSet
+EndChar
+
+StartChar: aring
+Encoding: 229 229 196
+Width: 951
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'aring'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I951
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+Refer: 426 730 N 1 0 0 1 320 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: aringacute
+Encoding: 507 507 197
+Width: 951
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 182 180 N 1 0 0 1 472 263 2
+Refer: 426 730 N 1 0 0 1 320 1 2
+Refer: 177 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 198
+Width: 911
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'asciicircum'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I911
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+70 823 m 257
+ 113 823 l 257
+ 463 1244 l 257
+ 795 823 l 257
+ 836 823 l 257
+ 492 1289 l 257
+ 434 1289 l 257
+ 70 823 l 257
+EndSplineSet
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 199
+Width: 708
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'asciitilde'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I708
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+633 626 m 257
+ 606 583 574 558 527 558 c 256
+ 404 558 316 674 184 674 c 256
+ 133 674 83 641 63 600 c 257
+ 73 566 l 257
+ 101 615 139 637 186 637 c 256
+ 301 637 381 522 527 522 c 256
+ 584 522 624 555 643 591 c 257
+ 633 626 l 257
+EndSplineSet
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 200
+Width: 941
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'asterisk'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I941
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+240 417 m 257
+ 471 765 l 257
+ 700 417 l 257
+ 765 466 l 257
+ 493 788 l 257
+ 896 920 l 257
+ 868 992 l 257
+ 488 817 l 257
+ 515 1236 l 257
+ 426 1236 l 257
+ 454 817 l 257
+ 72 992 l 257
+ 44 920 l 257
+ 447 788 l 257
+ 176 466 l 257
+ 240 417 l 257
+EndSplineSet
+EndChar
+
+StartChar: at
+Encoding: 64 64 201
+Width: 1379
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'b'
+(dp4
+S'name'
+p5
+S'at'
+p6
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1379
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+756 -25 m 256
+ 922 -25 1034 10 1129 78 c 257
+ 1116 99 l 257

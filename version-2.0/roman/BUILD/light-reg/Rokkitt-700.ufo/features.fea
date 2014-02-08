@@ -35,10 +35,10 @@ sub i by idotaccent;
 } locl;
 feature sups {
 # automatic
-sub two by twosuperior;
-sub three by threesuperior;
 sub one by onesuperior;
+sub two by twosuperior;
 sub four by foursuperior;
+sub three by threesuperior;
 } sups;
 feature frac {
 # automatic
@@ -59,10 +59,7 @@ sub f i by fi;
 sub f f by f_f;
 sub f l by fl;
 } liga;
-feature cpsp {
-# automatic
-pos @Uppercase <5 0 10 0>;
-} cpsp;
+
 feature dlig {
 sub f f i by ffi;
 sub f f l by ffl;
