@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="1">
+  <advance width="1037"/>
+  <unicode hex="0070"/>
+  <outline>
+    <contour>
+      <point x="563" y="805" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="545" y="-22" type="curve" smooth="yes"/>
+      <point x="809.08" y="-22"/>
+      <point x="974.115" y="144.922"/>
+      <point x="974.115" y="411.949" type="curve" smooth="yes"/>
+      <point x="974.115" y="666.977"/>
+      <point x="816.04" y="826"/>
+      <point x="561" y="826" type="curve" smooth="yes"/>
+      <point x="459.362" y="826"/>
+      <point x="341.795" y="782.402"/>
+      <point x="249.753" y="712.096" type="curve"/>
+      <point x="249" y="804" type="line"/>
+      <point x="81" y="804" type="line"/>
+      <point x="81" y="770" type="line"/>
+      <point x="205" y="770" type="line"/>
+      <point x="205" y="-282" type="line"/>
+      <point x="65" y="-282" type="line"/>
+      <point x="65" y="-316" type="line"/>
+      <point x="383" y="-316" type="line"/>
+      <point x="383" y="-282" type="line"/>
+      <point x="249" y="-282" type="line"/>
+      <point x="249.395" y="99.087" type="line"/>
+      <point x="329.505" y="23.7834"/>
+      <point x="440.114" y="-22"/>
+    </contour>
+    <contour>
+      <point x="249.438" y="140.171" type="curve"/>
+      <point x="249.993" y="674.889" type="line"/>
+      <point x="346.009" y="747.279"/>
+      <point x="463.63" y="792"/>
+      <point x="561" y="792" type="curve" smooth="yes"/>
+      <point x="789" y="792"/>
+      <point x="932" y="641"/>
+      <point x="932" y="400" type="curve" smooth="yes"/>
+      <point x="932" y="162"/>
+      <point x="783" y="12"/>
+      <point x="545" y="12" type="curve" smooth="yes"/>
+      <point x="441.721" y="12"/>
+      <point x="331.056" y="60.4245"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>p</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1037</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
