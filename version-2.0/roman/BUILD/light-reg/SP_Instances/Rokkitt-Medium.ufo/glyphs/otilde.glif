@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="otilde" format="1">
-  <advance width="978"/>
+  <advance width="972"/>
   <unicode hex="00F5"/>
   <outline>
     <component base="o"/>
-    <component base="tilde" xOffset="207" yOffset="7"/>
+    <component base="tilde" xOffset="159"/>
   </outline>
   <lib>
     <dict>

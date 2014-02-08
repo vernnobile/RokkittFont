@@ -4,18 +4,6 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="296" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="302" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="611" y="652" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="537" y="804" type="move" name="caron.alt"/>
-    </contour>
-    <contour>
       <point x="54" y="0" type="line"/>
       <point x="526" y="0" type="line"/>
       <point x="526" y="140" type="line"/>
@@ -27,33 +15,40 @@
       <point x="205" y="140" type="line"/>
       <point x="54" y="140" type="line"/>
     </contour>
+    <contour>
+      <point x="537" y="804" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="611" y="652" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="302" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="296" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>l</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>570</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>l</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>570</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

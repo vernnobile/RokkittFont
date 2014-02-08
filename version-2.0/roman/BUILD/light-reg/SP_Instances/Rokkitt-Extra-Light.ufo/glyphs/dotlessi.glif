@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="550"/>
+  <advance width="575"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="290" y="804" type="move" name="top"/>
+      <point x="304" y="804" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="311" y="0" type="move" name="ogonek"/>
+      <point x="327" y="0" type="move" name="ogonek"/>
     </contour>
-    <component base="lc_xheight_stem" xOffset="3"/>
+    <contour>
+      <point x="107" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="66" type="line"/>
+      <point x="367" y="66" type="line"/>
+      <point x="367" y="804" type="line"/>
+      <point x="110" y="804" type="line"/>
+      <point x="110" y="738" type="line"/>
+      <point x="278" y="738" type="line"/>
+      <point x="278" y="66" type="line"/>
+      <point x="107" y="66" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

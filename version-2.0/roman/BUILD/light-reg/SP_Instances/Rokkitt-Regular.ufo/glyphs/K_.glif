@@ -1,31 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="1301"/>
+  <advance width="1297"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="657" y="1152" type="move" name="top"/>
+      <point x="650" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="667" y="0" type="move" name="bot"/>
+      <point x="649" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="793" y="0" type="line"/>
-      <point x="1227" y="0" type="line"/>
-      <point x="1227" y="71" type="line"/>
-      <point x="1068" y="71" type="line"/>
-      <point x="492" y="585" type="line"/>
-      <point x="1041" y="1081" type="line"/>
-      <point x="1204" y="1081" type="line"/>
-      <point x="1204" y="1152" type="line"/>
-      <point x="772" y="1152" type="line"/>
-      <point x="772" y="1081" type="line"/>
-      <point x="918" y="1081" type="line"/>
-      <point x="362" y="582" type="line"/>
-      <point x="939" y="71" type="line"/>
-      <point x="793" y="71" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="1240" y="0" type="line"/>
+      <point x="1240" y="109" type="line"/>
+      <point x="1085" y="109" type="line"/>
+      <point x="577" y="582" type="line"/>
+      <point x="1078" y="1044" type="line"/>
+      <point x="1228" y="1044" type="line"/>
+      <point x="1228" y="1152" type="line"/>
+      <point x="751" y="1152" type="line"/>
+      <point x="751" y="1044" type="line"/>
+      <point x="883" y="1044" type="line"/>
+      <point x="407" y="605" type="line"/>
+      <point x="407" y="1044" type="line"/>
+      <point x="567" y="1044" type="line"/>
+      <point x="567" y="1152" type="line"/>
+      <point x="80" y="1152" type="line"/>
+      <point x="80" y="1044" type="line"/>
+      <point x="240" y="1044" type="line"/>
+      <point x="240" y="108" type="line"/>
+      <point x="80" y="108" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="108" type="line"/>
+      <point x="407" y="108" type="line"/>
+      <point x="407" y="547" type="line"/>
+      <point x="880" y="109" type="line"/>
+      <point x="746" y="109" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-14"/>
   </outline>
   <lib>
     <dict>

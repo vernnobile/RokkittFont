@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve" format="1">
-  <advance width="1024"/>
+  <advance width="1037"/>
   <unicode hex="011F"/>
   <outline>
     <component base="g"/>
-    <component base="breve" xOffset="336"/>
+    <component base="breve" xOffset="300"/>
   </outline>
   <lib>
     <dict>

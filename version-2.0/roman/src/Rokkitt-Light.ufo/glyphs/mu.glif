@@ -1,19 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mu" format="1">
-  <advance width="1031"/>
-  <unicode hex="03BC"/>
+  <advance width="1038"/>
+  <unicode hex="00B5"/>
   <outline>
-    <component base="u"/>
     <contour>
-      <point x="187" y="-303" type="line"/>
-      <point x="262" y="-303" type="line"/>
-      <point x="262" y="385" type="line"/>
-      <point x="187" y="385" type="line"/>
+      <point x="489" y="804" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1006" y="0" type="line"/>
+      <point x="1006" y="81" type="line"/>
+      <point x="856" y="81" type="line"/>
+      <point x="856" y="804" type="line"/>
+      <point x="596" y="804" type="line"/>
+      <point x="596" y="722" type="line"/>
+      <point x="743" y="722" type="line"/>
+      <point x="743" y="185" type="line"/>
+      <point x="656" y="114"/>
+      <point x="567" y="68"/>
+      <point x="454" y="68" type="curve" smooth="yes"/>
+      <point x="337" y="68"/>
+      <point x="286" y="145"/>
+      <point x="286" y="244" type="curve" smooth="yes"/>
+      <point x="286" y="804" type="line"/>
+      <point x="28" y="804" type="line"/>
+      <point x="28" y="722" type="line"/>
+      <point x="173" y="722" type="line"/>
+      <point x="173" y="-268" type="line"/>
+      <point x="286" y="-268" type="line"/>
+      <point x="286" y="31" type="line"/>
+      <point x="316" y="2"/>
+      <point x="362" y="-21"/>
+      <point x="432" y="-21" type="curve" smooth="yes"/>
+      <point x="545" y="-21"/>
+      <point x="648" y="26"/>
+      <point x="745" y="99" type="curve"/>
+      <point x="750" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni00B5</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1025</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

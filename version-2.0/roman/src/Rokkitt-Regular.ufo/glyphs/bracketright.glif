@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright" format="1">
-  <advance width="446"/>
+  <advance width="576"/>
   <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="30" y="-151" type="line"/>
-      <point x="277" y="-151" type="line"/>
-      <point x="277" y="1217" type="line"/>
-      <point x="30" y="1217" type="line"/>
-      <point x="30" y="1140" type="line"/>
-      <point x="170" y="1140" type="line"/>
-      <point x="170" y="-73" type="line"/>
-      <point x="30" y="-73" type="line"/>
+      <point x="71" y="-175" type="line"/>
+      <point x="405" y="-175" type="line"/>
+      <point x="405" y="1244" type="line"/>
+      <point x="71" y="1244" type="line"/>
+      <point x="71" y="1129" type="line"/>
+      <point x="241" y="1129" type="line"/>
+      <point x="241" y="-59" type="line"/>
+      <point x="71" y="-59" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>316</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>bracketright</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>316</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

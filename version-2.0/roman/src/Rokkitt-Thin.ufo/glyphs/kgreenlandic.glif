@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="1">
-  <advance width="927"/>
+  <advance width="947"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="681" y="0" type="line"/>
-      <point x="879" y="0" type="line"/>
-      <point x="879" y="34" type="line"/>
-      <point x="706" y="34" type="line"/>
-      <point x="343" y="411" type="line"/>
-      <point x="731" y="770" type="line"/>
-      <point x="874" y="770" type="line"/>
-      <point x="874" y="804" type="line"/>
-      <point x="522" y="804" type="line"/>
-      <point x="522" y="770" type="line"/>
-      <point x="674" y="770" type="line"/>
-      <point x="286" y="413" type="line"/>
+      <point x="701" y="0" type="line"/>
+      <point x="901" y="0" type="line"/>
+      <point x="901" y="45" type="line"/>
+      <point x="732" y="45" type="line"/>
+      <point x="371" y="410" type="line"/>
+      <point x="753" y="759" type="line"/>
+      <point x="895" y="759" type="line"/>
+      <point x="895" y="804" type="line"/>
+      <point x="530" y="804" type="line"/>
+      <point x="530" y="759" type="line"/>
+      <point x="680" y="759" type="line"/>
+      <point x="297" y="411" type="line"/>
     </contour>
     <contour>
-      <point x="72" y="0" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="395" y="34" type="line"/>
-      <point x="256" y="34" type="line"/>
-      <point x="256" y="804" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="409" y="45" type="line"/>
+      <point x="273" y="45" type="line"/>
+      <point x="273" y="804" type="line"/>
       <point x="80" y="804" type="line"/>
-      <point x="80" y="770" type="line"/>
-      <point x="212" y="770" type="line"/>
-      <point x="212" y="34" type="line"/>
-      <point x="72" y="34" type="line"/>
+      <point x="80" y="759" type="line"/>
+      <point x="214" y="759" type="line"/>
+      <point x="214" y="45" type="line"/>
+      <point x="73" y="45" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>kgreenlandic</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>927</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>kgreenlandic</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>927</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

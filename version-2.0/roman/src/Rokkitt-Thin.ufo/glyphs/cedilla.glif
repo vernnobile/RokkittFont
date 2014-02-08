@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedilla" format="1">
-  <advance width="600"/>
+  <advance width="586"/>
   <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="292" y="0" type="move" name="_bot"/>
+      <point x="290" y="0" type="move" name="_bot"/>
     </contour>
     <contour>
-      <point x="279" y="-279" type="curve" smooth="yes"/>
-      <point x="335" y="-279"/>
-      <point x="385" y="-255"/>
-      <point x="385" y="-197" type="curve" smooth="yes"/>
-      <point x="385" y="-150"/>
-      <point x="354" y="-108"/>
-      <point x="259" y="-108" type="curve"/>
-      <point x="298" y="6" type="line"/>
-      <point x="270" y="6" type="line"/>
-      <point x="212" y="-144" type="line"/>
-      <point x="305" y="-144"/>
-      <point x="333" y="-166"/>
-      <point x="333" y="-192" type="curve" smooth="yes"/>
-      <point x="333" y="-225"/>
-      <point x="305" y="-243"/>
-      <point x="258" y="-243" type="curve" smooth="yes"/>
-      <point x="236" y="-243"/>
-      <point x="210" y="-239"/>
-      <point x="181" y="-230" type="curve"/>
-      <point x="181" y="-256" type="line"/>
-      <point x="210" y="-271"/>
-      <point x="245" y="-279"/>
+      <point x="279" y="-290" type="curve" smooth="yes"/>
+      <point x="338" y="-290"/>
+      <point x="391" y="-265"/>
+      <point x="391" y="-203" type="curve" smooth="yes"/>
+      <point x="391" y="-154"/>
+      <point x="358" y="-110"/>
+      <point x="262" y="-109" type="curve"/>
+      <point x="300" y="6" type="line"/>
+      <point x="266" y="6" type="line"/>
+      <point x="207" y="-146" type="line"/>
+      <point x="299" y="-147"/>
+      <point x="328" y="-169"/>
+      <point x="328" y="-196" type="curve" smooth="yes"/>
+      <point x="328" y="-230"/>
+      <point x="299" y="-248"/>
+      <point x="252" y="-248" type="curve" smooth="yes"/>
+      <point x="229" y="-248"/>
+      <point x="201" y="-243"/>
+      <point x="170" y="-234" type="curve"/>
+      <point x="170" y="-264" type="line"/>
+      <point x="203" y="-281"/>
+      <point x="242" y="-290"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ygrave" format="1">
-  <advance width="1069"/>
+  <advance width="1065"/>
   <unicode hex="1EF3"/>
   <outline>
-    <component base="grave" xOffset="406"/>
     <component base="y"/>
+    <component base="grave" xOffset="368"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

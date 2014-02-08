@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="1">
-  <advance width="637"/>
+  <advance width="725"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="637" y="185" type="line"/>
-      <point x="637" y="237" type="line"/>
-      <point x="86" y="529" type="line"/>
-      <point x="637" y="823" type="line"/>
-      <point x="637" y="878" type="line"/>
-      <point x="-1" y="545" type="line"/>
-      <point x="-1" y="515" type="line"/>
+      <point x="697" y="191" type="line"/>
+      <point x="697" y="268" type="line"/>
+      <point x="122" y="574" type="line"/>
+      <point x="697" y="883" type="line"/>
+      <point x="697" y="961" type="line"/>
+      <point x="6" y="596" type="line"/>
+      <point x="6" y="554" type="line"/>
     </contour>
     <contour>
-      <point x="-1" y="0" type="line"/>
-      <point x="637" y="0" type="line"/>
-      <point x="637" y="44" type="line"/>
-      <point x="-1" y="44" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="697" y="0" type="line"/>
+      <point x="697" y="67" type="line"/>
+      <point x="6" y="67" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>lessequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>593</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>lessequal</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>593</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

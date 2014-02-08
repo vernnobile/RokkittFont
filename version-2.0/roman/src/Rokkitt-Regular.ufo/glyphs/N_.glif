@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1443"/>
+  <advance width="1442"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="720" y="1152" type="move" name="top"/>
+      <point x="719" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="715" y="0" type="move" name="bot"/>
+      <point x="719" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="111" y="0" type="line"/>
-      <point x="507" y="0" type="line"/>
-      <point x="507" y="71" type="line"/>
-      <point x="351" y="71" type="line"/>
-      <point x="351" y="1028" type="line"/>
-      <point x="1129" y="0" type="line"/>
-      <point x="1233" y="0" type="line"/>
-      <point x="1233" y="1081" type="line"/>
-      <point x="1375" y="1081" type="line"/>
-      <point x="1375" y="1152" type="line"/>
-      <point x="989" y="1152" type="line"/>
-      <point x="989" y="1081" type="line"/>
-      <point x="1147" y="1081" type="line"/>
-      <point x="1147" y="142" type="line"/>
-      <point x="380" y="1152" type="line"/>
-      <point x="111" y="1152" type="line"/>
-      <point x="111" y="1081" type="line"/>
-      <point x="265" y="1081" type="line"/>
-      <point x="265" y="71" type="line"/>
-      <point x="111" y="71" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="538" y="109" type="line"/>
+      <point x="374" y="109" type="line"/>
+      <point x="374" y="982" type="line"/>
+      <point x="1063" y="0" type="line"/>
+      <point x="1228" y="0" type="line"/>
+      <point x="1228" y="1044" type="line"/>
+      <point x="1389" y="1044" type="line"/>
+      <point x="1389" y="1152" type="line"/>
+      <point x="936" y="1152" type="line"/>
+      <point x="936" y="1044" type="line"/>
+      <point x="1100" y="1044" type="line"/>
+      <point x="1100" y="221" type="line"/>
+      <point x="441" y="1152" type="line"/>
+      <point x="83" y="1152" type="line"/>
+      <point x="83" y="1044" type="line"/>
+      <point x="247" y="1044" type="line"/>
+      <point x="247" y="109" type="line"/>
+      <point x="83" y="109" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>N</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1444</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>N</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1444</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

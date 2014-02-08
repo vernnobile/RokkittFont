@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="100119_1225" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="64.0" />
+<data name="previewtext" value="/eacute/egrave/asciitilde HOUND/ecaron Quotable Price" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1000.0" minimum="0.0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Rokkitt-700-FF.ufo">
+<location>
+</location>
+<!-- color for Rokkitt-700-FF.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+<master filename="Rokkitt-1000-FF.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000.0" />
+</location>
+<!-- color for Rokkitt-1000-FF.ufo -->
+<color a="1.000000" b="0.000000" g="0.500000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Rokkitt" sequence="" stylename="Extra-Bold">
+<location>
+<dimension name="new_axis_1" xvalue="800.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="Black">
+<location>
+<dimension name="new_axis_1" xvalue="1200.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="Bold">
+<location>
+<dimension name="new_axis_1" xvalue="400.0" />
+</location>
+</instance>
+<instance familyname="Rokkitt" sequence="" stylename="Semi-Bold">
+<location>
+<dimension name="new_axis_1" xvalue="70.0" />
+</location>
+</instance>
+</designspace>

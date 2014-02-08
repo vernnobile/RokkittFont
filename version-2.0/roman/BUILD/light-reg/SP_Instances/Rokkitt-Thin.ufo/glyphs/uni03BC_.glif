@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03BC" format="1">
+  <advance width="1028"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="193" y="-308" type="line"/>
+      <point x="253" y="-308" type="line"/>
+      <point x="253" y="381" type="line"/>
+      <point x="193" y="381" type="line"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

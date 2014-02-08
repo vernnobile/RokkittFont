@@ -1,46 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="1026"/>
+  <advance width="1030"/>
   <unicode hex="00FE"/>
   <outline>
-    <component base="lc_bowl_right" xOffset="-62" yOffset="21"/>
     <contour>
-      <point x="21" y="-383" type="line"/>
-      <point x="239" y="-383" type="line"/>
+      <point x="61" y="-316" type="line"/>
+      <point x="376" y="-316" type="line"/>
+      <point x="376" y="-282" type="line"/>
+      <point x="242" y="-282" type="line"/>
+      <point x="242" y="99" type="line"/>
+      <point x="323" y="24"/>
+      <point x="436" y="-22"/>
+      <point x="541" y="-22" type="curve" smooth="yes"/>
+      <point x="805" y="-22"/>
+      <point x="967" y="145"/>
+      <point x="967" y="412" type="curve" smooth="yes"/>
+      <point x="967" y="667"/>
+      <point x="809" y="826"/>
+      <point x="554" y="826" type="curve" smooth="yes"/>
+      <point x="452" y="826"/>
+      <point x="335" y="782"/>
+      <point x="243" y="712" type="curve"/>
       <point x="243" y="1152" type="line"/>
-      <point x="43" y="1152" type="line"/>
-      <point x="43" y="1114" type="line"/>
-      <point x="195" y="1114" type="line"/>
-      <point x="195" y="-348" type="line"/>
-      <point x="21" y="-348" type="line"/>
+      <point x="46" y="1152" type="line"/>
+      <point x="46" y="1114" type="line"/>
+      <point x="198" y="1114" type="line"/>
+      <point x="198" y="-282" type="line"/>
+      <point x="61" y="-282" type="line"/>
+    </contour>
+    <contour>
+      <point x="541" y="12" type="curve" smooth="yes"/>
+      <point x="438" y="12"/>
+      <point x="324" y="60"/>
+      <point x="242" y="140" type="curve"/>
+      <point x="242" y="140"/>
+      <point x="243" y="675"/>
+      <point x="243" y="675" type="curve"/>
+      <point x="339" y="747"/>
+      <point x="457" y="792"/>
+      <point x="554" y="792" type="curve" smooth="yes"/>
+      <point x="782" y="792"/>
+      <point x="925" y="641"/>
+      <point x="925" y="400" type="curve" smooth="yes"/>
+      <point x="925" y="162"/>
+      <point x="779" y="12"/>
+    </contour>
+    <contour>
+      <point x="553" y="805" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>thorn</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1069</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>thorn</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1069</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

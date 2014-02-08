@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divide" format="1">
-  <advance width="776"/>
+  <advance width="840"/>
   <unicode hex="00F7"/>
   <outline>
     <contour>
-      <point x="340" y="230" type="line"/>
-      <point x="438" y="230" type="line"/>
-      <point x="438" y="358" type="line"/>
-      <point x="340" y="358" type="line"/>
+      <point x="353" y="190" type="line"/>
+      <point x="488" y="190" type="line"/>
+      <point x="488" y="340" type="line"/>
+      <point x="353" y="340" type="line"/>
     </contour>
     <contour>
-      <point x="92" y="493" type="line"/>
-      <point x="684" y="493" type="line"/>
-      <point x="684" y="558" type="line"/>
-      <point x="92" y="558" type="line"/>
+      <point x="57" y="494" type="line"/>
+      <point x="784" y="494" type="line"/>
+      <point x="784" y="588" type="line"/>
+      <point x="57" y="588" type="line"/>
     </contour>
     <contour>
-      <point x="340" y="683" type="line"/>
-      <point x="438" y="683" type="line"/>
-      <point x="438" y="811" type="line"/>
-      <point x="340" y="811" type="line"/>
+      <point x="353" y="735" type="line"/>
+      <point x="488" y="735" type="line"/>
+      <point x="488" y="885" type="line"/>
+      <point x="353" y="885" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>divide</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>339</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>divide</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>339</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

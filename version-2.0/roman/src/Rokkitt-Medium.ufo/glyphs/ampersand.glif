@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ampersand" format="1">
-  <advance width="1242"/>
+  <advance width="1363"/>
   <unicode hex="0026"/>
   <outline>
     <contour>
-      <point x="502" y="-20" type="curve" smooth="yes"/>
-      <point x="641" y="-20"/>
-      <point x="761" y="28"/>
-      <point x="852" y="117" type="curve"/>
-      <point x="941" y="0" type="line"/>
-      <point x="1183" y="0" type="line"/>
-      <point x="1183" y="98" type="line"/>
-      <point x="1013" y="98" type="line"/>
-      <point x="930" y="203" type="line"/>
-      <point x="981" y="270"/>
-      <point x="1026" y="381"/>
-      <point x="1047" y="463" type="curve"/>
-      <point x="1183" y="464" type="line"/>
-      <point x="1183" y="561" type="line"/>
-      <point x="963" y="561" type="line"/>
-      <point x="950" y="477"/>
-      <point x="913" y="357"/>
-      <point x="863" y="288" type="curve"/>
-      <point x="566" y="647" type="line"/>
-      <point x="745" y="723"/>
-      <point x="839" y="835"/>
-      <point x="839" y="972" type="curve" smooth="yes"/>
-      <point x="839" y="1111"/>
-      <point x="726" y="1206"/>
-      <point x="556" y="1206" type="curve" smooth="yes"/>
-      <point x="379" y="1206"/>
-      <point x="261" y="1110"/>
-      <point x="261" y="965" type="curve" smooth="yes"/>
-      <point x="261" y="874"/>
-      <point x="313" y="784"/>
-      <point x="397" y="679" type="curve"/>
-      <point x="207" y="611"/>
-      <point x="105" y="496"/>
-      <point x="105" y="330" type="curve" smooth="yes"/>
-      <point x="105" y="119"/>
-      <point x="263" y="-20"/>
+      <point x="523" y="-19" type="curve" smooth="yes"/>
+      <point x="660" y="-19"/>
+      <point x="780" y="29"/>
+      <point x="893" y="125" type="curve"/>
+      <point x="988" y="0" type="line"/>
+      <point x="1294" y="0" type="line"/>
+      <point x="1294" y="149" type="line"/>
+      <point x="1101" y="149" type="line"/>
+      <point x="1014" y="259" type="line"/>
+      <point x="1072" y="325"/>
+      <point x="1118" y="407"/>
+      <point x="1154" y="513" type="curve"/>
+      <point x="1293" y="514" type="line"/>
+      <point x="1293" y="661" type="line"/>
+      <point x="1030" y="661" type="line"/>
+      <point x="1007" y="562"/>
+      <point x="972" y="463"/>
+      <point x="911" y="387" type="curve"/>
+      <point x="673" y="662" type="line"/>
+      <point x="851" y="741"/>
+      <point x="927" y="843"/>
+      <point x="927" y="977" type="curve" smooth="yes"/>
+      <point x="927" y="1122"/>
+      <point x="797" y="1233"/>
+      <point x="623" y="1233" type="curve" smooth="yes"/>
+      <point x="439" y="1233"/>
+      <point x="301" y="1119"/>
+      <point x="301" y="964" type="curve" smooth="yes"/>
+      <point x="301" y="878"/>
+      <point x="342" y="799"/>
+      <point x="414" y="708" type="curve"/>
+      <point x="211" y="630"/>
+      <point x="94" y="517"/>
+      <point x="94" y="352" type="curve" smooth="yes"/>
+      <point x="94" y="140"/>
+      <point x="276" y="-19"/>
     </contour>
     <contour>
-      <point x="521" y="87" type="curve" smooth="yes"/>
-      <point x="347" y="87"/>
-      <point x="236" y="189"/>
-      <point x="236" y="337" type="curve" smooth="yes"/>
-      <point x="236" y="462"/>
-      <point x="310" y="552"/>
-      <point x="459" y="602" type="curve"/>
-      <point x="787" y="198" type="line"/>
-      <point x="718" y="124"/>
-      <point x="625" y="87"/>
+      <point x="556" y="145" type="curve" smooth="yes"/>
+      <point x="405" y="145"/>
+      <point x="295" y="247"/>
+      <point x="295" y="363" type="curve" smooth="yes"/>
+      <point x="295" y="465"/>
+      <point x="367" y="541"/>
+      <point x="507" y="595" type="curve"/>
+      <point x="795" y="249" type="line"/>
+      <point x="722" y="177"/>
+      <point x="643" y="145"/>
     </contour>
     <contour>
-      <point x="508" y="725" type="curve"/>
-      <point x="432" y="822"/>
-      <point x="378" y="897"/>
-      <point x="378" y="969" type="curve" smooth="yes"/>
-      <point x="378" y="1059"/>
-      <point x="449" y="1112"/>
-      <point x="555" y="1112" type="curve" smooth="yes"/>
-      <point x="660" y="1112"/>
-      <point x="727" y="1058"/>
-      <point x="727" y="967" type="curve" smooth="yes"/>
-      <point x="727" y="864"/>
-      <point x="647" y="783"/>
+      <point x="584" y="779" type="curve"/>
+      <point x="516" y="866"/>
+      <point x="482" y="921"/>
+      <point x="482" y="971" type="curve" smooth="yes"/>
+      <point x="482" y="1048"/>
+      <point x="541" y="1094"/>
+      <point x="622" y="1094" type="curve" smooth="yes"/>
+      <point x="701" y="1094"/>
+      <point x="760" y="1045"/>
+      <point x="760" y="967" type="curve" smooth="yes"/>
+      <point x="760" y="890"/>
+      <point x="702" y="835"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ampersand</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1088</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>ampersand</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1088</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

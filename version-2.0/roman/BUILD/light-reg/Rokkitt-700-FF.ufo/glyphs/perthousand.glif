@@ -3,7 +3,6 @@
   <advance width="2475"/>
   <unicode hex="2030"/>
   <outline>
-    <component base="percent"/>
     <contour>
       <point x="2065" y="-22" type="curve" smooth="yes"/>
       <point x="2244" y="-22"/>
@@ -32,5 +31,6 @@
       <point x="2243" y="173"/>
       <point x="2167" y="94"/>
     </contour>
+    <component base="percent"/>
   </outline>
 </glyph>

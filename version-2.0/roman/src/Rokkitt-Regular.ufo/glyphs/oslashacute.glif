@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslashacute" format="1">
-  <advance width="1005"/>
+  <advance width="987"/>
   <unicode hex="01FF"/>
   <outline>
-    <component base="acute" xOffset="397" yOffset="1"/>
     <component base="oslash"/>
+    <component base="acute" xOffset="310"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

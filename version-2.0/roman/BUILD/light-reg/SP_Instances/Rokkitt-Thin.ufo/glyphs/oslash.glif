@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="1">
-  <advance width="1023"/>
+  <advance width="1018"/>
   <unicode hex="00F8"/>
   <outline>
     <contour>
-      <point x="187" y="-193" type="line"/>
-      <point x="890" y="979" type="line"/>
-      <point x="870" y="995" type="line"/>
-      <point x="168" y="-176" type="line"/>
+      <point x="196" y="-144" type="line"/>
+      <point x="835" y="898" type="line"/>
+      <point x="808" y="917" type="line"/>
+      <point x="169" y="-125" type="line"/>
     </contour>
     <component base="o"/>
   </outline>

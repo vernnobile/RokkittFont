@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="645"/>
+  <advance width="670"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="325" y="1152" type="move" name="top"/>
+      <point x="337" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="322" y="0" type="move" name="ogonek"/>
+      <point x="107" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="82" type="line"/>
+      <point x="396" y="82" type="line"/>
+      <point x="396" y="1070" type="line"/>
+      <point x="562" y="1070" type="line"/>
+      <point x="562" y="1152" type="line"/>
+      <point x="107" y="1152" type="line"/>
+      <point x="107" y="1070" type="line"/>
+      <point x="273" y="1070" type="line"/>
+      <point x="273" y="82" type="line"/>
+      <point x="107" y="82" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-6"/>
   </outline>
   <lib>
     <dict>

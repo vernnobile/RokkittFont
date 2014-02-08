@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="967"/>
+  <advance width="974"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="415" y="0" type="curve"/>
-      <point x="475" y="0" type="line"/>
-      <point x="475" y="0"/>
-      <point x="684" y="673"/>
-      <point x="857" y="1109" type="curve"/>
-      <point x="857" y="1152" type="line"/>
-      <point x="125" y="1152" type="line"/>
-      <point x="125" y="849" type="line"/>
-      <point x="183" y="849" type="line"/>
-      <point x="183" y="1107" type="line"/>
-      <point x="793" y="1107" type="line"/>
-      <point x="566" y="508"/>
-      <point x="415" y="0"/>
+      <point x="391" y="0" type="curve"/>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="0"/>
+      <point x="675" y="638"/>
+      <point x="873" y="1089" type="curve"/>
+      <point x="873" y="1152" type="line"/>
+      <point x="124" y="1152" type="line"/>
+      <point x="124" y="843" type="line"/>
+      <point x="210" y="843" type="line"/>
+      <point x="210" y="1084" type="line"/>
+      <point x="772" y="1084" type="line"/>
+      <point x="537" y="511"/>
+      <point x="391" y="0"/>
     </contour>
   </outline>
   <lib>

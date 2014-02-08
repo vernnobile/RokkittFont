@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar" format="1">
-  <advance width="1045"/>
+  <advance width="1108"/>
   <unicode hex="0127"/>
   <outline>
     <component base="h"/>
-    <component base="macron" xOffset="75" yOffset="-37"/>
+    <component base="macron" xOffset="100" yOffset="-94"/>
   </outline>
   <lib>
     <dict>

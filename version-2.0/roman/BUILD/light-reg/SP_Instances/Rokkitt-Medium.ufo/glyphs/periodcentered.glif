@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="1">
-  <advance width="521"/>
+  <advance width="574"/>
   <unicode hex="00B7"/>
   <outline>
     <contour>
-      <point x="269" y="553" type="move" name="_mid"/>
-    </contour>
-    <contour>
-      <point x="268" y="461" type="curve" smooth="yes"/>
-      <point x="324" y="461"/>
-      <point x="367" y="500"/>
-      <point x="367" y="553" type="curve" smooth="yes"/>
-      <point x="367" y="604"/>
-      <point x="324" y="644"/>
-      <point x="268" y="644" type="curve"/>
-      <point x="214" y="644"/>
-      <point x="172" y="604"/>
-      <point x="172" y="553" type="curve" smooth="yes"/>
-      <point x="172" y="500"/>
-      <point x="214" y="461"/>
+      <point x="294" y="421" type="curve" smooth="yes"/>
+      <point x="372" y="421"/>
+      <point x="433" y="478"/>
+      <point x="433" y="552" type="curve" smooth="yes"/>
+      <point x="433" y="624"/>
+      <point x="372" y="682"/>
+      <point x="294" y="682" type="curve" smooth="yes"/>
+      <point x="218" y="682"/>
+      <point x="157" y="624"/>
+      <point x="157" y="552" type="curve" smooth="yes"/>
+      <point x="157" y="478"/>
+      <point x="218" y="421"/>
     </contour>
   </outline>
   <lib>

@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="germandbls" format="1">
-  <advance width="1198"/>
+  <advance width="1193"/>
   <unicode hex="00DF"/>
   <outline>
     <contour>
-      <point x="110" y="0" type="line"/>
-      <point x="431" y="0" type="line"/>
-      <point x="431" y="40" type="line"/>
-      <point x="309" y="40" type="line"/>
-      <point x="309" y="882" type="line" smooth="yes"/>
-      <point x="309" y="1096"/>
-      <point x="400" y="1230"/>
-      <point x="602" y="1230" type="curve" smooth="yes"/>
-      <point x="806" y="1230"/>
-      <point x="900" y="1136"/>
-      <point x="900" y="987" type="curve" smooth="yes"/>
-      <point x="900" y="815"/>
-      <point x="798" y="705"/>
-      <point x="602" y="694" type="curve"/>
-      <point x="602" y="670" type="line"/>
-      <point x="887" y="669"/>
-      <point x="1055" y="550"/>
-      <point x="1055" y="353" type="curve" smooth="yes"/>
-      <point x="1055" y="149"/>
-      <point x="857" y="40"/>
-      <point x="575" y="40" type="curve"/>
-      <point x="575" y="0" type="line"/>
-      <point x="901" y="0"/>
+      <point x="103" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="50" type="line"/>
+      <point x="319" y="50" type="line"/>
+      <point x="319" y="877" type="line" smooth="yes"/>
+      <point x="319" y="1085"/>
+      <point x="409" y="1215"/>
+      <point x="603" y="1215" type="curve" smooth="yes"/>
+      <point x="797" y="1215"/>
+      <point x="888" y="1124"/>
+      <point x="888" y="980" type="curve" smooth="yes"/>
+      <point x="888" y="814"/>
+      <point x="789" y="707"/>
+      <point x="600" y="697" type="curve"/>
+      <point x="600" y="662" type="line"/>
+      <point x="875" y="661"/>
+      <point x="1038" y="545"/>
+      <point x="1038" y="355" type="curve" smooth="yes"/>
+      <point x="1038" y="157"/>
+      <point x="849" y="50"/>
+      <point x="579" y="50" type="curve"/>
+      <point x="579" y="0" type="line"/>
+      <point x="902" y="0"/>
       <point x="1097" y="141"/>
-      <point x="1097" y="353" type="curve" smooth="yes"/>
-      <point x="1097" y="531"/>
-      <point x="987" y="666"/>
-      <point x="713" y="687" type="curve"/>
-      <point x="853" y="716"/>
-      <point x="942" y="828"/>
-      <point x="942" y="986" type="curve" smooth="yes"/>
-      <point x="942" y="1171"/>
-      <point x="820" y="1264"/>
-      <point x="602" y="1264" type="curve" smooth="yes"/>
-      <point x="379" y="1264"/>
-      <point x="264" y="1130"/>
-      <point x="264" y="877" type="curve" smooth="yes"/>
-      <point x="264" y="40" type="line"/>
-      <point x="110" y="40" type="line"/>
+      <point x="1097" y="355" type="curve" smooth="yes"/>
+      <point x="1097" y="530"/>
+      <point x="987" y="663"/>
+      <point x="723" y="686" type="curve"/>
+      <point x="859" y="717"/>
+      <point x="946" y="827"/>
+      <point x="946" y="981" type="curve" smooth="yes"/>
+      <point x="946" y="1166"/>
+      <point x="822" y="1261"/>
+      <point x="603" y="1261" type="curve" smooth="yes"/>
+      <point x="377" y="1261"/>
+      <point x="257" y="1125"/>
+      <point x="257" y="872" type="curve" smooth="yes"/>
+      <point x="257" y="50" type="line"/>
+      <point x="103" y="50" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>germandbls</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1198</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>germandbls</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1198</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

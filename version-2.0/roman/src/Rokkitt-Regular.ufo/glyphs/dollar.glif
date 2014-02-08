@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="1">
-  <advance width="1105"/>
+  <advance width="1067"/>
   <unicode hex="0024"/>
   <outline>
-    <component base="S" xOffset="-21"/>
     <contour>
-      <point x="537" y="-182" type="line"/>
-      <point x="592" y="-182" type="line"/>
-      <point x="592" y="1340" type="line"/>
-      <point x="537" y="1340" type="line"/>
+      <point x="489" y="-183" type="line"/>
+      <point x="565" y="-183" type="line"/>
+      <point x="565" y="1354" type="line"/>
+      <point x="489" y="1354" type="line"/>
     </contour>
+    <component base="S" xOffset="-42"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

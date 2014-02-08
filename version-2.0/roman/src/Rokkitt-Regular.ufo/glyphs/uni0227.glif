@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0227" format="1">
-  <advance width="943"/>
+  <advance width="934"/>
   <unicode hex="0227"/>
   <outline>
     <component base="a"/>
-    <component base="dotaccent" xOffset="239" yOffset="1"/>
+    <component base="dotaccent" xOffset="253"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

@@ -3,9 +3,6 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="147" y="804" type="move" name="_caron.alt"/>
-    </contour>
-    <contour>
       <point x="85" y="741" type="line"/>
       <point x="244" y="741"/>
       <point x="330" y="816"/>
@@ -17,6 +14,9 @@
       <point x="223" y="878"/>
       <point x="172" y="846"/>
       <point x="85" y="828" type="curve"/>
+    </contour>
+    <contour>
+      <point x="147" y="804" type="move" name="_caron.alt"/>
     </contour>
   </outline>
 </glyph>

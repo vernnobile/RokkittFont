@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wdieresis" format="1">
-  <advance width="1486"/>
+  <advance width="1417"/>
   <unicode hex="1E85"/>
   <outline>
-    <component base="dieresis" xOffset="495"/>
+    <component base="dieresis" xOffset="392"/>
     <component base="w"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

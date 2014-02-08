@@ -1,44 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1217"/>
+  <advance width="1204"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="664" y="1152" type="move" name="top"/>
+      <point x="649" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="740" y="0" type="move" name="ogonek"/>
+      <point x="638" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="644" y="0" type="move" name="bot"/>
+      <point x="978" y="816" type="line"/>
+      <point x="1075" y="816" type="line"/>
+      <point x="1075" y="1152" type="line"/>
+      <point x="98" y="1152" type="line"/>
+      <point x="98" y="1070" type="line"/>
+      <point x="264" y="1070" type="line"/>
+      <point x="264" y="82" type="line"/>
+      <point x="98" y="82" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="1091" y="0" type="line"/>
+      <point x="1091" y="342" type="line"/>
+      <point x="994" y="342" type="line"/>
+      <point x="994" y="82" type="line"/>
+      <point x="386" y="82" type="line"/>
+      <point x="386" y="550" type="line"/>
+      <point x="772" y="550" type="line"/>
+      <point x="772" y="395" type="line"/>
+      <point x="839" y="395" type="line"/>
+      <point x="839" y="785" type="line"/>
+      <point x="771" y="785" type="line"/>
+      <point x="771" y="636" type="line"/>
+      <point x="386" y="636" type="line"/>
+      <point x="386" y="1070" type="line"/>
+      <point x="978" y="1070" type="line"/>
     </contour>
-    <contour>
-      <point x="777" y="387" type="line"/>
-      <point x="829" y="387" type="line"/>
-      <point x="829" y="782" type="line"/>
-      <point x="777" y="782" type="line"/>
-      <point x="777" y="618" type="line"/>
-      <point x="332" y="618" type="line"/>
-      <point x="331" y="561" type="line"/>
-      <point x="777" y="561" type="line"/>
-    </contour>
-    <contour>
-      <point x="324" y="0" type="line"/>
-      <point x="1089" y="0" type="line"/>
-      <point x="1089" y="337" type="line"/>
-      <point x="1024" y="337" type="line"/>
-      <point x="1024" y="55" type="line"/>
-      <point x="324" y="55" type="line"/>
-    </contour>
-    <contour>
-      <point x="1001" y="822" type="line"/>
-      <point x="1066" y="822" type="line"/>
-      <point x="1066" y="1152" type="line"/>
-      <point x="324" y="1152" type="line"/>
-      <point x="324" y="1097" type="line"/>
-      <point x="1001" y="1097" type="line"/>
-    </contour>
-    <component base="uc_main_stem" xOffset="-1"/>
   </outline>
   <lib>
     <dict>

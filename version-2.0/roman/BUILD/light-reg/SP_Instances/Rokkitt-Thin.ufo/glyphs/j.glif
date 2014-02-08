@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="398"/>
+  <advance width="414"/>
   <unicode hex="006A"/>
   <outline>
-    <component base="dotlessj"/>
-    <component base="dotaccent" xOffset="-23" yOffset="1"/>
+    <contour>
+      <point x="235" y="1015" type="curve" smooth="yes"/>
+      <point x="268" y="1015"/>
+      <point x="291" y="1036"/>
+      <point x="291" y="1066" type="curve" smooth="yes"/>
+      <point x="291" y="1094"/>
+      <point x="268" y="1115"/>
+      <point x="235" y="1115" type="curve" smooth="yes"/>
+      <point x="204" y="1115"/>
+      <point x="181" y="1094"/>
+      <point x="181" y="1066" type="curve" smooth="yes"/>
+      <point x="181" y="1036"/>
+      <point x="204" y="1015"/>
+    </contour>
+    <contour>
+      <point x="21" y="-250" type="line"/>
+      <point x="96" y="-250" type="line" smooth="yes"/>
+      <point x="268" y="-250"/>
+      <point x="285" y="-155"/>
+      <point x="285" y="-69" type="curve" smooth="yes"/>
+      <point x="285" y="-53"/>
+      <point x="284" y="38"/>
+      <point x="284" y="805" type="curve"/>
+      <point x="64" y="805" type="line"/>
+      <point x="64" y="763" type="line"/>
+      <point x="222" y="763" type="line"/>
+      <point x="222" y="22"/>
+      <point x="222" y="-54"/>
+      <point x="222" y="-62" type="curve" smooth="yes"/>
+      <point x="222" y="-159"/>
+      <point x="214" y="-206"/>
+      <point x="87" y="-206" type="curve" smooth="yes"/>
+      <point x="21" y="-206" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

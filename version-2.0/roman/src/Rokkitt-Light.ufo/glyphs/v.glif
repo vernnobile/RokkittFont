@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v" format="1">
-  <advance width="1054"/>
+  <advance width="1053"/>
   <unicode hex="0076"/>
   <outline>
     <contour>
-      <point x="491" y="0" type="line"/>
-      <point x="571" y="0" type="line"/>
-      <point x="896" y="750" type="line"/>
-      <point x="1036" y="750" type="line"/>
-      <point x="1036" y="805" type="line"/>
-      <point x="658" y="805" type="line"/>
-      <point x="658" y="750" type="line"/>
-      <point x="819" y="750" type="line"/>
-      <point x="535" y="66" type="line"/>
-      <point x="241" y="750" type="line"/>
-      <point x="405" y="750" type="line"/>
-      <point x="405" y="805" type="line"/>
-      <point x="17" y="805" type="line"/>
-      <point x="17" y="750" type="line"/>
-      <point x="162" y="750" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="583" y="0" type="line"/>
+      <point x="902" y="723" type="line"/>
+      <point x="1037" y="723" type="line"/>
+      <point x="1037" y="805" type="line"/>
+      <point x="645" y="805" type="line"/>
+      <point x="645" y="723" type="line"/>
+      <point x="790" y="723" type="line"/>
+      <point x="537" y="111" type="line"/>
+      <point x="277" y="723" type="line"/>
+      <point x="425" y="723" type="line"/>
+      <point x="425" y="805" type="line"/>
+      <point x="15" y="805" type="line"/>
+      <point x="15" y="723" type="line"/>
+      <point x="156" y="723" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>v</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1054</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>v</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1054</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

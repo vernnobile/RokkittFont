@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="1">
-  <advance width="1037"/>
+  <advance width="1042"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
-      <point x="599" y="804" type="move" name="top"/>
+      <point x="605" y="804" type="move" name="top"/>
     </contour>
-    <component base="lc_ascender_stem_1" xOffset="-28"/>
-    <component base="lc_bowl_right" xOffset="-51"/>
+    <contour>
+      <point x="64" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="265" y="94" type="line"/>
+      <point x="343" y="21"/>
+      <point x="449" y="-22"/>
+      <point x="553" y="-22" type="curve" smooth="yes"/>
+      <point x="811" y="-22"/>
+      <point x="980" y="144"/>
+      <point x="980" y="412" type="curve" smooth="yes"/>
+      <point x="980" y="669"/>
+      <point x="820" y="826"/>
+      <point x="570" y="826" type="curve" smooth="yes"/>
+      <point x="470" y="826"/>
+      <point x="355" y="784"/>
+      <point x="265" y="715" type="curve"/>
+      <point x="265" y="1174" type="line"/>
+      <point x="71" y="1174" type="line"/>
+      <point x="71" y="1129" type="line"/>
+      <point x="205" y="1129" type="line"/>
+      <point x="205" y="45" type="line"/>
+      <point x="64" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="145" type="curve"/>
+      <point x="265" y="667" type="line"/>
+      <point x="357" y="737"/>
+      <point x="470" y="780"/>
+      <point x="564" y="780" type="curve" smooth="yes"/>
+      <point x="782" y="780"/>
+      <point x="922" y="635"/>
+      <point x="922" y="400" type="curve" smooth="yes"/>
+      <point x="922" y="167"/>
+      <point x="776" y="23"/>
+      <point x="549" y="23" type="curve" smooth="yes"/>
+      <point x="450" y="23"/>
+      <point x="344" y="69"/>
+    </contour>
   </outline>
   <lib>
     <dict>

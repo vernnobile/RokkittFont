@@ -1,28 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1146"/>
+  <advance width="1145"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="567" y="1152" type="move" name="top"/>
+      <point x="569" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="566" y="0" type="move" name="bot"/>
+      <point x="571" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="568" y="614" type="move" name="mid"/>
+      <point x="571" y="665" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="52" y="770" type="line"/>
-      <point x="116" y="770" type="line"/>
-      <point x="116" y="1097" type="line"/>
-      <point x="1028" y="1097" type="line"/>
-      <point x="1028" y="770" type="line"/>
-      <point x="1096" y="770" type="line"/>
-      <point x="1096" y="1152" type="line"/>
+      <point x="52" y="761" type="line"/>
+      <point x="146" y="761" type="line"/>
+      <point x="146" y="1070" type="line"/>
+      <point x="510" y="1070" type="line"/>
+      <point x="510" y="82" type="line"/>
+      <point x="344" y="82" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="799" y="0" type="line"/>
+      <point x="799" y="82" type="line"/>
+      <point x="632" y="82" type="line"/>
+      <point x="632" y="1070" type="line"/>
+      <point x="998" y="1070" type="line"/>
+      <point x="998" y="761" type="line"/>
+      <point x="1094" y="761" type="line"/>
+      <point x="1094" y="1152" type="line"/>
       <point x="52" y="1152" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="240"/>
   </outline>
   <lib>
     <dict>

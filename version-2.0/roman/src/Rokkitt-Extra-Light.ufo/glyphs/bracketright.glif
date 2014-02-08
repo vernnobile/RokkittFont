@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright" format="1">
-  <advance width="353"/>
+  <advance width="427"/>
   <unicode hex="005D"/>
   <outline>
     <contour>
-      <point x="2" y="-134" type="line"/>
-      <point x="186" y="-134" type="line"/>
-      <point x="186" y="1197" type="line"/>
-      <point x="2" y="1197" type="line"/>
-      <point x="2" y="1149" type="line"/>
-      <point x="120" y="1149" type="line"/>
-      <point x="120" y="-84" type="line"/>
-      <point x="2" y="-84" type="line"/>
+      <point x="25" y="-147" type="line"/>
+      <point x="259" y="-147" type="line"/>
+      <point x="259" y="1213" type="line"/>
+      <point x="25" y="1213" type="line"/>
+      <point x="25" y="1142" type="line"/>
+      <point x="160" y="1142" type="line"/>
+      <point x="160" y="-75" type="line"/>
+      <point x="25" y="-75" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>316</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>bracketright</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>316</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

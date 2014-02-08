@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="458"/>
+  <advance width="483"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="235" y="1152" type="move" name="top"/>
+      <point x="250" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="238" y="0" type="move" name="bot"/>
+      <point x="251" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="454" y="638" type="move" name="mid"/>
+      <point x="56" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="438" y="66" type="line"/>
+      <point x="296" y="66" type="line"/>
+      <point x="296" y="1174" type="line"/>
+      <point x="62" y="1174" type="line"/>
+      <point x="62" y="1108" type="line"/>
+      <point x="206" y="1108" type="line"/>
+      <point x="206" y="66" type="line"/>
+      <point x="56" y="66" type="line"/>
     </contour>
-    <component base="lc_ascender_stem" xOffset="-30"/>
   </outline>
   <lib>
     <dict>

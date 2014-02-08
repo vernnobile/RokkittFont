@@ -1,22 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1484"/>
+  <advance width="1456"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="741" y="1152" type="move" name="top"/>
+      <point x="731" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="740" y="0" type="move" name="bot"/>
+      <point x="725" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="328" y="555" type="line"/>
-      <point x="1159" y="555" type="line"/>
-      <point x="1160" y="613" type="line"/>
-      <point x="329" y="613" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="82" type="line"/>
+      <point x="386" y="82" type="line"/>
+      <point x="386" y="545" type="line"/>
+      <point x="1069" y="545" type="line"/>
+      <point x="1069" y="82" type="line"/>
+      <point x="903" y="82" type="line"/>
+      <point x="903" y="0" type="line"/>
+      <point x="1358" y="0" type="line"/>
+      <point x="1358" y="82" type="line"/>
+      <point x="1192" y="82" type="line"/>
+      <point x="1192" y="1070" type="line"/>
+      <point x="1358" y="1070" type="line"/>
+      <point x="1358" y="1152" type="line"/>
+      <point x="903" y="1152" type="line"/>
+      <point x="903" y="1070" type="line"/>
+      <point x="1069" y="1070" type="line"/>
+      <point x="1069" y="632" type="line"/>
+      <point x="386" y="632" type="line"/>
+      <point x="386" y="1070" type="line"/>
+      <point x="553" y="1070" type="line"/>
+      <point x="553" y="1152" type="line"/>
+      <point x="98" y="1152" type="line"/>
+      <point x="98" y="1070" type="line"/>
+      <point x="264" y="1070" type="line"/>
+      <point x="264" y="82" type="line"/>
+      <point x="98" y="82" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="828"/>
-    <component base="uc_main_stem" xOffset="-1"/>
   </outline>
   <lib>
     <dict>

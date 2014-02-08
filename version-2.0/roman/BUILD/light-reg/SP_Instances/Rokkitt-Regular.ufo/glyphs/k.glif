@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="1">
-  <advance width="996"/>
+  <advance width="1020"/>
   <unicode hex="006B"/>
   <outline>
     <contour>
-      <point x="625" y="983" type="move" name="top"/>
+      <point x="698" y="962" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="539" y="0" type="move" name="bot"/>
+      <point x="547" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="737" y="0" type="line"/>
-      <point x="957" y="0" type="line"/>
-      <point x="957" y="71" type="line"/>
-      <point x="785" y="71" type="line"/>
-      <point x="412" y="419" type="line"/>
-      <point x="814" y="733" type="line"/>
-      <point x="952" y="733" type="line"/>
-      <point x="952" y="804" type="line"/>
-      <point x="550" y="804" type="line"/>
-      <point x="550" y="733" type="line"/>
-      <point x="708" y="733" type="line"/>
-      <point x="296" y="420" type="line"/>
+      <point x="752" y="0" type="line"/>
+      <point x="988" y="0" type="line"/>
+      <point x="988" y="109" type="line"/>
+      <point x="828" y="109" type="line"/>
+      <point x="511" y="420" type="line"/>
+      <point x="861" y="696" type="line"/>
+      <point x="983" y="696" type="line"/>
+      <point x="983" y="804" type="line"/>
+      <point x="554" y="804" type="line"/>
+      <point x="554" y="696" type="line"/>
+      <point x="704" y="696" type="line"/>
+      <point x="356" y="431" type="line"/>
+      <point x="356" y="1174" type="line"/>
+      <point x="58" y="1174" type="line"/>
+      <point x="58" y="1066" type="line"/>
+      <point x="204" y="1066" type="line"/>
+      <point x="204" y="108" type="line"/>
+      <point x="54" y="108" type="line"/>
+      <point x="54" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="487" y="108" type="line"/>
+      <point x="356" y="108" type="line"/>
+      <point x="356" y="395" type="line"/>
     </contour>
-    <component base="lc_ascender_stem" xOffset="-36"/>
   </outline>
   <lib>
     <dict>

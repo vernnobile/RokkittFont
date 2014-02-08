@@ -4,18 +4,6 @@
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="529" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
-      <point x="755" y="1152" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="735" y="733" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="736" y="804" type="move" name="caron.alt"/>
-    </contour>
-    <contour>
       <point x="431" y="140" type="line"/>
       <point x="431" y="1012" type="line"/>
       <point x="585" y="1012" type="line"/>
@@ -31,33 +19,40 @@
       <point x="851" y="506" type="line"/>
       <point x="851" y="140" type="line"/>
     </contour>
+    <contour>
+      <point x="736" y="804" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="735" y="733" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="755" y="1152" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="529" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>L</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1084</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>L</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1084</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

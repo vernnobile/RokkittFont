@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="525"/>
+  <advance width="688"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="167" y="-165" type="line"/>
-      <point x="466" y="-165" type="line"/>
-      <point x="466" y="-64" type="line"/>
-      <point x="308" y="-64" type="line"/>
-      <point x="308" y="1134" type="line"/>
-      <point x="466" y="1134" type="line"/>
-      <point x="466" y="1233" type="line"/>
-      <point x="167" y="1233" type="line"/>
+      <point x="175" y="-195" type="line"/>
+      <point x="583" y="-195" type="line"/>
+      <point x="583" y="-46" type="line"/>
+      <point x="388" y="-46" type="line"/>
+      <point x="388" y="1119" type="line"/>
+      <point x="583" y="1119" type="line"/>
+      <point x="583" y="1268" type="line"/>
+      <point x="175" y="1268" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>318</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>bracketleft</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>318</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

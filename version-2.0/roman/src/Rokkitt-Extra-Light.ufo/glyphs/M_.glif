@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1618"/>
+  <advance width="1641"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="801" y="1152" type="move" name="top"/>
+      <point x="814" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="137" y="0" type="line"/>
-      <point x="501" y="0" type="line"/>
-      <point x="501" y="45" type="line"/>
-      <point x="346" y="45" type="line"/>
-      <point x="346" y="1052" type="line"/>
-      <point x="816" y="99" type="line"/>
-      <point x="827" y="99" type="line"/>
-      <point x="1273" y="1052" type="line"/>
-      <point x="1273" y="45" type="line"/>
-      <point x="1116" y="45" type="line"/>
-      <point x="1116" y="0" type="line"/>
-      <point x="1487" y="0" type="line"/>
-      <point x="1487" y="45" type="line"/>
-      <point x="1334" y="45" type="line"/>
-      <point x="1334" y="1107" type="line"/>
-      <point x="1487" y="1107" type="line"/>
-      <point x="1487" y="1152" type="line"/>
-      <point x="1259" y="1152" type="line"/>
-      <point x="824" y="212" type="line"/>
-      <point x="361" y="1152" type="line"/>
-      <point x="137" y="1152" type="line"/>
-      <point x="137" y="1107" type="line"/>
-      <point x="291" y="1107" type="line"/>
-      <point x="291" y="45" type="line"/>
-      <point x="137" y="45" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="505" y="66" type="line"/>
+      <point x="352" y="66" type="line"/>
+      <point x="352" y="1040" type="line"/>
+      <point x="812" y="86" type="line"/>
+      <point x="838" y="86" type="line"/>
+      <point x="1280" y="1040" type="line"/>
+      <point x="1280" y="66" type="line"/>
+      <point x="1125" y="66" type="line"/>
+      <point x="1125" y="0" type="line"/>
+      <point x="1527" y="0" type="line"/>
+      <point x="1527" y="66" type="line"/>
+      <point x="1373" y="66" type="line"/>
+      <point x="1373" y="1086" type="line"/>
+      <point x="1527" y="1086" type="line"/>
+      <point x="1527" y="1152" type="line"/>
+      <point x="1243" y="1152" type="line"/>
+      <point x="833" y="256" type="line"/>
+      <point x="399" y="1152" type="line"/>
+      <point x="120" y="1152" type="line"/>
+      <point x="120" y="1086" type="line"/>
+      <point x="274" y="1086" type="line"/>
+      <point x="274" y="66" type="line"/>
+      <point x="120" y="66" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>M</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1606</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>M</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1606</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>

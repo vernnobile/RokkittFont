@@ -3,25 +3,25 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="180" y="804" type="move" name="_caron.alt"/>
+      <point x="162" y="804" type="move" name="_caron.alt"/>
     </contour>
     <contour>
-      <point x="243" y="853" type="line"/>
-      <point x="358" y="853"/>
-      <point x="392" y="932"/>
-      <point x="391" y="1034" type="curve" smooth="yes"/>
-      <point x="391" y="1174" type="line"/>
-      <point x="253" y="1174" type="line"/>
-      <point x="253" y="1043" type="line"/>
-      <point x="332" y="1043" type="line"/>
-      <point x="332" y="961"/>
-      <point x="316" y="905"/>
-      <point x="243" y="896" type="curve"/>
+      <point x="158" y="793" type="line"/>
+      <point x="297" y="793"/>
+      <point x="359" y="869"/>
+      <point x="358" y="991" type="curve" smooth="yes"/>
+      <point x="358" y="1174" type="line"/>
+      <point x="162" y="1174" type="line"/>
+      <point x="162" y="996" type="line"/>
+      <point x="273" y="996" type="line"/>
+      <point x="273" y="916"/>
+      <point x="239" y="873"/>
+      <point x="158" y="860" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

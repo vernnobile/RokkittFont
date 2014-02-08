@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0326" format="1">
+  <advance width="550"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="280" y="0" type="move" name="_bot"/>
+    </contour>
+    <contour>
+      <point x="126" y="-658" type="line"/>
+      <point x="377" y="-657"/>
+      <point x="450" y="-595"/>
+      <point x="450" y="-350" type="curve"/>
+      <point x="450" y="-275"/>
+      <point x="444" y="-165"/>
+      <point x="437" y="-108" type="curve"/>
+      <point x="119" y="-108" type="line"/>
+      <point x="123" y="-391" type="line"/>
+      <point x="288" y="-391" type="line"/>
+      <point x="288" y="-501"/>
+      <point x="234" y="-544"/>
+      <point x="126" y="-554" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>commaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>352</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

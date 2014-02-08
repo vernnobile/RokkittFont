@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="1">
-  <advance width="215"/>
+  <advance width="256"/>
   <unicode hex="00A1"/>
   <outline>
-    <component base="exclam" xScale="0.8" yScale="-1.0" xOffset="58" yOffset="852"/>
+    <contour>
+      <point x="152" y="505" type="line"/>
+      <point x="110" y="505" type="line"/>
+      <point x="85" y="70" type="line"/>
+      <point x="85" y="-324" type="line"/>
+      <point x="179" y="-324" type="line"/>
+      <point x="179" y="70" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="866" type="curve" smooth="yes"/>
+      <point x="89" y="866"/>
+      <point x="58" y="837"/>
+      <point x="58" y="798" type="curve" smooth="yes"/>
+      <point x="58" y="759"/>
+      <point x="89" y="730"/>
+      <point x="132" y="730" type="curve" smooth="yes"/>
+      <point x="173" y="730"/>
+      <point x="204" y="759"/>
+      <point x="204" y="798" type="curve" smooth="yes"/>
+      <point x="204" y="837"/>
+      <point x="173" y="866"/>
+    </contour>
   </outline>
   <lib>
     <dict>

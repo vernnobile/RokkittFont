@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1495"/>
+  <advance width="1473"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="746" y="1152" type="move" name="top"/>
+      <point x="737" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="746" y="0" type="move" name="bot"/>
+      <point x="734" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="122" y="0" type="line"/>
-      <point x="532" y="0" type="line"/>
-      <point x="532" y="45" type="line"/>
-      <point x="358" y="45" type="line"/>
-      <point x="358" y="560" type="line"/>
-      <point x="1136" y="560" type="line"/>
-      <point x="1136" y="45" type="line"/>
-      <point x="962" y="45" type="line"/>
-      <point x="962" y="0" type="line"/>
-      <point x="1372" y="0" type="line"/>
-      <point x="1372" y="45" type="line"/>
-      <point x="1198" y="45" type="line"/>
-      <point x="1198" y="1107" type="line"/>
-      <point x="1372" y="1107" type="line"/>
-      <point x="1372" y="1152" type="line"/>
-      <point x="962" y="1152" type="line"/>
-      <point x="962" y="1107" type="line"/>
-      <point x="1136" y="1107" type="line"/>
-      <point x="1136" y="606" type="line"/>
-      <point x="358" y="606" type="line"/>
-      <point x="358" y="1107" type="line"/>
-      <point x="532" y="1107" type="line"/>
-      <point x="532" y="1152" type="line"/>
-      <point x="122" y="1152" type="line"/>
-      <point x="122" y="1107" type="line"/>
-      <point x="296" y="1107" type="line"/>
-      <point x="296" y="45" type="line"/>
-      <point x="122" y="45" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+      <point x="544" y="66" type="line"/>
+      <point x="374" y="66" type="line"/>
+      <point x="374" y="551" type="line"/>
+      <point x="1098" y="551" type="line"/>
+      <point x="1098" y="66" type="line"/>
+      <point x="928" y="66" type="line"/>
+      <point x="928" y="0" type="line"/>
+      <point x="1364" y="0" type="line"/>
+      <point x="1364" y="66" type="line"/>
+      <point x="1194" y="66" type="line"/>
+      <point x="1194" y="1086" type="line"/>
+      <point x="1364" y="1086" type="line"/>
+      <point x="1364" y="1152" type="line"/>
+      <point x="928" y="1152" type="line"/>
+      <point x="928" y="1086" type="line"/>
+      <point x="1098" y="1086" type="line"/>
+      <point x="1098" y="621" type="line"/>
+      <point x="374" y="621" type="line"/>
+      <point x="374" y="1086" type="line"/>
+      <point x="544" y="1086" type="line"/>
+      <point x="544" y="1152" type="line"/>
+      <point x="108" y="1152" type="line"/>
+      <point x="108" y="1086" type="line"/>
+      <point x="278" y="1086" type="line"/>
+      <point x="278" y="66" type="line"/>
+      <point x="108" y="66" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>H</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1506</integer>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
+      <key>org.robofab.postScriptHintData</key>
       <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>H</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>1506</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
       </dict>
     </dict>
   </lib>
