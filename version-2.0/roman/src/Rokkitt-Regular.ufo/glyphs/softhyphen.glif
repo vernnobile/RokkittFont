@@ -2,11 +2,9 @@
 <glyph name="softhyphen" format="1">
   <advance width="987"/>
   <unicode hex="00AD"/>
-  <outline>
-  </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

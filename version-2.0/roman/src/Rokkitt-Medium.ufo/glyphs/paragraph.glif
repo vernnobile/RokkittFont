@@ -11,7 +11,7 @@
       <point x="834" y="1063" type="line"/>
       <point x="982" y="1063" type="line"/>
       <point x="982" y="1152" type="line"/>
-      <point x="472" y="1152" type="line"/>
+      <point x="472" y="1152" type="line" smooth="yes"/>
       <point x="223" y="1152"/>
       <point x="119" y="1004"/>
       <point x="119" y="853" type="curve" smooth="yes"/>
@@ -31,33 +31,33 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>paragraph</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>953</integer>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>paragraph</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>953</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

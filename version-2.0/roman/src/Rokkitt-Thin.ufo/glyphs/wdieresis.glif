@@ -3,13 +3,14 @@
   <advance width="1574"/>
   <unicode hex="1E85"/>
   <outline>
-    <component base="w"/>
     <component base="dieresis" xOffset="626"/>
+    <component base="w"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

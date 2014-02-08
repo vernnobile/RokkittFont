@@ -4,8 +4,9 @@
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="459.362" y="826"/>
-      <point x="341.795" y="782.402"/>
+      <point x="563" y="805" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="249.753" y="712.095" type="curve"/>
       <point x="249" y="804" type="line"/>
       <point x="81" y="804" type="line"/>
@@ -27,10 +28,10 @@
       <point x="979" y="662"/>
       <point x="820" y="826"/>
       <point x="561" y="826" type="curve" smooth="yes"/>
+      <point x="459.362" y="826"/>
+      <point x="341.795" y="782.402"/>
     </contour>
     <contour>
-      <point x="441.721" y="12"/>
-      <point x="331.056" y="60.4246"/>
       <point x="249.438" y="140.172" type="curve"/>
       <point x="249.993" y="674.888" type="line"/>
       <point x="346.009" y="747.279"/>
@@ -42,35 +43,40 @@
       <point x="932" y="162"/>
       <point x="783" y="12"/>
       <point x="545" y="12" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="563" y="805" type="move" name="top"/>
+      <point x="441.721" y="12"/>
+      <point x="331.056" y="60.4246"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array/>
-          <key>components</key>
-          <array/>
-          <key>contours</key>
-          <array/>
-          <key>lib</key>
-          <dict/>
-          <key>name</key>
-          <string>p</string>
-          <key>unicodes</key>
-          <array/>
-          <key>width</key>
-          <integer>1037</integer>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>p</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1037</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

@@ -16,7 +16,7 @@
       <point x="117" y="-253" type="line"/>
       <point x="274" y="-295"/>
       <point x="454" y="-260"/>
-      <point x="494" y="43" type="curve" smooth="yes"/>
+      <point x="494" y="43" type="curve"/>
       <point x="590" y="700" type="line"/>
       <point x="802" y="700" type="line"/>
       <point x="812" y="789" type="line"/>
@@ -40,7 +40,7 @@
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
     </dict>

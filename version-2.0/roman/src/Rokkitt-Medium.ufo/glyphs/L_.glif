@@ -4,53 +4,60 @@
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="736" y="1152" type="move" name="top"/>
+      <point x="583" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="637" y="804" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="583" y="0" type="move" name="bot"/>
+      <point x="736" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="324" y="0" type="line"/>
+      <point x="396" y="93" type="line"/>
+      <point x="396" y="1059" type="line"/>
+      <point x="559" y="1059" type="line"/>
+      <point x="559" y="1152" type="line"/>
+      <point x="90" y="1152" type="line"/>
+      <point x="90" y="1059" type="line"/>
+      <point x="254" y="1059" type="line"/>
+      <point x="254" y="93" type="line"/>
+      <point x="90" y="93" type="line"/>
+      <point x="90" y="0" type="line"/>
       <point x="1018" y="0" type="line"/>
       <point x="1018" y="441" type="line"/>
       <point x="902" y="441" type="line"/>
       <point x="902" y="93" type="line"/>
-      <point x="324" y="93" type="line"/>
     </contour>
-    <component base="uc_main_stem" xOffset="-32"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>L</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1055</integer>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>L</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1055</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

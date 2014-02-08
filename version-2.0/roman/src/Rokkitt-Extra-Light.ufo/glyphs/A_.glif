@@ -7,7 +7,10 @@
       <point x="692" y="1152" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="1141" y="0" type="move" name="ogonek"/>
+      <point x="477" y="525" type="line"/>
+      <point x="688" y="1101" type="line"/>
+      <point x="693" y="1101" type="line"/>
+      <point x="904" y="525" type="line"/>
     </contour>
     <contour>
       <point x="87" y="0" type="line"/>
@@ -31,42 +34,36 @@
       <point x="241" y="45" type="line"/>
       <point x="87" y="45" type="line"/>
     </contour>
-    <contour>
-      <point x="477" y="525" type="line"/>
-      <point x="688" y="1101" type="line"/>
-      <point x="693" y="1101" type="line"/>
-      <point x="904" y="525" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+    <key>org.robofab.postScriptHintData</key>
       <dict>
-        <key>b</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>A</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1383</integer>
-        </dict>
       </dict>
-      <key>org.robofab.postScriptHintData</key>
+    <key>com.typemytype.robofont.layerData</key>
       <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>A</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>1383</integer>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>
